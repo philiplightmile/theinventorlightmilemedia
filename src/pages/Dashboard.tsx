@@ -97,7 +97,7 @@ const Dashboard: React.FC = () => {
             />
           </div>
           <p className="text-center text-muted-foreground mt-4 max-w-2xl mx-auto heading-lowercase text-lg">
-            garrett morgan self-funded the future. watch his story, then apply his mindset below.
+            garrett morgan self-funded his future. watch his story, then apply his mindset below.
           </p>
         </section>
 
