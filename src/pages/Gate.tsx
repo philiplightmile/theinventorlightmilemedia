@@ -162,7 +162,14 @@ const Gate: React.FC = () => {
           </button>
         </div>
 
-        <div className="mt-8 pt-6 border-t border-border text-center">
+        <div className="mt-8 pt-6 border-t border-border text-center space-y-2">
+          <button
+            type="button"
+            className="text-xs text-muted-foreground hover:text-eos-magenta transition-colors"
+            onClick={() => navigate('/admin-dashboard')}
+          >
+            admin access →
+          </button>
           <p className="text-xs text-muted-foreground">
             © 2026 lightmile media. prepared for eos Products.
           </p>
