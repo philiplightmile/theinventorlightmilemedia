@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 import { Lock, Users, CheckCircle, AlertTriangle, ArrowLeft, ShieldX, Download, RefreshCw, TrendingUp } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { PrivacyFooter } from '@/components/PrivacyFooter';
 import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/contexts/AuthContext';
 import { useToast } from '@/hooks/use-toast';
@@ -270,16 +271,20 @@ const AdminDashboard: React.FC = () => {
   const delta = postAvg - preAvg;
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background pb-12">
       {/* Header */}
       <header className="sticky top-0 z-40 border-b border-border bg-background/80 backdrop-blur-lg">
         <div className="container mx-auto px-4 h-16 flex items-center justify-between">
-          <Button variant="ghost" onClick={() => navigate('/')} className="gap-2">
+          <Button variant="ghost" onClick={() => navigate('/dashboard')} className="gap-2">
             <ArrowLeft className="w-4 h-4" />
-            back to site
+            back to dashboard
           </Button>
           <h1 className="heading-lowercase text-xl">admin dashboard</h1>
-          <div />
+          <Link to="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
+            <span className="text-sm font-bold tracking-wider text-eos-magenta">
+              eos Products
+            </span>
+          </Link>
         </div>
       </header>
 
@@ -445,6 +450,9 @@ const AdminDashboard: React.FC = () => {
           </div>
         </section>
       </main>
+
+      {/* Privacy Footer */}
+      <PrivacyFooter />
     </div>
   );
 };

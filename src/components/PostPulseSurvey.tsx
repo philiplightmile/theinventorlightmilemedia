@@ -4,6 +4,7 @@ import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/contexts/AuthContext';
 import { useToast } from '@/hooks/use-toast';
 import confetti from 'canvas-confetti';
+import { CompletionCertificate } from '@/components/CompletionCertificate';
 
 const questions = [
   "I now have specific ideas on how to fix friction points in my workflow.",
@@ -110,43 +111,7 @@ export const PostPulseSurvey: React.FC = () => {
   };
 
   if (showCertificate) {
-    return (
-      <div className="fixed inset-0 z-50 flex items-center justify-center bg-cinema-dark/90 backdrop-blur-sm animate-fade-in">
-        <div className="glass-card w-full max-w-lg mx-4 p-8 animate-scale-in bg-white text-center">
-          <div className="mb-6">
-            <div className="w-20 h-20 rounded-full bg-eos-lime mx-auto flex items-center justify-center mb-4">
-              <span className="text-3xl">🏆</span>
-            </div>
-            <h2 className="heading-lowercase text-3xl mb-2">certificate of completion</h2>
-            <p className="text-muted-foreground">
-              you have completed the inventor's playbook
-            </p>
-          </div>
-
-          <div className="border border-border rounded-2xl p-6 mb-6">
-            <p className="text-sm text-muted-foreground mb-2">this certifies that</p>
-            <p className="font-display text-xl mb-2">{user?.email}</p>
-            <p className="text-sm text-muted-foreground mb-4">
-              has successfully completed all exercises in
-            </p>
-            <p className="heading-lowercase text-lg text-eos-magenta">
-              the inventor's playbook
-            </p>
-            <p className="text-xs text-muted-foreground mt-4">
-              a cinematic activation by lightmile media for eos Products
-            </p>
-          </div>
-
-          <Button
-            variant="eos"
-            size="lg"
-            onClick={() => window.print()}
-          >
-            download certificate
-          </Button>
-        </div>
-      </div>
-    );
+    return <CompletionCertificate userEmail={user?.email || 'Participant'} />;
   }
 
   return (

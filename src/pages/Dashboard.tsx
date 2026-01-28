@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { User, LogOut, Lock } from 'lucide-react';
-import { Button } from '@/components/ui/button';
 import { ExerciseCard } from '@/components/ExerciseCard';
 import { PrePulseSurvey } from '@/components/PrePulseSurvey';
 import { PostPulseSurvey } from '@/components/PostPulseSurvey';
+import { Header } from '@/components/Header';
+import { PrivacyFooter } from '@/components/PrivacyFooter';
 import { useAuth } from '@/contexts/AuthContext';
 
 const Dashboard: React.FC = () => {
@@ -82,34 +82,7 @@ const Dashboard: React.FC = () => {
       {showPostPulse && <PostPulseSurvey />}
 
       {/* Top Navigation */}
-      <header className="sticky top-0 z-40 border-b border-border bg-background/80 backdrop-blur-lg">
-        <div className="container mx-auto px-4 h-16 flex items-center justify-between">
-          <h1 className="heading-lowercase text-xl">the inventor's playbook</h1>
-          
-          <div className="flex items-center gap-4">
-            <div className="progress-pill">
-              <span>progress: {completedCount}/3 exercises</span>
-            </div>
-            
-            <div className="flex items-center gap-2">
-              <Button 
-                variant="ghost" 
-                size="icon" 
-                onClick={() => navigate('/admin-dashboard')}
-                className="text-muted-foreground hover:text-foreground"
-              >
-                <Lock className="w-4 h-4" />
-              </Button>
-              <div className="w-10 h-10 rounded-full bg-eos-magenta/20 flex items-center justify-center">
-                <User className="w-5 h-5 text-eos-magenta" />
-              </div>
-              <Button variant="ghost" size="icon" onClick={handleSignOut}>
-                <LogOut className="w-4 h-4" />
-              </Button>
-            </div>
-          </div>
-        </div>
-      </header>
+      <Header variant="light" showUserControls showAdminLink />
 
       {/* Main Content */}
       <main className="container mx-auto px-4 py-8">
@@ -154,12 +127,15 @@ const Dashboard: React.FC = () => {
         </section>
 
         {/* Footer */}
-        <footer className="mt-16 pt-8 border-t border-border text-center">
+        <footer className="mt-16 pt-8 border-t border-border text-center pb-12">
           <p className="text-sm text-muted-foreground">
             © 2026 lightmile media. prepared for eos Products.
           </p>
         </footer>
       </main>
+
+      {/* Privacy Footer */}
+      <PrivacyFooter />
     </div>
   );
 };

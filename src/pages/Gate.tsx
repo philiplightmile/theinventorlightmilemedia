@@ -79,11 +79,18 @@ const Gate: React.FC = () => {
       {/* Cinematic Overlay */}
       <div className="absolute inset-0 cinema-overlay" />
 
-      {/* Logos */}
+      {/* Logos - High contrast on dark background */}
       <div className="absolute top-6 left-1/2 -translate-x-1/2 flex items-center gap-4 z-10">
-        <span className="text-white/80 text-sm font-medium tracking-wider">lightmile media</span>
+        <span className="text-white text-sm font-medium tracking-wider">lightmile media</span>
         <span className="text-white/40">|</span>
-        <span className="text-eos-magenta text-sm font-bold tracking-wider">eos Products</span>
+        <span className="text-eos-magenta text-sm font-bold tracking-wider drop-shadow-lg">eos Products</span>
+      </div>
+
+      {/* Privacy Footer */}
+      <div className="absolute bottom-4 left-0 right-0 z-10">
+        <p className="text-center text-xs text-white/50">
+          All responses are anonymized to ensure open, honest feedback.
+        </p>
       </div>
 
       {/* Login Card */}
