@@ -3,76 +3,80 @@ import { AlertTriangle, Pencil, Wifi, Lock, Check } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 
-interface ModuleCardProps {
-  module: 'friction' | 'makeover' | 'visibility';
+interface ExerciseCardProps {
+  exercise: 'friction' | 'makeover' | 'visibility';
+  exerciseNumber: number;
   status: 'locked' | 'available' | 'completed';
   onClick: () => void;
 }
 
-const moduleData = {
+const exerciseData = {
   friction: {
     icon: AlertTriangle,
-    title: 'THE FRICTION AUDIT',
-    subtitle: 'Innovation Strategy',
+    title: 'the friction audit',
+    subtitle: 'innovation strategy',
     iconColor: 'text-eos-orange',
     bgColor: 'bg-eos-orange/10',
   },
   makeover: {
     icon: Pencil,
-    title: 'THE MUNDANE MAKEOVER',
-    subtitle: 'Product Design',
-    iconColor: 'text-eos-blue',
-    bgColor: 'bg-eos-blue/10',
+    title: 'the mundane makeover',
+    subtitle: 'product design',
+    iconColor: 'text-eos-magenta',
+    bgColor: 'bg-eos-magenta/10',
   },
   visibility: {
     icon: Wifi,
-    title: 'THE VISIBILITY SIGNAL',
-    subtitle: 'Inclusion & Culture',
+    title: 'the visibility signal',
+    subtitle: 'inclusion & culture',
     iconColor: 'text-eos-mint',
     bgColor: 'bg-eos-mint/10',
   },
 };
 
-export const ModuleCard: React.FC<ModuleCardProps> = ({ module, status, onClick }) => {
-  const { icon: Icon, title, subtitle, iconColor, bgColor } = moduleData[module];
+export const ExerciseCard: React.FC<ExerciseCardProps> = ({ exercise, exerciseNumber, status, onClick }) => {
+  const { icon: Icon, title, subtitle, iconColor, bgColor } = exerciseData[exercise];
 
   return (
     <div
       className={cn(
-        'module-card group',
+        'exercise-card group',
         status === 'locked' && 'locked'
       )}
+      onClick={status !== 'locked' ? onClick : undefined}
     >
+      {/* Exercise Number Badge */}
+      <div className="absolute top-4 right-4 text-xs font-medium text-muted-foreground">
+        exercise {exerciseNumber}
+      </div>
+
       {/* Icon */}
       <div className={cn('w-14 h-14 rounded-2xl flex items-center justify-center mb-4', bgColor)}>
         <Icon className={cn('w-7 h-7', iconColor)} />
       </div>
 
       {/* Content */}
-      <h3 className="font-display text-lg font-medium mb-1">{title}</h3>
+      <h3 className="heading-lowercase text-lg font-medium mb-1">{title}</h3>
       <p className="text-sm text-muted-foreground mb-6">{subtitle}</p>
 
       {/* Action */}
       {status === 'locked' && (
         <Button variant="outline" disabled className="w-full gap-2">
           <Lock className="w-4 h-4" />
-          Locked
+          locked
         </Button>
       )}
       {status === 'available' && (
-        <Button variant="eos" onClick={onClick} className="w-full">
-          Start
+        <Button variant="eos" className="w-full">
+          start
         </Button>
       )}
       {status === 'completed' && (
-        <Button variant="outline" onClick={onClick} className="w-full gap-2 border-eos-mint text-eos-mint">
+        <Button variant="eos-outline" className="w-full gap-2 border-eos-mint text-eos-mint">
           <Check className="w-4 h-4" />
-          Completed
+          completed
         </Button>
       )}
-
-      {/* Hover effect */}
-      <div className="absolute inset-0 rounded-2xl bg-gradient-to-br from-primary/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none" />
     </div>
   );
 };

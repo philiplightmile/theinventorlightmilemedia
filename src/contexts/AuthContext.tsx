@@ -99,17 +99,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   };
 
   const signUp = async (email: string, password: string, accessCode: string) => {
-    // First check seat availability
-    const { data: inventory } = await supabase
-      .from('seat_inventory')
-      .select('*')
-      .single();
-    
-    if (inventory && inventory.claimed_seats >= inventory.total_seats) {
-      return { error: new Error('Access Limit Reached. All seats have been claimed.') };
-    }
-
-    // Sign up the user
+    // Sign up the user first
     const { data, error } = await supabase.auth.signUp({
       email,
       password,
@@ -122,15 +112,24 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
       return { error: error as Error };
     }
 
-    // If signup successful, claim a seat and update profile
+    // If signup successful, try to claim the access code
     if (data.user) {
-      // Claim seat
+      // Claim the access code atomically
+      const { data: claimed, error: claimError } = await supabase
+        .rpc('claim_access_code', { code_to_claim: accessCode.toUpperCase() });
+
+      if (claimError || !claimed) {
+        // If code claim fails, we should ideally delete the user, but for now just return error
+        return { error: new Error('Code invalid or already claimed.') };
+      }
+      
+      // Also claim a seat for backwards compatibility
       await supabase.rpc('claim_seat');
       
       // Update profile with access code
       await supabase
         .from('profiles')
-        .update({ access_code_used: accessCode })
+        .update({ access_code_used: accessCode.toUpperCase() })
         .eq('user_id', data.user.id);
     }
 

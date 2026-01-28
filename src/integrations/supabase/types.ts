@@ -14,6 +14,33 @@ export type Database = {
   }
   public: {
     Tables: {
+      access_codes: {
+        Row: {
+          claimed_at: string | null
+          claimed_by_user_id: string | null
+          code: string
+          created_at: string
+          id: string
+          is_claimed: boolean
+        }
+        Insert: {
+          claimed_at?: string | null
+          claimed_by_user_id?: string | null
+          code: string
+          created_at?: string
+          id?: string
+          is_claimed?: boolean
+        }
+        Update: {
+          claimed_at?: string | null
+          claimed_by_user_id?: string | null
+          code?: string
+          created_at?: string
+          id?: string
+          is_claimed?: boolean
+        }
+        Relationships: []
+      }
       friction_logs: {
         Row: {
           created_at: string | null
@@ -95,6 +122,8 @@ export type Database = {
           id: string
           q1_score: number | null
           q2_score: number | null
+          q3_score: number | null
+          q4_score: number | null
           type: Database["public"]["Enums"]["pulse_type"]
           user_id: string
         }
@@ -103,6 +132,8 @@ export type Database = {
           id?: string
           q1_score?: number | null
           q2_score?: number | null
+          q3_score?: number | null
+          q4_score?: number | null
           type: Database["public"]["Enums"]["pulse_type"]
           user_id: string
         }
@@ -111,6 +142,8 @@ export type Database = {
           id?: string
           q1_score?: number | null
           q2_score?: number | null
+          q3_score?: number | null
+          q4_score?: number | null
           type?: Database["public"]["Enums"]["pulse_type"]
           user_id?: string
         }
@@ -184,7 +217,9 @@ export type Database = {
       [_ in never]: never
     }
     Functions: {
+      claim_access_code: { Args: { code_to_claim: string }; Returns: boolean }
       claim_seat: { Args: never; Returns: boolean }
+      generate_access_codes: { Args: { num_codes?: number }; Returns: number }
       has_role: {
         Args: {
           _role: Database["public"]["Enums"]["app_role"]

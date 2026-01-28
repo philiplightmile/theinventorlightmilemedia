@@ -15,7 +15,7 @@ export default {
     extend: {
       fontFamily: {
         display: ['"DM Serif Display"', 'serif'],
-        body: ['Inter', 'system-ui', 'sans-serif'],
+        body: ['"DM Sans"', 'Inter', 'system-ui', 'sans-serif'],
       },
       colors: {
         border: "hsl(var(--border))",
@@ -62,6 +62,8 @@ export default {
           ring: "hsl(var(--sidebar-ring))",
         },
         eos: {
+          magenta: "hsl(var(--eos-magenta))",
+          lime: "hsl(var(--eos-lime))",
           blue: "hsl(var(--eos-blue))",
           pink: "hsl(var(--eos-pink))",
           mint: "hsl(var(--eos-mint))",
@@ -82,6 +84,7 @@ export default {
       boxShadow: {
         soft: "var(--shadow-soft)",
         elevated: "var(--shadow-elevated)",
+        "glow-magenta": "var(--shadow-glow-magenta)",
         "glow-blue": "var(--shadow-glow-blue)",
       },
       keyframes: {
