@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
-import { useNavigate, useParams } from 'react-router-dom';
+import { useNavigate, useParams, Link } from 'react-router-dom';
 import { ArrowLeft, AlertTriangle, Pencil, Wifi, Mail } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
 import { Input } from '@/components/ui/input';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
+import { PrivacyFooter } from '@/components/PrivacyFooter';
 import { useAuth } from '@/contexts/AuthContext';
 import { useToast } from '@/hooks/use-toast';
 import { supabase } from '@/integrations/supabase/client';
@@ -205,14 +206,22 @@ const Exercise: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background pb-12">
       {/* Header */}
       <header className="sticky top-0 z-40 border-b border-border bg-background/80 backdrop-blur-lg">
-        <div className="container mx-auto px-4 h-16 flex items-center">
+        <div className="container mx-auto px-4 h-16 flex items-center justify-between">
           <Button variant="ghost" onClick={() => navigate('/dashboard')} className="gap-2">
             <ArrowLeft className="w-4 h-4" />
             back to dashboard
           </Button>
+          
+          {/* Logo Lockup */}
+          <Link to="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
+            <span className="text-sm text-muted-foreground">|</span>
+            <span className="text-sm font-bold tracking-wider text-eos-magenta">
+              eos Products
+            </span>
+          </Link>
         </div>
       </header>
 
@@ -395,6 +404,9 @@ const Exercise: React.FC = () => {
           )}
         </div>
       </main>
+
+      {/* Privacy Footer */}
+      <PrivacyFooter />
     </div>
   );
 };
