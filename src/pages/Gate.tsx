@@ -96,9 +96,9 @@ const Gate: React.FC = () => {
       {/* Login Card */}
       <div className="glass-card w-full max-w-md mx-4 p-8 z-10 animate-scale-in bg-white">
         <div className="text-center mb-8">
-          <h1 className="heading-lowercase text-3xl mb-2">the evolution of innovation</h1>
+          <h1 className="heading-lowercase text-3xl mb-2">the beauty of innovation</h1>
           <p className="text-muted-foreground">
-            a cinematic activation for black history month.
+            a cinematic activation for eos Products
           </p>
         </div>
 
