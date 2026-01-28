@@ -1,121 +1,123 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 /* The Inventor's Playbook Design System
-   Visual Identity: "Soft Utility" - High-end cinematic meets soft, tactile consumer branding
+   Visual Identity: "eos Pop" - Clean, bold, lowercase elegance with playful color accents
 */
 
 @layer base {
   :root {
     /* Canvas & Surface */
-    --background: 210 20% 98%; /* Soft Off-White #F9FAFB */
-    --foreground: 220 20% 15%;
+    --background: 0 0% 100%; /* Pure White */
+    --foreground: 0 0% 0%; /* Pure Black */
 
     --card: 0 0% 100%;
-    --card-foreground: 220 20% 15%;
+    --card-foreground: 0 0% 0%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 220 20% 15%;
+    --popover-foreground: 0 0% 0%;
 
-    /* EOS Blue - Primary Action */
-    --primary: 186 62% 67%; /* #7CD0E0 */
-    --primary-foreground: 220 20% 15%;
+    /* eos Magenta - Primary Action */
+    --primary: 330 67% 55%; /* #D84693 */
+    --primary-foreground: 0 0% 100%;
 
-    /* EOS Pink - Secondary/Love */
-    --secondary: 5 70% 86%; /* #F4C7C3 */
-    --secondary-foreground: 220 20% 15%;
+    /* eos Lime - Secondary/Success */
+    --secondary: 72 100% 75%; /* #DFFF7D */
+    --secondary-foreground: 0 0% 0%;
 
     /* Muted surfaces */
-    --muted: 210 20% 95%;
-    --muted-foreground: 220 10% 45%;
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 40%;
 
-    /* Accent */
-    --accent: 186 62% 90%;
-    --accent-foreground: 220 20% 15%;
+    /* Accent - Lime */
+    --accent: 72 100% 75%;
+    --accent-foreground: 0 0% 0%;
 
     /* Destructive */
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
 
-    /* Borders & Inputs */
-    --border: 220 13% 90%;
-    --input: 220 13% 90%;
-    --ring: 186 62% 67%;
+    /* Borders & Inputs - 1px solid black */
+    --border: 0 0% 0%;
+    --input: 0 0% 0%;
+    --ring: 330 67% 55%;
 
     --radius: 1rem;
 
     /* Custom tokens */
+    --eos-magenta: 330 67% 55%; /* #D84693 */
+    --eos-lime: 72 100% 75%; /* #DFFF7D */
     --eos-blue: 186 62% 67%;
     --eos-pink: 5 70% 86%;
     --eos-mint: 158 55% 65%;
     --eos-orange: 35 90% 65%;
-    --canvas: 210 20% 98%;
-    --cinema-dark: 220 25% 8%;
-    --cinema-overlay: 220 25% 8% / 0.7;
+    --canvas: 0 0% 100%;
+    --cinema-dark: 0 0% 8%;
+    --cinema-overlay: 0 0% 8% / 0.7;
 
-    /* Frosted glass */
-    --glass-bg: 0 0% 100% / 0.85;
-    --glass-border: 0 0% 100% / 0.2;
+    /* Card styling */
+    --glass-bg: 0 0% 100%;
+    --glass-border: 0 0% 0%;
 
     /* Shadows */
-    --shadow-soft: 0 4px 24px -4px hsl(220 25% 8% / 0.08);
-    --shadow-elevated: 0 12px 48px -8px hsl(220 25% 8% / 0.12);
-    --shadow-glow-blue: 0 8px 32px -8px hsl(186 62% 67% / 0.4);
+    --shadow-soft: 0 2px 8px -2px hsl(0 0% 0% / 0.08);
+    --shadow-elevated: 0 8px 24px -8px hsl(0 0% 0% / 0.12);
+    --shadow-glow-magenta: 0 8px 32px -8px hsl(330 67% 55% / 0.4);
 
     /* Sidebar */
     --sidebar-background: 0 0% 98%;
-    --sidebar-foreground: 240 5.3% 26.1%;
-    --sidebar-primary: 240 5.9% 10%;
-    --sidebar-primary-foreground: 0 0% 98%;
-    --sidebar-accent: 240 4.8% 95.9%;
-    --sidebar-accent-foreground: 240 5.9% 10%;
-    --sidebar-border: 220 13% 91%;
-    --sidebar-ring: 186 62% 67%;
+    --sidebar-foreground: 0 0% 10%;
+    --sidebar-primary: 330 67% 55%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 72 100% 75%;
+    --sidebar-accent-foreground: 0 0% 0%;
+    --sidebar-border: 0 0% 0%;
+    --sidebar-ring: 330 67% 55%;
   }
 
   .dark {
-    --background: 220 25% 8%;
-    --foreground: 210 20% 98%;
+    --background: 0 0% 8%;
+    --foreground: 0 0% 100%;
 
-    --card: 220 25% 12%;
-    --card-foreground: 210 20% 98%;
+    --card: 0 0% 12%;
+    --card-foreground: 0 0% 100%;
 
-    --popover: 220 25% 12%;
-    --popover-foreground: 210 20% 98%;
+    --popover: 0 0% 12%;
+    --popover-foreground: 0 0% 100%;
 
-    --primary: 186 62% 67%;
-    --primary-foreground: 220 25% 8%;
+    --primary: 330 67% 55%;
+    --primary-foreground: 0 0% 100%;
 
-    --secondary: 5 70% 86%;
-    --secondary-foreground: 220 25% 8%;
+    --secondary: 72 100% 75%;
+    --secondary-foreground: 0 0% 0%;
 
-    --muted: 220 20% 18%;
-    --muted-foreground: 220 10% 60%;
+    --muted: 0 0% 18%;
+    --muted-foreground: 0 0% 60%;
 
-    --accent: 220 20% 18%;
-    --accent-foreground: 210 20% 98%;
+    --accent: 72 100% 75%;
+    --accent-foreground: 0 0% 0%;
 
     --destructive: 0 62% 50%;
-    --destructive-foreground: 210 20% 98%;
+    --destructive-foreground: 0 0% 100%;
 
-    --border: 220 20% 20%;
-    --input: 220 20% 20%;
-    --ring: 186 62% 67%;
+    --border: 0 0% 30%;
+    --input: 0 0% 30%;
+    --ring: 330 67% 55%;
 
-    --glass-bg: 220 25% 12% / 0.9;
-    --glass-border: 0 0% 100% / 0.1;
+    --glass-bg: 0 0% 12%;
+    --glass-border: 0 0% 30%;
 
-    --sidebar-background: 220 25% 10%;
-    --sidebar-foreground: 210 20% 98%;
-    --sidebar-primary: 186 62% 67%;
-    --sidebar-primary-foreground: 220 25% 8%;
-    --sidebar-accent: 220 20% 15%;
-    --sidebar-accent-foreground: 210 20% 98%;
-    --sidebar-border: 220 20% 20%;
-    --sidebar-ring: 186 62% 67%;
+    --sidebar-background: 0 0% 10%;
+    --sidebar-foreground: 0 0% 100%;
+    --sidebar-primary: 330 67% 55%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 72 100% 75%;
+    --sidebar-accent-foreground: 0 0% 0%;
+    --sidebar-border: 0 0% 30%;
+    --sidebar-ring: 330 67% 55%;
   }
 }
 
@@ -126,7 +128,7 @@
 
   body {
     @apply bg-background text-foreground antialiased;
-    font-family: 'Inter', system-ui, sans-serif;
+    font-family: 'DM Sans', 'Inter', system-ui, sans-serif;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -136,12 +138,10 @@
 }
 
 @layer components {
-  /* Frosted Glass Card */
+  /* Glass Card with black border */
   .glass-card {
-    @apply backdrop-blur-xl rounded-2xl border;
-    background: hsl(var(--glass-bg));
-    border-color: hsl(var(--glass-border));
-    box-shadow: var(--shadow-elevated);
+    @apply rounded-2xl border border-border bg-card;
+    box-shadow: var(--shadow-soft);
   }
 
   /* Cinematic Overlay */
@@ -149,23 +149,53 @@
     background: linear-gradient(
       180deg,
       hsl(var(--cinema-overlay)) 0%,
-      hsl(186 62% 67% / 0.15) 100%
+      hsl(330 67% 55% / 0.15) 100%
     );
   }
 
-  /* Module Cards */
-  .module-card {
-    @apply relative overflow-hidden rounded-2xl border bg-card p-6 transition-all duration-300;
+  /* Exercise Cards */
+  .exercise-card {
+    @apply relative overflow-hidden rounded-2xl border border-border bg-card p-6 transition-all duration-300 cursor-pointer;
     box-shadow: var(--shadow-soft);
+  }
+
+  .exercise-card:hover {
+    box-shadow: var(--shadow-elevated);
+    transform: translateY(-2px) scale(1.02);
+    border-color: hsl(var(--eos-magenta));
+  }
+
+  .exercise-card.locked {
+    @apply opacity-60 cursor-not-allowed;
+  }
+
+  .exercise-card.locked:hover {
+    transform: none;
+    border-color: hsl(var(--border));
+  }
+
+  /* Module Cards (legacy support) */
+  .module-card {
+    @apply exercise-card;
+  }
+
+  .module-card:hover {
+    @apply exercise-card;
   }
 
   .module-card:hover {
     box-shadow: var(--shadow-elevated);
-    transform: translateY(-2px);
+    transform: translateY(-2px) scale(1.02);
+    border-color: hsl(var(--eos-magenta));
   }
 
   .module-card.locked {
     @apply opacity-60 cursor-not-allowed;
+  }
+
+  .module-card.locked:hover {
+    transform: none;
+    border-color: hsl(var(--border));
   }
 
   /* Star Rating */
@@ -180,15 +210,44 @@
 
   .star-rating .star.active,
   .star-rating .star:hover {
-    color: hsl(var(--eos-orange));
+    color: hsl(var(--eos-magenta));
     transform: scale(1.1);
   }
 
   /* Progress indicator */
   .progress-pill {
-    @apply inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium;
-    background: hsl(var(--accent));
-    color: hsl(var(--accent-foreground));
+    @apply inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium border border-border;
+    background: hsl(var(--card));
+    color: hsl(var(--foreground));
+  }
+
+  /* eos Pop Button - White bg, black border, lime hover */
+  .btn-eos-pop {
+    @apply inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-full text-sm font-semibold transition-all duration-200;
+    @apply bg-white text-black border border-black px-6 py-3;
+  }
+
+  .btn-eos-pop:hover {
+    background: hsl(var(--eos-lime));
+  }
+
+  .btn-eos-pop:disabled {
+    @apply opacity-50 cursor-not-allowed;
+  }
+
+  /* Selectable Tag Pills */
+  .tag-pill {
+    @apply inline-flex items-center justify-center px-4 py-2 rounded-full text-sm font-medium border border-border cursor-pointer transition-all duration-200;
+    background: hsl(var(--card));
+  }
+
+  .tag-pill:hover {
+    border-color: hsl(var(--eos-magenta));
+  }
+
+  .tag-pill.active {
+    background: hsl(var(--eos-lime));
+    border-color: hsl(var(--border));
   }
 
   /* Animations */
@@ -211,19 +270,26 @@
   }
 
   .text-body {
-    font-family: 'Inter', system-ui, sans-serif;
+    font-family: 'DM Sans', 'Inter', system-ui, sans-serif;
   }
 
-  .gradient-blue {
-    background: linear-gradient(135deg, hsl(186 62% 67%), hsl(186 70% 55%));
+  /* Lowercase serif for headings */
+  .heading-lowercase {
+    font-family: 'DM Serif Display', serif;
+    text-transform: lowercase;
+    @apply tracking-tight;
   }
 
-  .gradient-pink {
-    background: linear-gradient(135deg, hsl(5 70% 86%), hsl(5 80% 78%));
+  .gradient-magenta {
+    background: linear-gradient(135deg, hsl(330 67% 55%), hsl(330 75% 45%));
   }
 
-  .glow-blue {
-    box-shadow: var(--shadow-glow-blue);
+  .gradient-lime {
+    background: linear-gradient(135deg, hsl(72 100% 75%), hsl(72 100% 65%));
+  }
+
+  .glow-magenta {
+    box-shadow: var(--shadow-glow-magenta);
   }
 }
 
@@ -272,4 +338,23 @@
 
 .animate-float {
   animation: float 4s ease-in-out infinite;
+}
+
+/* Vimeo responsive container */
+.vimeo-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+  overflow: hidden;
+  border-radius: 1.5rem;
+}
+
+.vimeo-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+  border-radius: 1.5rem;
 }

@@ -30,7 +30,7 @@ const Gate: React.FC = () => {
         const { error } = await signIn(email, password);
         if (error) {
           toast({
-            title: "Login failed",
+            title: "login failed",
             description: error.message,
             variant: "destructive",
           });
@@ -40,8 +40,8 @@ const Gate: React.FC = () => {
       } else {
         if (!validateAccessCode(accessCode)) {
           toast({
-            title: "Invalid Access Code",
-            description: "Please enter a valid access code (e.g., EOS-INNOVATE-2026)",
+            title: "invalid access code",
+            description: "please enter a valid access code (e.g., EOS-XXXX)",
             variant: "destructive",
           });
           setIsLoading(false);
@@ -51,14 +51,14 @@ const Gate: React.FC = () => {
         const { error } = await signUp(email, password, accessCode);
         if (error) {
           toast({
-            title: "Registration failed",
+            title: "registration failed",
             description: error.message,
             variant: "destructive",
           });
         } else {
           toast({
-            title: "Welcome to The Playbook",
-            description: "Your seat has been claimed. Let's begin!",
+            title: "welcome to the playbook",
+            description: "your seat has been claimed. let's begin!",
           });
           navigate('/dashboard');
         }
@@ -81,55 +81,55 @@ const Gate: React.FC = () => {
 
       {/* Logos */}
       <div className="absolute top-6 left-1/2 -translate-x-1/2 flex items-center gap-4 z-10">
-        <span className="text-white/80 text-sm font-medium tracking-wider">LIGHTMILE MEDIA</span>
+        <span className="text-white/80 text-sm font-medium tracking-wider">lightmile media</span>
         <span className="text-white/40">|</span>
-        <span className="text-eos-blue text-sm font-bold tracking-wider">EOS</span>
+        <span className="text-eos-magenta text-sm font-bold tracking-wider">eos Products</span>
       </div>
 
       {/* Login Card */}
-      <div className="glass-card w-full max-w-md mx-4 p-8 z-10 animate-scale-in">
+      <div className="glass-card w-full max-w-md mx-4 p-8 z-10 animate-scale-in bg-white">
         <div className="text-center mb-8">
-          <h1 className="font-display text-3xl mb-2">THE EVOLUTION OF INNOVATION</h1>
+          <h1 className="heading-lowercase text-3xl mb-2">the evolution of innovation</h1>
           <p className="text-muted-foreground">
-            A Cinematic Activation for Black History Month.
+            a cinematic activation for black history month.
           </p>
         </div>
 
         <form onSubmit={handleSubmit} className="space-y-4">
           <div>
-            <label className="block text-sm font-medium mb-2">Email</label>
+            <label className="block text-sm font-medium mb-2">email</label>
             <Input
               type="email"
               placeholder="your@email.com"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               required
-              className="h-12 rounded-xl"
+              className="h-12 rounded-full"
             />
           </div>
 
           <div>
-            <label className="block text-sm font-medium mb-2">Password</label>
+            <label className="block text-sm font-medium mb-2">password</label>
             <Input
               type="password"
               placeholder="••••••••"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               required
-              className="h-12 rounded-xl"
+              className="h-12 rounded-full"
             />
           </div>
 
           {!isLogin && (
             <div className="animate-fade-in">
-              <label className="block text-sm font-medium mb-2">Access Code</label>
+              <label className="block text-sm font-medium mb-2">access code</label>
               <Input
                 type="text"
-                placeholder="ex: EOS-INNOVATE-2026"
+                placeholder="ex: EOS-XXXX"
                 value={accessCode}
                 onChange={(e) => setAccessCode(e.target.value.toUpperCase())}
                 required
-                className="h-12 rounded-xl uppercase"
+                className="h-12 rounded-full uppercase"
               />
             </div>
           )}
@@ -141,7 +141,7 @@ const Gate: React.FC = () => {
             className="w-full mt-6"
             disabled={isLoading}
           >
-            {isLoading ? 'Please wait...' : isLogin ? 'Enter The Playbook' : 'Claim Your Seat'}
+            {isLoading ? 'please wait...' : isLogin ? 'enter the playbook' : 'claim your seat'}
           </Button>
         </form>
 
@@ -151,13 +151,13 @@ const Gate: React.FC = () => {
             className="text-sm text-muted-foreground hover:text-foreground transition-colors"
             onClick={() => setIsLogin(!isLogin)}
           >
-            {isLogin ? "Don't have access? Register here" : "Already registered? Sign in"}
+            {isLogin ? "don't have access? register here" : "already registered? sign in"}
           </button>
         </div>
 
         <div className="mt-8 pt-6 border-t border-border text-center">
           <p className="text-xs text-muted-foreground">
-            © 2026 Lightmile Media. Prepared for EOS Products.
+            © 2026 lightmile media. prepared for eos Products.
           </p>
         </div>
       </div>

@@ -1,53 +1,66 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Button } from '@/components/ui/button';
-import { StarRating } from '@/components/StarRating';
 import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/contexts/AuthContext';
 import { useToast } from '@/hooks/use-toast';
 import confetti from 'canvas-confetti';
-import { Download, Sparkles } from 'lucide-react';
+
+const questions = [
+  "I now have specific ideas on how to fix friction points in my workflow.",
+  "I feel a stronger sense of connection to my colleagues in support roles.",
+  "I see a clear link between the 'eos Products' brand and how I design my own work.",
+  "I feel equipped to use the 'Inventor's Mindset' to solve problems with what I have.",
+];
 
 export const PostPulseSurvey: React.FC = () => {
-  const [q1Score, setQ1Score] = useState(0);
-  const [q2Score, setQ2Score] = useState(0);
+  const [scores, setScores] = useState<number[]>([0, 0, 0, 0]);
   const [isSubmitting, setIsSubmitting] = useState(false);
-  const [isComplete, setIsComplete] = useState(false);
+  const [showCertificate, setShowCertificate] = useState(false);
   const { user, refreshProfile } = useAuth();
   const { toast } = useToast();
 
+  const handleScoreChange = (questionIndex: number, score: number) => {
+    const newScores = [...scores];
+    newScores[questionIndex] = score;
+    setScores(newScores);
+  };
+
   const triggerConfetti = () => {
     const duration = 3000;
-    const end = Date.now() + duration;
+    const animationEnd = Date.now() + duration;
+    const defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 100 };
 
-    const frame = () => {
-      confetti({
-        particleCount: 3,
-        angle: 60,
-        spread: 55,
-        origin: { x: 0 },
-        colors: ['#7CD0E0', '#F4C7C3', '#6BCB77'],
-      });
-      confetti({
-        particleCount: 3,
-        angle: 120,
-        spread: 55,
-        origin: { x: 1 },
-        colors: ['#7CD0E0', '#F4C7C3', '#6BCB77'],
-      });
+    const randomInRange = (min: number, max: number) => Math.random() * (max - min) + min;
 
-      if (Date.now() < end) {
-        requestAnimationFrame(frame);
+    const interval = window.setInterval(() => {
+      const timeLeft = animationEnd - Date.now();
+
+      if (timeLeft <= 0) {
+        return clearInterval(interval);
       }
-    };
 
-    frame();
+      const particleCount = 50 * (timeLeft / duration);
+
+      confetti({
+        ...defaults,
+        particleCount,
+        origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 },
+        colors: ['#D84693', '#DFFF7D', '#000000'],
+      });
+      confetti({
+        ...defaults,
+        particleCount,
+        origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 },
+        colors: ['#D84693', '#DFFF7D', '#000000'],
+      });
+    }, 250);
   };
 
   const handleSubmit = async () => {
-    if (q1Score === 0 || q2Score === 0) {
+    if (scores.some(s => s === 0)) {
       toast({
-        title: "Please rate both questions",
-        description: "We need your feedback on both questions to complete.",
+        title: "please rate all questions",
+        description: "we need your feedback on all questions to continue.",
         variant: "destructive",
       });
       return;
@@ -62,8 +75,10 @@ export const PostPulseSurvey: React.FC = () => {
         .insert({
           user_id: user?.id,
           type: 'post',
-          q1_score: q1Score,
-          q2_score: q2Score,
+          q1_score: scores[0],
+          q2_score: scores[1],
+          q3_score: scores[2],
+          q4_score: scores[3],
         });
 
       if (surveyError) throw surveyError;
@@ -77,13 +92,16 @@ export const PostPulseSurvey: React.FC = () => {
       if (profileError) throw profileError;
 
       await refreshProfile();
-      setIsComplete(true);
+      
+      // Show certificate and confetti
+      setShowCertificate(true);
       triggerConfetti();
+      
     } catch (error) {
       console.error('Error submitting survey:', error);
       toast({
-        title: "Error",
-        description: "Failed to submit survey. Please try again.",
+        title: "error",
+        description: "failed to submit survey. please try again.",
         variant: "destructive",
       });
     } finally {
@@ -91,22 +109,40 @@ export const PostPulseSurvey: React.FC = () => {
     }
   };
 
-  if (isComplete) {
+  if (showCertificate) {
     return (
-      <div className="fixed inset-0 z-50 flex items-center justify-center bg-cinema-dark/90 backdrop-blur-sm">
-        <div className="text-center animate-scale-in">
-          <div className="w-24 h-24 mx-auto mb-8 rounded-full bg-eos-blue/20 flex items-center justify-center">
-            <Sparkles className="w-12 h-12 text-eos-blue" />
+      <div className="fixed inset-0 z-50 flex items-center justify-center bg-cinema-dark/90 backdrop-blur-sm animate-fade-in">
+        <div className="glass-card w-full max-w-lg mx-4 p-8 animate-scale-in bg-white text-center">
+          <div className="mb-6">
+            <div className="w-20 h-20 rounded-full bg-eos-lime mx-auto flex items-center justify-center mb-4">
+              <span className="text-3xl">🏆</span>
+            </div>
+            <h2 className="heading-lowercase text-3xl mb-2">certificate of completion</h2>
+            <p className="text-muted-foreground">
+              you have completed the inventor's playbook
+            </p>
           </div>
-          <h1 className="font-display text-5xl text-white mb-4">
-            YOU ARE AN INVENTOR.
-          </h1>
-          <p className="text-xl text-white/70 mb-8">
-            Thank you for completing the playbook.
-          </p>
-          <Button variant="eos" size="xl" className="gap-2">
-            <Download className="w-5 h-5" />
-            Download Your Certificate
+
+          <div className="border border-border rounded-2xl p-6 mb-6">
+            <p className="text-sm text-muted-foreground mb-2">this certifies that</p>
+            <p className="font-display text-xl mb-2">{user?.email}</p>
+            <p className="text-sm text-muted-foreground mb-4">
+              has successfully completed all exercises in
+            </p>
+            <p className="heading-lowercase text-lg text-eos-magenta">
+              the inventor's playbook
+            </p>
+            <p className="text-xs text-muted-foreground mt-4">
+              a cinematic activation by lightmile media for eos Products
+            </p>
+          </div>
+
+          <Button
+            variant="eos"
+            size="lg"
+            onClick={() => window.print()}
+          >
+            download certificate
           </Button>
         </div>
       </div>
@@ -114,37 +150,52 @@ export const PostPulseSurvey: React.FC = () => {
   }
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-cinema-dark/80 backdrop-blur-sm animate-fade-in">
-      <div className="glass-card w-full max-w-lg mx-4 p-8 animate-scale-in">
-        <h2 className="font-display text-2xl mb-2">One final thing.</h2>
-        <p className="text-muted-foreground mb-8">
-          Let us know how this experience has impacted you.
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-cinema-dark/90 backdrop-blur-sm animate-fade-in">
+      <div className="glass-card w-full max-w-lg mx-4 p-8 animate-scale-in bg-white max-h-[90vh] overflow-y-auto">
+        <h2 className="heading-lowercase text-2xl mb-2">one final pulse check.</h2>
+        <p className="text-muted-foreground mb-8 text-sm">
+          you've completed all exercises! before we celebrate, 
+          help us measure the impact of this experience.
         </p>
 
-        {/* Question 1 */}
-        <div className="mb-8">
-          <p className="font-medium mb-4">
-            "After this experience, I feel better equipped to spot innovation opportunities."
-          </p>
-          <StarRating value={q1Score} onChange={setQ1Score} size="lg" />
-        </div>
-
-        {/* Question 2 */}
-        <div className="mb-8">
-          <p className="font-medium mb-4">
-            "I feel a stronger sense of belonging with my team."
-          </p>
-          <StarRating value={q2Score} onChange={setQ2Score} size="lg" />
+        <div className="space-y-8">
+          {questions.map((question, index) => (
+            <div key={index}>
+              <p className="font-medium mb-4 text-sm">
+                "{question}"
+              </p>
+              <div className="flex gap-2 justify-center">
+                {[1, 2, 3, 4, 5].map((score) => (
+                  <button
+                    key={score}
+                    type="button"
+                    onClick={() => handleScoreChange(index, score)}
+                    className={`w-10 h-10 rounded-full border transition-all duration-200 text-sm font-medium
+                      ${scores[index] === score 
+                        ? 'bg-eos-lime border-border text-foreground scale-110' 
+                        : 'bg-card border-border text-muted-foreground hover:border-eos-magenta'
+                      }`}
+                  >
+                    {score}
+                  </button>
+                ))}
+              </div>
+              <div className="flex justify-between text-xs text-muted-foreground mt-2 px-2">
+                <span>strongly disagree</span>
+                <span>strongly agree</span>
+              </div>
+            </div>
+          ))}
         </div>
 
         <Button
           variant="eos"
           size="lg"
-          className="w-full"
+          className="w-full mt-8"
           onClick={handleSubmit}
           disabled={isSubmitting}
         >
-          {isSubmitting ? 'Submitting...' : 'Complete The Experience'}
+          {isSubmitting ? 'submitting...' : 'complete & celebrate'}
         </Button>
       </div>
     </div>

@@ -1,12 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { User, LogOut, Play } from 'lucide-react';
+import { User, LogOut, Lock } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { ModuleCard } from '@/components/ModuleCard';
+import { ExerciseCard } from '@/components/ExerciseCard';
 import { PrePulseSurvey } from '@/components/PrePulseSurvey';
 import { PostPulseSurvey } from '@/components/PostPulseSurvey';
 import { useAuth } from '@/contexts/AuthContext';
-import heroImage from '@/assets/hero-inventor.jpg';
 
 const Dashboard: React.FC = () => {
   const { user, profile, signOut, loading, refreshProfile } = useAuth();
@@ -43,19 +42,19 @@ const Dashboard: React.FC = () => {
     }
   }, [allModulesComplete, profile?.status]);
 
-  const getModuleStatus = (moduleKey: string): 'locked' | 'available' | 'completed' => {
-    if (modulesCompleted.includes(moduleKey)) return 'completed';
+  const getExerciseStatus = (exerciseKey: string): 'locked' | 'available' | 'completed' => {
+    if (modulesCompleted.includes(exerciseKey)) return 'completed';
     
-    // Module 2 requires Module 1
-    if (moduleKey === 'makeover' && !modulesCompleted.includes('friction')) {
+    // Exercise 2 requires Exercise 1
+    if (exerciseKey === 'makeover' && !modulesCompleted.includes('friction')) {
       return 'locked';
     }
     
     return 'available';
   };
 
-  const handleModuleClick = (module: string) => {
-    navigate(`/module/${module}`);
+  const handleExerciseClick = (exercise: string) => {
+    navigate(`/exercise/${exercise}`);
   };
 
   const handleSignOut = async () => {
@@ -67,8 +66,8 @@ const Dashboard: React.FC = () => {
     return (
       <div className="min-h-screen flex items-center justify-center bg-background">
         <div className="text-center">
-          <div className="w-12 h-12 border-4 border-eos-blue border-t-transparent rounded-full animate-spin mx-auto mb-4" />
-          <p className="text-muted-foreground">Loading...</p>
+          <div className="w-12 h-12 border-2 border-eos-magenta border-t-transparent rounded-full animate-spin mx-auto mb-4" />
+          <p className="text-muted-foreground">loading...</p>
         </div>
       </div>
     );
@@ -83,18 +82,26 @@ const Dashboard: React.FC = () => {
       {showPostPulse && <PostPulseSurvey />}
 
       {/* Top Navigation */}
-      <header className="sticky top-0 z-40 border-b bg-background/80 backdrop-blur-lg">
+      <header className="sticky top-0 z-40 border-b border-border bg-background/80 backdrop-blur-lg">
         <div className="container mx-auto px-4 h-16 flex items-center justify-between">
-          <h1 className="font-display text-xl">The Inventor's Playbook</h1>
+          <h1 className="heading-lowercase text-xl">the inventor's playbook</h1>
           
           <div className="flex items-center gap-4">
             <div className="progress-pill">
-              <span>Progress: {completedCount}/3 Modules</span>
+              <span>progress: {completedCount}/3 exercises</span>
             </div>
             
             <div className="flex items-center gap-2">
-              <div className="w-10 h-10 rounded-full bg-eos-blue/20 flex items-center justify-center">
-                <User className="w-5 h-5 text-eos-blue" />
+              <Button 
+                variant="ghost" 
+                size="icon" 
+                onClick={() => navigate('/admin-dashboard')}
+                className="text-muted-foreground hover:text-foreground"
+              >
+                <Lock className="w-4 h-4" />
+              </Button>
+              <div className="w-10 h-10 rounded-full bg-eos-magenta/20 flex items-center justify-center">
+                <User className="w-5 h-5 text-eos-magenta" />
               </div>
               <Button variant="ghost" size="icon" onClick={handleSignOut}>
                 <LogOut className="w-4 h-4" />
@@ -108,46 +115,50 @@ const Dashboard: React.FC = () => {
       <main className="container mx-auto px-4 py-8">
         {/* Hero Section - The Film */}
         <section className="mb-12 animate-fade-in">
-          <div className="relative aspect-video rounded-3xl overflow-hidden bg-cinema-dark shadow-elevated">
-            <img 
-              src={heroImage} 
-              alt="The Inventor" 
-              className="w-full h-full object-cover opacity-50"
+          <div className="vimeo-container shadow-elevated">
+            <iframe
+              src="https://player.vimeo.com/video/683068367?h=&title=0&byline=0&portrait=0"
+              allow="autoplay; fullscreen; picture-in-picture"
+              allowFullScreen
+              title="The Inventor"
             />
-            <div className="absolute inset-0 flex flex-col items-center justify-center text-center p-8">
-              <div className="w-20 h-20 rounded-full bg-eos-blue/90 flex items-center justify-center mb-6 cursor-pointer hover:scale-110 transition-transform shadow-glow-blue">
-                <Play className="w-8 h-8 text-foreground ml-1" />
-              </div>
-              <h2 className="font-display text-4xl text-white mb-2">THE INVENTOR</h2>
-              <p className="text-white/70">Watch the Film (15 Min)</p>
-            </div>
           </div>
-          <p className="text-center text-muted-foreground mt-4 max-w-2xl mx-auto">
-            Garrett Morgan self-funded the future. Watch his story, then apply his mindset below.
+          <p className="text-center text-muted-foreground mt-4 max-w-2xl mx-auto heading-lowercase text-lg">
+            garrett morgan self-funded the future. watch his story, then apply his mindset below.
           </p>
         </section>
 
         {/* Curriculum Grid */}
         <section className="animate-slide-up" style={{ animationDelay: '0.2s' }}>
-          <h2 className="font-display text-2xl mb-6 text-center">The Curriculum</h2>
+          <h2 className="heading-lowercase text-2xl mb-6 text-center">the curriculum</h2>
           <div className="grid md:grid-cols-3 gap-6">
-            <ModuleCard
-              module="friction"
-              status={getModuleStatus('friction')}
-              onClick={() => handleModuleClick('friction')}
+            <ExerciseCard
+              exercise="friction"
+              exerciseNumber={1}
+              status={getExerciseStatus('friction')}
+              onClick={() => handleExerciseClick('friction')}
             />
-            <ModuleCard
-              module="makeover"
-              status={getModuleStatus('makeover')}
-              onClick={() => handleModuleClick('makeover')}
+            <ExerciseCard
+              exercise="makeover"
+              exerciseNumber={2}
+              status={getExerciseStatus('makeover')}
+              onClick={() => handleExerciseClick('makeover')}
             />
-            <ModuleCard
-              module="visibility"
-              status={getModuleStatus('visibility')}
-              onClick={() => handleModuleClick('visibility')}
+            <ExerciseCard
+              exercise="visibility"
+              exerciseNumber={3}
+              status={getExerciseStatus('visibility')}
+              onClick={() => handleExerciseClick('visibility')}
             />
           </div>
         </section>
+
+        {/* Footer */}
+        <footer className="mt-16 pt-8 border-t border-border text-center">
+          <p className="text-sm text-muted-foreground">
+            © 2026 lightmile media. prepared for eos Products.
+          </p>
+        </footer>
       </main>
     </div>
   );
