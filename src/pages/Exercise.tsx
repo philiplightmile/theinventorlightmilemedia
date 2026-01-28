@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
-import { ArrowLeft, AlertTriangle, Pencil, Wifi, Mail } from 'lucide-react';
+import { ArrowLeft, AlertTriangle, Pencil, Wifi, Mail, Clock } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
 import { Input } from '@/components/ui/input';
@@ -17,7 +17,7 @@ const exerciseContent = {
     title: 'the friction audit',
     contextHeadline: 'garrett morgan saw danger where others saw the status quo.',
     contextBody: 'He refused to tolerate the "daily hazards" of his time. Innovation starts with noticing what is broken. What "tolerated struggles" do you deal with every day?',
-    instruction: 'log 3 minor inefficiencies or broken processes you encounter this week.',
+    instruction: 'log minor inefficiencies or broken processes you encounter this week.',
     iconColor: 'text-eos-orange',
     bgColor: 'bg-eos-orange/10',
   },
@@ -26,7 +26,7 @@ const exerciseContent = {
     title: 'the mundane makeover',
     contextHeadline: 'adoption requires good design.',
     contextBody: 'Morgan understood that safety had to be wearable to be effective. At eos Products, we believe "smooth" applies to our internal tools, not just our lip balm.',
-    instruction: 'pick one "ugly" internal asset and describe how you would redesign it using eos brand principles.',
+    instruction: 'pick one clunky, dense, or unintuitive internal asset (e.g., a massive spreadsheet, a confusing intake form) and describe how you would redesign it using eos brand principles.',
     iconColor: 'text-eos-magenta',
     bgColor: 'bg-eos-magenta/10',
   },
@@ -61,7 +61,26 @@ const getPlaceholder = (category: string) => {
   return categoryPlaceholders[category] || 'Describe the operational struggle...';
 };
 
-const assetOptions = ['Spreadsheet', 'Form', 'Email', 'Meeting'];
+const assetOptions = [
+  'Data & Reporting Tools',
+  'Intake & Request Workflows',
+  'Internal Communications',
+  'Meeting Structures',
+  'Digital Workspaces',
+];
+
+const assetPlaceholders: Record<string, string> = {
+  'Data & Reporting Tools': 'How can we visually redesign this so the key insights are clear at a glance?',
+  'Intake & Request Workflows': 'How can we remove friction to make this process feel \'smooth\' and seamless?',
+  'Internal Communications': 'How can we format this information to be more human, scannable, and engaging?',
+  'Meeting Structures': 'How can we redesign this ritual to be more purposeful and efficient?',
+  'Digital Workspaces': 'How can we organize this space so that finding information feels effortless?',
+};
+
+const getAssetPlaceholder = (asset: string) => {
+  return assetPlaceholders[asset] || 'Select an asset that feels clunky and describe your makeover...';
+};
+
 const tagOptions = ['simpler', 'smoother', 'more beautiful'];
 
 const Exercise: React.FC = () => {
@@ -110,10 +129,10 @@ const Exercise: React.FC = () => {
 
     try {
       if (exerciseId === 'friction') {
-        if (!friction1 || !friction2 || !friction3) {
+        if (!frictionCategory1 || !friction1) {
           toast({
-            title: "please complete all fields",
-            description: "we need all 3 friction points to continue.",
+            title: "please complete friction point #1",
+            description: "we need at least one friction point to continue.",
             variant: "destructive",
           });
           setIsSubmitting(false);
@@ -125,8 +144,8 @@ const Exercise: React.FC = () => {
           .insert({
             user_id: user?.id,
             struggle_1: `[${frictionCategory1}] ${friction1}`,
-            struggle_2: `[${frictionCategory2}] ${friction2}`,
-            struggle_3: `[${frictionCategory3}] ${friction3}`,
+            struggle_2: frictionCategory2 && friction2 ? `[${frictionCategory2}] ${friction2}` : '',
+            struggle_3: frictionCategory3 && friction3 ? `[${frictionCategory3}] ${friction3}` : '',
           });
 
         if (error) throw error;
@@ -252,6 +271,10 @@ const Exercise: React.FC = () => {
             <Icon className={`w-10 h-10 ${content.iconColor}`} />
           </div>
           <h1 className="heading-lowercase text-3xl">{content.title}</h1>
+          <div className="flex items-center justify-center gap-2 mt-4 text-gray-500">
+            <Clock className="w-4 h-4" />
+            <span className="text-sm">Estimated time: 5-10 minutes.</span>
+          </div>
         </div>
 
         {/* Two Column Layout (or split for visibility) */}
@@ -272,7 +295,10 @@ const Exercise: React.FC = () => {
               <div className="space-y-6">
                 {[1, 2, 3].map((num) => (
                   <div key={num}>
-                    <label className="block text-sm font-medium mb-2">friction point #{num}</label>
+                    <label className="block text-sm font-medium mb-2">
+                      friction point #{num}
+                      {num > 1 && <span className="text-gray-500 font-normal ml-2">(Optional)</span>}
+                    </label>
                     <Select 
                       value={num === 1 ? frictionCategory1 : num === 2 ? frictionCategory2 : frictionCategory3}
                       onValueChange={(val) => {
@@ -308,10 +334,10 @@ const Exercise: React.FC = () => {
             {exerciseId === 'makeover' && (
               <div className="space-y-6">
                 <div>
-                  <label className="block text-sm font-medium mb-2">asset type</label>
+                  <label className="block text-sm font-medium mb-2">operational domain</label>
                   <Select value={assetType} onValueChange={setAssetType}>
                     <SelectTrigger className="rounded-full">
-                      <SelectValue placeholder="select asset type" />
+                      <SelectValue placeholder="select operational domain" />
                     </SelectTrigger>
                     <SelectContent className="bg-card border border-border">
                       {assetOptions.map(asset => (
@@ -323,7 +349,7 @@ const Exercise: React.FC = () => {
                 <div>
                   <label className="block text-sm font-medium mb-2">the fix</label>
                   <Textarea
-                    placeholder="i would redesign this by..."
+                    placeholder={getAssetPlaceholder(assetType)}
                     value={makeoverText}
                     onChange={(e) => setMakeoverText(e.target.value)}
                     className="min-h-[150px] rounded-2xl border-border"
@@ -385,11 +411,11 @@ const Exercise: React.FC = () => {
               size="lg"
               className="w-full mt-6"
               onClick={handleSubmit}
-              disabled={isSubmitting}
+              disabled={isSubmitting || (exerciseId === 'friction' && (!frictionCategory1 || !friction1))}
             >
               {isSubmitting ? 'submitting...' : 
                 exerciseId === 'friction' ? 'submit to heatmap' :
-                exerciseId === 'makeover' ? 'draft design' :
+                exerciseId === 'makeover' ? 'submit design' :
                 'send signal'
               }
             </Button>
