@@ -41,7 +41,26 @@ const exerciseContent = {
   },
 };
 
-const categoryOptions = ['Process', 'Technology', 'Communication', 'Resources'];
+const categoryOptions = [
+  'Process Complexity',
+  'Digital Enablement',
+  'Cross-Functional Flow',
+  'Knowledge Access',
+  'Resource Alignment',
+];
+
+const categoryPlaceholders: Record<string, string> = {
+  'Process Complexity': 'Where does the workflow feel heavier or slower than it needs to be?',
+  'Digital Enablement': 'How is the tool fighting against the task? Describe the friction.',
+  'Cross-Functional Flow': 'Where does momentum drop when work moves from one team to another?',
+  'Knowledge Access': 'What specific information or data is difficult to locate?',
+  'Resource Alignment': 'Where is the volume of work outpacing our capacity to deliver?',
+};
+
+const getPlaceholder = (category: string) => {
+  return categoryPlaceholders[category] || 'Describe the operational struggle...';
+};
+
 const assetOptions = ['Spreadsheet', 'Form', 'Email', 'Meeting'];
 const tagOptions = ['simpler', 'smoother', 'more beautiful'];
 
@@ -272,7 +291,7 @@ const Exercise: React.FC = () => {
                       </SelectContent>
                     </Select>
                     <Textarea
-                      placeholder="describe the inefficiency..."
+                      placeholder={getPlaceholder(num === 1 ? frictionCategory1 : num === 2 ? frictionCategory2 : frictionCategory3)}
                       value={num === 1 ? friction1 : num === 2 ? friction2 : friction3}
                       onChange={(e) => {
                         if (num === 1) setFriction1(e.target.value);
