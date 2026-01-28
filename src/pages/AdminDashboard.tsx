@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Lock, Users, CheckCircle, AlertTriangle, ArrowLeft } from 'lucide-react';
+import { Lock, Users, CheckCircle, AlertTriangle, ArrowLeft, ShieldX } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { Input } from '@/components/ui/input';
 import { supabase } from '@/integrations/supabase/client';
+import { useAuth } from '@/contexts/AuthContext';
 
 interface FrictionLog {
   id: string;
@@ -19,62 +19,107 @@ interface SeatInventory {
 }
 
 const AdminDashboard: React.FC = () => {
-  const [isAuthenticated, setIsAuthenticated] = useState(false);
-  const [password, setPassword] = useState('');
+  const { user, loading: authLoading } = useAuth();
+  const [isAdmin, setIsAdmin] = useState<boolean | null>(null);
   const [frictionLogs, setFrictionLogs] = useState<FrictionLog[]>([]);
   const [seatInventory, setSeatInventory] = useState<SeatInventory | null>(null);
   const [completionCount, setCompletionCount] = useState(0);
+  const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
 
-  // Admin password (in production, this should be server-validated)
-  const ADMIN_PASSWORD = 'EOS-ADMIN-2026';
-
-  const handleLogin = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (password === ADMIN_PASSWORD) {
-      setIsAuthenticated(true);
-      fetchData();
+  // Check admin role via server-side RLS
+  const checkAdminRole = async (userId: string) => {
+    const { data, error } = await supabase
+      .from('user_roles')
+      .select('role')
+      .eq('user_id', userId)
+      .eq('role', 'admin')
+      .maybeSingle();
+    
+    if (error) {
+      console.error('Error checking admin role:', error);
+      return false;
     }
+    
+    return data !== null;
   };
 
   const fetchData = async () => {
-    // Fetch seat inventory
+    // Fetch seat inventory (public read access)
     const { data: seats } = await supabase
       .from('seat_inventory')
       .select('*')
-      .single();
+      .maybeSingle();
     
     if (seats) {
       setSeatInventory(seats);
     }
 
-    // Fetch friction logs (public access for demo - in production use admin role)
-    const { data: logs } = await supabase
+    // Fetch friction logs - RLS will only return data if user is admin
+    const { data: logs, error: logsError } = await supabase
       .from('friction_logs')
       .select('*')
       .order('created_at', { ascending: false })
       .limit(50);
     
-    if (logs) {
+    if (logsError) {
+      console.error('Error fetching friction logs:', logsError);
+    } else if (logs) {
       setFrictionLogs(logs);
     }
 
-    // Get completion count from profiles
-    const { count } = await supabase
+    // Get completion count from profiles - RLS will protect this
+    const { count, error: countError } = await supabase
       .from('profiles')
       .select('*', { count: 'exact', head: true })
       .eq('status', 'modules_complete');
     
-    setCompletionCount(count || 0);
+    if (countError) {
+      console.error('Error fetching completion count:', countError);
+    } else {
+      setCompletionCount(count || 0);
+    }
   };
 
   useEffect(() => {
-    if (isAuthenticated) {
-      fetchData();
-    }
-  }, [isAuthenticated]);
+    const initializeAdmin = async () => {
+      if (authLoading) return;
+      
+      if (!user) {
+        setIsAdmin(false);
+        setLoading(false);
+        return;
+      }
 
-  if (!isAuthenticated) {
+      const hasAdminRole = await checkAdminRole(user.id);
+      setIsAdmin(hasAdminRole);
+      
+      if (hasAdminRole) {
+        await fetchData();
+      }
+      
+      setLoading(false);
+    };
+
+    initializeAdmin();
+  }, [user, authLoading]);
+
+  // Show loading state
+  if (loading || authLoading) {
+    return (
+      <div className="min-h-screen bg-cinema-dark flex items-center justify-center">
+        <div className="glass-card w-full max-w-md mx-4 p-8 text-center">
+          <div className="w-16 h-16 rounded-2xl bg-eos-blue/20 flex items-center justify-center mx-auto mb-4 animate-pulse">
+            <Lock className="w-8 h-8 text-eos-blue" />
+          </div>
+          <p className="text-muted-foreground">Verifying access...</p>
+        </div>
+      </div>
+    );
+  }
+
+  // Show login prompt if not authenticated
+  if (!user) {
     return (
       <div className="min-h-screen bg-cinema-dark flex items-center justify-center">
         <div className="glass-card w-full max-w-md mx-4 p-8">
@@ -82,22 +127,32 @@ const AdminDashboard: React.FC = () => {
             <div className="w-16 h-16 rounded-2xl bg-eos-blue/20 flex items-center justify-center mx-auto mb-4">
               <Lock className="w-8 h-8 text-eos-blue" />
             </div>
-            <h1 className="font-display text-2xl">Admin Access</h1>
-            <p className="text-muted-foreground">Enter the admin password to continue.</p>
+            <h1 className="font-display text-2xl">Admin Access Required</h1>
+            <p className="text-muted-foreground">Please sign in with an admin account to access this dashboard.</p>
           </div>
+          <Button variant="eos" size="lg" className="w-full" onClick={() => navigate('/')}>
+            Go to Login
+          </Button>
+        </div>
+      </div>
+    );
+  }
 
-          <form onSubmit={handleLogin} className="space-y-4">
-            <Input
-              type="password"
-              placeholder="Admin Password"
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-              className="h-12 rounded-xl"
-            />
-            <Button variant="eos" size="lg" className="w-full" type="submit">
-              Access Dashboard
-            </Button>
-          </form>
+  // Show access denied if user is not an admin
+  if (!isAdmin) {
+    return (
+      <div className="min-h-screen bg-cinema-dark flex items-center justify-center">
+        <div className="glass-card w-full max-w-md mx-4 p-8">
+          <div className="text-center mb-8">
+            <div className="w-16 h-16 rounded-2xl bg-destructive/20 flex items-center justify-center mx-auto mb-4">
+              <ShieldX className="w-8 h-8 text-destructive" />
+            </div>
+            <h1 className="font-display text-2xl">Access Denied</h1>
+            <p className="text-muted-foreground">You don't have permission to access the admin dashboard.</p>
+          </div>
+          <Button variant="eos" size="lg" className="w-full" onClick={() => navigate('/dashboard')}>
+            Return to Dashboard
+          </Button>
         </div>
       </div>
     );
