@@ -103,6 +103,7 @@ const Exercise: React.FC = () => {
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
   
   // Form state for visibility
+  const [senderEmail, setSenderEmail] = useState('');
   const [recipientEmail, setRecipientEmail] = useState('');
   const [subject, setSubject] = useState('Thank you for your great work');
   const [message, setMessage] = useState('');
@@ -172,16 +173,17 @@ const Exercise: React.FC = () => {
         if (error) throw error;
 
       } else if (exerciseId === 'visibility') {
-        if (!recipientEmail.trim() || !message.trim()) {
+        if (!senderEmail.trim() || !recipientEmail.trim() || !message.trim()) {
           toast({
             title: "please complete all fields",
-            description: "we need the recipient email and your message.",
+            description: "we need your email, the recipient email, and your message.",
             variant: "destructive",
           });
           setIsSubmitting(false);
           return;
         }
 
+        // Save to database
         const { error } = await supabase
           .from('visibility_signals')
           .insert({
@@ -192,17 +194,30 @@ const Exercise: React.FC = () => {
 
         if (error) throw error;
 
-        // Mock email send
-        console.log('📧 Signal sent!', {
-          to: recipientEmail,
-          subject: subject,
-          message: message,
+        // Send the actual email via edge function
+        const { data: emailResult, error: emailError } = await supabase.functions.invoke('send-appreciation-email', {
+          body: {
+            to: recipientEmail,
+            subject: subject,
+            message: message,
+            senderEmail: senderEmail,
+            senderName: user?.user_metadata?.first_name || senderEmail,
+          },
         });
 
-        toast({
-          title: "signal sent! 📡",
-          description: `your appreciation for ${recipientEmail} has been recorded.`,
-        });
+        if (emailError) {
+          console.error('Email send error:', emailError);
+          toast({
+            title: "note saved, but email failed",
+            description: "your appreciation was recorded but the email couldn't be sent.",
+            variant: "destructive",
+          });
+        } else {
+          toast({
+            title: "note sent! ✨",
+            description: `your appreciation email has been delivered to ${recipientEmail}.`,
+          });
+        }
       }
 
       // Update profile with completed exercise
@@ -374,10 +389,20 @@ const Exercise: React.FC = () => {
             {exerciseId === 'visibility' && (
               <div className="space-y-4">
                 <div>
-                  <label className="block text-sm font-medium mb-2">to (email)</label>
+                  <label className="block text-sm font-medium mb-2">your email</label>
                   <Input
                     type="email"
-                    placeholder="colleague@eos.com"
+                    placeholder="you@evolutionofsmooth.com"
+                    value={senderEmail}
+                    onChange={(e) => setSenderEmail(e.target.value)}
+                    className="rounded-full"
+                  />
+                </div>
+                <div>
+                  <label className="block text-sm font-medium mb-2">to (colleague's email)</label>
+                  <Input
+                    type="email"
+                    placeholder="colleague@evolutionofsmooth.com"
                     value={recipientEmail}
                     onChange={(e) => setRecipientEmail(e.target.value)}
                     className="rounded-full"
@@ -386,7 +411,7 @@ const Exercise: React.FC = () => {
                 <div>
                   <label className="block text-sm font-medium mb-2">subject</label>
                   <Input
-                    placeholder="a signal of appreciation"
+                    placeholder="Thank you for your great work"
                     value={subject}
                     onChange={(e) => setSubject(e.target.value)}
                     className="rounded-full"
@@ -430,7 +455,8 @@ const Exercise: React.FC = () => {
                       <Mail className="w-5 h-5 text-eos-magenta" />
                     </div>
                     <div>
-                      <p className="font-medium text-sm">{recipientEmail || 'recipient@eos.com'}</p>
+                      <p className="font-medium text-sm">to: {recipientEmail || 'colleague@evolutionofsmooth.com'}</p>
+                      <p className="text-xs text-muted-foreground">from: {senderEmail || 'you@evolutionofsmooth.com'}</p>
                       <p className="text-xs text-muted-foreground">{subject}</p>
                     </div>
                   </div>
