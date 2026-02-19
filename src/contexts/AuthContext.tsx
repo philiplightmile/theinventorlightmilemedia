@@ -149,21 +149,13 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
       if (fnError) return { error: new Error(fnError.message || 'Authentication failed') };
       if (fnData?.error) return { error: new Error(fnData.error) };
 
-      const { data: verifyData, error: verifyError } = await supabase.auth.verifyOtp({
-        email: fnData.email,
-        token: fnData.token,
-        type: 'magiclink',
+      // Set the session directly using tokens from the edge function
+      const { error: sessionError } = await supabase.auth.setSession({
+        access_token: fnData.access_token,
+        refresh_token: fnData.refresh_token,
       });
 
-      if (verifyError) return { error: verifyError as Error };
-
-      // Update profile with name
-      if (verifyData?.user) {
-        await supabase
-          .from('profiles')
-          .update({ first_name: firstName, last_name: lastName })
-          .eq('user_id', verifyData.user.id);
-      }
+      if (sessionError) return { error: sessionError as Error };
 
       return { error: null };
     } catch (err: any) {
