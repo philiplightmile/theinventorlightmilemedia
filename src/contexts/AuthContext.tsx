@@ -141,17 +141,34 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   };
 
   const signInWithMagicLink = async (email: string, firstName: string, lastName: string) => {
-    const { error } = await supabase.auth.signInWithOtp({
-      email,
-      options: {
-        emailRedirectTo: `${window.location.origin}/dashboard`,
-        data: {
-          first_name: firstName,
-          last_name: lastName,
-        },
-      },
-    });
-    return { error: error as Error | null };
+    try {
+      const { data: fnData, error: fnError } = await supabase.functions.invoke('instant-auth', {
+        body: { email, firstName, lastName },
+      });
+
+      if (fnError) return { error: new Error(fnError.message || 'Authentication failed') };
+      if (fnData?.error) return { error: new Error(fnData.error) };
+
+      const { data: verifyData, error: verifyError } = await supabase.auth.verifyOtp({
+        email: fnData.email,
+        token: fnData.token,
+        type: 'magiclink',
+      });
+
+      if (verifyError) return { error: verifyError as Error };
+
+      // Update profile with name
+      if (verifyData?.user) {
+        await supabase
+          .from('profiles')
+          .update({ first_name: firstName, last_name: lastName })
+          .eq('user_id', verifyData.user.id);
+      }
+
+      return { error: null };
+    } catch (err: any) {
+      return { error: new Error(err.message || 'Authentication failed') };
+    }
   };
 
   const signOut = async () => {
