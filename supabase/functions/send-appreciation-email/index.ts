@@ -44,10 +44,8 @@ serve(async (req) => {
     }
 
     const displayName = senderName || senderEmail;
+    const sanitize = (str: string) => str.replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
-    // Send via Resend
-    // Note: Until evolutionofsmooth.com is verified in Resend, 
-    // we use onboarding@resend.dev as the from address with reply-to set to the sender
     const resendRes = await fetch('https://api.resend.com/emails', {
       method: 'POST',
       headers: {
@@ -55,16 +53,21 @@ serve(async (req) => {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        from: `${displayName} via eos Products <onboarding@resend.dev>`,
+        from: `eos Products <appreciation@lightmilemedia.com>`,
         to: [to],
         reply_to: senderEmail,
         subject: subject,
         html: `
-          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 600px; margin: 0 auto; padding: 32px;">
-            <p style="font-size: 16px; line-height: 1.6; color: #333; white-space: pre-wrap;">${message.replace(/</g, '&lt;').replace(/>/g, '&gt;')}</p>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 600px; margin: 0 auto; padding: 32px; background: #ffffff;">
+            <div style="background: linear-gradient(135deg, #E91E8C 0%, #FF6B9D 100%); border-radius: 16px; padding: 24px 28px; margin-bottom: 28px;">
+              <p style="font-size: 14px; color: rgba(255,255,255,0.85); margin: 0 0 4px 0;">A note of appreciation from</p>
+              <p style="font-size: 22px; font-weight: 700; color: #ffffff; margin: 0 0 4px 0;">${sanitize(displayName)}</p>
+              <p style="font-size: 14px; color: rgba(255,255,255,0.8); margin: 0;">${sanitize(senderEmail)}</p>
+            </div>
+            <p style="font-size: 16px; line-height: 1.7; color: #333; white-space: pre-wrap; margin: 0 0 28px 0;">${sanitize(message)}</p>
             <hr style="border: none; border-top: 1px solid #eee; margin: 24px 0;" />
-            <p style="font-size: 13px; color: #999;">
-              Sent with appreciation by ${displayName.replace(/</g, '&lt;').replace(/>/g, '&gt;')} via <strong style="color: #E91E8C;">eos Products</strong> ✨
+            <p style="font-size: 12px; color: #aaa; margin: 0; text-align: center;">
+              Sent via <strong style="color: #E91E8C;">eos Products</strong> ✨ · <a href="mailto:${sanitize(senderEmail)}" style="color: #E91E8C; text-decoration: none;">Reply directly to ${sanitize(displayName)}</a>
             </p>
           </div>
         `,
