@@ -6,6 +6,8 @@ interface Profile {
   id: string;
   user_id: string;
   access_code_used: string | null;
+  first_name: string | null;
+  last_name: string | null;
   status: 'started' | 'survey_complete' | 'modules_complete';
   modules_completed: string[];
   created_at: string;
@@ -18,6 +20,7 @@ interface AuthContextType {
   loading: boolean;
   signIn: (email: string, password: string) => Promise<{ error: Error | null }>;
   signUp: (email: string, password: string, accessCode: string) => Promise<{ error: Error | null }>;
+  signInWithMagicLink: (email: string, firstName: string, lastName: string) => Promise<{ error: Error | null }>;
   signOut: () => Promise<void>;
   refreshProfile: () => Promise<void>;
 }
@@ -52,16 +55,31 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   };
 
   useEffect(() => {
-    // Set up auth state listener first
     const { data: { subscription } } = supabase.auth.onAuthStateChange(
       async (event, session) => {
         setSession(session);
         setUser(session?.user ?? null);
         
         if (session?.user) {
-          // Use setTimeout to avoid potential race conditions
           setTimeout(async () => {
             const profileData = await fetchProfile(session.user.id);
+            
+            // If user signed in via magic link with name metadata, update profile
+            if (profileData && !profileData.first_name) {
+              const meta = session.user.user_metadata;
+              if (meta?.first_name && meta?.last_name) {
+                await supabase
+                  .from('profiles')
+                  .update({ 
+                    first_name: meta.first_name, 
+                    last_name: meta.last_name 
+                  })
+                  .eq('user_id', session.user.id);
+                profileData.first_name = meta.first_name;
+                profileData.last_name = meta.last_name;
+              }
+            }
+            
             setProfile(profileData);
             setLoading(false);
           }, 0);
@@ -72,7 +90,6 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
       }
     );
 
-    // Then check for existing session
     supabase.auth.getSession().then(({ data: { session } }) => {
       setSession(session);
       setUser(session?.user ?? null);
@@ -91,42 +108,29 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   }, []);
 
   const signIn = async (email: string, password: string) => {
-    const { error } = await supabase.auth.signInWithPassword({
-      email,
-      password,
-    });
+    const { error } = await supabase.auth.signInWithPassword({ email, password });
     return { error: error as Error | null };
   };
 
   const signUp = async (email: string, password: string, accessCode: string) => {
-    // Sign up the user first
     const { data, error } = await supabase.auth.signUp({
       email,
       password,
-      options: {
-        emailRedirectTo: window.location.origin,
-      },
+      options: { emailRedirectTo: window.location.origin },
     });
 
-    if (error) {
-      return { error: error as Error };
-    }
+    if (error) return { error: error as Error };
 
-    // If signup successful, try to claim the access code
     if (data.user) {
-      // Claim the access code atomically
       const { data: claimed, error: claimError } = await supabase
         .rpc('claim_access_code', { code_to_claim: accessCode.toUpperCase() });
 
       if (claimError || !claimed) {
-        // If code claim fails, we should ideally delete the user, but for now just return error
         return { error: new Error('Code invalid or already claimed.') };
       }
       
-      // Also claim a seat for backwards compatibility
       await supabase.rpc('claim_seat');
       
-      // Update profile with access code
       await supabase
         .from('profiles')
         .update({ access_code_used: accessCode.toUpperCase() })
@@ -134,6 +138,20 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     }
 
     return { error: null };
+  };
+
+  const signInWithMagicLink = async (email: string, firstName: string, lastName: string) => {
+    const { error } = await supabase.auth.signInWithOtp({
+      email,
+      options: {
+        emailRedirectTo: `${window.location.origin}/dashboard`,
+        data: {
+          first_name: firstName,
+          last_name: lastName,
+        },
+      },
+    });
+    return { error: error as Error | null };
   };
 
   const signOut = async () => {
@@ -151,6 +169,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
       loading,
       signIn,
       signUp,
+      signInWithMagicLink,
       signOut,
       refreshProfile,
     }}>
