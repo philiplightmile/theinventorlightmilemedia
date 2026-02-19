@@ -32,10 +32,10 @@ const exerciseContent = {
   },
   visibility: {
     icon: Wifi,
-    title: 'the visibility signal',
-    contextHeadline: 'making the invisible visible.',
-    contextBody: 'Garrett Morgan was often erased from his own narrative. Today, we break that cycle by acknowledging the "quiet work" that keeps eos running.',
-    instruction: 'identify one colleague in a support role (ops, qa, admin) and send a signal of appreciation.',
+    title: 'recognize a colleague',
+    contextHeadline: 'bring their work into the light.',
+    contextBody: 'Imagine if Garrett Morgan\'s genius had been fully embraced in the light, rather than forced to operate behind the scenes. Imagine how much more he could have contributed to the world if his talent was championed during his\u00a0lifetime.\n\nBrilliance thrives when it is seen. Let\'s make sure the great work happening right next to you doesn\'t go\u00a0unnoticed.',
+    instruction: 'Take a moment to send a thank-you note to a colleague whose everyday impact deserves to be\u00a0recognized.',
     iconColor: 'text-eos-mint',
     bgColor: 'bg-eos-mint/10',
   },
@@ -104,7 +104,7 @@ const Exercise: React.FC = () => {
   
   // Form state for visibility
   const [recipientEmail, setRecipientEmail] = useState('');
-  const [subject, setSubject] = useState('a signal of appreciation');
+  const [subject, setSubject] = useState('Thank you for your great work');
   const [message, setMessage] = useState('');
   
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -271,10 +271,6 @@ const Exercise: React.FC = () => {
             <Icon className={`w-10 h-10 ${content.iconColor}`} />
           </div>
           <h1 className="heading-lowercase text-3xl">{content.title}</h1>
-          <div className="flex items-center justify-center gap-2 mt-4 text-gray-500">
-            <Clock className="w-4 h-4" />
-            <span className="text-sm">Estimated time: 5-10 minutes.</span>
-          </div>
         </div>
 
         {/* Two Column Layout (or split for visibility) */}
@@ -285,7 +281,9 @@ const Exercise: React.FC = () => {
           {/* Context Panel */}
           <div className="glass-card p-8">
             <h2 className="heading-lowercase text-2xl mb-4">{content.contextHeadline}</h2>
-            <p className="text-muted-foreground leading-relaxed mb-6">{content.contextBody}</p>
+            {content.contextBody.split('\n\n').map((paragraph, i) => (
+              <p key={i} className="text-muted-foreground leading-relaxed mb-4">{paragraph}</p>
+            ))}
             <p className="font-medium text-sm border-l-2 border-eos-magenta pl-4">{content.instruction}</p>
           </div>
 
@@ -416,7 +414,7 @@ const Exercise: React.FC = () => {
               {isSubmitting ? 'submitting...' : 
                 exerciseId === 'friction' ? 'submit to heatmap' :
                 exerciseId === 'makeover' ? 'submit design' :
-                'send signal'
+                'send note'
               }
             </Button>
           </div>
