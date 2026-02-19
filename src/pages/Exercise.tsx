@@ -104,8 +104,10 @@ const Exercise: React.FC = () => {
   
   // Form state for visibility
   const [senderEmail, setSenderEmail] = useState('');
+  const [senderFirstName, setSenderFirstName] = useState('');
+  const [senderLastName, setSenderLastName] = useState('');
   const [recipientEmail, setRecipientEmail] = useState('');
-  const [subject, setSubject] = useState('Thank you for your great work');
+  const [subject, setSubject] = useState('');
   const [message, setMessage] = useState('');
   
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -195,13 +197,15 @@ const Exercise: React.FC = () => {
         if (error) throw error;
 
         // Send the actual email via edge function
+        const senderFullName = [senderFirstName, senderLastName].filter(Boolean).join(' ') || senderEmail;
+        const emailSubject = subject || 'Thank you for your great work';
         const { data: emailResult, error: emailError } = await supabase.functions.invoke('send-appreciation-email', {
           body: {
             to: recipientEmail,
-            subject: subject,
+            subject: emailSubject,
             message: message,
             senderEmail: senderEmail,
-            senderName: user?.user_metadata?.first_name || senderEmail,
+            senderName: senderFullName,
           },
         });
 
@@ -388,6 +392,26 @@ const Exercise: React.FC = () => {
 
             {exerciseId === 'visibility' && (
               <div className="space-y-4">
+                <div className="grid grid-cols-2 gap-3">
+                  <div>
+                    <label className="block text-sm font-medium mb-2">first name</label>
+                    <Input
+                      placeholder="Jane"
+                      value={senderFirstName}
+                      onChange={(e) => setSenderFirstName(e.target.value)}
+                      className="rounded-full"
+                    />
+                  </div>
+                  <div>
+                    <label className="block text-sm font-medium mb-2">last name</label>
+                    <Input
+                      placeholder="Smith"
+                      value={senderLastName}
+                      onChange={(e) => setSenderLastName(e.target.value)}
+                      className="rounded-full"
+                    />
+                  </div>
+                </div>
                 <div>
                   <label className="block text-sm font-medium mb-2">your email</label>
                   <Input
