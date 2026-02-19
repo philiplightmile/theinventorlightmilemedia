@@ -46,9 +46,11 @@ export const ExerciseCard: React.FC<ExerciseCardProps> = ({ exercise, exerciseNu
       onClick={status !== 'locked' ? onClick : undefined}
     >
       {/* Exercise Number Badge */}
-      <div className="absolute top-4 right-4 text-xs font-medium text-muted-foreground">
-        exercise {exerciseNumber}
-      </div>
+      {exerciseNumber > 0 && (
+        <div className="absolute top-4 right-4 text-xs font-medium text-muted-foreground">
+          exercise {exerciseNumber}
+        </div>
+      )}
 
       {/* Icon */}
       <div className={cn('w-14 h-14 rounded-2xl flex items-center justify-center mb-4', bgColor)}>

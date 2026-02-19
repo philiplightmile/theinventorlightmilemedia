@@ -58,10 +58,6 @@ export const Header: React.FC<HeaderProps> = ({
         {/* Right Side Controls */}
         {showUserControls && (
           <div className="flex items-center gap-4">
-            <div className="progress-pill">
-              <span>progress: {completedCount}/3 exercises</span>
-            </div>
-            
             <div className="flex items-center gap-2">
               {showAdminLink && (
                 <Button 
