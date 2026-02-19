@@ -86,7 +86,23 @@ const Dashboard: React.FC = () => {
 
       {/* Main Content */}
       <main className="container mx-auto px-4 py-8">
-        {/* Hero Section - The Film */}
+        {/* Context Block */}
+        <section className="mb-12 animate-fade-in max-w-3xl mx-auto text-center">
+          <h2 className="heading-lowercase text-3xl mb-6">the architecture of beauty & innovation</h2>
+          <div className="space-y-4 text-muted-foreground text-base leading-relaxed">
+            <p>
+              Before he invented the modern traffic signal, Garrett Morgan was a pioneer in the beauty industry. In the early 1900s, he invented and patented a chemical hair-straightening formula and a specialized pressing comb, building a self-funded safety empire from the ground up.
+            </p>
+            <p>
+              Beyond his work in beauty, Garrett invented a life-saving safety hood in the 1910s. But when he tried to sell it, buyers refused to believe it worked based on his racial identity. He had to persevere against immense prejudice to see his product put into the world. This short film explores the obstacles this great American innovator had to overcome in order to become successful.
+            </p>
+            <p className="font-medium text-foreground">
+              This Black History Month, we are looking at history through the lens of our own industry. Watch the story of a fellow beauty innovator.
+            </p>
+          </div>
+        </section>
+
+        {/* The Film */}
         <section className="mb-12 animate-fade-in">
           <div className="vimeo-container shadow-elevated">
             <iframe
@@ -96,34 +112,19 @@ const Dashboard: React.FC = () => {
               title="The Inventor"
             />
           </div>
-          <p className="text-center text-muted-foreground mt-4 max-w-2xl mx-auto heading-lowercase text-lg">
-            garrett morgan self-funded his future. watch his story, then apply his mindset below.
+          <p className="text-center text-muted-foreground mt-6 max-w-2xl mx-auto text-lg italic">
+            "Now that you've watched the film, take a few minutes to send a note of gratitude to someone whose amazing work may have gone unrecognized as of late."
           </p>
         </section>
 
-        {/* Curriculum Grid */}
-        <section className="animate-slide-up" style={{ animationDelay: '0.2s' }}>
-          <h2 className="heading-lowercase text-2xl mb-6 text-center">the curriculum</h2>
-          <div className="grid md:grid-cols-3 gap-6">
-            <ExerciseCard
-              exercise="friction"
-              exerciseNumber={1}
-              status={getExerciseStatus('friction')}
-              onClick={() => handleExerciseClick('friction')}
-            />
-            <ExerciseCard
-              exercise="makeover"
-              exerciseNumber={2}
-              status={getExerciseStatus('makeover')}
-              onClick={() => handleExerciseClick('makeover')}
-            />
-            <ExerciseCard
-              exercise="visibility"
-              exerciseNumber={3}
-              status={getExerciseStatus('visibility')}
-              onClick={() => handleExerciseClick('visibility')}
-            />
-          </div>
+        {/* Single Action Card */}
+        <section className="animate-slide-up max-w-sm mx-auto" style={{ animationDelay: '0.2s' }}>
+          <ExerciseCard
+            exercise="visibility"
+            exerciseNumber={0}
+            status={getExerciseStatus('visibility')}
+            onClick={() => handleExerciseClick('visibility')}
+          />
         </section>
 
         {/* Footer */}
