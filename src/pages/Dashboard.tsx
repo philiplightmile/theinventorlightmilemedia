@@ -91,12 +91,12 @@ const Dashboard: React.FC = () => {
         {/* Context Block */}
         <section className="mb-12 animate-fade-in max-w-5xl mx-auto text-center">
           <h2 className="heading-lowercase text-3xl mb-6">the architecture of beauty & innovation</h2>
-          <div className="space-y-4 text-muted-foreground text-base leading-relaxed">
+          <div className="space-y-4 text-muted-foreground text-lg leading-relaxed">
             <p>
-              Before he invented the modern traffic signal, Garrett Morgan was a pioneer in the beauty industry. In the early 1900s, he invented and patented a chemical hair-straightening formula and a specialized pressing comb, building a self-funded safety empire from the ground up.
+              Before he invented the modern traffic signal, Garrett Morgan was a pioneer in the beauty industry. In the early 1900s, he invented and patented a chemical hair-straightening formula and a specialized pressing comb, building a self-funded safety empire from the&nbsp;ground&nbsp;up.
             </p>
             <p>
-              Beyond his work in beauty, Garrett invented a life-saving safety hood in the 1910s. But when he tried to sell it, buyers refused to believe it worked based on his racial identity. He had to persevere against immense prejudice to see his product put into the world. This short film explores the obstacles this great American innovator had to overcome in order to become successful.
+              Beyond his work in beauty, Garrett invented a life-saving safety hood in the 1910s. But when he tried to sell it, buyers refused to believe it worked based on his racial identity. He had to persevere against immense prejudice to see his product put into the world. This short film explores the obstacles this great American innovator had to overcome in order to become&nbsp;successful.
             </p>
             <p className="font-medium text-foreground">
               This Black History Month, we are looking at history through the lens of our own industry. Watch the story of a fellow beauty innovator.
@@ -114,8 +114,8 @@ const Dashboard: React.FC = () => {
               title="The Inventor"
             />
           </div>
-          <p className="text-center text-muted-foreground mt-6 mx-auto text-lg">
-            Now that you've watched the film, take a moment to send a thank-you note to a colleague whose hard work might be going unrecognized.
+          <p className="text-center text-muted-foreground mt-6 mx-auto text-xl">
+            Now that you've watched the film, take a moment to send a thank-you note to a colleague whose hard work might be going&nbsp;unrecognized.
           </p>
         </section>
 
