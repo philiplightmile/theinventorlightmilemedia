@@ -6,62 +6,62 @@ import { useAuth } from '@/contexts/AuthContext';
 import { useToast } from '@/hooks/use-toast';
 import heroImage from '@/assets/hero-inventor.jpg';
 
+const ALLOWED_EMAILS = ['philip@lightmilemedia.com'];
+const ALLOWED_DOMAINS = ['evolutionofsmooth.com'];
+
+const isEmailAllowed = (email: string): boolean => {
+  const lower = email.toLowerCase().trim();
+  if (ALLOWED_EMAILS.includes(lower)) return true;
+  const domain = lower.split('@')[1];
+  return ALLOWED_DOMAINS.includes(domain);
+};
+
 const Gate: React.FC = () => {
-  const [isLogin, setIsLogin] = useState(true);
   const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-  const [accessCode, setAccessCode] = useState('');
+  const [firstName, setFirstName] = useState('');
+  const [lastName, setLastName] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  const { signIn, signUp } = useAuth();
+  const [magicLinkSent, setMagicLinkSent] = useState(false);
+  const { signInWithMagicLink } = useAuth();
   const { toast } = useToast();
   const navigate = useNavigate();
 
-  const validateAccessCode = (code: string): boolean => {
-    // Simple validation - starts with EOS-
-    return code.toUpperCase().startsWith('EOS-') && code.length >= 8;
-  };
-
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    
+    if (!firstName.trim() || !lastName.trim()) {
+      toast({
+        title: "name required",
+        description: "please enter your first and last name",
+        variant: "destructive",
+      });
+      return;
+    }
+
+    if (!isEmailAllowed(email)) {
+      toast({
+        title: "access restricted",
+        description: "this experience is limited to authorized email addresses",
+        variant: "destructive",
+      });
+      return;
+    }
+
     setIsLoading(true);
-
     try {
-      if (isLogin) {
-        const { error } = await signIn(email, password);
-        if (error) {
-          toast({
-            title: "login failed",
-            description: error.message,
-            variant: "destructive",
-          });
-        } else {
-          navigate('/dashboard');
-        }
+      const { error } = await signInWithMagicLink(email, firstName.trim(), lastName.trim());
+      if (error) {
+        toast({
+          title: "something went wrong",
+          description: error.message,
+          variant: "destructive",
+        });
       } else {
-        if (!validateAccessCode(accessCode)) {
-          toast({
-            title: "invalid access code",
-            description: "please enter a valid access code (e.g., EOS-XXXX)",
-            variant: "destructive",
-          });
-          setIsLoading(false);
-          return;
-        }
-
-        const { error } = await signUp(email, password, accessCode);
-        if (error) {
-          toast({
-            title: "registration failed",
-            description: error.message,
-            variant: "destructive",
-          });
-        } else {
-          toast({
-            title: "welcome to the playbook",
-            description: "your seat has been claimed. let's begin!",
-          });
-          navigate('/dashboard');
-        }
+        setMagicLinkSent(true);
+        toast({
+          title: "check your inbox",
+          description: "we sent you a magic link to sign in",
+        });
       }
     } finally {
       setIsLoading(false);
@@ -79,7 +79,7 @@ const Gate: React.FC = () => {
       {/* Cinematic Overlay */}
       <div className="absolute inset-0 cinema-overlay" />
 
-      {/* Logos - High contrast on dark background */}
+      {/* Logos */}
       <div className="absolute top-6 left-1/2 -translate-x-1/2 flex items-center gap-4 z-10">
         <span className="text-white text-sm font-medium tracking-wider">lightmile media</span>
         <span className="text-white/40">|</span>
@@ -102,65 +102,71 @@ const Gate: React.FC = () => {
           </p>
         </div>
 
-        <form onSubmit={handleSubmit} className="space-y-4">
-          <div>
-            <label className="block text-sm font-medium mb-2">email</label>
-            <Input
-              type="email"
-              placeholder="your@email.com"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              required
-              className="h-12 rounded-full"
-            />
+        {magicLinkSent ? (
+          <div className="text-center space-y-4 py-6">
+            <div className="text-4xl">✉️</div>
+            <h2 className="heading-lowercase text-xl">check your email</h2>
+            <p className="text-muted-foreground text-sm">
+              we sent a sign-in link to <strong>{email}</strong>. click it to enter the playbook.
+            </p>
+            <Button
+              variant="outline"
+              className="mt-4"
+              onClick={() => setMagicLinkSent(false)}
+            >
+              use a different email
+            </Button>
           </div>
+        ) : (
+          <form onSubmit={handleSubmit} className="space-y-4">
+            <div className="grid grid-cols-2 gap-3">
+              <div>
+                <label className="block text-sm font-medium mb-2">first name</label>
+                <Input
+                  type="text"
+                  placeholder="first name"
+                  value={firstName}
+                  onChange={(e) => setFirstName(e.target.value)}
+                  required
+                  className="h-12 rounded-full"
+                />
+              </div>
+              <div>
+                <label className="block text-sm font-medium mb-2">last name</label>
+                <Input
+                  type="text"
+                  placeholder="last name"
+                  value={lastName}
+                  onChange={(e) => setLastName(e.target.value)}
+                  required
+                  className="h-12 rounded-full"
+                />
+              </div>
+            </div>
 
-          <div>
-            <label className="block text-sm font-medium mb-2">password</label>
-            <Input
-              type="password"
-              placeholder="••••••••"
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-              required
-              className="h-12 rounded-full"
-            />
-          </div>
-
-          {!isLogin && (
-            <div className="animate-fade-in">
-              <label className="block text-sm font-medium mb-2">access code</label>
+            <div>
+              <label className="block text-sm font-medium mb-2">email</label>
               <Input
-                type="text"
-                placeholder="ex: EOS-XXXX"
-                value={accessCode}
-                onChange={(e) => setAccessCode(e.target.value.toUpperCase())}
+                type="email"
+                placeholder="your@email.com"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
                 required
-                className="h-12 rounded-full uppercase"
+                className="h-12 rounded-full"
               />
             </div>
-          )}
 
-          <Button
-            type="submit"
-            variant="eos"
-            size="lg"
-            className="w-full mt-6"
-            disabled={isLoading}
-          >
-            {isLoading ? 'please wait...' : isLogin ? 'enter the playbook' : 'claim your seat'}
-          </Button>
-        </form>
-
-        <div className="mt-6 text-center">
-          <button
-            type="button"
-            className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-            onClick={() => setIsLogin(!isLogin)}
-          >
-            {isLogin ? "don't have access? register here" : "already registered? sign in"}
-          </button>
-        </div>
+            <Button
+              type="submit"
+              variant="eos"
+              size="lg"
+              className="w-full mt-6"
+              disabled={isLoading}
+            >
+              {isLoading ? 'please wait...' : 'enter the playbook'}
+            </Button>
+          </form>
+        )}
 
         <div className="mt-8 pt-6 border-t border-border text-center space-y-2">
           <button

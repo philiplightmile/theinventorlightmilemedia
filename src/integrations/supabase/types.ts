@@ -93,7 +93,9 @@ export type Database = {
         Row: {
           access_code_used: string | null
           created_at: string | null
+          first_name: string | null
           id: string
+          last_name: string | null
           modules_completed: string[] | null
           status: Database["public"]["Enums"]["user_status"] | null
           user_id: string
@@ -101,7 +103,9 @@ export type Database = {
         Insert: {
           access_code_used?: string | null
           created_at?: string | null
+          first_name?: string | null
           id?: string
+          last_name?: string | null
           modules_completed?: string[] | null
           status?: Database["public"]["Enums"]["user_status"] | null
           user_id: string
@@ -109,7 +113,9 @@ export type Database = {
         Update: {
           access_code_used?: string | null
           created_at?: string | null
+          first_name?: string | null
           id?: string
+          last_name?: string | null
           modules_completed?: string[] | null
           status?: Database["public"]["Enums"]["user_status"] | null
           user_id?: string
