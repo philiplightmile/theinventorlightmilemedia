@@ -21,7 +21,7 @@ const Gate: React.FC = () => {
   const [firstName, setFirstName] = useState('');
   const [lastName, setLastName] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  const [magicLinkSent, setMagicLinkSent] = useState(false);
+  
   const { signInWithMagicLink } = useAuth();
   const { toast } = useToast();
   const navigate = useNavigate();
@@ -57,11 +57,7 @@ const Gate: React.FC = () => {
           variant: "destructive",
         });
       } else {
-        setMagicLinkSent(true);
-        toast({
-          title: "check your inbox",
-          description: "we sent you a magic link to sign in",
-        });
+        navigate('/dashboard');
       }
     } finally {
       setIsLoading(false);
@@ -102,23 +98,7 @@ const Gate: React.FC = () => {
           </p>
         </div>
 
-        {magicLinkSent ? (
-          <div className="text-center space-y-4 py-6">
-            <div className="text-4xl">✉️</div>
-            <h2 className="heading-lowercase text-xl">check your email</h2>
-            <p className="text-muted-foreground text-sm">
-              we sent a sign-in link to <strong>{email}</strong>. click it to enter the playbook.
-            </p>
-            <Button
-              variant="outline"
-              className="mt-4"
-              onClick={() => setMagicLinkSent(false)}
-            >
-              use a different email
-            </Button>
-          </div>
-        ) : (
-          <form onSubmit={handleSubmit} className="space-y-4">
+        <form onSubmit={handleSubmit} className="space-y-4">
             <div className="grid grid-cols-2 gap-3">
               <div>
                 <label className="block text-sm font-medium mb-2">first name</label>
@@ -166,7 +146,6 @@ const Gate: React.FC = () => {
               {isLoading ? 'please wait...' : 'enter the playbook'}
             </Button>
           </form>
-        )}
 
         <div className="mt-8 pt-6 border-t border-border text-center space-y-2">
           <button
