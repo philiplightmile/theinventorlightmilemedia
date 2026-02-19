@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { Wifi } from 'lucide-react';
+import { Button } from '@/components/ui/button';
 import { ExerciseCard } from '@/components/ExerciseCard';
 import { PrePulseSurvey } from '@/components/PrePulseSurvey';
 import { PostPulseSurvey } from '@/components/PostPulseSurvey';
@@ -87,7 +89,7 @@ const Dashboard: React.FC = () => {
       {/* Main Content */}
       <main className="container mx-auto px-4 py-8">
         {/* Context Block */}
-        <section className="mb-12 animate-fade-in max-w-3xl mx-auto text-center">
+        <section className="mb-12 animate-fade-in max-w-5xl mx-auto text-center">
           <h2 className="heading-lowercase text-3xl mb-6">the architecture of beauty & innovation</h2>
           <div className="space-y-4 text-muted-foreground text-base leading-relaxed">
             <p>
@@ -112,19 +114,28 @@ const Dashboard: React.FC = () => {
               title="The Inventor"
             />
           </div>
-          <p className="text-center text-muted-foreground mt-6 max-w-2xl mx-auto text-lg italic">
-            "Now that you've watched the film, take a few minutes to send a note of gratitude to someone whose amazing work may have gone unrecognized as of late."
+          <p className="text-center text-muted-foreground mt-6 mx-auto text-lg">
+            Now that you've watched the film, take a moment to send a thank-you note to a colleague whose hard work might be going unrecognized.
           </p>
         </section>
 
         {/* Single Action Card */}
-        <section className="animate-slide-up max-w-sm mx-auto" style={{ animationDelay: '0.2s' }}>
-          <ExerciseCard
-            exercise="visibility"
-            exerciseNumber={0}
-            status={getExerciseStatus('visibility')}
+        <section className="animate-slide-up max-w-5xl mx-auto" style={{ animationDelay: '0.2s' }}>
+          <div
+            className="flex items-center justify-between rounded-2xl border border-border bg-card p-6 cursor-pointer transition-all duration-300 hover:shadow-elevated hover:-translate-y-0.5"
+            style={{ boxShadow: 'var(--shadow-soft)' }}
             onClick={() => handleExerciseClick('visibility')}
-          />
+          >
+            <div className="flex items-center gap-4">
+              <div className="w-12 h-12 rounded-2xl flex items-center justify-center bg-eos-mint/10">
+                <Wifi className="w-6 h-6 text-eos-mint" />
+              </div>
+              <h3 className="heading-lowercase text-lg font-medium">recognize one of your colleagues</h3>
+            </div>
+            <Button variant="eos" className="shrink-0">
+              send a note
+            </Button>
+          </div>
         </section>
 
         {/* Footer */}
