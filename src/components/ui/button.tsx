@@ -16,9 +16,9 @@ const buttonVariants = cva(
         ghost: "hover:bg-accent hover:text-accent-foreground",
         link: "text-primary underline-offset-4 hover:underline",
         // eos Pop variants - white bg, black border, lime hover
-        eos: "bg-white text-black border border-black rounded-full hover:bg-eos-lime",
-        "eos-outline": "border border-black text-foreground bg-transparent rounded-full hover:bg-eos-lime",
-        "eos-magenta": "bg-eos-magenta text-white border border-black rounded-full hover:opacity-90",
+        eos: "bg-primary text-white border-none rounded-full hover:opacity-90 hover:scale-[1.02]",
+        "eos-outline": "border border-border text-foreground bg-transparent rounded-full hover:bg-primary/10",
+        "eos-magenta": "bg-primary text-white border-none rounded-full hover:opacity-90",
         cinema: "bg-cinema-dark text-white hover:bg-cinema-dark/90",
         glass: "backdrop-blur-xl bg-white/10 border border-white/20 text-white hover:bg-white/20 rounded-full",
       },

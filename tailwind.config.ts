@@ -14,8 +14,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        display: ['"DM Serif Display"', 'serif'],
-        body: ['"DM Sans"', 'Inter', 'system-ui', 'sans-serif'],
+        display: ['"Nunito"', 'system-ui', 'sans-serif'],
+        body: ['"Nunito"', 'system-ui', 'sans-serif'],
       },
       colors: {
         border: "hsl(var(--border))",

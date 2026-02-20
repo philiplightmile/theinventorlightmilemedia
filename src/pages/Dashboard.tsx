@@ -122,13 +122,13 @@ const Dashboard: React.FC = () => {
         {/* Single Action Card */}
         <section className="animate-slide-up max-w-5xl mx-auto" style={{ animationDelay: '0.2s' }}>
           <div
-            className="flex items-center justify-between rounded-2xl border border-border bg-card p-6 cursor-pointer transition-all duration-300 hover:shadow-elevated hover:-translate-y-0.5"
-            style={{ boxShadow: 'var(--shadow-soft)' }}
+            className="flex items-center justify-between rounded-3xl bg-card p-6 cursor-pointer transition-all duration-300 hover:-translate-y-0.5"
+            style={{ boxShadow: '0px 10px 30px rgba(0,0,0,0.05)' }}
             onClick={() => handleExerciseClick('visibility')}
           >
             <div className="flex items-center gap-4">
-              <div className="w-12 h-12 rounded-2xl flex items-center justify-center bg-eos-mint/10">
-                <Wifi className="w-6 h-6 text-eos-mint" />
+              <div className="w-12 h-12 rounded-2xl flex items-center justify-center bg-primary/10">
+                <Wifi className="w-6 h-6 text-primary" />
               </div>
               <h3 className="heading-lowercase text-lg font-medium">recognize one of your colleagues</h3>
             </div>
