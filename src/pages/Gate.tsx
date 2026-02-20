@@ -6,7 +6,7 @@ import { useAuth } from '@/contexts/AuthContext';
 import { useToast } from '@/hooks/use-toast';
 import heroImage from '@/assets/hero-inventor.jpg';
 
-const ALLOWED_EMAILS = ['philip@lightmilemedia.com'];
+const ALLOWED_EMAILS = ['philip@lightmilemedia.com', 'cabral@cabral.co'];
 const ALLOWED_DOMAINS = ['evolutionofsmooth.com'];
 
 const isEmailAllowed = (email: string): boolean => {
