@@ -67,7 +67,7 @@ serve(async (req) => {
             <p style="font-size: 16px; line-height: 1.7; color: #333; white-space: pre-wrap; margin: 0 0 28px 0;">${sanitize(message)}</p>
             <hr style="border: none; border-top: 1px solid #eee; margin: 24px 0;" />
             <p style="font-size: 12px; color: #aaa; margin: 0; text-align: center;">
-              Sent via <strong style="color: #E91E8C;">eos Products</strong> ✨ · Reply directly to ${sanitize(displayName)}
+              Sent via <strong style="color: #E91E8C;">eos Products</strong> ✨ · <a href="mailto:${sanitize(senderEmail)}" style="color: #E91E8C; text-decoration: none;">Reply directly to ${sanitize(displayName)}</a>
             </p>
           </div>
         `,
