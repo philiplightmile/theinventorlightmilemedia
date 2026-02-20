@@ -275,7 +275,7 @@ const Exercise: React.FC = () => {
           {/* Logo Lockup */}
           <Link to="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
             <span className="text-sm text-muted-foreground">|</span>
-            <span className="text-sm font-bold tracking-wider text-eos-magenta">
+            <span className="text-sm font-bold tracking-wider text-primary">
               eos Products
             </span>
           </Link>
@@ -303,7 +303,7 @@ const Exercise: React.FC = () => {
             {content.contextBody.split('\n\n').map((paragraph, i) => (
               <p key={i} className="text-muted-foreground leading-relaxed mb-4">{paragraph}</p>
             ))}
-            <p className="font-medium text-sm border-l-2 border-eos-magenta pl-4">{content.instruction}</p>
+            <p className="font-medium text-sm border-l-2 border-primary pl-4">{content.instruction}</p>
           </div>
 
           {/* Activity Panel */}
@@ -314,7 +314,7 @@ const Exercise: React.FC = () => {
                   <div key={num}>
                     <label className="block text-sm font-medium mb-2">
                       friction point #{num}
-                      {num > 1 && <span className="text-gray-500 font-normal ml-2">(Optional)</span>}
+                      {num > 1 && <span className="text-muted-foreground font-normal ml-2">(Optional)</span>}
                     </label>
                     <Select 
                       value={num === 1 ? frictionCategory1 : num === 2 ? frictionCategory2 : frictionCategory3}

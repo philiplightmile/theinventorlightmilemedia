@@ -49,7 +49,7 @@ export const Header: React.FC<HeaderProps> = ({
           )}>|</span>
           <span className={cn(
             "text-sm font-bold tracking-wider",
-            isDark ? "text-eos-magenta" : "text-eos-magenta"
+            isDark ? "text-primary" : "text-primary"
           )}>
             eos Products
           </span>
@@ -69,8 +69,8 @@ export const Header: React.FC<HeaderProps> = ({
                   <Lock className="w-4 h-4" />
                 </Button>
               )}
-              <div className="w-10 h-10 rounded-full bg-eos-magenta/20 flex items-center justify-center">
-                <User className="w-5 h-5 text-eos-magenta" />
+              <div className="w-10 h-10 rounded-full bg-primary/20 flex items-center justify-center">
+                <User className="w-5 h-5 text-primary" />
               </div>
               <Button variant="ghost" size="icon" onClick={handleSignOut}>
                 <LogOut className="w-4 h-4" />
