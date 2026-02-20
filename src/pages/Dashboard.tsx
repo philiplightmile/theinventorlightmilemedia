@@ -115,7 +115,7 @@ const Dashboard: React.FC = () => {
             />
           </div>
           <p className="text-center text-muted-foreground mt-6 mx-auto text-xl">
-            Now that you've watched the film, take a moment to send a thank-you note to a colleague whose hard work might be going&nbsp;unrecognized.
+            Now that you've watched the film, take a moment to send a thank-you note to any colleagues whose hard work deserves to be&nbsp;recognized.
           </p>
         </section>
 
