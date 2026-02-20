@@ -53,7 +53,7 @@ serve(async (req) => {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        from: `eos Products <appreciation@lightmilemedia.com>`,
+        from: `Your Colleague at eos Products <eos@lightmilemedia.com>`,
         to: [to],
         reply_to: senderEmail,
         subject: subject,
