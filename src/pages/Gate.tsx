@@ -85,7 +85,7 @@ const Gate: React.FC = () => {
       {/* Privacy Footer */}
       <div className="absolute bottom-4 left-0 right-0 z-10">
         <p className="text-center text-xs text-white/50">
-          All responses are anonymized to ensure open, honest feedback.
+          Copyright 2026 Lightmile Media LLC.
         </p>
       </div>
 
