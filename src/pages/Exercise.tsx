@@ -111,6 +111,7 @@ const Exercise: React.FC = () => {
   const [message, setMessage] = useState('');
   
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [notesSentCount, setNotesSentCount] = useState(0);
 
   const content = exerciseContent[exerciseId as keyof typeof exerciseContent];
   
@@ -217,11 +218,19 @@ const Exercise: React.FC = () => {
             variant: "destructive",
           });
         } else {
+          setNotesSentCount(prev => prev + 1);
           toast({
             title: "note sent! ✨",
             description: `your appreciation email has been delivered to ${recipientEmail}.`,
           });
         }
+
+        // Clear recipient fields for next note, keep sender info
+        setRecipientEmail('');
+        setSubject('');
+        setMessage('');
+        setIsSubmitting(false);
+        return; // Don't navigate away — allow sending more
       }
 
       // Update profile with completed exercise
@@ -453,19 +462,37 @@ const Exercise: React.FC = () => {
               </div>
             )}
 
-            <Button
-              variant="eos"
-              size="lg"
-              className="w-full mt-6"
-              onClick={handleSubmit}
-              disabled={isSubmitting || (exerciseId === 'friction' && (!frictionCategory1 || !friction1))}
-            >
-              {isSubmitting ? 'submitting...' : 
-                exerciseId === 'friction' ? 'submit to heatmap' :
-                exerciseId === 'makeover' ? 'submit design' :
-                'send note'
-              }
-            </Button>
+            {exerciseId === 'visibility' && notesSentCount > 0 && (
+              <div className="mt-4 p-3 rounded-2xl bg-secondary/20 text-center">
+                <p className="text-sm font-medium">{notesSentCount} note{notesSentCount !== 1 ? 's' : ''} sent ✨</p>
+              </div>
+            )}
+
+            <div className={cn("mt-6", exerciseId === 'visibility' ? "flex gap-3" : "")}>
+              {exerciseId === 'visibility' && notesSentCount > 0 && (
+                <Button
+                  variant="eos-outline"
+                  size="lg"
+                  className="flex-1"
+                  onClick={() => navigate('/dashboard')}
+                >
+                  done
+                </Button>
+              )}
+              <Button
+                variant="eos"
+                size="lg"
+                className={exerciseId === 'visibility' ? "flex-1" : "w-full"}
+                onClick={handleSubmit}
+                disabled={isSubmitting || (exerciseId === 'friction' && (!frictionCategory1 || !friction1))}
+              >
+                {isSubmitting ? 'submitting...' : 
+                  exerciseId === 'friction' ? 'submit to heatmap' :
+                  exerciseId === 'makeover' ? 'submit design' :
+                  notesSentCount > 0 ? 'send another note' : 'send note'
+                }
+              </Button>
+            </div>
           </div>
 
           {/* Preview Panel for Visibility */}
