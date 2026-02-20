@@ -22,9 +22,15 @@ const Dashboard: React.FC = () => {
   }, [user, loading, navigate]);
 
   useEffect(() => {
-    // Show pre-pulse survey if user just started
+    // Auto-advance past pre-pulse survey step
     if (profile?.status === 'started') {
-      setShowPrePulse(true);
+      import('@/integrations/supabase/client').then(({ supabase }) => {
+        supabase
+          .from('profiles')
+          .update({ status: 'survey_complete' })
+          .eq('user_id', user?.id)
+          .then(() => refreshProfile());
+      });
     }
   }, [profile?.status]);
 
