@@ -21,7 +21,7 @@
     --popover-foreground: 0 0% 18%;
 
     /* eos Strawberry Dream Pink - Primary Action */
-    --primary: 350 87% 70%; /* #F47290 */
+    --primary: 338 72% 58%; /* #D94B8A */
     --primary-foreground: 0 0% 100%;
 
     /* eos Pistachio Green - Secondary/Success */
@@ -43,15 +43,15 @@
     /* Borders & Inputs - soft warm gray */
     --border: 30 10% 85%;
     --input: 30 10% 80%;
-    --ring: 350 87% 70%;
+    --ring: 338 72% 58%;
 
     --radius: 1.5rem;
 
     /* Custom tokens */
-    --eos-magenta: 350 87% 70%; /* Strawberry Dream #F47290 */
+    --eos-magenta: 338 72% 58%; /* Vivid Pink #D94B8A */
     --eos-lime: 153 45% 71%; /* Pistachio #95D3B3 */
     --eos-blue: 186 62% 67%;
-    --eos-pink: 350 87% 70%;
+    --eos-pink: 338 72% 58%;
     --eos-mint: 153 45% 71%;
     --eos-orange: 35 90% 65%;
     --canvas: 40 50% 98%;
@@ -65,17 +65,17 @@
     /* Shadows - soft diffused */
     --shadow-soft: 0 4px 20px -4px hsl(0 0% 0% / 0.05);
     --shadow-elevated: 0 10px 30px -8px hsl(0 0% 0% / 0.08);
-    --shadow-glow-magenta: 0 8px 32px -8px hsl(350 87% 70% / 0.3);
+    --shadow-glow-magenta: 0 8px 32px -8px hsl(338 72% 58% / 0.3);
 
     /* Sidebar */
     --sidebar-background: 40 40% 97%;
     --sidebar-foreground: 0 0% 18%;
-    --sidebar-primary: 350 87% 70%;
+    --sidebar-primary: 338 72% 58%;
     --sidebar-primary-foreground: 0 0% 100%;
     --sidebar-accent: 153 45% 71%;
     --sidebar-accent-foreground: 0 0% 18%;
     --sidebar-border: 30 10% 85%;
-    --sidebar-ring: 350 87% 70%;
+    --sidebar-ring: 338 72% 58%;
   }
 
   .dark {
@@ -88,7 +88,7 @@
     --popover: 0 0% 14%;
     --popover-foreground: 40 20% 92%;
 
-    --primary: 350 87% 70%;
+    --primary: 338 72% 58%;
     --primary-foreground: 0 0% 100%;
 
     --secondary: 153 45% 71%;
@@ -105,19 +105,19 @@
 
     --border: 0 0% 25%;
     --input: 0 0% 25%;
-    --ring: 350 87% 70%;
+    --ring: 338 72% 58%;
 
     --glass-bg: 0 0% 14%;
     --glass-border: 0 0% 25%;
 
     --sidebar-background: 0 0% 12%;
     --sidebar-foreground: 40 20% 92%;
-    --sidebar-primary: 350 87% 70%;
+    --sidebar-primary: 338 72% 58%;
     --sidebar-primary-foreground: 0 0% 100%;
     --sidebar-accent: 153 45% 71%;
     --sidebar-accent-foreground: 0 0% 18%;
     --sidebar-border: 0 0% 25%;
-    --sidebar-ring: 350 87% 70%;
+    --sidebar-ring: 338 72% 58%;
   }
 }
 
@@ -283,7 +283,7 @@
   }
 
   .gradient-magenta {
-    background: linear-gradient(135deg, hsl(350 87% 70%), hsl(350 87% 60%));
+    background: linear-gradient(135deg, hsl(338 72% 58%), hsl(338 72% 48%));
   }
 
   .gradient-lime {
