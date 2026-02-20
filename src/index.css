@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -133,8 +133,8 @@
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Nunito', system-ui, sans-serif;
-    @apply tracking-tight font-bold;
+    font-family: 'Playfair Display', serif;
+    @apply tracking-tight font-black;
   }
 }
 
@@ -268,18 +268,18 @@
 
 @layer utilities {
   .text-display {
-    font-family: 'Nunito', system-ui, sans-serif;
+    font-family: 'Playfair Display', serif;
   }
 
   .text-body {
     font-family: 'Nunito', system-ui, sans-serif;
   }
 
-  /* Lowercase sans for headings */
+  /* Lowercase serif for headings */
   .heading-lowercase {
-    font-family: 'Nunito', system-ui, sans-serif;
+    font-family: 'Playfair Display', serif;
     text-transform: lowercase;
-    @apply tracking-tight font-extrabold;
+    @apply tracking-tight font-black;
   }
 
   .gradient-magenta {
