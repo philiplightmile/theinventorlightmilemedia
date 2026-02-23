@@ -3,7 +3,6 @@ import { useNavigate } from 'react-router-dom';
 import { Wifi } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { ExerciseCard } from '@/components/ExerciseCard';
-import { PrePulseSurvey } from '@/components/PrePulseSurvey';
 import { PostPulseSurvey } from '@/components/PostPulseSurvey';
 import { Header } from '@/components/Header';
 import { PrivacyFooter } from '@/components/PrivacyFooter';
@@ -12,7 +11,6 @@ import { useAuth } from '@/contexts/AuthContext';
 const Dashboard: React.FC = () => {
   const { user, profile, signOut, loading, refreshProfile } = useAuth();
   const navigate = useNavigate();
-  const [showPrePulse, setShowPrePulse] = useState(false);
   const [showPostPulse, setShowPostPulse] = useState(false);
 
   useEffect(() => {
@@ -33,11 +31,6 @@ const Dashboard: React.FC = () => {
       });
     }
   }, [profile?.status]);
-
-  const handlePrePulseComplete = () => {
-    setShowPrePulse(false);
-    refreshProfile();
-  };
 
   const modulesCompleted = profile?.modules_completed || [];
   const completedCount = modulesCompleted.length;
@@ -83,9 +76,8 @@ const Dashboard: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-background">
-      {/* Pre-Pulse Survey Modal */}
-      {showPrePulse && <PrePulseSurvey onComplete={handlePrePulseComplete} />}
-      
+
+
       {/* Post-Pulse Survey Modal */}
       {showPostPulse && <PostPulseSurvey />}
 
