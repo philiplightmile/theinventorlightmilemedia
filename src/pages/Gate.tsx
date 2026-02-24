@@ -38,14 +38,6 @@ const Gate: React.FC = () => {
       return;
     }
 
-    if (!isEmailAllowed(email)) {
-      toast({
-        title: "access restricted",
-        description: "this experience is limited to authorized email addresses",
-        variant: "destructive",
-      });
-      return;
-    }
 
     setIsLoading(true);
     try {
