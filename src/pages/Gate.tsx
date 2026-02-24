@@ -17,7 +17,6 @@ const isEmailAllowed = (email: string): boolean => {
 };
 
 const Gate: React.FC = () => {
-  const [email, setEmail] = useState('');
   const [firstName, setFirstName] = useState('');
   const [lastName, setLastName] = useState('');
   const [isLoading, setIsLoading] = useState(false);
@@ -38,10 +37,12 @@ const Gate: React.FC = () => {
       return;
     }
 
+    // Generate a deterministic email from the name for backend auth
+    const generatedEmail = `${firstName.trim().toLowerCase()}.${lastName.trim().toLowerCase()}@guest.eos.local`;
 
     setIsLoading(true);
     try {
-      const { error } = await signInWithMagicLink(email, firstName.trim(), lastName.trim());
+      const { error } = await signInWithMagicLink(generatedEmail, firstName.trim(), lastName.trim());
       if (error) {
         toast({
           title: "something went wrong",
@@ -116,17 +117,6 @@ const Gate: React.FC = () => {
               </div>
             </div>
 
-            <div>
-              <label className="block text-sm font-medium mb-2">email</label>
-              <Input
-                type="email"
-                placeholder="your@email.com"
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
-                required
-                className="h-12 rounded-full"
-              />
-            </div>
 
             <Button
               type="submit"
