@@ -1,57 +1,21 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
-import { Input } from '@/components/ui/input';
-import { useAuth } from '@/contexts/AuthContext';
-import { useToast } from '@/hooks/use-toast';
+import { supabase } from '@/integrations/supabase/client';
 import heroImage from '@/assets/hero-inventor.jpg';
 
-const ALLOWED_EMAILS = ['philip@lightmilemedia.com', 'cabral@cabral.co'];
-const ALLOWED_DOMAINS = ['evolutionofsmooth.com'];
-
-const isEmailAllowed = (email: string): boolean => {
-  const lower = email.toLowerCase().trim();
-  if (ALLOWED_EMAILS.includes(lower)) return true;
-  const domain = lower.split('@')[1];
-  return ALLOWED_DOMAINS.includes(domain);
-};
-
 const Gate: React.FC = () => {
-  const [firstName, setFirstName] = useState('');
-  const [lastName, setLastName] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  
-  const { signInWithMagicLink } = useAuth();
-  const { toast } = useToast();
   const navigate = useNavigate();
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    
-    if (!firstName.trim() || !lastName.trim()) {
-      toast({
-        title: "name required",
-        description: "please enter your first and last name",
-        variant: "destructive",
-      });
-      return;
-    }
-
-    // Generate a deterministic email from the name for backend auth
-    const generatedEmail = `${firstName.trim().toLowerCase()}.${lastName.trim().toLowerCase()}@guest.eos.local`;
-
+  const handleEnter = async () => {
     setIsLoading(true);
     try {
-      const { error } = await signInWithMagicLink(generatedEmail, firstName.trim(), lastName.trim());
-      if (error) {
-        toast({
-          title: "something went wrong",
-          description: error.message,
-          variant: "destructive",
-        });
-      } else {
-        navigate('/dashboard');
-      }
+      // Record the page view
+      await supabase.from('page_views').insert({});
+      navigate('/dashboard');
+    } catch {
+      navigate('/dashboard');
     } finally {
       setIsLoading(false);
     }
@@ -91,43 +55,15 @@ const Gate: React.FC = () => {
           </p>
         </div>
 
-        <form onSubmit={handleSubmit} className="space-y-4">
-            <div className="grid grid-cols-2 gap-3">
-              <div>
-                <label className="block text-sm font-medium mb-2">first name</label>
-                <Input
-                  type="text"
-                  placeholder="first name"
-                  value={firstName}
-                  onChange={(e) => setFirstName(e.target.value)}
-                  required
-                  className="h-12 rounded-full"
-                />
-              </div>
-              <div>
-                <label className="block text-sm font-medium mb-2">last name</label>
-                <Input
-                  type="text"
-                  placeholder="last name"
-                  value={lastName}
-                  onChange={(e) => setLastName(e.target.value)}
-                  required
-                  className="h-12 rounded-full"
-                />
-              </div>
-            </div>
-
-
-            <Button
-              type="submit"
-              variant="eos"
-              size="lg"
-              className="w-full mt-6"
-              disabled={isLoading}
-            >
-              {isLoading ? 'please wait...' : 'enter the playbook'}
-            </Button>
-          </form>
+        <Button
+          variant="eos"
+          size="lg"
+          className="w-full"
+          disabled={isLoading}
+          onClick={handleEnter}
+        >
+          {isLoading ? 'please wait...' : 'enter the playbook'}
+        </Button>
 
         <div className="mt-8 pt-6 border-t border-border text-center space-y-2">
           <button

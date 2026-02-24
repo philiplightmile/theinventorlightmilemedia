@@ -13,11 +13,7 @@ const Dashboard: React.FC = () => {
   const navigate = useNavigate();
   const [showPostPulse, setShowPostPulse] = useState(false);
 
-  useEffect(() => {
-    if (!loading && !user) {
-      navigate('/');
-    }
-  }, [user, loading, navigate]);
+  // No auth gate - dashboard is publicly accessible
 
   useEffect(() => {
     // Auto-advance past pre-pulse survey step
