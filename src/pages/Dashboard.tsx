@@ -112,9 +112,6 @@ const Dashboard: React.FC = () => {
               title="The Inventor"
             />
           </div>
-          <p className="text-center text-muted-foreground mt-6 mx-auto text-xl">
-            Now that you've watched the film, take a moment to send a thank-you note to any colleagues whose hard work deserves to be&nbsp;recognized.
-          </p>
         </section>
 
 
