@@ -86,6 +86,7 @@ FIELDNAMES = [
 ]
 
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
+PHONE_RE = re.compile(r"(?:\+?1[\s.-]?)?\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}\b")
 
 PROPOSAL_KEYWORDS = ["speaker", "screening", "program"]
 REQUEST_WORD = "request"
@@ -182,6 +183,21 @@ def extract_emails_with_context(text, html_soup):
         results.append((addr, context[:160]))
 
     return results
+
+
+def extract_phones(text):
+    phones = []
+    seen = set()
+    for m in PHONE_RE.finditer(text):
+        ph = m.group(0)
+        if ph in seen:
+            continue
+        seen.add(ph)
+        start = max(0, m.start() - 80)
+        end = min(len(text), m.end() + 80)
+        context = re.sub(r"\s+", " ", text[start:end]).strip()
+        phones.append((ph, context[:160]))
+    return phones
 
 
 def is_role_address(addr):
@@ -326,6 +342,7 @@ def process_org(org_name, unit, homepage_url, contact_page_url, territory):
 
     visited = set()
     all_emails = []  # (page_url, email, nearby_text, unit_relevance)
+    all_phones = []  # (page_url, phone, nearby_text)
     skipped_role_addresses = []  # per-page tracking; collected globally
     directory_capped_pages = []
     proposal_evidence = None
@@ -375,6 +392,10 @@ def process_org(org_name, unit, homepage_url, contact_page_url, territory):
         if page_skipped_roles:
             skipped_role_addresses.extend(page_skipped_roles)
 
+        if not page_kept:
+            for phone, context in extract_phones(text):
+                all_phones.append((real_url, phone, context))
+
         if proposal_evidence is None:
             purl, snippet = find_proposal_evidence(text, real_url)
             if snippet:
@@ -416,6 +437,23 @@ def process_org(org_name, unit, homepage_url, contact_page_url, territory):
                 unit_relevance=relevance,
             )
             rows.append(row)
+    elif all_phones:
+        page_url, phone, context = all_phones[0]
+        row = base_row(org_name, territory)
+        flags = []
+        if skipped_flag:
+            flags.append(skipped_flag)
+        row.update(
+            homepage_status=homepage_status,
+            page_url=page_url,
+            nearby_text=f"phone: {phone} | {context}",
+            proposal_page_url=proposal_url or "",
+            proposal_snippet=proposal_snippet or "",
+            fetched_at=now,
+            status="phone_only",
+            flags="; ".join(flags),
+        )
+        rows.append(row)
     else:
         row = base_row(org_name, territory)
         flags = ["no_email_found"]
