@@ -1,0 +1,76 @@
+org_name,homepage_url,territory
+North Carolina Central University,https://www.nccu.edu/,T1-hbcu
+Winston-Salem State University,https://www.wssu.edu/,T1-hbcu
+South Carolina State University,https://www.scsu.edu/,T1-hbcu
+Washington and Lee University,https://www.wlu.edu/,T2-midatlantic-southeast
+Elon University,https://www.elon.edu/,T2-midatlantic-southeast
+Mercer University,https://www.mercer.edu/,T2-midatlantic-southeast
+Roanoke College,https://www.roanoke.edu/,T2-midatlantic-southeast
+University of Richmond,https://www.richmond.edu/,T2-midatlantic-southeast
+Furman University,https://www.furman.edu/,T2-midatlantic-southeast
+Hendrix College,https://www.hendrix.edu/ (redirects to https://via.hendrix.edu/),T2-midatlantic-southeast
+Oberlin College,https://www.oberlin.edu,T2-midwest
+Macalester College,https://www.macalester.edu,T2-midwest
+Hope College,https://hope.edu,T2-midwest
+Wabash College,https://www.wabash.edu,T2-midwest
+Butler University,https://www.butler.edu,T2-midwest
+Kalamazoo College,https://www.kzoo.edu,T2-midwest
+Saint Louis University,https://www.slu.edu,T2-midwest
+Trinity College,https://www.trincoll.edu/,T2-northeast
+Vassar College,https://www.vassar.edu/,T2-northeast
+Bucknell University,https://www.bucknell.edu/,T2-northeast
+Fairfield University,https://www.fairfield.edu/,T2-northeast
+Skidmore College,https://www.skidmore.edu/,T2-northeast
+Dickinson College,https://www.dickinson.edu/,T2-northeast
+Providence College,https://www.providence.edu/,T2-northeast
+Stanford University,https://www.stanford.edu,T2-west-southwest
+Rice University,https://www.rice.edu,T2-west-southwest
+University of Puget Sound,https://www.pugetsound.edu,T2-west-southwest
+University of the Pacific,https://www.pacific.edu,T2-west-southwest
+Pepperdine University,https://www.pepperdine.edu,T2-west-southwest
+African American Firefighter Museum,https://www.aaffmuseum.org/,T3-fire-service
+African American Fire Fighters Historical Society,https://aaffhs.org/,T3-fire-service
+"Northern Nevada African American Firefighter Museum (Our Story, Inc.)",https://www.nnaafm.org/,T3-fire-service
+Central Ohio Fire Museum & Learning Center,https://www.centralohiofiremuseum.com/,T3-fire-service
+Fire Museum of Memphis,https://firemuseum.com/,T3-fire-service
+Fireman's Hall Museum,https://www.firemanshallmuseum.org/,T3-fire-service
+Vulcan Pioneers of New Jersey,https://vulcanpioneersnj.org/,T3-fire-service
+San Francisco Black Firefighters Association,https://www.sfbfa.org/,T3-fire-service
+"Museum of Science, Boston",https://www.mos.org/,T4-science-invention
+Griffin Museum of Science and Industry (Chicago),https://www.griffinmsi.org/,T4-science-invention
+KID Museum (Bethesda),https://kid-museum.org/,T4-science-invention
+Please Touch Museum (Philadelphia),https://www.pleasetouchmuseum.org/,T4-science-invention
+National Inventors Hall of Fame / Invent.org,https://www.invent.org/,T4-science-invention
+The Franklin Institute (Philadelphia),https://fi.edu/,T4-science-invention
+University of Maryland Black Alumni (UMBA) Network,https://alumni.umd.edu/events/marquee/black-alumni-weekend,T5-alumni
+Black Light Speaker Series (Loyola University Chicago),https://www.luc.edu/alumni/communitiesinterests/alumninetworks/blacklightspeakerseriesresources/,T5-alumni
+Georgetown Black Alumni Council / Black Alumni Summit,https://bas.georgetown.edu/,T5-alumni
+Winthrop University Black Alumni Council,https://www.winthrop.edu/news-events/2026-winthrop-black-history-month-events.aspx,T5-alumni
+Mississippi State University Black Alumni Weekend,https://www.alumni.msstate.edu/black-alumni-weekend-2026,T5-alumni
+Cal State LA Black Alumni Network,https://www.calstatela.edu/alumni/black-alumni-network,T5-alumni
+Penn State Black Alumni Reunion,https://alumni.psu.edu/upcoming-events/bar/,T5-alumni
+WashU Black Alumni Weekend,https://alumni.washu.edu/reunite/black-alumni-weekend/,T5-alumni
+Harvard Kennedy School Black Alumni Association (HKS BAA),https://hksbaa.org/,T5-alumni
+Stanford National Black Alumni Association (SNBAA),https://www.stanfordblackalumni.org,T5-alumni
+Rutgers African-American Alumni Alliance,https://rutgersfoundation.org/news/black-alumni-collective-conference-rutgers-groundbreaking-event,T5-alumni
+UCLA Institute for Research on Labor and Employment (IRLE),https://irle.ucla.edu/,T6-labor
+Cornell University,https://www.ilr.cornell.edu/worker-institute,T6-labor
+"Rutgers, The State University of New Jersey",https://smlr.rutgers.edu/,T6-labor
+Pittsburgh A. Philip Randolph Institute (Pittsburgh APRI),https://www.pittsburghapri.org/,T6-labor
+The National A. Philip Randolph Pullman Porter Museum,https://www.thepullmanportersmuseum.org/,T6-labor
+Fayette County Public Schools,https://gmorgan.fcps.net/,T7-morgan-places
+NJCDC (New Jersey Community Development Corporation) / Paterson Public Schools,https://www.njcdc.org/,T7-morgan-places
+Hopewell Museum,https://www.hopewellmuseum.org/,T7-morgan-places
+Kentucky Historical Society,https://history.ky.gov/,T7-morgan-places
+Ohio History Connection,https://remarkableohio.org/,T7-morgan-places
+Cuyahoga County Public Library,https://www.cuyahogalibrary.org/,T7-morgan-places
+Eddie Mae Herron Center & Museum,https://www.herroncenter.org/,T8-black-history-orgs
+Hayti Heritage Center (St. Joseph's Historic Foundation),https://www.hayti.org/,T8-black-history-orgs
+Banneker-Douglass-Tubman Museum,https://bdmuseum.maryland.gov/,T8-black-history-orgs
+AARCH Society (African American Resources Cultural and Heritage Society),https://aarchsociety.org/,T8-black-history-orgs
+African American Historical Society of Portsmouth,https://www.blackhistoryportsmouth.org/,T8-black-history-orgs
+Jefferson School African American Heritage Center,https://www.jeffschoolheritagecenter.org/,T8-black-history-orgs
+"Museum of African American History (MAAH), Boston & Nantucket",https://maah.org/,T8-black-history-orgs
+North Carolina African American Heritage Commission,https://aahc.nc.gov/,T8-black-history-orgs
+South Carolina African American Heritage Commission,https://www.scaahc.org/,T8-black-history-orgs
+"George Washington Carver Museum, Cultural and Genealogy Center",https://www.austintexas.gov/carver/programs-events,T8-black-history-orgs
