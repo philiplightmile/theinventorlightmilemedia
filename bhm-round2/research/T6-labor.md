@@ -1,0 +1,41 @@
+# Territory T6: Labor and Workforce Groups with a Civil Rights or Education Arm
+
+**Date:** 2026-10-04
+**Territory:** T6 - Labor/workforce groups with civil rights or education arm (CBTU/APRI chapters, union education depts, labor history museums/archives, labor studies programs, apprenticeship/training centers)
+
+**Queries run:**
+- Coalition of Black Trade Unionists chapter Black History Month 2026 event
+- A. Philip Randolph Institute chapter labor history event 2026
+- labor studies program university public lecture series workplace safety history 2026
+- labor history museum Black history event 2026
+- "labor education" center public program Black History Month 2026 union
+- Cornell ILR labor history Black workers speaker event 2026
+- International Black Fire Fighters Museum labor apprenticeship training center speaker Black history 2026
+- American Labor Museum Black history event program 2025 2026
+
+**Candidates considered:** 12 (CBTU national, CBTU St. Louis chapter, APRI national, Pittsburgh APRI, A. Philip Randolph Pullman Porter Museum, Labor@Wayne/Fraser Center - Wayne State, UCLA IRLE/Labor Studies, Cornell ILR Worker Institute, Rutgers SMLR Labor Education Center, American Labor Museum, African American Firefighters Historical Society, International Black Fire Fighters Museum)
+
+**Candidates dropped:** 5
+- Already tracked/territory overlap: 2 (African American Firefighters Historical Society, International Black Fire Fighters Museum - fire-service focused, belongs to T3 territory and lacks distinct labor-union angle)
+- No fit / business-only programming: 1 (CBTU St. Louis chapter - site shows only routine membership meetings, no history or speaker programming found)
+- Duplicate/national HQ out of scope: 2 (CBTU national convention/HQ, APRI national conference - national bodies, not a bookable local unit; used to find chapters instead)
+
+**Rows kept:** 6
+**Rows with homepage opened:** 5
+**Rows with evidence page opened:** 6
+
+| org_name | unit | state | public_private | homepage_url | homepage_opened | evidence_url | evidence_summary | contact_page_url | fit | fit_reason | flags |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Wayne State University | Labor@Wayne / Walter P. Reuther Library, Douglas A. Fraser Center for Workplace Issues | MI | public; state_law: unsure | https://labor.wayne.edu/ | not opened: 403 Forbidden | https://labor.wayne.edu/events | Events page (opened) lists an April 8, 2026 talk "Class Warfare in Black Atlanta" by Dr. Augustus Wood on Black working-class struggles and gentrification, plus an April 28, 2026 "International Workers' Memorial Day" event on workplace safety/OSHA history - both run at the Walter Reuther Archives on Wayne State's campus. | none seen | High | Active, recurring public lecture series (Fraser Center) with a direct Black labor-history talk and a workplace-safety-history commemoration within the 18-month window; events are free and open to the public; no mention of honoraria. | unconfirmed: homepage itself returned 403, but the events subpage on the same domain opened and clearly shows an active, operating program |
+| UCLA Institute for Research on Labor and Employment (IRLE) | Department of Labor Studies - "Labor Studies Now" speaker series | CA | public; state_law: unsure | https://irle.ucla.edu/ | opened | https://irle.ucla.edu/2025/10/22/labor-studies-now-speaker-series/ | Announcement (opened) for the 2025-2026 "Labor Studies Now" series of public book talks, film screenings, and research workshops bringing together UCLA faculty, students, and community members to discuss labor-movement issues; several dated 2025-2026 sessions listed. | https://irle.ucla.edu/contact | High | Recurring, explicitly public colloquium series with a clear unit (Labor Studies Dept/IRLE) that books speakers and screenings; format (talk + film + public audience) matches the requested screening+talkback. No honoraria mentioned. |  |
+| Cornell University | ILR School - Worker Institute ("Union Days" series) | NY | public (NY statutory/contract college within Cornell); state_law: unsure | https://www.ilr.cornell.edu/worker-institute | opened | https://news.cornell.edu/stories/2026/04/book-talk-film-screening-keynote-highlight-union-days | Cornell news article (opened) describing the Worker Institute's April 2026 "Union Days" series - a book talk, documentary film screening, keynote, and panel on labor unions, immigration, and racial justice, including a talk tying Black Civil War history to labor law. All events free and open to the public. | none seen | High | Active public-facing program (book talk + film + panel format) run by a named unit (Worker Institute) with recent, directly relevant programming; no honoraria mentioned. | state_law note: ILR is one of Cornell's statutory colleges partly funded by New York State, but no specific law affecting programming was found on pages opened |
+| Rutgers, The State University of New Jersey | School of Management and Labor Relations (SMLR) - Labor Education Action Research Network (LEARN) | NJ | public; state_law: unsure | https://smlr.rutgers.edu/ | opened | https://smlr.rutgers.edu/smlr-celebrates-black-history-month-2024 | Page (opened) describes SMLR's 2024 Black History Month programming: a "LEARN Lessons" video series on Black labor historians/organizers (A. Philip Randolph, Seabrook Farms Strike, Paul Robeson), a Black Labor History display at the Labor Education Center, and a February 2024 alumni panel. No 2025/2026 version was linked from this page. | https://smlr.rutgers.edu/about-smlr/contact-us | Medium | Clear, recurring institutional practice of Black-labor-history programming with a dedicated unit (Labor Education Center/LEARN), but the only dated evidence found (2024) is outside the 18-month window; mission fit is strong. |  |
+| Pittsburgh A. Philip Randolph Institute (Pittsburgh APRI) | Breaking the Chains pre-apprenticeship / civil rights-labor program | PA | private (nonprofit, union/civil-rights affiliated) | https://www.pittsburghapri.org/ | opened | https://www.pittsburghapri.org/events-list/the-power-of-partnerships-gala | Events page (opened) shows "The Power of Partnerships Gala" on September 25, 2026 at the August Wilson African American Cultural Center - a fundraising/partnership event for the chapter's workforce-training and civil-rights mission; not itself a history or speaker program. | https://www.pittsburghapri.org/contact | Medium | Real, active local APRI chapter combining civil-rights advocacy with a tuition-free trades pre-apprenticeship program (plausible venue/audience for a workplace-safety-history talkback), but the only dated evidence is a gala, not history/speaker programming. |  |
+| The National A. Philip Randolph Pullman Porter Museum | Museum programs/education | IL | private (nonprofit museum) | https://www.thepullmanportersmuseum.org/ | opened | https://www.thepullmanportersmuseum.org/events | Events page (opened) references an annual February Black History Month celebration "to honor and celebrate the contributions of Black individuals throughout history," plus a February 20, 2026 "Gentle Warrior Gala," but gives no specific dated program detail beyond that. Homepage notes the physical museum is temporarily closed for expansion, reopening 2027, with some programs continuing off-site. | none seen | Medium | Mission is a direct match (Black labor/Pullman porter history), with a recurring annual BHM observance, but the evidence page lacks specific program detail and the physical site is closed for construction through 2027. | flag: museum building temporarily closed for expansion/renovation (reopening 2027); some programs reportedly continue off-site per homepage |
+
+## Five-line summary
+- Candidates considered: 12; Candidates dropped: 5 (2 already-tracked/territory overlap, 1 no fit, 2 duplicate/national-HQ out of scope)
+- Rows kept: 6
+- Rows with homepage opened: 5 of 6 (Wayne State's root homepage returned 403; its events subpage on the same domain opened and confirmed the program)
+- Rows with evidence page opened: 6 of 6
+- Fit ratings: 3 High (Wayne State/Labor@Wayne, UCLA IRLE, Cornell ILR Worker Institute), 3 Medium (Rutgers SMLR, Pittsburgh APRI, Pullman Porter Museum); no email addresses were recorded anywhere in this file.
