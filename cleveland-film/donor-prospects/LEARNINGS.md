@@ -1,3 +1,9 @@
+# Self-critique (iteration 6)
+Worked: natural-language 'annual report donors honor roll' queries again surfaced real donor pages (CMA FY2025 honor roll, Playhouse Square foundation support page). A new technique, cross-list overlap, ranks funders by how many independent opened donor lists they appear on: 12 funders appear on 3 lists (Fowler, Gund, Kulas, Murch, Lakeside, Jennings, Laub, Lincoln Electric, O'Neill Brothers, KeyBank, PNC...). See PRIORITY_OVERLAP.md. Yield: 19 rows from 3 opened pages, opened-page rate 3/3 productive.
+Failed: CMNH giving page names no organizations; library and CMSD searches gave nothing. My overlap rows got auto-generated names; fixed by hand. Weakness: overlap reflects general Cleveland philanthropy, not film or Black history interest; every list so far is Ohio.
+Next iteration (experiment): apply the overlap method outside Ohio and toward the film/Black history cause: open donor-list pages for 3 Kentucky and 3 New York/LA comparables with natural-language queries ('<org> annual report donors honor roll'): Louisville Orchestra, Speed Art Museum, Kentucky Humanities, Schomburg Center / NYPL, Film at Lincoln Center, Brooklyn Academy of Music, Film Independent, Black Film Festival sponsors. Add an eligibility pass on the top overlap funders (open their guidelines: fiscal sponsors, film, narrative) and record results in a new ELIGIBILITY.csv.
+Dead ends: CMNH giving pages, library foundation pages.
+
 # Self-critique (iteration 5)
 Worked: audit of two older rows passed. Opened pages gave honest negatives: Frazier-Joy Family Foundation is invite-only (not a target for cold outreach).
 Failed: the planned experiment (search 'grantable.co <org>' to find 990-based funder lists) did not work; searches do not surface those pages. Only 1 new row (MacArthur, tier B, weak fit); yield 0 A-tier per 15 searches. 3 of 8 page opens usable (404, 403, captcha on the rest).

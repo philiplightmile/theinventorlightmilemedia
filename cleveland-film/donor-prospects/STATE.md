@@ -1,5 +1,5 @@
 # State
-iteration: 5 (complete)
+iteration: 6 (complete)
 iteration_cap: 8
 schedule: hourly via routine firing into session_01BPy54o1SW1NMtoDVYtxeDn (trigger id recorded below)
 trigger_id: (pending)
@@ -15,3 +15,5 @@ Iteration 3 done: prospects.csv now ~40 opened rows; leads_to_open.csv holds uno
 Iteration 4 done: 40+10=50 opened rows; DROPPED.csv added. Next: grantable.co funder-list pages for KY/NY/LA lookalikes. Cap 8.
 
 Iteration 5 done: 51 opened rows; low yield. Next: natural-language donor roll queries for Cleveland comparables. Cap 8.
+
+Iteration 6 done: ~70 rows; PRIORITY_OVERLAP.md added. Next: Kentucky and NY/LA donor lists plus eligibility pass on top overlap funders. Cap 8.

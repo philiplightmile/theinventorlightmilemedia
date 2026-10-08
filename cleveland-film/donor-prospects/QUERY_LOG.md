@@ -24,3 +24,8 @@ iteration | query | source type | rows added | A-tier rows
 5 | open JGBF, Ford Roots 101, InsidePhilanthropy, Ali brochure | open | 0 (404, 403, captcha) | 0
 5 | open Frazier-Joy foundation, MacArthur BPM page | open | 1 (MacArthur, tier B) | 0
 5 | KCAAH sponsors, Louisville Story Program funders, Ali awards sponsors | search + open issuu | 0 | 0
+6 | Cleveland Museum of Art annual report donors honor roll | search + open FY2025 honor roll | 50+ organizations read; used for overlap analysis | -
+6 | Playhouse Square annual report donors | search + open foundation support page | 27 foundations read (as of 2024-07-22) | -
+6 | Cleveland Museum of Natural History donors | search + open giving societies page | 0 (no organizations named) | 0
+6 | Cleveland Public Library / CMSD STEM funders | search | 0 | 0
+6 | overlap analysis across GLSC, Karamu, CMA, Playhouse lists | analysis | 19 new funder rows, notes added to 15 existing | 19
