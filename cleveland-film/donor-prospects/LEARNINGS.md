@@ -1,3 +1,10 @@
+# Self-critique (iteration 5)
+Worked: audit of two older rows passed. Opened pages gave honest negatives: Frazier-Joy Family Foundation is invite-only (not a target for cold outreach).
+Failed: the planned experiment (search 'grantable.co <org>' to find 990-based funder lists) did not work; searches do not surface those pages. Only 1 new row (MacArthur, tier B, weak fit); yield 0 A-tier per 15 searches. 3 of 8 page opens usable (404, 403, captcha on the rest).
+Diagnosis: iteration 4's Karamu page was found by the natural query 'Karamu House annual report donors honor roll', not by naming grantable. Natural-language queries about 'annual report donors honor roll' or 'supporters' surface donor-list pages and PDFs.
+Next iteration (experiment): drop the grantable prefix. For Cleveland-area comparable orgs (Cleveland Museum of Art, Cleveland Museum of Natural History, Playhouse Square, Cleveland Public Library, Cleveland Orchestra), query '<org> annual report donors honor roll foundation' and open results, extracting only foundations and corporate programs; run pdftotext on any PDFs. Territories KY, NY, LA stay under-covered but Ohio sources are productive; accept the imbalance this round and flag it.
+Dead ends: JGBF page 404; Ford grants database (human check); InsidePhilanthropy 403; Ali Center brochure 404; issuu pages (no text).
+
 # Self-critique (iteration 4)
 Worked: the experiment (open leads before searching more) lifted opened-page rate from 22 to about 80 percent. Opening leads also dropped 3 poor fits (Ford JustFilms, Perspective Fund: documentary only; MacArthur: last grant 2018). grantable.co funder-list pages built from 990 filings are the best source found so far: one opened page listed 39 grantmakers with amounts and years.
 Failed: ProPublica summary pages list no grant recipients; Impact Partners page returned 403; the claim that the Fowler foundation stops grantmaking Dec 31, 2025 appears only in a search summary and was not confirmed.

@@ -20,3 +20,7 @@ iteration | query | source type | rows added | A-tier rows
 4 | open leads_to_open.csv URLs (MacArthur, Black Public Media, Ford, Perspective, Impact Partners) | open | 0 new rows; 3 leads dropped after opening (documentary or stale) | 0
 4 | Karamu House funder list (grantable.co, 990-based) | open | 10 | 10
 4 | Fowler, Gund, Reinberger searches + official/ProPublica pages | search + open | 0 new; notes added to existing rows, Reinberger eligibility confirmed | 0
+5 | grantable.co + org name (Ali Center, Frazier, Roots 101, Film Independent, BPM, CPL/Playhouse Square) | search | 0 (grantable prefix does not surface funder pages) | 0
+5 | open JGBF, Ford Roots 101, InsidePhilanthropy, Ali brochure | open | 0 (404, 403, captcha) | 0
+5 | open Frazier-Joy foundation, MacArthur BPM page | open | 1 (MacArthur, tier B) | 0
+5 | KCAAH sponsors, Louisville Story Program funders, Ali awards sponsors | search + open issuu | 0 | 0

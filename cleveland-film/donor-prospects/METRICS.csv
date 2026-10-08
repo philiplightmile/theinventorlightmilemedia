@@ -3,3 +3,4 @@ iteration,searches,pages_opened,pages_cited,rows_added,a_tier_rows,rows_dropped_
 2,7,5,9,14,12,0,"5/5 older rows confirmed in cached GLSC text (Fowler needed line-wrap match); NFFF page undated so recency unconfirmed",Kentucky/NY/LA/Segments
 3,5,2,9,19,19,4 (moved opened=N rows to leads_to_open.csv),"self-audit: iteration 2 added 4 not-opened rows against rule F; moved to leads file. Academy page undated.",Los Angeles/NY
 4,3,8,10,10,10,3 (dropped after opening: Ford, Perspective, MacArthur),"audit: reopened Fowler via grantexec (no sunset on page; search summary claim unconfirmed, flagged); 4/5 rows consistent",Ohio/Segments
+5,15,3,12,1,0,0,"audit 2/2 pass (Mellon grant, NFFF tiers re-opened and matched)",Kentucky/NY/LA
