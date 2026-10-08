@@ -1,3 +1,6 @@
+# Final note (iteration 8)
+Run complete; see FINAL_REPORT.md. Eligibility checks need official guideline pages; aggregator pages (grantexec, zeffy) conflict with each other and with search summaries.
+
 # Self-critique (iteration 7)
 Worked: Kentucky finally covered (21 rows from the Kentucky Humanities Scroll of Honor, opened). The eligibility pass paid off: opening Gund's current guidelines PDF (pdftotext) showed its arts program does not prioritize film productions, which overturns the overlap ranking for the top funder. Overlap is not eligibility.
 Failed: Film at Lincoln Center and DIA pages returned 403; Speed Art Museum, BAM searches gave summaries only; the Kulas, Jennings and Nord eligibility notes come from search summaries, not opened pages.

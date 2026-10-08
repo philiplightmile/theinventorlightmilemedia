@@ -6,3 +6,4 @@ iteration,searches,pages_opened,pages_cited,rows_added,a_tier_rows,rows_dropped_
 5,15,3,12,1,0,0,"audit 2/2 pass (Mellon grant, NFFF tiers re-opened and matched)",Kentucky/NY/LA
 6,5,3,8,19,19,0,"audit: renamed 8 rows whose names were auto-generated with a suffix; all new rows derived from opened lists",Ohio
 7,12,3,6,23,23,0,"audit: Gund downgraded after opening current guidelines (film not prioritized); 3 of 5 page opens usable",Kentucky/LA/Eligibility
+8,6,3,6,0,0,0,"final: eligibility pass on Murch, Laub, Kulas via grantexec; conflict logged for Laub; FINAL_REPORT written",Eligibility

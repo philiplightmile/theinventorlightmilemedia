@@ -1,5 +1,5 @@
 # State
-iteration: 7 (complete); NEXT IS FINAL (8 of 8)
+iteration: 8 (complete); FINAL. Routine disabled.
 iteration_cap: 8
 schedule: hourly via routine firing into session_01BPy54o1SW1NMtoDVYtxeDn (trigger id recorded below)
 trigger_id: (pending)
@@ -19,3 +19,5 @@ Iteration 5 done: 51 opened rows; low yield. Next: natural-language donor roll q
 Iteration 6 done: ~70 rows; PRIORITY_OVERLAP.md added. Next: Kentucky and NY/LA donor lists plus eligibility pass on top overlap funders. Cap 8.
 
 Iteration 7 done: ~93 rows. Final iteration: eligibility pass, FINAL_REPORT.md, disable routine.
+
+Iteration 8 done: FINAL_REPORT.md written. Routine trig_01CJjQZpoEtzJ3ZkyyrJrvnp disabled.
