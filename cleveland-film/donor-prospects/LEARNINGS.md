@@ -1,3 +1,9 @@
+# Self-critique (iteration 3)
+Worked: opening one rich supporters page (Academy Museum Founding Supporters) gave 19 rows; tiered donor pages beat search summaries again.
+Failed: opened-page rate only 2 of 9 cited (22 percent, below the 70 percent threshold); Sundance page is JavaScript-rendered and returned only a title; Black Public Media and Tribeca gave summaries only. Iteration 2 broke rule F by adding 4 rows I had not opened; I moved them to leads_to_open.csv.
+Experiment for iteration 4 (hypothesis: opened rate rises if I open pages before searching more): work through leads_to_open.csv first, opening each URL; then use ProPublica Nonprofit Explorer 990-PF pages for the top film and arts foundations to read actual grant lists. Rule: no row is added unless its page was opened.
+Dead ends: festival.sundance.org/sponsors (JS page), sloan.org grant page (403), Frazier annual report (no donors).
+
 # Self-critique (iteration 2)
 Worked: opening sponsor and grant pages that list organizations by tier (NFFF page gave 10 rows at once; Mellon and KFW pages gave dated grants).
 Failed: Frazier annual report page names no donors; Sloan page returned 403; LA and NY searches returned only search-result summaries I could not open, so those rows are opened=N.

@@ -12,3 +12,8 @@ iteration | query | source type | rows added | A-tier rows
 2 | Foundations fund narrative features Black history | search | 0 new (documentary-only funders) | 0
 2 | LA foundation Black film Academy Museum | search | 1 (Perspective Fund, not opened) | 0
 2 | NFFF corporate supporters | search + open sponsor page | 10 | 10
+3 | Sundance supporters | search + open page (JS page, empty) | 0 | 0
+3 | Academy Museum donors | search + open Founding Supporters page | 19 | 19
+3 | Black Public Media funders | search | 0 (leads only) | 0
+3 | Tribeca supporters | search | 0 (leads only) | 0
+3 | Film Independent supporters | search | 0 | 0
