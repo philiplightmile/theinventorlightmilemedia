@@ -6,3 +6,9 @@ iteration | query | source type | rows added | A-tier rows
 1 | Kentucky Black history museum donors | search + open article | 0 | 0
 1 | fire service foundation donors | search | 0 | 0
 1 | Black history documentary funders | search + open page | 2 | 2
+2 | Frazier History Museum donors | search + open report | 0 (page names no donors) | 0
+2 | Louisville foundations Black history film | search + open 2 pages | 2 | 2
+2 | Schomburg Center funders | search | 1 (Ford, not opened) | 1
+2 | Foundations fund narrative features Black history | search | 0 new (documentary-only funders) | 0
+2 | LA foundation Black film Academy Museum | search | 1 (Perspective Fund, not opened) | 0
+2 | NFFF corporate supporters | search + open sponsor page | 10 | 10

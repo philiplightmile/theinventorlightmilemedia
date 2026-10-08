@@ -1,2 +1,3 @@
 iteration,searches,pages_opened,pages_cited,rows_added,a_tier_rows,rows_dropped_by_rule,accuracy_audit,territory
 1,6,6,9,11,11,0,not run (baseline),Ohio/Segments
+2,7,5,9,14,12,0,"5/5 older rows confirmed in cached GLSC text (Fowler needed line-wrap match); NFFF page undated so recency unconfirmed",Kentucky/NY/LA/Segments
