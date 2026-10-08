@@ -17,3 +17,6 @@ iteration | query | source type | rows added | A-tier rows
 3 | Black Public Media funders | search | 0 (leads only) | 0
 3 | Tribeca supporters | search | 0 (leads only) | 0
 3 | Film Independent supporters | search | 0 | 0
+4 | open leads_to_open.csv URLs (MacArthur, Black Public Media, Ford, Perspective, Impact Partners) | open | 0 new rows; 3 leads dropped after opening (documentary or stale) | 0
+4 | Karamu House funder list (grantable.co, 990-based) | open | 10 | 10
+4 | Fowler, Gund, Reinberger searches + official/ProPublica pages | search + open | 0 new; notes added to existing rows, Reinberger eligibility confirmed | 0
