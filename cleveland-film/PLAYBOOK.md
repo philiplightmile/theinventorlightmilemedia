@@ -5,7 +5,7 @@ Adapted from the BHM repeatable outreach playbook. Offer: support (funding, fisc
 ## Differences from BHM
 - The ask is support, not a purchase. Targets are funders, partners and facilitators, so expect 15 to 30 organizations, not 100. Personalize each.
 - Level A "in-market" evidence = an open or upcoming grant cycle, stated eligibility match, or a past award in film/history/Black history. Level B = recurring funding or partnership in this area. Level C = mission fit only (Medium). Level D = drop.
-- Check applicant eligibility first. Many funders need a 501(c)(3) or fiscal sponsor. Record it in the research file. Do not draft outreach to a funder we cannot legally apply to until the fiscal-sponsor question is decided (see OPEN_DECISIONS.md).
+- Check applicant eligibility first. Many funders need a 501(c)(3) or fiscal sponsor. Record it in the research file. Fiscal sponsor is Fractured Atlas, so applicants are fiscally sponsored. Drop funders that exclude fiscally sponsored projects.
 - Warm contacts (Greater Cleveland Film Commission, Western Reserve Historical Society) are existing relationships. Do not cold-email them. Route through Philip.
 - Cleveland Foundation declined on Aug 10, 2026 (strategy fit). Only a brief courtesy update, no re-pitch.
 
@@ -20,6 +20,9 @@ Adapted from the BHM repeatable outreach playbook. Offer: support (funding, fisc
 8. Log in TRACKER_COLUMNS.md sheet.
 9. Follow up once, 7 to 10 business days after send (funders move slower than buyers).
 10. Re-measure at 2 weeks and 30 days.
+
+## The ask
+Raise $500,000 (half of a $1M budget) into escrow to apply for the Ohio Motion Picture Tax Credit. First emails stay high level and omit amounts. See CLAIMS.md.
 
 ## Territories
 T1 Local arts/culture funders (CAC, Assembly for the Arts, Ohio Arts Council)

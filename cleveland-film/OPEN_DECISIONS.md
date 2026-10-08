@@ -1,7 +1,12 @@
 # Open decisions (Philip)
-1. Fiscal sponsor: is there a 501(c)(3) to apply through? Greater Cleveland Urban Film Foundation is a candidate to ask. Blocks most grant outreach.
-2. Funding ask: amount and use (budget line, local spend) for any funder that requires it.
-3. One-page project overview and budget summary: needed before outreach.
-4. Warm contacts (GCFC, WRHS, CIFF): Philip to approach personally. Confirm.
-5. Ohio tax credit: confirm eligibility and minimum spend ($300K per secondary source) with GCFC or development.ohio.gov/film.
-6. Cleveland Foundation courtesy update: send? (Philip)
+RESOLVED (Oct 8, 2026)
+- Fiscal sponsor: Fractured Atlas. Fundraising page is live (URL: ADD HERE).
+- Funding ask: raise $500,000 (50% of a $1,000,000 budget) to be held in escrow, which is the step toward applying for the Ohio Motion Picture Tax Credit. Amount stays out of first emails.
+- Overview and budget one-pager: later. First emails are high level only.
+- Cleveland Foundation courtesy update: dropped.
+
+STILL OPEN
+1. Add the Fractured Atlas fundraising page URL to CLAIMS.md and TEMPLATES.md.
+2. Many funders restrict or exclude fiscally sponsored projects. Research must record each funder's stated policy on fiscal sponsors (Fractured Atlas) and individuals/for-profit films.
+3. Warm contacts (GCFC, WRHS, CIFF): Philip approaches personally. Confirm.
+4. Ohio tax credit: confirm with GCFC or development.ohio.gov/film how escrow works, the minimum spend (one secondary source said $300K), and whether donations through a fiscal sponsor count. Do not state tax credit rules in outreach until confirmed.

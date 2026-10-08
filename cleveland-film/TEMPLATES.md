@@ -9,7 +9,7 @@ I'm Philip Musey, a filmmaker working on *Standing in Fire*, a feature about Gar
 
 The Mayor of Cleveland has written a letter of support for the production, and the proof-of-concept short premiered at the 2022 Cleveland International Film Festival. [One sentence tying to THIS organization's program, from the research file.]
 
-Are you the right person to talk to about [program] and whether a project like this could be eligible? If not, could you point me to the right colleague? I can send a short overview and the letter.
+The project is fiscally sponsored by Fractured Atlas. Are you the right person to talk to about [program] and whether a project like this could be eligible? If not, could you point me to the right colleague? I'm happy to send more detail.
 
 Kind regards,
 Philip
@@ -26,4 +26,4 @@ If you're not the right contact, a pointer would be very helpful.
 Kind regards,
 Philip
 
-Rules: one subject for the campaign. No budget figure in the first email. No em dashes. Swap [program] and the tie-in sentence per recipient. Attach the letter only if asked or if the funder invites it.
+Rules: first emails are high level only: no budget, goal, or escrow figures unless the funder asks. One subject for the campaign. No budget figure in the first email. No em dashes. Swap [program] and the tie-in sentence per recipient. Attach the letter only if asked or if the funder invites it.
