@@ -36,3 +36,5 @@ Caveat: overlap shows these funders give broadly across Cleveland arts, science 
 - The Shubert Foundation Inc (1 lists: Karamu)
 - Thomas F. Peterson Charitable Trust (1 lists: GLSC)
 - Treu Mart Fund (1 lists: Karamu)
+
+UPDATE (iteration 7): The George Gund Foundation's current guidelines (opened, Aug 18, 2026) say its arts program does not prioritize film productions. See ELIGIBILITY.csv. Overlap is not eligibility; verify each funder's guidelines.

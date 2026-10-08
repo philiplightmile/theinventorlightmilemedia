@@ -29,3 +29,7 @@ iteration | query | source type | rows added | A-tier rows
 6 | Cleveland Museum of Natural History donors | search + open giving societies page | 0 (no organizations named) | 0
 6 | Cleveland Public Library / CMSD STEM funders | search | 0 | 0
 6 | overlap analysis across GLSC, Karamu, CMA, Playhouse lists | analysis | 19 new funder rows, notes added to 15 existing | 19
+7 | Speed Art Museum, Film at Lincoln Center, BAM donor searches | search | 0 (summaries only; Film at Lincoln Center page 403) | 0
+7 | Kentucky Humanities annual report donors | search + open Report to the People | 21 | 21
+7 | Regeneration Black Cinema funders | search + open exhibition site (DIA page 403) | 2 | 2
+7 | Gund, Kulas, Jennings, Nord guidelines | search + open Gund guidelines PDF via pdftotext | ELIGIBILITY.csv (Gund opened; others summaries) | 0
