@@ -1,9 +1,12 @@
 org,domain,sector,size,signal,signal_url,signal_date,contact_role,contact_name_if_printed,email,email_source_url,status,arm,subject_variant,draft_date,sent_date,bounce,reply_type,notes
-McCarthy Building Companies,,construction and engineering,,warm,,,,,,,queued,,,,,,,Past client. Session led. Needs contact lookup from an opened page. Domain to confirm.
-Oncor Electric Delivery,,utilities and energy,,warm,,,,,,,queued,,,,,,,Past client. 2023 session. Needs contact lookup. Domain to confirm.
+McCarthy Building Companies,,construction and engineering,,warm,,,,,,,queued,,,,,,,"Cold-emailed 2026-09-28 to generic inboxes, not opened. Hold until Philip names a real contact."
+Oncor Electric Delivery,oncor.com,utilities and energy,,warm,,,past session contact,,timothy.walter@oncor.com,Gmail history: 2023 session thread and Sept 28 2026 note,drafted,B,follow-up on thread,2026-10-08,,,,"Warm follow-up. First note sent 2026-09-28, no reply. Address from prior two-way correspondence, not a web page. Philip approved warm lane use implicitly."
 Fastly,,tech,,warm,,,,,,,queued,,,,,,,Past client. Session led. Needs contact lookup. Domain to confirm.
 Skillshare,,tech,,warm,,,,,,,queued,,,,,,,Past client. Needs contact lookup.
-SMBC,,financial services,,warm,,,,,,,queued,,,,,,,Past client. Needs contact lookup.
+SMBC,smbcgroup.com,financial services,,warm,,,"January 2025 call contact, role unknown",,eric.eckholdt@smbcgroup.com,Gmail history: Jan 2025 thread,drafted,B,American history subject (Philip approved 2026-10-08),2026-10-08,,,,"Warm reconnect. Address from prior two-way correspondence. Role unknown, so draft asks who the right person is."
 Global Payments,,financial services,,warm,,,,,,,queued,,,,,,,Past client. Needs contact lookup.
 Thoughtium,,consumer brands,,warm,,,,,,,queued,,,,,,,Past client. Needs contact lookup.
 eos Products,,consumer brands,,warm,,,,,,,queued,,,,,,,Past client. Needs contact lookup.
+Cengage Group,cengagegroup.com,education technology,"about 4,000",A,https://www.cengagegroup.com/news/perspectives/2026/celebrating-black-history-month/,2026-02-27,,,,,dead,,,,,,,Page opened. No email or contact form printed. Dead per rule.
+Samsara,samsara.com,tech,,B,,,,,,,dead,,,,,,,ERG signal came from a search summary only. Could not confirm on a page. No contact printed.
+Workiva,workiva.com,tech,,C,,,,,,,dead,,,,,,,Black BERG feature is undated. No 2026 signal. No contact printed.

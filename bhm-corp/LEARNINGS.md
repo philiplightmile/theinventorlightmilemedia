@@ -24,3 +24,8 @@ Corporate: Oct 2 safety-industry sends (27) produced auto-replies only. No corpo
 ## Corporate notes
 - The Oct 2 "teams can put to work" safety-industry sends (27, utilities and nuclear) got 0 human replies. Do not treat that subject as proven for corporate.
 - Stanford BCSC got the $299 license offer as a draft on 2026-10-08 (Philip approved). Corporate stays the main target.
+
+## Corporate research yield (2026-10-08 run)
+- Sector web searches return generic guides. Named 2026 corporate Black History Month ERG signals found: Cengage (page opened, no contact printed). Samsara and Workiva could not be confirmed on a page.
+- Corporate pages almost never print an ERG or inclusion inbox. Expect most researched orgs to end dead on "no usable email".
+- Warm contacts in Gmail history are the best source: past session contacts (Oncor), past call contacts (SMBC).
