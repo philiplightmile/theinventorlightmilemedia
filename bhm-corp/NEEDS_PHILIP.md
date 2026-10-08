@@ -25,7 +25,3 @@ ANSWER:
 
 ## Q5. Vendor, W-9 and payment link (who handles invoices and POs, and the payment URL)
 ANSWER:
-
-## Q6. Optional: should education and nonprofit repliers who cited budget (Stanford BCSC, Idaho Black Community Alliance) get the $299 license offer?
-Those threads are not labeled BHM-Corp, so the agent will not touch them unless you say yes.
-ANSWER:

@@ -22,4 +22,5 @@ Corporate: Oct 2 safety-industry sends (27) produced auto-replies only. No corpo
 - Skip recipients whose email you only saw in a search snippet.
 
 ## Corporate notes
-- None yet. First corporate batch has not been drafted.
+- The Oct 2 "teams can put to work" safety-industry sends (27, utilities and nuclear) got 0 human replies. Do not treat that subject as proven for corporate.
+- Stanford BCSC got the $299 license offer as a draft on 2026-10-08 (Philip approved). Corporate stays the main target.
