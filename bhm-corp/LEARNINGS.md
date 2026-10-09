@@ -47,3 +47,4 @@ Corporate: Oct 2 safety-industry sends (27) produced auto-replies only. No corpo
 - Skip after checking: Penn Center, The Wright, MAAH were already contacted/excluded. Always run Gmail domain search first.
 - Sites that 403/404 (Gaithersburg Museum, Sandy Spring /contact) are not retried or circumvented.
 - harvest.py on 19 big-name NY/NJ/PA/MD/CT institutions (NYHS, Brooklyn Hist., HSP, MdHS, CHS etc.): 0 usable. Big institutions render JS or use forms; small heritage orgs and house museums print info@/programs@. Aim harvest at small orgs (searches with 'house museum', 'heritage society', 'trail', 'African American museum' + a town).
+- Round 3 (search for org names, then harvest guessed official domains): 14 sites, 3 usable. Guessed domains often miss (wrong domain = NONE); take domains only from search result URLs. Nonprofit tiny orgs often have no site or facebook-only.

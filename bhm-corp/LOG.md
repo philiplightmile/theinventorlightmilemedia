@@ -20,3 +20,4 @@
 2026-10-09 | east-coast museum search: 3 new drafted (AAMP, Delaware County HS, Norwalk HS; BHM) labeled ToSend; many sites 403/404 or yielded no printed emails | none sent
 2026-10-09 | harvest.py method: 6 East Coast heritage orgs drafted (AAHM S NJ, Stoutsburg Sourland, Housatonic Heritage, Johnson House, Sandy Spring, Harriet Tubman Museum; BHM) | none sent
 2026-10-09 | harvest round 2: 19 large NY/NJ/PA/MD/CT institutions, 0 usable emails (JS/forms); next target small house museums and heritage orgs | none sent
+2026-10-09 | harvest round 3: 3 drafted (NCAAA Boston, Strawbery Banke, Merchant's House; BHM); 11 sites no emails | none sent
