@@ -42,22 +42,28 @@ Prepared Oct 8, 2026 for the film fundraiser. Companion document: `REPORT_OUT_Do
 **Kentucky humanities donors** (lifetime donors over $10,000 to Kentucky Humanities; Morgan was born in Kentucky; humanities and history giving, not film-specific; list undated): Blue Grass Community Foundation, Carson-Myre Charitable Foundation, Christina Lee Brown and Owsley Brown II Cockayne Fund, Cralle Foundation, Duke Energy Foundation, The Gheens Foundation, The R. C. Durr Foundation, The Wood and Marie C. Hannah Foundation, Harshaw Family Foundation, Nana Lampton/Snowy Owl Foundation, Owsley Brown II Family Foundation, Raymond B. Preston Family Foundation, Scripps Howard Foundation, Cal Turner Family Foundation, Bank of America Charitable Foundation, The Steele-Reese Foundation, RCI Foundation, Tallgrass Farm Foundation, Brown-Forman Corporation, Toyota Motor North America.
 
 
-## Contact pass results (Oct 9, 2026)
+## Contact pass results (Oct 9, 2026; updated)
 Method: only contact details printed on a page we opened. No guessed or pattern-built addresses. Full detail in `donor-prospects/contacts.csv`.
 
-**Confirmed email addresses: 4 (of the 18 organizations researched so far; about 20 more priority funders still need a contact pass).**
+**Confirmed email addresses: 6, across 32 organizations researched** (all Cleveland-overlap and Karamu funders plus the earlier priority funders). Not yet covered: Los Angeles foundations, fire-service and safety sponsors, Kentucky humanities donors, Netflix and Participant.
 | Organization | Email | Phone | Notes |
 |---|---|---|---|
 | The Reinberger Foundation | info@reinbergerfoundation.org | (216) 292-2790 | General inbox. Conversation required first if no grant in 5 years. |
 | KeyBank Foundation | KeyBank_Foundation@KeyBank.com | 1-800-KEY2YOU (customer service) | Printed for questions and technical help. Community Grants are invitation-only via an Expression of Interest; arts is not a stated priority. Community Sponsorships ($500 to $5,000, event or operating) accept requests January to October, so the window closes at the end of October. |
 | PNC Foundation | erin.deimling@pnc.com | (216) 222-4585 | Cleveland-region contact on PNC's foundation page ("direct specific questions to"); title not printed. |
 | Mellon Foundation | inquiries@mellon.org | (212) 838 8400 | General inquiries. Mostly by invitation per other sources. |
+| Callahan Foundation | info@callahanfoundation.org | not printed | General inbox on its Contact Us page. Open one-page application form, but it asks applicants not to email or call with questions. Fall 2026 round closed Sept 30; next round not stated. Supports higher education, the arts and social services in Northeast Ohio (Cuyahoga and six nearby counties). |
+| Jack, Joseph and Morton Mandel Foundation | grants@mandelfoundation.org | (216) 875-6539 | Invitation-only, but its FAQ invites a letter of inquiry (max 2 pages) to this address. 501(c)(3) public charities only; humanities area mentions cultural institutions. |
+
+**Online application, no email (new Priority 1 candidate):** The George W. Codrington Charitable Foundation (codringtonfoundation.org). Site opened: accepts applications through an online Apply process; 501(c)(3) required; awards of $10,000, $25,000 or $50,000, mainly operations; must significantly impact Cuyahoga County; one of its four focus areas is "cultivating and uplifting an inclusive creative culture." It gave Karamu House $203,500 (2020-2024). Fiscal sponsorship is not mentioned, so confirm Fractured Atlas is acceptable. Contact form only.
+
+**Online application, site would not open:** Abington Foundation (focus includes cultural activities; Cuyahoga County; deadlines Dec 1, Apr 1, Sept 1 per aggregators; priority to specific programs or projects).
 
 **Phone only:** Kulas Foundation and John P. Murphy Foundation (shared office), 216.623.4770; ask for the Grants Manager.
 
 **Online portal or form, no email:** Gund (online application, but film not prioritized), Kentucky Humanities (grant portal; 2026 cycle up to $5,000; lists radio and video productions among eligible project types; no film or fiscal-sponsor mention).
 
-**No contact found (tax-filing address only or invite-only):** Fowler Family Foundation, Laub Foundation, Lincoln Electric Foundation, Murch, Veale, FirstEnergy Foundation, Far Star Action Fund, Kentucky Foundation for Women, Thomas H. White Foundation. For these, a warm introduction or a phone call is the practical route.
+**No contact found, or invite-only (tax-filing address only):** Fowler Family Foundation, Laub Foundation, Lincoln Electric Foundation, Murch, Veale, FirstEnergy Foundation, Far Star Action Fund, Kentucky Foundation for Women, Thomas H. White Foundation, O'Neill Brothers (P.O. box), Hankins, Fox Charitable, S. Livingston Mather, Bruening, Wright, McGregor (senior services), Treu-Mart (via Cleveland Foundation), Ingalls (trustee-selected; phone unconfirmed), Lakeside (identity unconfirmed). For these, a warm introduction or a phone call is the practical route.
 
 **New drops after opening official pages:** The Shubert Foundation (general operating support for live performing arts only) and Dominion Energy Charitable Foundation (no longer funds Ohio).
 
