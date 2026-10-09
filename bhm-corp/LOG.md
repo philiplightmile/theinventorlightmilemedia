@@ -7,3 +7,4 @@
 2026-10-09 | resilience/ideas template research (no drafts): searched ASSP, SHRM, ATD, PMI, ASQ, IEEE/ASCE chapters, chambers, MEP centers, community-college training units, innovation hubs | 1 usable row added (Montana State Catalyst Innovation Community) | ~60 calls | chapters and hubs print forms or masked emails; Lusha down to 3 credits
 2026-10-09 | rewrote 16 BHM drafts (Underground Railroad Museum text, 'right person' ask) and 6 non-BHM drafts (team resilience version) per Philip | 0 sent
 2026-10-09 | drafted 16 (11 BHM Version 1, 5 resilience Version 2, "Hi there" default; Hi Lynn, Hi Kimberly), Rotary Ann Arbor held per Philip | none sent | label BHM-Corp/ToSend
+2026-10-09 | horizontal lanes pass 1 (libraries, water assns, safety/fire): 5 queued rows (3 libraries, Maine Water Utilities Assn, Minnesota Safety Council) | ~30 calls | libraries mostly form-only; water/safety/fire pages hide emails (Cloudflare) or use forms
