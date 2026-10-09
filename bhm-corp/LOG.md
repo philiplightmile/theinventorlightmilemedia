@@ -5,3 +5,4 @@
 2026-10-09 | drafted 14 pilot drafts (4 industrial SAFETY, 4 industrial BHM incl. Window Nation replaced, 6 inclusion BHM), none sent | 3 Gmail checks, 0 prior contacts
 2026-10-09 | drafted 8 more (Exela, Enviva safety; Barings, SFBC, Flow Traders, Cato, Allegis, Belcorp BHM), CareFirst not drafted (2025 prior contact at domain) | 6 Gmail checks
 2026-10-09 | resilience/ideas template research (no drafts): searched ASSP, SHRM, ATD, PMI, ASQ, IEEE/ASCE chapters, chambers, MEP centers, community-college training units, innovation hubs | 1 usable row added (Montana State Catalyst Innovation Community) | ~60 calls | chapters and hubs print forms or masked emails; Lusha down to 3 credits
+2026-10-09 | rewrote 16 BHM drafts (Underground Railroad Museum text, 'right person' ask) and 6 non-BHM drafts (team resilience version) per Philip | 0 sent

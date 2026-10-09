@@ -2,11 +2,11 @@
 
 Started: 2026-10-09
 Status: 22 drafts created, none sent. 500-employee floor removed by Philip 2026-10-09.
-Industrial L&D cohort: SAFETY vs BHM, 4 per arm in the original pilot (6 SAFETY now vs 4 BHM), directional pilot only. Inclusion cohort: BHM only, title test.
+Industrial L&D cohort: RESILIENCE vs BHM, 4 per arm in the original pilot (6 SAFETY now vs 4 BHM), directional pilot only. Inclusion cohort: BHM only, title test.
 Note: 4 per arm cannot declare a winner. Real tests need 40 delivered per arm.
 
 Assignment:
-- Industrial SAFETY (Draft 1): Precision Drilling, Burris Logistics, The Greenbrier Companies, Environmental Air Systems, Exela Pharma Sciences, Enviva (unverified employer).
+- Industrial RESILIENCE (Draft 1, subject "A little-known story with a lesson in team resilience"): Precision Drilling, Burris Logistics, The Greenbrier Companies, Environmental Air Systems, Exela Pharma Sciences, Enviva (unverified employer).
 - Industrial BHM (Draft 2): Window Nation, American Tire Distributors, Hoya Vision Care, Border States.
 - Inclusion BHM (Draft 2): Clifford Chance, Choice Hotels, Glanbia, Luminis Health, Campari Group, Oura, Barings, Southern Farm Bureau Casualty, Flow Traders, Cato Networks, Allegis Group, Belcorp.
 - Not drafted: CareFirst (earlier 2025 outreach to another contact at carefirst.com).
@@ -24,3 +24,5 @@ Directional until 40 delivered per tier. Assignment is by persona, so tier is co
 Current pool (candidates.csv, persona column filled): Tier 1 has 5 rows (1 form-only), Tier 2 has 15 rows (3 form-only). At least 40 delivered per tier needs about 35 more Tier 1 and 25 more Tier 2 contacts, so the test cannot read out on this pool.
 No terms in any first-touch copy until OFFER_ASSETS.md is complete.
 
+
+Update 2026-10-09: the safety-warnings email was replaced by a team-resilience email (Philip text) in all 6 drafts, and the BHM email now uses the Underground Railroad Museum text. The pilot comparison is now resilience vs BHM, no longer safety vs BHM.
