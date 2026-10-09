@@ -46,4 +46,4 @@ Corporate: Oct 2 safety-industry sends (27) produced auto-replies only. No corpo
 - Loop: WebSearch finds org names and domains (directory-style queries: "[state] African American museum contact us"), harvest.py reads their pages, then check Gmail and excluded_orgs by domain, draft Version 1.
 - Skip after checking: Penn Center, The Wright, MAAH were already contacted/excluded. Always run Gmail domain search first.
 - Sites that 403/404 (Gaithersburg Museum, Sandy Spring /contact) are not retried or circumvented.
-
+- harvest.py on 19 big-name NY/NJ/PA/MD/CT institutions (NYHS, Brooklyn Hist., HSP, MdHS, CHS etc.): 0 usable. Big institutions render JS or use forms; small heritage orgs and house museums print info@/programs@. Aim harvest at small orgs (searches with 'house museum', 'heritage society', 'trail', 'African American museum' + a town).
