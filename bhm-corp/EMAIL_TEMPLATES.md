@@ -35,7 +35,7 @@ Philip Musey
 
 ## Version 2: Team resilience
 
-Used for: 6 drafts (Precision Drilling, Burris Logistics, The Greenbrier Companies, Environmental Air Systems, Exela Pharma Sciences, Enviva).
+Used for: 6 sent 2026-10-09 with the older "modern truth for business" wording (Precision Drilling, Burris Logistics, The Greenbrier Companies, Environmental Air Systems, Exela Pharma Sciences, Enviva).
 
 **Subject:** A little-known story with a lesson in team resilience
 
@@ -43,7 +43,7 @@ Hi [First name],
 
 I’m Philip Musey, writer and director of **The Inventor**, a short film about Garrett Morgan and the **1916 Cleveland Waterworks tunnel disaster**. I’ve brought the film to organizations across the country as an engaging catalyst for conversation, and I’d love to explore bringing a session to [Org] centered on **team resilience and helping good ideas flourish**.
 
-When Morgan pitched his life-saving breathing hood, fire departments were eager to buy over the phone, but turned him away in person for lacking traditional credentials. Still, he persisted. When a deadly explosion struck beneath Lake Erie, he was brought in as an eleventh-hour last resort. It’s a 110-year-old story with a modern truth for business: **the best innovations are often right in front of us**, if we train ourselves to look past assumptions and recognize great ideas wherever they come from.
+When Morgan pitched his life-saving breathing hood, fire departments were eager to buy over the phone, but turned him away in person for lacking traditional credentials. Still, he persisted. When a deadly explosion struck beneath Lake Erie, he was brought in as an eleventh-hour last resort. It’s a 110-year-old story with a modern truth for team building: **the best innovations are often right in front of us**, if we train ourselves to look past assumptions and recognize great ideas wherever they come from.
 
 In every session I’ve led, I’ve seen that the film offers a shared prism for teams to step back and reflect together. It creates a comfortable space to talk about creative problem-solving and what helps good ideas gain traction.
 
