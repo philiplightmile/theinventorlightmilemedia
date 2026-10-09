@@ -1,0 +1,32 @@
+# Learnings (rewrite, max 60 lines)
+
+Source: Oct 2 to 8 education and nonprofit outreach, 108 recipients, 101 delivered, 12 human replies (11.9%).
+Corporate: Oct 2 safety-industry sends (27) produced auto-replies only. No corporate human replies yet.
+
+## Deliverability
+- Bounces cite DMARC on 4 of 7. Cause found in DNS: duplicate DMARC records, no SPF, no Google DKIM. Fix before any corporate drafting.
+- Mail to Microsoft 365 groups and shared mailboxes (history@, BIPOC offices) can bounce for "sender not allowed". Prefer a named program inbox on a page you opened.
+
+## What worked (directional, small samples)
+- Universities and small chapters replied most. Large .org institutions replied least.
+- A one-line credibility sentence in the opening paragraph correlated with more replies (20% vs 6.7%). Treat as a hypothesis.
+- Ending with "are you the right person, or who should I talk to?" produced 3 referrals.
+- Most replies came within 8 hours of a morning send.
+- A named greeting did not clearly beat "Hi there".
+
+## Budget
+- Two of three declines were budget (one after pricing). Small buyers need a low-cost first step. That is what the $299 license is for.
+
+## Contacts
+- Prefer a general programs or events inbox printed on the org page. Record the page URL.
+- Skip recipients whose email you only saw in a search snippet.
+
+## Corporate notes
+- The Oct 2 "teams can put to work" safety-industry sends (27, utilities and nuclear) got 0 human replies. Do not treat that subject as proven for corporate.
+- Stanford BCSC got the $299 license offer as a draft on 2026-10-08 (Philip approved). Corporate stays the main target.
+
+## Corporate research yield (2026-10-08 run)
+- Sector web searches return generic guides. Named 2026 corporate Black History Month ERG signals found: Cengage (page opened, no contact printed). Samsara and Workiva could not be confirmed on a page.
+- Corporate pages almost never print an ERG or inclusion inbox. Expect most researched orgs to end dead on "no usable email".
+- Warm contacts in Gmail history are the best source: past session contacts (Oncor), past call contacts (SMBC).
+- Lusha yield: 50 credits bought 23 revealed emails, about 90% of reveal attempts COMPLIANCE_RESTRICTED (uncharged). Results skew L&D/HR Directors; Lusha gives no company size. Profile research is mostly snippet-level: only 6 pages opened across 23 companies, no dated BHM evidence found for any. Positioning labels are mostly defaults, not evidence.
