@@ -40,3 +40,10 @@ Corporate: Oct 2 safety-industry sends (27) produced auto-replies only. No corpo
 - Hooks for the drafting round: P1 "a session for [Program]'s next cohort on who gets credit and who gets heard in leadership"; P2 "a 15-minute film that gives your retreat a shared story to open a conversation"; P3 "[Unit]'s Black History Month programming" (proven hook per Philip); P4 "a short film for a staff PD session on how concerns get raised and heard"; P5 "a short film and discussion that is easy to run in under an hour at a [club] meeting"; P6 "a screening and discussion for your community programming"; P7 "an inventor-and-entrepreneur story for your students".
 - Resilience/ideas-template pass (2026-10-09): ASSP, SHRM, PMI, ASQ and IEEE chapters use contact forms or 403 (starchapter.com), so no emails. Chambers print named staff. MEP centers and community-college training units print phones or general support lines. Innovation hubs mask emails. 1 usable inbox in about 60 calls. Lusha has 3 credits left (free plan).
 - Philip said 2026-10-09: stop using Lusha. Do not call any Lusha tool or buy credits. Source contacts from pages you opened.
+
+## Harvest method (2026-10-09, best yield so far)
+- scripts/harvest.py <base urls>: curls /contact, /contact-us, /about, /connect and / per site, decodes Cloudflare emails, drops junk. 24 sites -> 15 with printed emails in 2 calls. Far better than WebSearch snippets (about 1 usable per 60 calls).
+- Loop: WebSearch finds org names and domains (directory-style queries: "[state] African American museum contact us"), harvest.py reads their pages, then check Gmail and excluded_orgs by domain, draft Version 1.
+- Skip after checking: Penn Center, The Wright, MAAH were already contacted/excluded. Always run Gmail domain search first.
+- Sites that 403/404 (Gaithersburg Museum, Sandy Spring /contact) are not retried or circumvented.
+
