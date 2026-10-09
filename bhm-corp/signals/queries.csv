@@ -322,7 +322,7 @@ Black History Month 2026 employee resource group manufacturing Indiana,credit,ot
 Black History Month 2026 health system Tennessee employees,credit,other,1,0
 Black History Month 2026 nonprofit Atlanta staff celebrates,credit,other,1,0
 Black History Month 2026 trade association members recognized,credit,other,1,0
-employee spotlight series 2026 manufacturer,credit,company_newsroom,1,0
+employee spotlight series 2026 manufacturer,credit,company_newsroom,2,0
 employee spotlight series 2026 hospital,credit,company_newsroom,1,1
 employee spotlight series 2026 electric cooperative,credit,company_newsroom,1,2
 employee spotlight 2026 community bank team member recognized,credit,earned_media,1,4
@@ -524,3 +524,25 @@ packaging OR paper OR containers manufacturer employees recognition awards sugge
 "sustainability report OR ESG report 2025 employees ""idea"" program OR ""suggestion"" OR ""innovation challenge"" submitted implemented recognized",both,10-K,1,0
 "corporate responsibility report 2025 exhibit employees ""Juneteenth"" OR ""Black History Month"" OR ""Pride Month"" ERG events attended participants",both,10-K,1,0
 "investor day OR investor presentation 2026 culture employees ""recognition"" ""town halls"" ""ideas"" engagement people slide hackathon",both,10-K,1,0
+driver of the month trucking 2026,credit,company_newsroom,1,1
+employee spotlight electric cooperative 2026,credit,company_newsroom,1,0
+employee of the month transit agency 2026,credit,company_newsroom,1,1
+employee of the year 2026 Iowa company announces,credit,earned_media,1,1
+employee spotlight series community bank 2026,credit,earned_media,1,0
+Black History Month 2026 employees honored hospital Georgia,credit,company_newsroom,1,0
+employee of the month program port authority 2026,credit,company_newsroom,1,0
+team member spotlight hotel 2026,credit,company_newsroom,1,0
+"""fiscal 2026"" associates town halls CEO leadership communication employee feedback human capital 10-K bank OR insurance OR finance",both,10-K,1,2
+"""fiscal 2026"" employee ideas OR suggestions OR ""continuous improvement"" program frontline employees human capital 10-K distribution OR logistics",both,10-K,1,1
+"""fiscal 2026"" veterans OR women OR multicultural OR LGBTQ employee networks launched human capital 10-K services OR healthcare",both,10-K,1,1
+"""fiscal 2026"" team members recognition program awards restaurants OR stores human capital 10-K ""team member"" appreciation",both,10-K,1,0
+"""fiscal 2026"" colleagues employee resource groups executive sponsors membership percent human capital 10-K healthcare OR pharma",both,10-K,1,0
+"""fiscal 2026"" employees ""global town hall"" OR ""all-hands"" OR ""all hands"" leadership Q&A human capital 10-K technology",both,10-K,1,0
+"""fiscal 2026"" recognition ""peer-to-peer"" OR ""spot awards"" OR ""service awards"" employees human capital 10-K manufacturing",both,10-K,1,0
+"""2026"" 10-K employees ""culture"" ""recognition"" ""awards"" ""annual"" ceremony OR celebration company-wide human capital banks fiscal year ended June 30, 2026",both,10-K,1,0
+"10-K fiscal year ended March 31, 2026 employees recognition awards ERGs town halls hackathon human capital technology OR pharma",both,10-K,1,0
+county employee innovation awards 2026,voice,company_newsroom,1,0
+health system shark tank 2026,voice,company_newsroom,1,0
+state DOT innovations challenge,voice,company_newsroom,1,0
+AI hackathon 2026,voice,company_newsroom,1,1
+university staff innovation award,voice,company_newsroom,1,1
