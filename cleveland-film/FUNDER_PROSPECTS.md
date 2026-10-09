@@ -23,7 +23,7 @@ Prepared Oct 8, 2026 for the film fundraiser. Companion document: `REPORT_OUT_Do
 
 **Cleveland arts, science and civic funders** (each appears on 2 to 3 of 4 opened donor lists; verify guidelines and film eligibility): KeyBank Foundation, PNC Foundation, Lincoln Electric Company / Foundation, The O'Neill Brothers Foundation, Lakeside Foundation *(identity unconfirmed: may be a Pennsylvania entity)*, The Harry K. & Emma R. Fox Foundation, M.E. & F.J. Callahan Foundation, The Jack, Joseph, and Morton Mandel Foundation, S. Livingston Mather Foundation, Abington Foundation, Bruening Foundation, Thomas H. White Foundation, Hankins Foundation, Veale Foundation, Wright Foundation. Note that KeyBank's community grants are by invitation and arts is not a named priority (search summary only).
 
-**Karamu House funders** (Cleveland Black arts institution; amounts from a 990-based listing, 2019-2025): George Codrington Charitable Foundation ($203,500), John P. Murphy Foundation ($55,000), Treu Mart Fund ($50,000), The McGregor Foundation ($46,000), The Louise H. and David S. Ingalls Foundation ($75,000)FirstEnergy Foundation ($15,000, aggregators say invite-only).
+**Karamu House funders** (Cleveland Black arts institution; amounts from a 990-based listing, 2019-2025): George Codrington Charitable Foundation ($203,500), John P. Murphy Foundation ($55,000), Treu Mart Fund ($50,000), The McGregor Foundation ($46,000), The Louise H. and David S. Ingalls Foundation ($75,000), FirstEnergy Foundation ($15,000, aggregators say invite-only).
 
 **Black history, film and media funders**
 | Organization | Location | Fit and rationale | Notes |
@@ -45,7 +45,7 @@ Prepared Oct 8, 2026 for the film fundraiser. Companion document: `REPORT_OUT_Do
 ## Contact pass results (Oct 9, 2026)
 Method: only contact details printed on a page we opened. No guessed or pattern-built addresses. Full detail in `donor-prospects/contacts.csv`.
 
-**Confirmed email addresses: 4 (of the 18 priority funders researched).**
+**Confirmed email addresses: 4 (of the 18 organizations researched so far; about 20 more priority funders still need a contact pass).**
 | Organization | Email | Phone | Notes |
 |---|---|---|---|
 | The Reinberger Foundation | info@reinbergerfoundation.org | (216) 292-2790 | General inbox. Conversation required first if no grant in 5 years. |
