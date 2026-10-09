@@ -67,6 +67,24 @@ Method: only contact details printed on a page we opened. No guessed or pattern-
 
 **New drops after opening official pages:** The Shubert Foundation (general operating support for live performing arts only) and Dominion Energy Charitable Foundation (no longer funds Ohio).
 
+## Added Oct 9: second discovery pass (27 new organizations)
+Source: the Cleveland Orchestra institutional partners page (opened; undated, current partners), plus one invention-focused funder. This list also strengthens the overlap ranking: **seven funders now appear on four opened donor lists**: Kulas, Callahan, Martha Holden Jennings, KeyBank, PNC, Lincoln Electric, and Gund (Gund excluded for film, see below).
+
+**New Cleveland Orchestra foundation partners** (levels as printed; arts-wide giving, not film-specific; verify guidelines and fiscal-sponsor eligibility):
+- $1,000,000+: The Brown and Kunze Foundation, The Milton and Tamar Maltz Family Foundation, David and Inez Myers Foundation, Richard & Emily Smucker Family Foundation, Timken Foundation of Canton, The Kelvin and Eleanor Smith Foundation (also on two other lists).
+- $500,000 to $999,999: The William Bingham Foundation, The Payne Fund (also on the Cleveland Museum of Art list).
+- $250,000 to $499,999: Haslam 3 Foundation.
+- $100,000 to $249,999: AGPR Foundation, Paul M. Angell Family Foundation, Park Foundation (also on the Great Lakes Science Center list), The Oatey Foundation.
+- $50,000 to $99,999: GAR Foundation (Akron), The Jean, Harry and Brenda Fuchs Family Foundation, The Gerhard Foundation, Wesley Family Foundation.
+- $15,000 to $49,999: Third Federal Foundation, Sandor Foundation, Michael and Chandra Rudd Foundation, The Mary S. and David C. Corbin Foundation, Robert R. and Gay C. Cull Family Foundation, Joan Yellen Horovitz Foundation, The Catherine L. & Edward A. Lozick Foundation, Albert G. & Olive H. Schlink Foundation, The Sam J. Frankino Foundation.
+Contacts for these were not researched.
+
+**Invention-focused:** The Lemelson Foundation (Portland, OR). Eligibility page opened: funding is by invitation only; it accepts an online inquiry form (lemelson.formtitan.com/eq), prints a phone number (503-827-8910) and no email; films and media are not addressed; the process from proposal request to award letter takes about six months. A film would need to be framed around invention education. Search summaries (not opened) say it has funded an inventor-themed PBS special.
+
+**Leads we could not open** (listed in `donor-prospects/leads_to_open.csv`): the Smithsonian's National Museum of African American History and Culture founding donors page (blocked), the National Underground Railroad Freedom Center impact report (image-only PDF), the Charles H. Wright Museum annual report (redirect loop), the ASSP Foundation (safety profession) donor list, and the Ohio History Connection supporters pages.
+
+**Gaps that remain:** named individual donors (excluded by design), New York, and any dated evidence that these funders support film or Black history rather than Cleveland arts generally.
+
 ## Not recommended (checked, with reasons)
 | Organization | Reason |
 |---|---|

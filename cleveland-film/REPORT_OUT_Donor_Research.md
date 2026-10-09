@@ -6,7 +6,7 @@ Prepared Oct 8, 2026. Companion document: `FUNDER_PROSPECTS.md` (the list itself
 Build an evidence-based list of organizations that might support the film financially, using the new Mayor's letter of support as a credibility asset. The first idea was a list of wealthy individuals in Ohio, Kentucky, New York and Los Angeles. After testing the approach, we narrowed the scope to **foundations, funds, corporate giving programs and institutions** and dropped named private individuals. The goal was a defensible, source-backed list rather than a long one.
 
 ## Bottom line
-- 91 organizations, each tied to a page that was opened and read: Ohio 35, Kentucky 23, Los Angeles 21, national or sector-specific 12.
+- 118 organizations, each tied to a page that was opened and read (91 from the overnight passes, 27 added in a second discovery pass on Oct 9): Ohio 61, Kentucky 23, Los Angeles 21, national or sector-specific 13.
 - **Only a handful have a confirmed way to apply.** The Reinberger Foundation is the best-documented route. Several top-looking funders turned out to be poor fits once their guidelines were read (notably the Gund Foundation, which says its arts program does not prioritize film productions).
 - Most eligibility information (fiscal sponsors, film) is unverified and needs a phone call or guideline check before outreach.
 - No outreach was sent. No personal contact data was collected.
