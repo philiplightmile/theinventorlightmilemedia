@@ -41,6 +41,10 @@ def existing_keys(rows):
     for l in open(EXC):
         l=l.strip().lower()
         if l: ds.add(dom(l)); ns.add(norm(l))
+    if os.path.exists(f"{S}/gmail_hits.txt"):
+        for l in open(f"{S}/gmail_hits.txt"):
+            l=l.strip().lower()
+            if l and not l.startswith('ohio.edu:'): ds.add(dom(l.split(':')[0]))
     return ds,ns
 def add(path):
     rows=read_cand(); ds,ns=existing_keys(rows); qs={q['query']:q for q in read_q()}; st=load_state()
