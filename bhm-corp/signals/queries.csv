@@ -323,7 +323,7 @@ Black History Month 2026 health system Tennessee employees,credit,other,1,0
 Black History Month 2026 nonprofit Atlanta staff celebrates,credit,other,1,0
 Black History Month 2026 trade association members recognized,credit,other,1,0
 employee spotlight series 2026 manufacturer,credit,company_newsroom,2,0
-employee spotlight series 2026 hospital,credit,company_newsroom,1,1
+employee spotlight series 2026 hospital,credit,company_newsroom,2,3
 employee spotlight series 2026 electric cooperative,credit,company_newsroom,1,2
 employee spotlight 2026 community bank team member recognized,credit,earned_media,1,4
 employee spotlight series 2026 credit union,credit,press_release,1,1
@@ -546,3 +546,38 @@ health system shark tank 2026,voice,company_newsroom,1,0
 state DOT innovations challenge,voice,company_newsroom,1,0
 AI hackathon 2026,voice,company_newsroom,1,1
 university staff innovation award,voice,company_newsroom,1,1
+"""culture ambassadors"" OR ""culture champions"" OR ""culture committee"" employees volunteer drive engagement human capital 10-K 2025",both,10-K,1,1
+"""Black History Month"" 10-K 2025 employees events speakers panel company human capital",both,10-K,1,2
+"""employee-driven"" OR ""grassroots"" initiatives ideas employees propose ""green team"" OR ""wellness committee"" OR ""social committee"" human capital 10-K 2025",both,10-K,1,1
+"""Kudos"" OR ""Bravo"" OR ""High Five"" OR ""Applause"" OR ""Shout Out"" employee recognition program named human capital 10-K 2025",both,10-K,1,0
+"employees ""recognized"" ""values"" quarterly ""ceremony"" OR ""luncheon"" OR ""banquet"" OR ""gala"" honoring employees human capital 10-K 2025",both,10-K,1,0
+"""CEO"" ""monthly"" OR ""weekly"" message OR video OR ""fireside chat"" employees questions human capital 10-K 2025",both,10-K,1,0
+"""Juneteenth"" 10-K 2025 company observes OR recognizes OR holiday employees human capital manufacturing OR technology OR energy",both,10-K,1,0
+"""Hispanic Heritage Month"" OR ""Asian American Pacific Islander Heritage Month"" OR ""Native American Heritage Month"" employees events 10-K 2025 human capital",both,10-K,1,0
+employee spotlight 2026 credit union,credit,press_release,1,1
+employee spotlight 2026 engineering firm,credit,company_newsroom,1,1
+employee of the month 2026 airport,credit,company_newsroom,1,1
+employee of the year 2026 Ohio company recognizes,credit,company_newsroom,1,0
+employee spotlight 2026 county utilities water,credit,company_newsroom,1,0
+team member of the month 2026 dairy food processor,credit,company_newsroom,1,1
+employee spotlight 2026 school district,credit,company_newsroom,1,2
+employee spotlight 2026 library,credit,company_newsroom,1,2
+listening tour CEO trucking,both,10-K,1,0
+Culture Champion utility,both,10-K,1,0
+Eureka innovation program,both,10-K,1,0
+employee suggestion insurer town halls,both,10-K,1,1
+ideas program homebuilder recognition,both,10-K,1,0
+peer recognition awards REIT,both,10-K,1,0
+Juneteenth Black History Month BRG restaurant,both,10-K,1,0
+innovation challenge software,both,10-K,1,0
+continuous improvement idea food award,both,10-K,1,0
+auto parts building products ideas recognition,both,10-K,1,0
+suggestion town halls insurer / listening sessions energy,both,10-K,1,0
+listening sessions energy Houston,both,10-K,1,0
+Idea Bank bank holding,both,10-K,1,0
+hackathon semiconductor,both,10-K,1,0
+spot awards medical device,both,10-K,1,0
+ERG Juneteenth airline,both,10-K,1,0
+Employee of the Quarter hospital,both,10-K,1,0
+hackathon biotech software,both,10-K,1,0
+staffing President's Club,both,10-K,1,0
