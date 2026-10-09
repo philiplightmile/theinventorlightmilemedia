@@ -1,8 +1,8 @@
 {
  "batch": 4,
  "query_index": 0,
- "queries_run": 584,
- "qualified": 361,
+ "queries_run": 625,
+ "qualified": 373,
  "gmail_checked_upto": 303,
  "low_batches_in_row": 0,
  "batch_new": {
@@ -10,6 +10,6 @@
   "1": 6,
   "2": 176,
   "3": 162,
-  "4": 11
+  "4": 23
  }
 }
