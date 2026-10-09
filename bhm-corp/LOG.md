@@ -22,3 +22,4 @@
 2026-10-09 | harvest round 2: 19 large NY/NJ/PA/MD/CT institutions, 0 usable emails (JS/forms); next target small house museums and heritage orgs | none sent
 2026-10-09 | harvest round 3: 3 drafted (NCAAA Boston, Strawbery Banke, Merchant's House; BHM); 11 sites no emails | none sent
 2026-10-09 | harvest round 4 associations: 2 drafted (ABC Carolinas, ABC Baltimore apprenticeship; Version 2); AGC skipped (prior contact) | none sent
+2026-10-09 | warm-lane Gmail round: read 20 recent replies; only unanswered human reply was Kentucky Black MBA chapter (asked screener, 30-min call, session length, audience, fees): reply drafted, label Reply, no price. Others handled by Philip (Idaho BCA declined on budget at 2,500 then co-sponsor offer sent; U Oregon BCC, AARCH, Colorado State, Purdue, Lincoln, USC replied by Philip). Stanford declined; Oregon Black Pioneers forwarding. | none sent
