@@ -30,3 +30,12 @@ Corporate: Oct 2 safety-industry sends (27) produced auto-replies only. No corpo
 - Corporate pages almost never print an ERG or inclusion inbox. Expect most researched orgs to end dead on "no usable email".
 - Warm contacts in Gmail history are the best source: past session contacts (Oncor), past call contacts (SMBC).
 - Lusha yield: 50 credits bought 23 revealed emails, about 90% of reveal attempts COMPLIANCE_RESTRICTED (uncharged). Results skew L&D/HR Directors; Lusha gives no company size. Profile research is mostly snippet-level: only 6 pages opened across 23 companies, no dated BHM evidence found for any. Positioning labels are mostly defaults, not evidence.
+
+## Use-case round 2 (2026-10-09): research yield and date hooks
+- 20 rows from about 130 calls: P1 4, P2 1, P3 0, P4 0, P5 4, P6 8, P7 3. Signal A 9, B 9, C 2.
+- Queries naming a page type ("present a program", "program proposal", "speaker series 2026") hit pages that print role inboxes. Queries naming an audience ("nurse educator", "instructional coach", "FIRST team") did not.
+- Libraries, small historical societies and churches print role inboxes. Leadership programs, Rotary and Kiwanis, JA chapters and university centers mostly use forms or named staff. Kiwanis sites, cleveleads.org and PDFs failed to fetch.
+- Library proposal pages are undated, so B at best. Woodbridge prints presenter pay tiers; Rotary Ann Arbor bans sales pitches; ticketed series (Pump House) conflict with a no-admission-fee term.
+- Date hooks (open a page before use): National Inventors' Day Feb 11 CONFIRMED (census.gov/newsroom/stories/inventors-day.html). Engineers Week Feb 21-27 2027 CONFIRMED (discovere.org/engage/engineers-week/). CTE Month is each February CONFIRMED (acteonline.org/cte-month/). Black History Month 2027 theme NOT CONFIRMED: asalh.org returned 403, search summary only. Do not quote the theme.
+- Hooks for the drafting round: P1 "a session for [Program]'s next cohort on who gets credit and who gets heard in leadership"; P2 "a 15-minute film that gives your retreat a shared story to open a conversation"; P3 "[Unit]'s Black History Month programming" (proven hook per Philip); P4 "a short film for a staff PD session on how concerns get raised and heard"; P5 "a short film and discussion that is easy to run in under an hour at a [club] meeting"; P6 "a screening and discussion for your community programming"; P7 "an inventor-and-entrepreneur story for your students".
+
