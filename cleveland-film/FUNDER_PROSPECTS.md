@@ -45,13 +45,14 @@ Prepared Oct 8, 2026 for the film fundraiser. Companion document: `REPORT_OUT_Do
 ## Contact pass results (Oct 9, 2026; updated)
 Method: only contact details printed on a page we opened. No guessed or pattern-built addresses. Full detail in `donor-prospects/contacts.csv`.
 
-**Confirmed email addresses: 6, across 32 organizations researched** (all Cleveland-overlap and Karamu funders plus the earlier priority funders). Not yet covered: Los Angeles foundations, fire-service and safety sponsors, Kentucky humanities donors, Netflix and Participant.
+**Confirmed email addresses: 7, across 48 organizations researched** (the Cleveland-overlap and Karamu funders, the earlier priority funders, and the largest Cleveland Orchestra foundation partners). Not yet covered: Los Angeles foundations, fire-service and safety sponsors, Kentucky humanities donors, Netflix and Participant, and the smaller Orchestra partners.
 | Organization | Email | Phone | Notes |
 |---|---|---|---|
 | The Reinberger Foundation | info@reinbergerfoundation.org | (216) 292-2790 | General inbox. Conversation required first if no grant in 5 years. |
 | KeyBank Foundation | KeyBank_Foundation@KeyBank.com | 1-800-KEY2YOU (customer service) | Printed for questions and technical help. Community Grants are invitation-only via an Expression of Interest; arts is not a stated priority. Community Sponsorships ($500 to $5,000, event or operating) accept requests January to October, so the window closes at the end of October. |
 | PNC Foundation | erin.deimling@pnc.com | (216) 222-4585 | Cleveland-region contact on PNC's foundation page ("direct specific questions to"); title not printed. |
 | Mellon Foundation | inquiries@mellon.org | (212) 838 8400 | General inquiries. Mostly by invitation per other sources. |
+| William Bingham Foundation | info@wbinghamfoundation.org | (216) 535-1046 (Administrator Daniel L. Horn); (216) 759-9142 (Grants Manager Anne G. Savastano) | General inbox; named Administrator and Grants Manager are printed with their roles and emails on its Contact page. Guidelines (opened): the majority of grantmaking is by invitation only; U.S. public charities; arts and fiscal sponsors not mentioned. $500K to $999,999 tier on the Orchestra list. |
 | Callahan Foundation | info@callahanfoundation.org | not printed | General inbox on its Contact Us page. Open one-page application form, but it asks applicants not to email or call with questions. Fall 2026 round closed Sept 30; next round not stated. Supports higher education, the arts and social services in Northeast Ohio (Cuyahoga and six nearby counties). |
 | Jack, Joseph and Morton Mandel Foundation | grants@mandelfoundation.org | (216) 875-6539 | Invitation-only, but its FAQ invites a letter of inquiry (max 2 pages) to this address. 501(c)(3) public charities only; humanities area mentions cultural institutions. |
 
@@ -77,7 +78,7 @@ Source: the Cleveland Orchestra institutional partners page (opened; undated, cu
 - $100,000 to $249,999: AGPR Foundation, Paul M. Angell Family Foundation, Park Foundation (also on the Great Lakes Science Center list), The Oatey Foundation.
 - $50,000 to $99,999: GAR Foundation (Akron), The Jean, Harry and Brenda Fuchs Family Foundation, The Gerhard Foundation, Wesley Family Foundation.
 - $15,000 to $49,999: Third Federal Foundation, Sandor Foundation, Michael and Chandra Rudd Foundation, The Mary S. and David C. Corbin Foundation, Robert R. and Gay C. Cull Family Foundation, Joan Yellen Horovitz Foundation, The Catherine L. & Edward A. Lozick Foundation, Albert G. & Olive H. Schlink Foundation, The Sam J. Frankino Foundation.
-Contacts for these were not researched.
+Contact lookup on the largest of these found invitation-only or no public contact for almost all (Maltz, Brown and Kunze, Payne, Oatey, Smucker, Haslam 3, Park, Sandor, Gerhard, Wesley); see `donor-prospects/contacts.csv`. Exceptions: the William Bingham Foundation (emails above), Third Federal Foundation (an inbox Foundation@thirdfederal.com appears in a search summary of its page, but we could not open that page, so it is unconfirmed), and the GAR Foundation in Akron (aggregators say a fiscal sponsor is accepted; Letter of Inquiry through an online system; Akron geography).
 
 **Invention-focused:** The Lemelson Foundation (Portland, OR). Eligibility page opened: funding is by invitation only; it accepts an online inquiry form (lemelson.formtitan.com/eq), prints a phone number (503-827-8910) and no email; films and media are not addressed; the process from proposal request to award letter takes about six months. A film would need to be framed around invention education. Search summaries (not opened) say it has funded an inventor-themed PBS special.
 
