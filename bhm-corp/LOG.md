@@ -9,3 +9,4 @@
 2026-10-09 | drafted 16 (11 BHM Version 1, 5 resilience Version 2, "Hi there" default; Hi Lynn, Hi Kimberly), Rotary Ann Arbor held per Philip | none sent | label BHM-Corp/ToSend
 2026-10-09 | horizontal lanes pass 1 (libraries, water assns, safety/fire): 5 queued rows (3 libraries, Maine Water Utilities Assn, Minnesota Safety Council) | ~30 calls | libraries mostly form-only; water/safety/fire pages hide emails (Cloudflare) or use forms
 2026-10-09 | horizontal lanes pass 2 (ESOP, co-ops, credit unions, county historical societies, inventors groups, PTRCs, interfaith/NAACP, civic clubs): 2 queued rows (Lawrence County HS PA, Kent County HS MD) | ~25 calls | other lanes: no printed emails or old data
+2026-10-09 | warm lane: stored 79 past-campaign non-responders (Dec 2024 Cinema as a Service, Feb 2025 Garrett Morgan workshop) as queued, arm blank; MSA, consultancies, 4 auto-reply contacts included per Philip; new thread only | no drafts
