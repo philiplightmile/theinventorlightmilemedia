@@ -14,3 +14,4 @@
 2026-10-09 | URGENT: warm-lane sends today produced 17+ bounces on first page of results (12 blocked with 554 5.7.5 authentication, 5 address not found); sending paused pending SPF/DKIM/DMARC fix | no new sends by agent
 2026-10-09 | drafted 7 (2 association resilience, 3 libraries, 2 historical societies BHM) at Philip's request; Philip says DNS fixed; nothing sent by agent
 2026-10-09 | re-drafted 12 blocked sends (4 resilience, 8 BHM) after Philip's DNS fix; none sent; send only with Philip's OK
+2026-10-09 | best-leads drafts | 4 drafts (NJHC, IFC, Maysles=V1; MSI=V2) labeled ToSend; none sent
