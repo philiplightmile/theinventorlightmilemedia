@@ -13,3 +13,4 @@
 2026-10-09 | drafted 73 warm-lane drafts (36 resilience, 37 BHM) + earlier 2 proofreads = 75 total in BHM-Corp/ToSend; skipped tcco.com, squan.com, whbass.com (identity unconfirmed) and Houston Methodist (excluded) | none sent
 2026-10-09 | URGENT: warm-lane sends today produced 17+ bounces on first page of results (12 blocked with 554 5.7.5 authentication, 5 address not found); sending paused pending SPF/DKIM/DMARC fix | no new sends by agent
 2026-10-09 | drafted 7 (2 association resilience, 3 libraries, 2 historical societies BHM) at Philip's request; Philip says DNS fixed; nothing sent by agent
+2026-10-09 | re-drafted 12 blocked sends (4 resilience, 8 BHM) after Philip's DNS fix; none sent; send only with Philip's OK
