@@ -1,13 +1,13 @@
 {
  "batch": 2,
  "query_index": 0,
- "queries_run": 100,
- "qualified": 83,
+ "queries_run": 166,
+ "qualified": 155,
  "gmail_checked_upto": 0,
  "low_batches_in_row": 0,
  "batch_new": {
   "0": 7,
   "1": 6,
-  "2": 70
+  "2": 142
  }
 }

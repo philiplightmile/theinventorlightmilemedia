@@ -11,6 +11,7 @@ D = os.path.dirname(os.path.abspath(__file__)); S = os.path.dirname(D); B = os.p
 CAND = f"{B}/candidates.csv"; EXC = f"{B}/excluded_orgs.txt"
 Q = f"{S}/queries.csv"; ST = f"{S}/harvest_state.json"
 NEW = ["persona","pillar","credit_score","voice_score","evidence_quote","evidence_url","evidence_date","verification","source_type","recommended_template","target_role","size_band_if_visible","notes"]
+OUTLETS={'prnewswire.com','globenewswire.com','businesswire.com','beckersasc.com','beckershospitalreview.com','glassdoor.com','linkedin.com','fastcompany.com','bizjournals.com','workquest.com'}
 def norm(s): return re.sub(r'[^a-z0-9]','',(s or '').lower().replace('www.',''))
 def dom(s):
     s=(s or '').lower().strip(); s=re.sub(r'^https?://','',s).replace('www.','').split('/')[0]; return s
@@ -52,7 +53,9 @@ def add(path):
         if q: touched.add(q)
         c,v=int(j.get('credit',0)),int(j.get('voice',0))
         if max(c,v)<2: skipped['score<2']+=1; continue
-        d=dom(j.get('domain','')); n=norm(j['org'])
+        d=dom(j.get('domain',''))
+        if d in OUTLETS: d=''
+        n=norm(j['org'])
         if (d and d in ds) or n in ns: skipped['dup']+=1; continue
         t='BOTH' if c==v else ('V1' if c>v else 'V2')
         rows.append({"org":j['org'],"domain":d,"sector":j.get('sector',''),"size":"","signal":"values_match","signal_url":j.get('url',''),"signal_date":j.get('date',''),
