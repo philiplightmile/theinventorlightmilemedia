@@ -33,3 +33,7 @@ iteration | query | source type | rows added | A-tier rows
 7 | Kentucky Humanities annual report donors | search + open Report to the People | 21 | 21
 7 | Regeneration Black Cinema funders | search + open exhibition site (DIA page 403) | 2 | 2
 7 | Gund, Kulas, Jennings, Nord guidelines | search + open Gund guidelines PDF via pdftotext | ELIGIBILITY.csv (Gund opened; others summaries) | 0
+9 | National Inventors Hall of Fame, Freedom Center, Lemelson, NMAAHC, Wright Museum, Ohio History Connection, Cleveland Orchestra, safety foundations | search | leads only except below | -
+9 | open Cleveland Orchestra institutional partners page | open | 19 new foundations plus overlap notes | 19
+9 | open Lemelson eligibility page | open | 1 (tier B, invitation-only, inquiry form) | 0
+9 | NMAAHC founding donors (403), Freedom Center impact PDF (image-only), Wright annual report (redirect loop) | open | 0 | 0
