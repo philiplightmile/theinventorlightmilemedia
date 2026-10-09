@@ -29,3 +29,4 @@ Corporate: Oct 2 safety-industry sends (27) produced auto-replies only. No corpo
 - Sector web searches return generic guides. Named 2026 corporate Black History Month ERG signals found: Cengage (page opened, no contact printed). Samsara and Workiva could not be confirmed on a page.
 - Corporate pages almost never print an ERG or inclusion inbox. Expect most researched orgs to end dead on "no usable email".
 - Warm contacts in Gmail history are the best source: past session contacts (Oncor), past call contacts (SMBC).
+- Lusha yield: 50 credits bought 23 revealed emails, about 90% of reveal attempts COMPLIANCE_RESTRICTED (uncharged). Results skew L&D/HR Directors; Lusha gives no company size. Profile research is mostly snippet-level: only 6 pages opened across 23 companies, no dated BHM evidence found for any. Positioning labels are mostly defaults, not evidence.
