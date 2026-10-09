@@ -1,0 +1,21 @@
+query,pillar,source_type,runs,new_orgs
+"""Black History Month"" 2026 ""employee resource group"" announces company healthcare",credit,earned_media,1,0
+Juneteenth 2025 employees observance company press release logistics OR construction,credit,press_release,1,0
+"""supplier diversity"" program announces 2026 utilities company",credit,press_release,1,0
+"""innovation challenge"" employees ideas company announces 2026 manufacturing",voice,press_release,1,2
+internal hackathon employees ideas company news 2025 finance bank,voice,company_newsroom,1,5
+"""psychological safety"" company values press release 2025 ""speak up"" retail",voice,press_release,1,0
+"""Great Place to Work"" certified 2026 company announces ""ideas"" employees Ohio",both,award_list,1,0
+"""Best Places to Work"" 2026 business journal winners culture employees voice",both,award_list,1,0
+heritage month speaker series employees company 2026 construction OR engineering firm,credit,company_newsroom,1,0
+"idea submission program employees company ""good ideas come from anywhere"" CEO 2025 interview",voice,earned_media,1,0
+"""Black History Month"" employees celebrate company announces February 2026 [wire]",credit,press_release,1,0
+"""employee resource group"" Black History Month panel speaker company 2026 [wire]",credit,press_release,1,0
+Juneteenth employees company observance event 2025 announces [wire],credit,press_release,1,0
+employees innovation challenge ideas company launches 2025 OR 2026 [wire],voice,press_release,1,2
+"""psychological safety"" employees speak up culture company announces [wire]",voice,press_release,1,1
+Black History Month 2026 employees ERG Black employee network [corp newsrooms],credit,company_newsroom,1,0
+employee hackathon winners announced 2025 company employees ideas [wire],voice,press_release,1,1
+"CEO ""every voice"" employees ideas heard company culture launches program 2026 [wire]",voice,press_release,1,0
+"""supplier diversity"" employees recognized contributions company announces 2026 [wire]",credit,press_release,1,0
+"""Great Place to Work"" certified 2026 employees ""speak up"" OR voice OR ideas [wire]",both,award_list,1,2
