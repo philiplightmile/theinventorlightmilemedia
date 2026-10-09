@@ -16,3 +16,4 @@
 2026-10-09 | re-drafted 12 blocked sends (4 resilience, 8 BHM) after Philip's DNS fix; none sent; send only with Philip's OK
 2026-10-09 | best-leads drafts | 4 drafts (NJHC, IFC, Maysles=V1; MSI=V2) labeled ToSend; none sent
 2026-10-09 | recorded East Coast museum/community price test (299/999/2999) in OFFER_ASSETS.md; Kent County reply drafted, not sent
+2026-10-09 | drafted 5 queued-with-email (Construction Craft NJ/DE=V2; Montclair Lib, S Bergen, Tribeca, Weeksville=V1) labeled ToSend; skipped CareFirst, Ann Arbor Rotary, NYU Carter, whbass/squan/tcco, Houston Methodist | none sent
