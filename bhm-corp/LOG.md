@@ -15,3 +15,4 @@
 2026-10-09 | drafted 7 (2 association resilience, 3 libraries, 2 historical societies BHM) at Philip's request; Philip says DNS fixed; nothing sent by agent
 2026-10-09 | re-drafted 12 blocked sends (4 resilience, 8 BHM) after Philip's DNS fix; none sent; send only with Philip's OK
 2026-10-09 | best-leads drafts | 4 drafts (NJHC, IFC, Maysles=V1; MSI=V2) labeled ToSend; none sent
+2026-10-09 | recorded East Coast museum/community price test (299/999/2999) in OFFER_ASSETS.md; Kent County reply drafted, not sent
