@@ -14,8 +14,8 @@ Prepared Oct 8, 2026 for the film fundraiser. Companion document: `REPORT_OUT_Do
 
 | Organization | Location | Fit and rationale | Eligibility status | Contact route |
 |---|---|---|---|---|
-| **The Reinberger Foundation** | Cleveland / Ohio | Funded Karamu House (Cleveland Black arts institution) $110,000 over 5 grants, 2020-2024 (990-based listing). | Official site opened: 501(c)(3) required (Fractured Atlas qualifies); fiscal sponsorship not addressed; Ohio focus; letter of inquiry through its portal; wants a conversation first if it has not funded you in 5 years. | info@reinbergerfoundation.org, (216) 292-2790 (printed on its page); Co-Executive Director Bob Dyer named as the first contact. |
-| **Kulas Foundation** | Cleveland | On 3 opened donor lists (Great Lakes Science Center, Karamu, Playhouse Square); gave Karamu $103,500, 2020-2024. | One aggregator says it accepts unsolicited applications (~$1.9M, 47 grants in 2024). Other unopened sources describe a music-focused foundation. Fiscal-sponsor policy not found. | 216.623.4770 *(unconfirmed, from search summary)*; murphykulas.org (not opened). |
+| **The Reinberger Foundation** | Cleveland / Ohio | Funded Karamu House (Cleveland Black arts institution) $110,000 over 5 grants, 2020-2024 (990-based listing). | Official site opened: 501(c)(3) required (Fractured Atlas qualifies); fiscal sponsorship not addressed; Ohio focus; letter of inquiry through its portal; wants a conversation first if it has not funded you in 5 years. | **info@reinbergerfoundation.org**, (216) 292-2790 (printed on its site); Co-Executive Director Bob Dyer named as the first contact. |
+| **Kulas Foundation** | Cleveland | On 3 opened donor lists (Great Lakes Science Center, Karamu, Playhouse Square); gave Karamu $103,500, 2020-2024. | One aggregator says it accepts unsolicited applications (~$1.9M, 47 grants in 2024). Other unopened sources describe a music-focused foundation. Fiscal-sponsor policy not found. | **216.623.4770** (printed on murphykulas.org; shared office with the John P. Murphy Foundation; no email on the page). Ask for the Grants Manager. |
 | **The Char and Chuck Fowler Family Foundation** | Ohio | On 3 opened lists (Great Lakes Science Center, Karamu, Playhouse Square); Karamu $95,500, 2020-2024. | **Verify it is still granting:** one source says grantmaking ends Dec 31, 2025; the page we opened did not say so. | Website not yet researched. |
 | **The Laub Foundation** | Rocky River, OH | On 3 opened lists (CMA, GLSC, Playhouse Square). Small funder (~$230K total in 2025). | Sources conflict: one says open to unsolicited applications, another says invite-only. | Not yet researched. |
 
@@ -23,7 +23,7 @@ Prepared Oct 8, 2026 for the film fundraiser. Companion document: `REPORT_OUT_Do
 
 **Cleveland arts, science and civic funders** (each appears on 2 to 3 of 4 opened donor lists; verify guidelines and film eligibility): KeyBank Foundation, PNC Foundation, Lincoln Electric Company / Foundation, The O'Neill Brothers Foundation, Lakeside Foundation *(identity unconfirmed: may be a Pennsylvania entity)*, The Harry K. & Emma R. Fox Foundation, M.E. & F.J. Callahan Foundation, The Jack, Joseph, and Morton Mandel Foundation, S. Livingston Mather Foundation, Abington Foundation, Bruening Foundation, Thomas H. White Foundation, Hankins Foundation, Veale Foundation, Wright Foundation. Note that KeyBank's community grants are by invitation and arts is not a named priority (search summary only).
 
-**Karamu House funders** (Cleveland Black arts institution; amounts from a 990-based listing, 2019-2025): The Shubert Foundation ($120,000), George Codrington Charitable Foundation ($203,500), John P. Murphy Foundation ($55,000), Treu Mart Fund ($50,000), The McGregor Foundation ($46,000), The Louise H. and David S. Ingalls Foundation ($75,000), Dominion Energy Charitable Foundation ($21,000), FirstEnergy Foundation ($15,000).
+**Karamu House funders** (Cleveland Black arts institution; amounts from a 990-based listing, 2019-2025): George Codrington Charitable Foundation ($203,500), John P. Murphy Foundation ($55,000), Treu Mart Fund ($50,000), The McGregor Foundation ($46,000), The Louise H. and David S. Ingalls Foundation ($75,000)FirstEnergy Foundation ($15,000, aggregators say invite-only).
 
 **Black history, film and media funders**
 | Organization | Location | Fit and rationale | Notes |
@@ -41,6 +41,26 @@ Prepared Oct 8, 2026 for the film fundraiser. Companion document: `REPORT_OUT_Do
 
 **Kentucky humanities donors** (lifetime donors over $10,000 to Kentucky Humanities; Morgan was born in Kentucky; humanities and history giving, not film-specific; list undated): Blue Grass Community Foundation, Carson-Myre Charitable Foundation, Christina Lee Brown and Owsley Brown II Cockayne Fund, Cralle Foundation, Duke Energy Foundation, The Gheens Foundation, The R. C. Durr Foundation, The Wood and Marie C. Hannah Foundation, Harshaw Family Foundation, Nana Lampton/Snowy Owl Foundation, Owsley Brown II Family Foundation, Raymond B. Preston Family Foundation, Scripps Howard Foundation, Cal Turner Family Foundation, Bank of America Charitable Foundation, The Steele-Reese Foundation, RCI Foundation, Tallgrass Farm Foundation, Brown-Forman Corporation, Toyota Motor North America.
 
+
+## Contact pass results (Oct 9, 2026)
+Method: only contact details printed on a page we opened. No guessed or pattern-built addresses. Full detail in `donor-prospects/contacts.csv`.
+
+**Confirmed email addresses: 4 (of the 18 priority funders researched).**
+| Organization | Email | Phone | Notes |
+|---|---|---|---|
+| The Reinberger Foundation | info@reinbergerfoundation.org | (216) 292-2790 | General inbox. Conversation required first if no grant in 5 years. |
+| KeyBank Foundation | KeyBank_Foundation@KeyBank.com | 1-800-KEY2YOU (customer service) | Printed for questions and technical help. Community Grants are invitation-only via an Expression of Interest; arts is not a stated priority. Community Sponsorships ($500 to $5,000, event or operating) accept requests January to October, so the window closes at the end of October. |
+| PNC Foundation | erin.deimling@pnc.com | (216) 222-4585 | Cleveland-region contact on PNC's foundation page ("direct specific questions to"); title not printed. |
+| Mellon Foundation | inquiries@mellon.org | (212) 838 8400 | General inquiries. Mostly by invitation per other sources. |
+
+**Phone only:** Kulas Foundation and John P. Murphy Foundation (shared office), 216.623.4770; ask for the Grants Manager.
+
+**Online portal or form, no email:** Gund (online application, but film not prioritized), Kentucky Humanities (grant portal; 2026 cycle up to $5,000; lists radio and video productions among eligible project types; no film or fiscal-sponsor mention).
+
+**No contact found (tax-filing address only or invite-only):** Fowler Family Foundation, Laub Foundation, Lincoln Electric Foundation, Murch, Veale, FirstEnergy Foundation, Far Star Action Fund, Kentucky Foundation for Women, Thomas H. White Foundation. For these, a warm introduction or a phone call is the practical route.
+
+**New drops after opening official pages:** The Shubert Foundation (general operating support for live performing arts only) and Dominion Energy Charitable Foundation (no longer funds Ohio).
+
 ## Not recommended (checked, with reasons)
 | Organization | Reason |
 |---|---|
@@ -51,6 +71,8 @@ Prepared Oct 8, 2026 for the film fundraiser. Companion document: `REPORT_OUT_Do
 | The Nord Family Foundation | Lorain County focus (search summary). |
 | Ford Foundation (JustFilms), Perspective Fund | Documentary-only programs (pages opened). |
 | MacArthur Foundation (Tribeca grants) | Last Tribeca grant 2018; documentary and short-form focus. Separate 2022 grant to Black Public Media noted; weak fit. |
+| The Shubert Foundation | Opened programs page: general operating support only for live performing arts (theatre, dance); no project or film grants. |
+| Dominion Energy Charitable Foundation | Opened page: no longer makes grants in Ohio since Enbridge took over the Ohio gas utility (2024). |
 | Doris Duke Charitable Foundation | National funder; $250,000 to Karamu in 2021; likely beyond first outreach. |
 
 ## Leads from earlier research (first search pass; not part of the donor-list work, details unverified)
