@@ -4,3 +4,4 @@
 2026-10-09 | profiled 23 Lusha contacts (contact_profiles.csv), proposed A/B split (BHM-only vs BHM + safety sentence), no new drafts | 4 research agents, snippet-heavy
 2026-10-09 | drafted 14 pilot drafts (4 industrial SAFETY, 4 industrial BHM incl. Window Nation replaced, 6 inclusion BHM), none sent | 3 Gmail checks, 0 prior contacts
 2026-10-09 | drafted 8 more (Exela, Enviva safety; Barings, SFBC, Flow Traders, Cato, Allegis, Belcorp BHM), CareFirst not drafted (2025 prior contact at domain) | 6 Gmail checks
+2026-10-09 | rewrote 16 BHM drafts (Underground Railroad Museum text, 'right person' ask) and 6 non-BHM drafts (team resilience version) per Philip | 0 sent
