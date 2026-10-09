@@ -11,3 +11,4 @@
 2026-10-09 | horizontal lanes pass 2 (ESOP, co-ops, credit unions, county historical societies, inventors groups, PTRCs, interfaith/NAACP, civic clubs): 2 queued rows (Lawrence County HS PA, Kent County HS MD) | ~25 calls | other lanes: no printed emails or old data
 2026-10-09 | warm lane: stored 79 past-campaign non-responders (Dec 2024 Cinema as a Service, Feb 2025 Garrett Morgan workshop) as queued, arm blank; MSA, consultancies, 4 auto-reply contacts included per Philip; new thread only | no drafts
 2026-10-09 | drafted 73 warm-lane drafts (36 resilience, 37 BHM) + earlier 2 proofreads = 75 total in BHM-Corp/ToSend; skipped tcco.com, squan.com, whbass.com (identity unconfirmed) and Houston Methodist (excluded) | none sent
+2026-10-09 | URGENT: warm-lane sends today produced 17+ bounces on first page of results (12 blocked with 554 5.7.5 authentication, 5 address not found); sending paused pending SPF/DKIM/DMARC fix | no new sends by agent
