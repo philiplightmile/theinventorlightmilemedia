@@ -15,7 +15,7 @@ Date: 2026-10-14. Origin: Browns thread. Andrew Berry replied positively on 2026
 4. A low ask: a February workshop or a Zoom call. No price.
 5. A warm referral: the first contact (Andrew) routed us to the community-impact owners.
 
-Unknown: whether the channel (alumni platform to a Harvard-affiliated contact) or the message earned the reply. Track both.
+Unknown: whether the message or the Harvard alumni platform it was sent through earned Andrew's reply. The new process does not depend on that platform, so track whether replies come without it.
 
 ## Steps
 1. **Universe list.** Cleveland teams and their foundations, then NFL teams (32) and each team's foundation or community arm. Later: NBA, MLB, NHL, MLS, WNBA.
@@ -23,8 +23,8 @@ Unknown: whether the channel (alumni platform to a Harvard-affiliated contact) o
 3. **Owner research.** Target community impact, foundation, community relations, and youth-program leads. Not owners, presidents or GMs. Public staff and foundation pages first; Lusha only if needed (about 90% of reveals are compliance-restricted).
 4. **Bonus flag.** If a contact's public bio shows a Harvard connection, note it. It is a tiebreaker only, never a requirement.
 5. **Score and tier.** Tier 1: Cleveland tie or strong dated youth programming, with a named owner. Tier 2: programming evidence, owner role identified but not named. Tier 3: programming evidence only, no owner found. Harvard bonus breaks ties.
-6. **Draft.** One per org, text only for the alumni platform. Hook sentence rewritten from the org's own program; rest follows Philip's note to Peter and Renee. No price, no new claims. Philip reviews before sending.
-7. **Track.** Add to `candidates.csv`: signal, signal_url, signal_date, tier, channel (alumni or Gmail), owner role, outcome. Log in `LOG.md`.
+6. **Draft.** One per org, Hook sentence rewritten from the org's own program; rest follows Philip's note to Peter and Renee. No price, no new claims. Philip reviews before sending.
+7. **Track.** Add to `candidates.csv`: signal, signal_url, signal_date, tier, owner role, harvard_bonus, outcome. Log in `LOG.md`.
 8. **Read out.** Compare positive-reply rates by tier and channel. Directional until about 40 delivered per cell.
 
 ## Open questions for Philip
