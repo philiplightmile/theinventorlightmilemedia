@@ -26,3 +26,4 @@
 2026-10-14 | sports round 1: researched 10 orgs (Cleveland x4, NFL x6), 2 Gmail drafts (Charge/Monsters to Raven Payne, Ravens general inbox), 8 text-only notes in bhm-corp/sports_round1.md, none sent | 5 research agents
 2026-10-14 | NFL program fit research: 16 NFL teams in 2 batches, ranking in bhm-corp/nfl_program_fit.md, no emails, nothing drafted or sent | 6 agents
 2026-10-14 | NFL deep intel: 31 teams, one agent each (8+ pages opened), tiers and workshop-fit hypotheses in bhm-corp/nfl_deep_intel.md; nothing drafted or sent | 31 agents
+2026-10-14 | exported comprehensive findings file bhm-corp/FULL_FINDINGS_EXPORT.md for audio brief | none sent
