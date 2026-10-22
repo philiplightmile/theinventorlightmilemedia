@@ -1,0 +1,221 @@
+[
+ {
+  "brand": "Wrangler",
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_verified": false,
+  "worker_safety_fit": "low: western/rodeo/country lifestyle brand; workwear is secondary, no safety/rescue theme found",
+  "best_activation": {
+   "what": "Wrangler country-music festival activations (summer, US); official jeans of Dallas Cowboys (2023); RODEOHOUSTON Go Texan Day sponsor (Mar 2024)",
+   "where": "US festivals/Houston",
+   "dates": "summer (year not confirmed); Go Texan Day Mar 2024",
+   "scale": "national",
+   "partners_agency": "Kontoor Brands; Holly Wheeler VP Global Marketing quoted",
+   "url": "https://www.barchart.com/story/news/2580411/wrangler-celebrates-its-deep-roots-in-country-music-with-major-festival-activations-across-the-u-s-this-summer",
+   "date": "undated in snippet",
+   "label": "UNVERIFIED (rawfetch returned empty; search snippet only)"
+  },
+  "other_activations": [
+   "Wrangler National Finals Rodeo title (Las Vegas, Dec 2025, 40th year in Vegas, $17.5M purse) - INFERRED/UNVERIFIED search snippet; not on the 2025 list of seven event sponsors per cowgirlmagazine snippet",
+   "Whataburger x Wrangler (Dec 2024) UNVERIFIED"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Kontoor Q2 2026 (quarter ended Jul 4 2026): SG&A up on 'increased investments in direct-to-consumer, demand creation and technology' - VERIFIED FOUND VERBATIM 'demand creation' at kontoorbrands.com press release 241 (2026-07-24); Wrangler revenue $469M +2%. Suggests growing marketing.",
+  "buyer_roles": [
+   "VP Global Marketing (Wrangler)",
+   "Brand partnerships/sponsorship manager",
+   "Field/experiential marketing"
+  ],
+  "named_people_published": [
+   "Holly Wheeler, VP Global Marketing, Kontoor (named in search snippet of barchart article; page not opened) UNVERIFIED",
+   "Scott Baxter, CEO/Chairman Kontoor (opened: kontoorbrands.com Q2 2026 release)"
+  ],
+  "competitors": [
+   "Ariat",
+   "Cinch",
+   "Levi's",
+   "Carhartt"
+  ],
+  "competitor_sponsorship_conflicts": "Ariat/Cinch rodeo overlap (INFERRED). Dallas Cowboys official jeans 2023.",
+  "risks": "None sourced; Kontoor acquired Helly Hansen 2025 (integration), Lee sale reported by textilwirtschaft snippet UNVERIFIED",
+  "best_event_format": "County/state fair booth or rodeo-adjacent screening; weak fit for trade school/union hall",
+  "ohio_presence": "Not verified; Wrangler widely sold in Ohio retail (INFERRED); Kontoor HQ Greensboro NC",
+  "unverified_notes": "wrangler.com 403 Cloudflare; businesswire 20250415854061 and barchart returned empty; no values quote verified after ~8 candidate pages/searches."
+ },
+ {
+  "brand": "Duluth Trading",
+  "values_quote": "it's the dedication of the crews who arrive before sunrise, the traditions families share from generation to generation and the communities that rally behind their hometown team.",
+  "values_date": "2026-08-10",
+  "values_url": "https://www.webull.com/news/15379848327734272",
+  "values_verified": true,
+  "worker_safety_fit": "medium: tradesperson workwear heritage, 'crews' messaging; not safety-gear focused",
+  "best_activation": {
+   "what": "Three-year presenting partnership of Minnesota Twins Grounds Crew; outfits crew and T.C. Bear; takeover game and plaza activations; Duluth stores in Twins Territory",
+   "where": "Target Field, Minneapolis",
+   "dates": "from 2026 season, 3 years",
+   "scale": "MLB market, 10 stores in Twins Territory",
+   "partners_agency": "Minnesota Twins (PRNewswire; Garth Weber SVP Brand and Marketing quoted)",
+   "url": "https://www.webull.com/news/15379848327734272",
+   "date": "2026-08-10",
+   "label": "VERIFIED (rawfetch FOUND VERBATIM on syndicated PRNewswire text)"
+  },
+  "other_activations": [
+   "Big Dam Van at Sturgis/NASCAR 2025 (UNVERIFIED, roic.ai 403)",
+   "IDEAL National Championship 2020-21 (older than 24 mo)",
+   "Cure Bowl title sponsor 2022 (older)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Grew: new multi-year Twins deal Aug 2026 (VERIFIED); earnings-call sponsorship/audio mentions UNVERIFIED. ir.duluthtrading.com also reported a 3% workforce reduction (finviz title, date not opened).",
+  "buyer_roles": [
+   "SVP Brand and Marketing",
+   "Sponsorship/partnerships",
+   "Field/retail events (store marketing)"
+  ],
+  "named_people_published": [
+   "Garth Weber, SVP of Brand and Marketing (printed in opened Webull/PRNewswire page, 2026-08-10)"
+  ],
+  "competitors": [
+   "Carhartt",
+   "Dickies",
+   "Ariat",
+   "Filson"
+  ],
+  "competitor_sponsorship_conflicts": "IDEAL electrician championship precedent (2020-21); no current conflict found.",
+  "risks": "Workforce reduction of ~3% (finviz headline, unopened, date unverified); sales pressure UNVERIFIED",
+  "best_event_format": "Job-site/trade crew night; store-hosted talkback; Twins-style crew tribute",
+  "ohio_presence": "Not verified; retail stores in Ohio likely (INFERRED)",
+  "unverified_notes": "duluthtrading.com and ir. site 403; earnings transcript 403."
+ },
+ {
+  "brand": "Rocky Boots",
+  "values_quote": "we are really excited to be a part of this year's hockey classic as it supports our first responders who are the backbone of every community. with nearly 800 attendees, this is a special and fun way to thank them for their courage, sacrifice and dedication",
+  "values_date": "2025-03-24",
+  "values_url": "https://www.firerescue1.com/fire-products/apparel/footwear/rocky-boots-supports-the-kingston-police-hockey-classic",
+  "values_verified": true,
+  "worker_safety_fit": "high: dedicated public service/first responder division, Ohio HQ",
+  "best_activation": {
+   "what": "Rocky Boots public service division sponsors 11th Kingston Police Hockey Classic (50 teams, 8 divisions, ~800 attendees)",
+   "where": "Rockland, MA",
+   "dates": "2025-03-28 to 03-30",
+   "scale": "~800 attendees",
+   "partners_agency": "Kingston Police Hockey Classic",
+   "url": "https://www.firerescue1.com/fire-products/apparel/footwear/rocky-boots-supports-the-kingston-police-hockey-classic",
+   "date": "2025-03-24",
+   "label": "VERIFIED (FOUND VERBATIM; dateline Nelsonville, Ohio)"
+  },
+  "other_activations": [
+   "Whitetails Unlimited national sponsor renewal 2025-02-20 (UNVERIFIED, 403)",
+   "Fire Department Coffee content 2022 (older)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Q1 2025 call: work/outdoor growing (snippet, UNVERIFIED); sponsorships continuing 2025.",
+  "buyer_roles": [
+   "VP/GM Commercial Military and Public Service Division",
+   "Brand marketing director",
+   "Public service channel/events manager"
+  ],
+  "named_people_published": [
+   "Mark Dean, VP and General Manager, Rocky Boots commercial military and public service division (printed on opened firerescue1 page, 2025-03-24)"
+  ],
+  "competitors": [
+   "Thorogood",
+   "Danner",
+   "Wolverine",
+   "Timberland PRO",
+   "Haix"
+  ],
+  "competitor_sponsorship_conflicts": "None found. Sister brand Georgia Boot.",
+  "risks": "None sourced.",
+  "best_event_format": "Fire station night or first-responder community event; Ohio county fair booth",
+  "ohio_presence": "Press release dateline Nelsonville, Ohio (VERIFIED, 2025-03-24); rockybrands.com opened 2026",
+  "unverified_notes": "Strong fit; approach with Georgia Boot via Rocky Brands."
+ },
+ {
+  "brand": "Filson",
+  "values_quote": "for nearly 130 years, Filson has built products for people who depend on their gear in the harshest conditions imaginable",
+  "values_date": "2026-06-04",
+  "values_url": "https://thebronconation.com/news/built-to-be-passed-down-the-story-of-bronco-filson-t.24037/",
+  "values_verified": true,
+  "worker_safety_fit": "medium: heritage workwear/outdoor craftsmanship, premium price; more outdoor than trades",
+  "best_activation": {
+   "what": "Bronco Filson road tour, 20+ cities North America (launch of 2027 Bronco Filson), vehicle viewing and team talks",
+   "where": "Phoenix start Jul 22 2026 through Houston Oct 21 2026; Cincinnati stop reported earlier",
+   "dates": "Jul-Oct 2026",
+   "scale": "20+ cities",
+   "partners_agency": "Ford",
+   "url": "https://thebronconation.com/news/built-to-be-passed-down-the-story-of-bronco-filson-t.24037/",
+   "date": "2026-06-04",
+   "label": "VERIFIED page/launch; tour schedule from forum repost UNVERIFIED"
+  },
+  "other_activations": [
+   "Seattle Kraken/Climate Pledge partnership 2021 (older)",
+   "Filson stores events page (filson.com opened, not detailed)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Grew: Ford co-brand vehicle and tour 2026 (INFERRED).",
+  "buyer_roles": [
+   "Head of Marketing",
+   "Brand partnerships/events",
+   "Retail store marketing"
+  ],
+  "named_people_published": [
+   "Alex Carleton, Chief Creative Officer, Filson (quoted on opened thebronconation page, 2026-06-04)"
+  ],
+  "competitors": [
+   "Carhartt",
+   "Duluth Trading",
+   "Barbour",
+   "Orvis"
+  ],
+  "competitor_sponsorship_conflicts": "Ford exclusive tie-in; none vs trades events found.",
+  "risks": "None sourced.",
+  "best_event_format": "Store-hosted heritage talkback evening; museum/library",
+  "ohio_presence": "Bronco tour Cincinnati stop (UNVERIFIED); no Ohio store verified",
+  "unverified_notes": "Quote is from Filson CCO printed in Ford-fan site; official Filson page not opened."
+ },
+ {
+  "brand": "Snap-on",
+  "values_quote": "Upskilling workers is absolutely essential for our future prosperity and the seminal issue of our time. Snap-on comes naturally to this issue given our ten decades serving the makers and fixers of our society.",
+  "values_date": null,
+  "values_url": "https://www.snapon.com/EN/Our-Company/Upskilling-the-Workforce",
+  "values_verified": false,
+  "worker_safety_fit": "high: skilled trades, technicians, 'even in harm's way' dignity-of-work language, schools program",
+  "best_activation": {
+   "what": "Josh Hart Racing Top Fuel dragster sponsorship (Snap-on Tools), 2025 NHRA season",
+   "where": "NHRA",
+   "dates": "2025 season, announced Dec 2024",
+   "scale": "national",
+   "partners_agency": "Josh Hart Racing",
+   "url": "https://nhra.com/news/2024/josh-hart-racing-adds-snap-tools-2025-top-fuel-season",
+   "date": "2024-12",
+   "label": "VERIFIED page contains Snap-on (earlier pass)"
+  },
+  "other_activations": [
+   "NO COMPROMISE TOUR at NHRA events (undated, UNVERIFIED)",
+   "Education program with tech schools (UTI alliance 2023, older)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Q3 2026 organic sales -2.8% (earlier-pass, UNVERIFIED); no marketing spend data.",
+  "buyer_roles": [
+   "CMO/VP Marketing",
+   "Motorsports/sponsorship manager",
+   "Education/schools program manager",
+   "Franchisee/dealer network marketing"
+  ],
+  "named_people_published": [
+   "Nick Pinchuk, Chairman and CEO (printed on opened snapon.com upskilling page)"
+  ],
+  "competitors": [
+   "Matco",
+   "Mac Tools",
+   "Milwaukee",
+   "Craftsman"
+  ],
+  "competitor_sponsorship_conflicts": "None found for trades events.",
+  "risks": "Organic sales decline Q3 2026 (UNVERIFIED).",
+  "best_event_format": "Trade school / union training center night with franchisee tool-truck presence",
+  "ohio_presence": "Not verified; franchisee vans widespread (INFERRED)",
+  "unverified_notes": "Quote FOUND VERBATIM but page undated, so values_verified false (date not provable)."
+ }
+]
