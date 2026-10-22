@@ -1,0 +1,184 @@
+[
+ {
+  "brand": "Bridgestone",
+  "activations": [
+   {
+    "what": "Official Tire of the NFL, multi-year deal with NFL event rights (Draft, Kickoff, Super Bowl fan areas) and national advertising; search snippet describes older renewal (~2016), current status unconfirmed",
+    "where": "",
+    "dates": "undated",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://tiresandparts.net/news/tires/bridgestone-renews-nfl-sponsorship-for-another-five-years/",
+    "date": "undated",
+    "label": "UNVERIFIED (search snippet only)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "pattern_agencies": "NFL league sponsorship; agencies not found",
+  "best_event_format": "safety stand-down / trade school with tire-truck mobile tie-in",
+  "passes_screen": false,
+  "unverified_notes": "No last-24-month activation confirmed; passes_screen false for lack of verified recent evidence, not a values judgment. Minimum 8 tool calls/brand NOT met.",
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "no values quote located/verified",
+  "decision_roles": [],
+  "named_people_published": [],
+  "marketing_trend": "not researched; no 2025-26 pullback/increase evidence found",
+  "competitors": "",
+  "risks": "not researched",
+  "ohio_presence": "not verified"
+ },
+ {
+  "brand": "Valvoline",
+  "activations": [
+   {
+    "what": "Hendrick Motorsports extension through 2029: primary sponsor 6 races/yr on No. 24 from 2025, 3 races/yr on No. 5, associate on all cars",
+    "where": "NASCAR Cup",
+    "dates": "2024-06-26",
+    "scale": "multi-year, spend not disclosed",
+    "partners_or_agency": "",
+    "url": "https://frontstretch.com/2024/06/26/valvoline-extends-with-hendrick-through-2029",
+    "date": "2024-06-26",
+    "label": "UNVERIFIED (search snippet; rawfetch blocked 403)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "pattern_agencies": "NASCAR motorsports; agencies not found",
+  "best_event_format": "trade-school/auto-tech school screening with racing-garage tie-in",
+  "passes_screen": true,
+  "unverified_notes": "Sponsorship evidence from snippet only, not opened. Values quote not found. Minimum tool calls not met.",
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "no values quote located/verified",
+  "decision_roles": [],
+  "named_people_published": [],
+  "marketing_trend": "not researched; no 2025-26 pullback/increase evidence found",
+  "competitors": "",
+  "risks": "not researched",
+  "ohio_presence": "not verified"
+ },
+ {
+  "brand": "U-Haul",
+  "activations": [
+   {
+    "what": "Sponsor of Marine Corps Marathon (vehicle in-kind, 'more than a decade'); sponsorship scale unknown; may be in-kind",
+    "where": "Washington DC",
+    "dates": "2025-10",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://myuhaulstory.com/tag/2025/?et_blog",
+    "date": "2025-10",
+    "label": "UNVERIFIED (snippet)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "pattern_agencies": "not found; heavy in-kind/community giving",
+  "best_event_format": "community/fair event with truck trailer venue",
+  "passes_screen": false,
+  "unverified_notes": "Evidence thin and partly in-kind/charitable; fails commercial-spend standard as verified. Minimum tool calls not met.",
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "no values quote located/verified",
+  "decision_roles": [],
+  "named_people_published": [],
+  "marketing_trend": "not researched; no 2025-26 pullback/increase evidence found",
+  "competitors": "",
+  "risks": "not researched",
+  "ohio_presence": "not verified"
+ },
+ {
+  "brand": "Pilot Flying J",
+  "activations": [
+   {
+    "what": "Pilot Road Warrior giveaway with Diesel Brothers custom Kenworth, entries Sep 2-19 2025",
+    "where": "",
+    "dates": "2025-08-28",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://secure.businesswire.com/news/home/20250828495112/en/Thanks-for-the-Drive-Pilot-Celebrates-Driver-Appreciation-Month-Partners-with-Diesel-Brothers-for-Road-Warrior-Giveaway",
+    "date": "2025-08-28",
+    "label": "UNVERIFIED (snippet)",
+    "type": "content"
+   },
+   {
+    "what": "SEC/ESPN multi-year sponsorship (older, ~2019)",
+    "where": "",
+    "dates": "pre-2024",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://overdriveonline.com/truck-stops/article/14892716/pilot-flying-j-inks-sponsorship-deal-with-espn-southeastern-conference",
+    "date": "pre-2024",
+    "label": "UNVERIFIED (snippet)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "pattern_agencies": "sports (SEC, Bristol), driver appreciation campaigns",
+  "best_event_format": "driver appreciation / trucking safety event",
+  "passes_screen": true,
+  "unverified_notes": "Snippets only. Minimum tool calls not met.",
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "no values quote located/verified",
+  "decision_roles": [],
+  "named_people_published": [],
+  "marketing_trend": "not researched; no 2025-26 pullback/increase evidence found",
+  "competitors": "",
+  "risks": "not researched",
+  "ohio_presence": "not verified"
+ },
+ {
+  "brand": "Love's Travel Stops",
+  "activations": [
+   {
+    "what": "Premier partner of Front Row Motorsports No. 34 (Todd Gilliland) for 2025 and beyond, 13th season with team",
+    "where": "NASCAR Cup",
+    "dates": "2024-11-19",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.nascar.com/news-media/2024/11/19/todd-gilliland-to-carry-loves-travel-stops-livery-in-2025-beyond/",
+    "date": "2024-11-19",
+    "label": "UNVERIFIED (snippet; rawfetch blocked 403)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Oklahoma City Thunder jersey patch partnership (2019, older)",
+    "where": "",
+    "dates": "2019",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://en.wikipedia.org/wiki/Love%27s",
+    "date": "2019",
+    "label": "UNVERIFIED",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "pattern_agencies": "NASCAR, NBA; agencies not found",
+  "best_event_format": "trucking/safety stand-down or trade-school with Speedco/truck-care tie-in",
+  "passes_screen": true,
+  "unverified_notes": "Snippets only. Minimum tool calls not met.",
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "no values quote located/verified",
+  "decision_roles": [],
+  "named_people_published": [],
+  "marketing_trend": "not researched; no 2025-26 pullback/increase evidence found",
+  "competitors": "",
+  "risks": "not researched",
+  "ohio_presence": "not verified"
+ }
+]
