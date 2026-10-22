@@ -1,0 +1,238 @@
+[
+ {
+  "brand": "Michelin",
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_verified": false,
+  "worker_safety_fit": "medium: long-running first-responder tire-donation heritage (2006-08) and veteran motorsports tie-ins, but no current worker-safety messaging verified",
+  "best_activation": {
+   "what": "Official tire of IMSA through 2035; entitlement of IMSA Michelin Pilot Challenge, Endurance Cup and Michelin Raceway Road Atlanta; 'Win the Weekend' docuseries",
+   "where": "US (series-wide)",
+   "dates": "Announced 2025-10-10; through 2035 season",
+   "scale": "Multi-year/10-yr; docuseries 2.5M+ viewers/episode; spend undisclosed",
+   "partners_agency": "IMSA",
+   "url": "https://www.performanceracing.com/magazine/industry-news/10-10-2025/michelin-imsa-extend-partnership-supplier-agreement",
+   "date": "2025-10-10",
+   "label": "VERIFIED (page opened, 'through the 2035 season' text present)"
+  },
+  "other_activations": [
+   "Official Tire of CrowdStrike Veterans Race of Remembrance with Operation Motorsport (UNVERIFIED, snippet only)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "GREW: IMSA deal extended from 2028 to 2035 (VERIFIED 2025-10-10, same URL)",
+  "buyer_roles": [
+   "Director of Motorsports/Sponsorships",
+   "Brand/marketing communications",
+   "Michelin North America commercial truck tire field marketing"
+  ],
+  "named_people_published": [],
+  "competitors": [
+   "Goodyear",
+   "Bridgestone",
+   "Cooper",
+   "Continental"
+  ],
+  "competitor_sponsorship_conflicts": "INFERRED: none found for worker/trade events; Michelin is exclusive tire supplier in IMSA (VERIFIED).",
+  "risks": [
+   "NHTSA recall 25T008000: 6,888 Agilis CrossClimate C-metric tires, tread chunking, reported 2025-05-19 (VERIFIED https://www.motorverso.com/recalls/michelin-north-america-inc/25T008000/)",
+   "NHTSA investigation of 2014 Michelin XZA 295/60R22.5 truck tires, Tire Review/AftermarketNews item; year per search summary 2025, page date unclear (UNVERIFIED https://www.aftermarketnews.com/nhtsa-investigates-michelin-truck-tire-failures/)"
+  ],
+  "best_event_format": "Fire station / first-responder or trade school night built on Michelin's past first-responder tire donations; Ohio access via commercial tire dealers",
+  "ohio_presence": "UNVERIFIED; HQ Greenville SC, no Ohio facility confirmed this pass",
+  "unverified_notes": "michelinman.com blocked (403). Searches of 2025 Michelin worker/safety statements returned only 2006-2008 first-responder donation items (Tire Review/Fire Engineering, outside window). No quote verified."
+ },
+ {
+  "brand": "Valvoline",
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_verified": false,
+  "worker_safety_fit": "medium: 2,000+ service centers employing technicians (trades audience), annual Oilympics technician competition; no safety/rescue messaging found",
+  "best_activation": {
+   "what": "Hendrick Motorsports extension through 2029: primary on No. 24 (6 races/yr from 2025), No. 5 (3 races/yr), associate on all cars; 2026 schemes unveiled",
+   "where": "NASCAR Cup",
+   "dates": "Extension announced 2024-06 (undated snippet); 2026 schemes unveiled 2026-01-05",
+   "scale": "Multi-year; spend undisclosed",
+   "partners_agency": "Hendrick Motorsports",
+   "url": "https://www.ovalinsider.com/nascar-news/nascar-2026-kyle-larson-william-byron-paint-schemes-unveiled-valvoline-1072566/",
+   "date": "2026-01-05",
+   "label": "VERIFIED for 2026 No.24/No.5 primary races (page opened); 2029 term is from search snippets (frontstretch/speedsport blocked)"
+  },
+  "other_activations": [
+   "31st annual Oilympics technician competition, Cincinnati, 2025-05-13, 40 regional teams (VERIFIED https://www.counterman.com/valvoline-instant-oil-change-oilympics-2025-winners/, published 2025-05-15); 32nd in Lexington KY announced (UNVERIFIED snippet, barchart)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "STABLE/GROWING: 2026 primary schedule published; 2029 extension includes expansion (INFERRED from snippets)",
+  "buyer_roles": [
+   "Sponsorship/motorsports marketing",
+   "Brand marketing",
+   "Field/local market marketing for retail service centers",
+   "Area/market managers (Oilympics)"
+  ],
+  "named_people_published": [
+   "Lori Flees, CEO (per search snippets; not a buyer, not opened)",
+   "Oilympics 2025 winners incl. market manager Matthew Popielarz (VERIFIED https://www.counterman.com/valvoline-instant-oil-change-oilympics-2025-winners/)"
+  ],
+  "competitors": [
+   "Pennzoil/Shell",
+   "Mobil 1",
+   "Jiffy Lube",
+   "Castrol",
+   "Take 5"
+  ],
+  "competitor_sponsorship_conflicts": "UNVERIFIED; not researched in depth.",
+  "risks": [
+   "No recall/litigation/layoff found in this pass (not exhaustively searched)"
+  ],
+  "best_event_format": "Trade school / auto-tech program night near Valvoline service centers",
+  "ohio_presence": "INFERRED: Valvoline Instant Oil Change centers in Ohio; Oilympics held in Cincinnati 2025 (VERIFIED)",
+  "unverified_notes": "No worker-related values quote found; only tagline 'built on trust. focused on results.' (X post 2026-01-05, VERIFIED present on ovalinsider but not worker-related). Pass-1 Hendrick 2024-06-26 date remains snippet-only."
+ },
+ {
+  "brand": "Pilot Flying J",
+  "values_quote": "stacy's and bobby's hard work, dedication to the profession, commitment to safety, and service stood out.",
+  "values_date": "2025-11-12 (Bulk Transporter article; release Oct-Nov 2025)",
+  "values_url": "https://www.bulktransporter.com/fleet-management/news/55329636/pilot-surprises-2025-road-warrior-champion",
+  "values_verified": true,
+  "worker_safety_fit": "high: Road Warrior program explicitly rewards drivers for safety records; core audience is professional drivers",
+  "best_activation": {
+   "what": "Road Warrior contest with Diesel Brothers: custom Kenworth + $50,000 grand prize, $10,000 bonus + $25,000 veterans charity donation (largest prize in contest history)",
+   "where": "US; surprise at Flying J, Baytown TX",
+   "dates": "Nominations 2025-09-02 to 09-19; surprise 2025-10-21; article 2025-11-12",
+   "scale": "Thousands of entries; prize package ~$85k+ plus custom truck",
+   "partners_agency": "Diesel Brothers (Kenworth custom build)",
+   "url": "https://www.bulktransporter.com/fleet-management/news/55329636/pilot-surprises-2025-road-warrior-champion",
+   "date": "2025-11-12",
+   "label": "VERIFIED (page opened)"
+  },
+  "other_activations": [
+   "Driver Appreciation Month app deals incl. 10% military/veteran discount, Sept 2025 (UNVERIFIED, convenience.org blocked)",
+   "2026 Road Warrior contest repeated, nominations Sept 2-18 2026 (VERIFIED https://landline.media/2026-road-warrior-contest-has-begun/)",
+   "SEC/ESPN sponsorship (pre-2024, UNVERIFIED)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "SUSTAINED: Road Warrior repeated in 2026 with same Kenworth/$50k prize (VERIFIED Land Line 2026-09-02)",
+  "buyer_roles": [
+   "Chief Experience Officer (driver programs)",
+   "SVP Transportation and Midstream Assets",
+   "Marketing/brand partnerships",
+   "Community/local market"
+  ],
+  "named_people_published": [
+   "Kari Irons, Chief Experience Officer (VERIFIED https://landline.media/2026-road-warrior-contest-has-begun/)",
+   "Jordan Spradling, SVP Transportation and Midstream Assets (VERIFIED bulktransporter URL above)"
+  ],
+  "competitors": [
+   "Love's",
+   "TA/Petro",
+   "Sapp Bros",
+   "Buc-ee's"
+  ],
+  "competitor_sponsorship_conflicts": "Kenworth is partner via Road Warrior prize truck (VERIFIED). Love's sponsors NASCAR (see Love's).",
+  "risks": [
+   "2013 rebate-fraud scandal; $84.9M class settlement, opt-out suits continued (VERIFIED search results, older, ccjdigital/ttnews). No 2025-26 incidents found."
+  ],
+  "best_event_format": "Job-site / driver safety stand-down at a Pilot/Flying J travel center or trucking-school night; recognize safe-driving drivers",
+  "ohio_presence": "INFERRED: many Ohio Pilot/Flying J centers; Ohio-specific page not opened",
+  "unverified_notes": "businesswire and pilotflyingj.com release pages blocked/403; quote verified via trade-press reprint, attribution to Pilot's release per Bulk Transporter."
+ },
+ {
+  "brand": "Love's Travel Stops",
+  "values_quote": "professional truck drivers will appreciate Love's ongoing support, featuring new amenities and a commitment to addressing the critical shortage of truck parking",
+  "values_date": "2025-01-23",
+  "values_url": "https://loves.com/News/2025/January/Loves-previews-plans-for-2025",
+  "values_verified": true,
+  "worker_safety_fit": "medium: serves professional drivers; Truck Care roadside/maintenance and veteran hiring (+10% in 2025), but no explicit safety-campaign evidence",
+  "best_activation": {
+   "what": "Premier partner of Front Row Motorsports No. 34 (Todd Gilliland) 2025 and beyond, 13th season with team",
+   "where": "NASCAR Cup",
+   "dates": "2024-11-19",
+   "scale": "Multi-year; spend undisclosed",
+   "partners_agency": "Front Row Motorsports",
+   "url": "https://www.nascar.com/news-media/2024/11/19/todd-gilliland-to-carry-loves-travel-stops-livery-in-2025-beyond/",
+   "date": "2024-11-19",
+   "label": "UNVERIFIED (nascar.com blocked 403; pass-1 snippet)"
+  },
+  "other_activations": [
+   "Love's Media Group retail media: 20+ brand partnerships, Aug 2026; 23% lift campaign Oct 2026 (VERIFIED newsroom listing https://loves.com/News, titles only)",
+   "2025 plans: +12 maintenance bays, 6 emergency roadside vehicles, ~1,000 parking spaces (VERIFIED Jan 2025 release)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "GROWING: expansion plus new retail-media business (VERIFIED newsroom 2026); NASCAR commitment 'and beyond' (UNVERIFIED)",
+  "buyer_roles": [
+   "Sponsorship/racing marketing",
+   "Brand marketing",
+   "Community giving",
+   "Love's Media Group partnerships",
+   "Truck Care field"
+  ],
+  "named_people_published": [
+   "Shane Wharton, President (VERIFIED https://loves.com/News/2025/January/Loves-previews-plans-for-2025)",
+   "Greg Ekman, director of fresh kitchen strategy (not a buyer)"
+  ],
+  "competitors": [
+   "Pilot Flying J",
+   "TA/Petro",
+   "Buc-ee's",
+   "Casey's"
+  ],
+  "competitor_sponsorship_conflicts": "Pilot has Kenworth tie-in; no event conflict found.",
+  "risks": [
+   "Feb 2026 proposed class action over $20/week tobacco surcharge on health plan, W.D. Okla., allegation only (single paywalled source, bgov)",
+   "$2.95M overtime settlement 2021 (older)"
+  ],
+  "best_event_format": "Trucking safety stand-down or truck-care academy / diesel trade school night",
+  "ohio_presence": "VERIFIED: Ohio locations in newsroom renovations (Aug 2026) and NEVI chargers planned in Ohio (Jan 2025 release)",
+  "unverified_notes": "Quote is about driver support, weaker than a safety quote. No better worker-safety quote located."
+ },
+ {
+  "brand": "Kenworth",
+  "values_quote": "Kenworth's donation underscores the company's long‑standing dedication to the trucking community, veterans and organizations that strengthen and support drivers across the country",
+  "values_date": "2026-04-10",
+  "values_url": "https://www.thetrucker.com/trucking-news/truck-driving-jobs-news/kenworth-debuts-limited-edition-touramerica-paint-scheme-for-freedom-250",
+  "values_verified": true,
+  "worker_safety_fit": "high: drivers, veterans and trucking heritage; Freedom Trucks educational mobile museum matches history-screening model (verified fragment 'dedication to the trucking community, veterans and organizations')",
+  "best_activation": {
+   "what": "Limited-edition TourAmerica paint scheme; donated T680 to Freedom 250 'Freedom Trucks' mobile museum fleet touring US in 2026",
+   "where": "US national tour",
+   "dates": "2026",
+   "scale": "National mobile museum fleet",
+   "partners_agency": "Freedom 250",
+   "url": "https://www.thetrucker.com/trucking-news/truck-driving-jobs-news/kenworth-debuts-limited-edition-touramerica-paint-scheme-for-freedom-250",
+   "date": "2026-04-10",
+   "label": "VERIFIED (page opened; Kevin Haygood quote present)"
+  },
+  "other_activations": [
+   "Custom Kenworth prize truck for Pilot Road Warrior 2025 and 2026 (VERIFIED bulktransporter/landline)",
+   "Mid-America Trucking Show ride-and-drive (2018 listing, UNVERIFIED current)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "GREW: Freedom 250 heritage activation 2026 (VERIFIED)",
+  "buyer_roles": [
+   "Assistant GM Sales & Marketing",
+   "Marketing/brand director",
+   "Dealer/customer experience",
+   "PACCAR corporate communications"
+  ],
+  "named_people_published": [
+   "Kevin Haygood, Kenworth assistant general manager for sales and marketing (VERIFIED thetrucker URL above)"
+  ],
+  "competitors": [
+   "Peterbilt (PACCAR sibling)",
+   "Freightliner",
+   "Volvo",
+   "Mack",
+   "International"
+  ],
+  "competitor_sponsorship_conflicts": "Peterbilt renewed ATA Trucking U sponsorship Oct 2024 (search snippet, UNVERIFIED); Freightliner historical Mid-America concert sponsor (old).",
+  "risks": [
+   "Chillicothe OH layoffs Aug 2024 reportedly 300-400 workers (UNVERIFIED snippet)",
+   "March 2024 recall ~697 trucks air tank (older, snippet)",
+   "PACCAR 2025 softer results due to tariffs/market (snippet)"
+  ],
+  "best_event_format": "Freedom Trucks tour stop tie-in, or trucking/diesel trade school night",
+  "ohio_presence": "INFERRED: Chillicothe OH plant (search results confirm layoffs there, 2024, snippet)",
+  "unverified_notes": "Pass-1 quote used non-breaking hyphen; verified with ordinary spacing as FOUND VERBATIM on fragment. Corporate PACCAR may make sponsorship calls."
+ }
+]

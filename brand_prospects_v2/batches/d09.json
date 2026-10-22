@@ -1,0 +1,327 @@
+[
+ {
+  "brand": "BRP Can-Am",
+  "values_quote": "Synonymous with hard work, grit and determination, the Can-Am Defender lineup is trusted by farmers, ranchers and riders across the world.",
+  "values_date": "2025-11-25",
+  "values_url": "https://finviz.com/news/238594/can-am-unveils-the-industrys-most-affordable-hvac-equipped-side-by-sides-and-a-new-camouflage-outlander-electric",
+  "values_verified": true,
+  "worker_safety_fit": "medium: work-vehicle (Defender) for farmers/ranchers/trades; ag and job-site framing, no safety-programme messaging found",
+  "best_activation": {
+   "what": "2025 Utility Demo Experience tour (Defender/Outlander, 45-min demo rides, rebates up to $1,000) plus 2026 Fall Farm Tour and farm/ranch show demos (Sunbelt Ag Expo Oct 20-22 2026)",
+   "where": "North America",
+   "dates": "2025; 2026 events through Nov",
+   "scale": "10 stops (2025 tour)",
+   "partners_agency": "Own-run BRP experiences; PBR official partner; Farm Rescue 3-year partnership (financial support/equipment)",
+   "url": "https://www.potatogrower.com/2025/04/canam-launches-10stop-utility-demo",
+   "date": "2025-04-22",
+   "label": "VERIFIED (2025 tour, page opened previously); 2026 events VERIFIED on can-am.brp.com events page opened 2026-10-22"
+  },
+  "other_activations": [
+   {
+    "what": "Events page: Sunbelt Ag Expo demo, UTV Takeover Utah, Glamis, Arizona Maverick demo; PBR 2026 World Finals official partner",
+    "url": "https://can-am.brp.com/off-road/us/en/discover/events-races.html",
+    "label": "VERIFIED (page opened)"
+   },
+   {
+    "what": "Can-Am x Farm Rescue three-year partnership",
+    "url": "https://can-am.brp.com/off-road/us/en/discover/about-us/farm-rescue.html",
+    "label": "VERIFIED (page opened; charitable, not counted as marketing spend)"
+   },
+   {
+    "what": "Montreal Canadiens official partner from 2026-27",
+    "url": "https://retail-insider.com/retail-insider/2026/09/brp-becomes-official-partner-of-montreal-canadiens/",
+    "label": "INFERRED (snippet only)"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "INFERRED steady/growing: 2025 10-stop tour followed by 2026 multi-event demo calendar and PBR partnership (events page, 2026-10-22). No budget figures found.",
+  "buyer_roles": [
+   "Marketing Director, Can-Am Off-Road",
+   "Experiential / events manager (BRP Experiences)",
+   "Agriculture & business program lead",
+   "Regional/dealer marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Jeremi Doyon-Roch",
+    "title": "Marketing Director, Can-Am Off-Road",
+    "url": "https://finviz.com/news/238594/can-am-unveils-the-industrys-most-affordable-hvac-equipped-side-by-sides-and-a-new-camouflage-outlander-electric",
+    "label": "VERIFIED (printed, 2025-11-25)"
+   }
+  ],
+  "competitors": [
+   "Polaris Ranger",
+   "Kawasaki Mule",
+   "Yamaha Viking",
+   "John Deere Gator",
+   "Kubota RTV",
+   "Honda Pioneer"
+  ],
+  "competitor_sponsorship_conflicts": "INFERRED/UNVERIFIED: Polaris, Kubota and Kawasaki all do PBR/ag-show presence; Kubota and Can-Am both PBR partners (Kubota per kubotausa.com 2026-03-02). No trade/safety-event conflict found.",
+  "risks": [
+   "No verified recalls/litigation researched beyond search; BRP recall history not checked (UNVERIFIED)"
+  ],
+  "best_event_format": "County/state fair or farm-show demo booth; ag-trade night with work-vehicle demo",
+  "ohio_presence": "UNVERIFIED (dealer network assumed; no Ohio event found on events page)",
+  "unverified_notes": "news.brp.com returned 403; Defender launch release not opened. Values quote is work-ethic framing, not safety. Fewer than 10 tool calls per brand were made for risks/competitors; those fields are thin."
+ },
+ {
+  "brand": "Yamaha",
+  "values_quote": "The Viking models offer robust, work-ready solutions for tackling demanding utility tasks with rugged dependability.",
+  "values_date": "2025-09-18",
+  "values_url": "https://powersportsbusiness.com/news/side-by-side/2025/09/18/yamaha-releases-its-2026-side-by-side-lineup/",
+  "values_verified": true,
+  "worker_safety_fit": "medium: Viking work-utility SxS and new Deere tie-up (Oct 2026) raise ag/trades relevance; no safety messaging found",
+  "best_activation": {
+   "what": "Yamaha Senoia Short Track title sponsor / OEM partner Progressive AFT; ~250 employees attended",
+   "where": "Senoia, GA",
+   "dates": "2025-03-29",
+   "scale": "~250 employee attendees; GNCC contingency reported $867,000 (UNVERIFIED)",
+   "partners_agency": "Progressive AFT",
+   "url": "https://www.cyclenews.com/2025/02/article/yamaha-continues-as-an-oem-partner-of-progressive-aft/",
+   "date": "2025-02-26",
+   "label": "VERIFIED (page opened in pass 1)"
+  },
+  "other_activations": [
+   {
+    "what": "Yamaha + John Deere collaboration on future side-by-sides announced 2026-10-06 (Yamaha powertrain/design, Deere development/US manufacturing)",
+    "url": "https://www.cyclenews.com/2026/10/article/yamaha-motor-and-john-deere-announce-collaboration-on-future-side-by-side-vehicles/",
+    "label": "VERIFIED (page opened)"
+   },
+   {
+    "what": "Yamaha Outdoor Access Initiative grants (>$225k Q2 2026) - grant, NOT counted as marketing",
+    "url": "https://powersportsbusiness.com/news/side-by-side/2025/09/18/yamaha-releases-its-2026-side-by-side-lineup/",
+    "label": "INFERRED (headline only)"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "INFERRED stable: continued racing sponsorships 2025; new Deere partnership 2026-10 signals ag/utility push",
+  "buyer_roles": [
+   "President/Marketing, Yamaha Motorsports",
+   "Sports/Motorsports marketing manager",
+   "Field marketing / dealer events",
+   "Community/outdoor access programs"
+  ],
+  "named_people_published": [
+   {
+    "name": "Dean Burnett",
+    "title": "Yamaha Motorsports President",
+    "url": "https://www.cyclenews.com/2026/10/article/yamaha-motor-and-john-deere-announce-collaboration-on-future-side-by-side-vehicles/",
+    "label": "VERIFIED (printed 2026-10-06)"
+   }
+  ],
+  "competitors": [
+   "Polaris",
+   "Can-Am",
+   "Kawasaki",
+   "Honda",
+   "Kubota",
+   "John Deere (now partner)"
+  ],
+  "competitor_sponsorship_conflicts": "Deere is now a partner on SxS (VERIFIED); a Deere or Yamaha sponsor would likely be dual-interest. No event-specific conflicts found.",
+  "risks": [
+   "Not researched beyond search: no recalls/litigation verified (UNVERIFIED)"
+  ],
+  "best_event_format": "Dealer-hosted demo at county fair or ag/trade event; trade school equipment night",
+  "ohio_presence": "UNVERIFIED (Newnan GA plant; Ohio dealers assumed)",
+  "unverified_notes": "globenewswire and equipmentworld blocked. Prior 'see Yamaha products in action' quote was not found; replaced. 'Bob Brown' from pass 1 not verified and dropped."
+ },
+ {
+  "brand": "Kawasaki",
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_verified": false,
+  "worker_safety_fit": "medium: Mule/Teryx work-vehicles; ranch/job-site positioning, but marketing is music/PBR/racing; no worker-safety statement verified",
+  "best_activation": {
+   "what": "Official sponsor Morgan Wallen 'Still The Problem' tour with Monster Energy, 23 dates, sweepstakes for Mule-class RIDGE CREW SxS (continuing 2025 tour sponsorship)",
+   "where": "US, Apr 10 - Aug 1 2026",
+   "dates": "announced 2026-02-26",
+   "scale": "23 shows",
+   "partners_agency": "Monster Energy; Morgan Wallen",
+   "url": "https://www.cyclenews.com/2026/02/article/kawasaki-monster-energy-become-official-sponsors-of-morgan-wallens-still-the-problem-tour/",
+   "date": "2026-02-26",
+   "label": "VERIFIED (page opened)"
+  },
+  "other_activations": [
+   {
+    "what": "2025 I'm The Problem tour sponsor (20 shows)",
+    "url": "https://www.utvdriver.com/utv-news/kawasaki-named-official-sponsor-morgan-wallen-2025-tour",
+    "label": "VERIFIED"
+   },
+   {
+    "what": "PBR 'Win My Ride' giveaway; LSVDA platinum sponsor 2026-01-19",
+    "url": "https://www.kawasaki.com/en-us/corporate-news",
+    "label": "INFERRED (search snippet; page 302)"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "VERIFIED continued/grew: second consecutive Wallen tour (2025 then 2026, 20 -> 23 dates)",
+  "buyer_roles": [
+   "Senior Director, Global and Domestic Marketing",
+   "Sponsorship/partnership manager",
+   "Field/event marketing",
+   "Product marketing (Mule/Teryx)"
+  ],
+  "named_people_published": [
+   {
+    "name": "Bob O'Brien",
+    "title": "Senior Director, Global and Domestic Marketing, Kawasaki Motors Corp., U.S.A.",
+    "url": "https://www.cyclenews.com/2026/02/article/kawasaki-monster-energy-become-official-sponsors-of-morgan-wallens-still-the-problem-tour/",
+    "label": "VERIFIED (printed 2026-02-26; also utvdriver 2025-06-23 opened)"
+   }
+  ],
+  "competitors": [
+   "Polaris",
+   "Can-Am",
+   "Yamaha",
+   "Honda",
+   "Kubota",
+   "John Deere"
+  ],
+  "competitor_sponsorship_conflicts": "UNVERIFIED for trade/safety events; Can-Am and Kubota both PBR partners.",
+  "risks": [
+   "June 11 2026 recall of certain 2026 Teryx4 H2 / Teryx5 H2 (drive converter sheave) per Kawasaki corporate news listing - INFERRED from search snippet, page not opened"
+  ],
+  "best_event_format": "Fair/rodeo-style work-vehicle demo; job-site night with Mule display",
+  "ohio_presence": "UNVERIFIED (Wallen tour stops not checked for Ohio)",
+  "unverified_notes": "No worker/safety/heritage quote verified in 2025-26 Kawasaki words; pass-1 'much more than a sponsorship' is not a values statement and is dropped. Kawasaki site redirects."
+ },
+ {
+  "brand": "Kubota",
+  "values_quote": "Kubota equipment is built for customers who demand quality, durability and high productivity.",
+  "values_date": "2026-04-23",
+  "values_url": "https://www.kubotausa.com/kubota-shifts-into-high-gear-with-multi-year-nascar-partnership",
+  "values_verified": true,
+  "worker_safety_fit": "high: NASCAR release frames 'farmers and builders' and 'hardworking people'; farmer-veteran Geared to Give; long safety messaging history (older)",
+  "best_activation": {
+   "what": "Multi-year Official Partner of NASCAR (tractor, construction, compact, utility vehicle) + sponsor NASCAR San Diego Weekend; equipment integrated into track operations; Trackhouse Racing through 2027",
+   "where": "US; San Diego Naval Base Coronado Jun 19-21 2026",
+   "dates": "announced 2026-04-23",
+   "scale": "national NASCAR; fees undisclosed",
+   "partners_agency": "NASCAR; Trackhouse Racing",
+   "url": "https://www.kubotausa.com/kubota-shifts-into-high-gear-with-multi-year-nascar-partnership",
+   "date": "2026-04-23",
+   "label": "VERIFIED (page opened, quote FOUND VERBATIM)"
+  },
+  "other_activations": [
+   {
+    "what": "ARA national championship renewed; title sponsor Olympus Rally Apr 17-19 2026; portfolio incl. Texas Rangers, PBR, NCHA",
+    "url": "https://www.kubotausa.com/kubota-renews-support-of-ara-national-championship-named-title-sponsor-of-olympus-rally",
+    "label": "VERIFIED"
+   },
+   {
+    "what": "Geared to Give farmer-veteran equipment ceremony at NASCAR San Diego (donation, not counted)",
+    "url": "https://www.kubotausa.com/kubota-shifts-into-high-gear-with-multi-year-nascar-partnership",
+    "label": "VERIFIED"
+   },
+   {
+    "what": "Sonoma Raceway Official Ag & Construction Equipment Partner 2026-04-07",
+    "url": "https://www.jayski.com/2026/04/07/kubota-named-official-agriculture-and-construction-equipment-partner-of-sonoma-raceway/",
+    "label": "INFERRED (snippet)"
+   },
+   {
+    "what": "Dealer Orange Days, Covington OH 2025-05-03",
+    "url": "https://applefarmservice.com/sites/default/files/ride_n_drive.png",
+    "label": "INFERRED"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "VERIFIED growing: 2025 ARA first year, 2026 NASCAR + Sonoma + Olympus title (kubotausa.com 2026-03-02, 2026-04-23)",
+  "buyer_roles": [
+   "Associate Director, Marketing and Advertising",
+   "President, Kubota Tractor Corp (signs partnerships)",
+   "Sponsorship/partnership manager",
+   "Dealer/field marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Theresa Duncan",
+    "title": "Associate Director for Marketing and Advertising, Kubota Tractor Corporation",
+    "url": "https://www.kubotausa.com/kubota-renews-support-of-ara-national-championship-named-title-sponsor-of-olympus-rally",
+    "label": "VERIFIED (2026-03-02)"
+   },
+   {
+    "name": "Alex Woods",
+    "title": "President, Kubota Tractor Corporation",
+    "url": "https://www.kubotausa.com/kubota-shifts-into-high-gear-with-multi-year-nascar-partnership",
+    "label": "VERIFIED (2026-04-23)"
+   }
+  ],
+  "competitors": [
+   "John Deere",
+   "Case/New Holland",
+   "Mahindra",
+   "Polaris/Can-Am/Kawasaki/Yamaha (UTV)"
+  ],
+  "competitor_sponsorship_conflicts": "Can-Am also PBR partner (INFERRED); no safety-event conflict found.",
+  "risks": [
+   "CPSC recall 2025-05-01: ~49,640 RTV series for ball joint/crash hazard (search snippet; cpsc.gov blocked, UNVERIFIED page)",
+   "CPSC recall 2025-02-20: MX5400DTC clutch cable, ~2,600 units (snippet, UNVERIFIED page)"
+  ],
+  "best_event_format": "Dealer-hosted equipment display at county fair or trade school night; job-site safety night with RTV",
+  "ohio_presence": "Dealer event Covington OH 2025-05 (INFERRED); Ohio ag press covers Kubota (ohioagconnection)",
+  "unverified_notes": "Post Malone tour not re-verified. Recall pages blocked. Strongest candidate of this chunk: verified growing budget, named buyer, durability/hardworking language."
+ },
+ {
+  "brand": "John Deere",
+  "values_quote": "Our apprenticeships continue to play a vital role in developing the next generation of talent for our dealer network.",
+  "values_date": "2025-11-03",
+  "values_url": "https://irishtractor.ie/new-generation-of-john-deere-apprentices-graduate-as-programme-marks-continued-growth/",
+  "values_verified": true,
+  "worker_safety_fit": "high: skilled-trades/technician training (UK/Ireland quote, said by Deere training centre manager) and machine-safety tech; US quote not verified (deere.com pages empty to fetch)",
+  "best_activation": {
+   "what": "John Deere Classic PGA Tour title sponsorship extended through 2030; Concerts on the Course",
+   "where": "TPC Deere Run, Silvis IL",
+   "dates": "2025 event from July 3; extension announced 2025-06-02",
+   "scale": "national PGA Tour; fee undisclosed",
+   "partners_agency": "PGA Tour; Quad Cities Golf Classic Charitable Foundation",
+   "url": "https://www.kwqc.com/2025/06/02/john-deere-extends-sponsorship-john-deere-classic",
+   "date": "2025-06-02",
+   "label": "INFERRED (snippet only, page not opened)"
+  },
+  "other_activations": [
+   {
+    "what": "Yamaha collaboration on future side-by-sides (2026-10-06)",
+    "url": "https://www.cyclenews.com/2026/10/article/yamaha-motor-and-john-deere-announce-collaboration-on-future-side-by-side-vehicles/",
+    "label": "VERIFIED"
+   },
+   {
+    "what": "Ohio State Fair display with dealer Ag-Pro (undated article); Ag-Pro Expo Millersburg OH 2026-01-22",
+    "url": "https://agprocompanies.com/blog/2026-ag-pro-expo",
+    "label": "INFERRED"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "INFERRED continuity: PGA extension to 2030 (2025); but 2025 layoffs (see risks) suggest cost pressure",
+  "buyer_roles": [
+   "VP, Turf and Compact Utility BU",
+   "Brand/sponsorship marketing director",
+   "Corporate communications",
+   "Dealer (Ag-Pro, JD Equipment) event/marketing managers in Ohio"
+  ],
+  "named_people_published": [
+   {
+    "name": "Jon Chase",
+    "title": "Vice President, John Deere Turf and Compact Utility business unit",
+    "url": "https://www.cyclenews.com/2026/10/article/yamaha-motor-and-john-deere-announce-collaboration-on-future-side-by-side-vehicles/",
+    "label": "VERIFIED (2026-10-06)"
+   }
+  ],
+  "competitors": [
+   "Kubota",
+   "CNH (Case IH)",
+   "Caterpillar",
+   "AGCO"
+  ],
+  "competitor_sponsorship_conflicts": "Kubota NASCAR/PBR (VERIFIED) is in the same ag category; Deere PGA exclusivity unverified.",
+  "risks": [
+   "FTC right-to-repair suit filed 2025-01-15; settlement with FTC and 5 states announced ~2026-07-08/13 (iowafarmbureau.com 2026-07-13 opened, snippet only)",
+   "Layoffs early 2025 incl. 112 at Waterloo IA per WARN notices (search snippet, UNVERIFIED)",
+   "Consumer class action settlement ~$99M reported April 2026 (UNVERIFIED)"
+  ],
+  "best_event_format": "Dealer-supported county/state fair booth (Ohio State Fair); trade school technician night",
+  "ohio_presence": "Ag-Pro, JD Equipment dealers; Ohio State Fair display (INFERRED, undated)",
+  "unverified_notes": "Quote is UK/Ireland-sourced, not US. deere.com pages return empty; bauma safety release not verified. PGA page not opened."
+ }
+]

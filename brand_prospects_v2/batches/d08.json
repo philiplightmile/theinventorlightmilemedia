@@ -1,0 +1,388 @@
+[
+ {
+  "brand": "Nationwide",
+  "values_quote": "Nationwide remains committed to preventing these tragedies by equipping local first responders with the life-saving rescue tools and training they need.",
+  "values_date": "2026-02-12",
+  "values_url": "https://news.nationwide.com/more-grain-more-risk-nominate-first-responders-for-lifesaving-grain-rescue-tools/",
+  "values_verified": true,
+  "worker_safety_fit": "high: 13-year Grain Bin Safety Week campaign equips rural fire departments with rescue tubes for farm-worker entrapments; closest thematic match (rescue of workers).",
+  "best_activation": {
+   "what": "Grain Bin Safety Week and annual Nominate Your Fire Department contest: rescue tubes plus hands-on training for first responders",
+   "where": "US rural; Ohio Farm Bureau among partners",
+   "dates": "Feb 15-21, 2026; nominations to Apr 30, 2026 (13th annual; since 2014)",
+   "scale": "452 rescue tubes to first responders in 35 states, over $2M in resources, 16 lives saved (company claim)",
+   "partners_agency": "NECAS (nonprofit), Farm Bureaus incl. Ohio Farm Bureau, CHS, Growmark, Syngenta and others",
+   "url": "https://news.nationwide.com/more-grain-more-risk-nominate-first-responders-for-lifesaving-grain-rescue-tools/",
+   "date": "2026-02-12",
+   "label": "VERIFIED (rawfetch; note donations/equipment part is cause-marketing, not counted as budget evidence)"
+  },
+  "other_activations": [
+   {
+    "what": "Sponsor of Columbus Crew since 2020; minority ownership announced 2026-06-25; joined Columbus NWSL expansion ownership group (Apr 2026)",
+    "where": "Columbus OH",
+    "dates": "2026",
+    "scale": "major rights/ownership",
+    "partners_agency": "Columbus Crew, Haslam Sports Group",
+    "url": "https://www.prnewswire.com/news-releases/nationwide-joins-columbus-crew-ownership-group-302810835.html",
+    "date": "2026-06",
+    "label": "UNVERIFIED (web search summary; exact-quote check on PRNewswire NOT FOUND)"
+   },
+   {
+    "what": "Title sponsor Picnic with the Pops (since 2009; 2026 season); Columbus Marathon partnership continued 2 more years (Jan 2026)",
+    "where": "Columbus OH",
+    "dates": "2026",
+    "scale": "local title sponsorships",
+    "partners_agency": "Columbus Symphony; Columbus Marathon",
+    "url": "https://columbussymphony.com/news/columbus-symphony-announces-2026-nationwide-picnic-with-the-pops-season/",
+    "date": "2026",
+    "label": "UNVERIFIED (search summary)"
+   },
+   {
+    "what": "Columbus Blue Jackets/Clippers partner, Dale Earnhardt Jr., NFL Walter Payton Man of the Year presenting",
+    "where": "Ohio/national",
+    "dates": "current",
+    "scale": "national",
+    "partners_agency": "teams, NFL",
+    "url": "https://www.nationwide.com/personal/about-us/nationwide-sponsorships/",
+    "date": "2026",
+    "label": "VERIFIED (sponsorship page) per pass 1"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "GREW/steady: centennial year 2026 with Crew ownership stake, NWSL ownership, Marathon extension (search summaries 2026). INFERRED, no dollar figures.",
+  "buyer_roles": [
+   "Agribusiness marketing / Grain Bin Safety Week program lead (president of agribusiness is public face)",
+   "Sponsorship and community marketing (Columbus)",
+   "Brand marketing",
+   "Agent/field engagement"
+  ],
+  "named_people_published": [
+   {
+    "name": "Brad Liggett",
+    "title": "President of Agribusiness, Nationwide",
+    "url": "https://news.nationwide.com/more-grain-more-risk-nominate-first-responders-for-lifesaving-grain-rescue-tools/",
+    "label": "VERIFIED, quoted on page; PR contact listed: Nationwide PR news@nationwide.com 614-249-6349 (published on page)"
+   }
+  ],
+  "competitors": [
+   "State Farm",
+   "Progressive",
+   "Erie",
+   "Farm Bureau Insurance",
+   "Liberty Mutual"
+  ],
+  "competitor_sponsorship_conflicts": "State Farm runs Good Neighbor Firefighter Safety Program with NVFC: $1.5M in $10,000 grants to 150 volunteer fire departments in 2025 and 2026 (VERIFIED by search results, nvfc.org, grant program not marketing spend). Direct conflict in fire-department space. Nationwide Grain Bin partner list includes Ohio Farm Bureau.",
+  "risks": [
+   "2012 data breach, $5.5M multistate AG settlement (old, bankinfosecurity)",
+   "Federal suit Neuendorf v. Nationwide Insurance Co. of America filed 2026-10-15 W.D. Mo.; claims unknown (search/Justia)",
+   "No 2025-26 layoffs or recalls found (UNVERIFIED negative)"
+  ],
+  "best_event_format": "Fire station night (grain rescue / rescue-themed) and Ohio county/state fair booth with Ohio Farm Bureau; Columbus trade school night.",
+  "ohio_presence": "VERIFIED: HQ Columbus, OH (press release boilerplate, page); Ohio Farm Bureau is a Grain Bin Safety Week partner.",
+  "unverified_notes": "Crew ownership date from search summary only. Only 1 quote tried verified; earlier generic On Your Side quote replaced. Grain Bin program is mostly cause giving; marketing-spend evidence is the Columbus rights deals."
+ },
+ {
+  "brand": "Liberty Mutual",
+  "values_quote": "The Index provides employers a trusted roadmap for improving workplace safety.",
+  "values_date": "2025-07-15",
+  "values_url": "https://www.libertymutualgroup.com/about-lm/news/articles/us-companies-spend-50.87b-year-top-ten-causes-serious-workplace-injuries-according-2025-liberty-mutual-workplace-safety-index",
+  "values_verified": true,
+  "worker_safety_fit": "high: risk-control arm publishes annual Workplace Safety Index (25th edition) and sells workers comp safety services; consumer marketing is weaker on trades.",
+  "best_activation": {
+   "what": "Multiyear New York Liberty WNBA jersey patch plus arena branding and content series",
+   "where": "Barclays Center, NY",
+   "dates": "from 2025 season",
+   "scale": "jersey and arena rights, fee undisclosed",
+   "partners_agency": "New York Liberty",
+   "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/liberty-mutual-insurance-partners-with-new-york-liberty-534218.aspx",
+   "date": "2025",
+   "label": "VERIFIED (pass 1 rawfetch)"
+  },
+  "other_activations": [
+   {
+    "what": "Liberty Biberty new brand character campaign, TV/streaming/social/creators",
+    "where": "US",
+    "dates": "launched 2026-07-24",
+    "scale": "national, first new character in 8 years",
+    "partners_agency": "Bandits & Friends; Jim Henson's Creature Shop",
+    "url": "https://www.insurancejournal.com/news/national/2026/07/24/878751.htm",
+    "date": "2026-07-24",
+    "label": "VERIFIED (rawfetch FOUND VERBATIM 'Liberty Biberty', date July 24, 2026)"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "marketing_trend": "GREW 2025-26: new WNBA deal 2025 and new character campaign July 2026 (VERIFIED insurancejournal).",
+  "buyer_roles": [
+   "Sponsorship and partnerships marketing",
+   "Brand/CMO",
+   "Risk Control Services (workplace safety, buyer for worker-safety content)",
+   "Local market / agency channel marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Dorothy Doyle",
+    "title": "Senior Vice President and General Manager, Risk Control",
+    "url": "https://www.libertymutualgroup.com/about-lm/news/articles/us-companies-spend-50.87b-year-top-ten-causes-serious-workplace-injuries-according-2025-liberty-mutual-workplace-safety-index",
+    "label": "VERIFIED quote attributed on page (per search summary; quote text FOUND VERBATIM)"
+   }
+  ],
+  "competitors": [
+   "Nationwide",
+   "Travelers",
+   "Progressive",
+   "State Farm"
+  ],
+  "competitor_sponsorship_conflicts": "Nationwide Grain Bin Safety/first responder rescue program and State Farm firefighter grants occupy the rescue/first-responder space (cited under Nationwide).",
+  "risks": [
+   "Everest ransomware claim of 100GB+ policyholder data, listed 2026-04-30; company reportedly investigating vendor incident (cybernews / galaxywarden, unconfirmed by company)",
+   "Class action Francis v. Liberty Mutual filed 2026-05-06 D. Mass. (search summary)",
+   "Wiretap suit dismissed 2026-10-20 (Law360 summary)",
+   "No layoffs found"
+  ],
+  "best_event_format": "Job-site or union-hall safety stand-down tied to Risk Control / workers comp; secondary: library/museum.",
+  "ohio_presence": "UNVERIFIED: no Ohio-specific item found; Liberty Mutual has Ohio offices per pass 1 (INFERRED).",
+  "unverified_notes": "No live experiential found. Workplace Safety Index is research PR, not event spend."
+ },
+ {
+  "brand": "USAA",
+  "values_quote": "USAA is proud to partner with the Valero Texas Open, first played in 1922 - the same year USAA was founded... both celebrates our military service members, veterans and their families",
+  "values_date": "2025-03-24",
+  "values_url": "https://usaa-newsroom.prgloo.com/news/usaa-and-the-valero-texas-open-join-forces-to-honor-military-heroes",
+  "values_verified": true,
+  "worker_safety_fit": "low: military and veteran focus (heritage and service), not workers/trades safety; fit via veterans in trades and first responders.",
+  "best_activation": {
+   "what": "New sponsor Valero Texas Open; presenting sponsor Night to Honor Our Heroes; USAA booth in Heroes Pavilion with AR photo; complimentary tickets for military",
+   "where": "TPC San Antonio, TX",
+   "dates": "2025-04-03 to 04-06",
+   "scale": "PGA Tour event; fee undisclosed",
+   "partners_agency": "Valero Texas Open",
+   "url": "https://usaa-newsroom.prgloo.com/news/usaa-and-the-valero-texas-open-join-forces-to-honor-military-heroes",
+   "date": "2025-03-24",
+   "label": "VERIFIED (rawfetch --show; FOUND VERBATIM on Escobar quote)"
+  },
+  "other_activations": [
+   {
+    "what": "Title sponsor Military Influencer Conference 2025 (return)",
+    "where": "Atlanta",
+    "dates": "2025-09",
+    "scale": "unknown",
+    "partners_agency": "MIC",
+    "url": "https://secure.businesswire.com/news/home/20250912184769/en/Military-Influencer-Conference-2025-Announces-Return-of-USAA-as-Title-Sponsor",
+    "date": "2025-09-12",
+    "label": "UNVERIFIED (search title seen, not opened)"
+   },
+   {
+    "what": "NFL partnership extension / Salute to Service",
+    "where": "National",
+    "dates": "2025-08-18",
+    "scale": "national",
+    "partners_agency": "NFL",
+    "url": "https://secure.businesswire.com/news/home/20250818613845/en/USAA-NFL-Extend-Long-Standing-Partnership",
+    "date": "2025-08-18",
+    "label": "UNVERIFIED"
+   },
+   {
+    "what": "Honor Through Action $500M five-year commitment; US VETS financial resiliency program (July 2026)",
+    "where": "National",
+    "dates": "2025-2030",
+    "scale": "$500M (philanthropy, policy, investments: NOT counted as marketing spend)",
+    "partners_agency": "U.S.VETS",
+    "url": "https://newsroom.usaa360.com/news/u-s-vets",
+    "date": "2026-07-16",
+    "label": "VERIFIED page opened; excluded from budget evidence"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Mixed: new 2025 sponsorships (Valero Open, NFL extension, MIC) but layoffs of hundreds reported Jan 2026 (X repost of trade report, UNVERIFIED).",
+  "buyer_roles": [
+   "VP and head of brand marketing",
+   "Sponsorship/partnership marketing",
+   "Military community engagement",
+   "Field/experiential"
+  ],
+  "named_people_published": [
+   {
+    "name": "Jen Escobar",
+    "title": "Vice President and head of brand marketing",
+    "url": "https://usaa-newsroom.prgloo.com/news/usaa-and-the-valero-texas-open-join-forces-to-honor-military-heroes",
+    "label": "VERIFIED, FOUND VERBATIM"
+   },
+   {
+    "name": "Brett Seybold",
+    "title": "Chief Financial Officer",
+    "url": "https://newsroom.usaa360.com/news/u-s-vets",
+    "label": "VERIFIED (not a buyer)"
+   }
+  ],
+  "competitors": [
+   "Navy Federal",
+   "Armed Forces Insurance",
+   "GEICO military programs",
+   "State Farm",
+   "Liberty Mutual",
+   "Nationwide"
+  ],
+  "competitor_sponsorship_conflicts": "Not verified at similar events; Nationwide and State Farm active in first-responder rescue space.",
+  "risks": [
+   "Washington OIC fine about $140,000 for claims handling, reported Oct 2026 (insurancejournal 2026-10-20 / sacurrent, search summary)",
+   "Layoffs of hundreds Jan 2026 (UNVERIFIED repost)",
+   "$64.2M servicemember overcharge settlement (secondary site, UNVERIFIED)"
+  ],
+  "best_event_format": "Veteran-in-the-trades screening at a union hall or trade school with veterans' programs; military-appreciation tie-in.",
+  "ohio_presence": "UNVERIFIED: no Ohio-specific item; national member base.",
+  "unverified_notes": "Values quote is military not worker; usaa.com blocked. Workers/safety quote not found."
+ },
+ {
+  "brand": "Travelers",
+  "values_quote": "so they can better navigate these workforce challenges, protect their employees and keep their businesses running.",
+  "values_date": "2025-06-03",
+  "values_url": "https://investor.travelers.com/newsroom/press-releases/news-details/2025/Travelers-Releases-2025-Injury-Impact-Report/default.aspx",
+  "values_verified": true,
+  "worker_safety_fit": "high: one of the largest workers comp insurers; Injury Impact Report analyzes 2.6M claims; sponsorship, however, is golf-centered.",
+  "best_activation": {
+   "what": "Title sponsor Travelers Championship, 19th consecutive year in 2025 (extension through 2030 per pass 1 snippet)",
+   "where": "TPC River Highlands, Cromwell CT",
+   "dates": "2025-06-19 onward; 2026-06-24 to 06-28",
+   "scale": "PGA Tour Signature Event, $20M purse",
+   "partners_agency": "PGA Tour",
+   "url": "https://amp.insurancejournal.com/news/east/2025/06/19/828115.htm",
+   "date": "2025-06-19",
+   "label": "VERIFIED (rawfetch FOUND VERBATIM '19th')"
+  },
+  "other_activations": [
+   {
+    "what": "Health care worker and first responder admission program for 2026 Championship (Servpro, GOVX); Travelers role INFERRED",
+    "where": "Cromwell CT",
+    "dates": "2026-06",
+    "scale": "unknown",
+    "partners_agency": "Servpro, GOVX",
+    "url": "https://travelerschampionship.com/health-care-worker-first-responder-admission-program/",
+    "date": "2026-06-18",
+    "label": "VERIFIED page (pass 1); Travelers role INFERRED"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Steady: title sponsorship ongoing 19 years, extended to 2030 (UNVERIFIED paywalled snippet).",
+  "buyer_roles": [
+   "Chief Marketing Officer / brand marketing",
+   "Sponsorship marketing",
+   "Business Insurance risk control / workers comp marketing",
+   "Corporate communications"
+  ],
+  "named_people_published": [
+   {
+    "name": "Rich Ives",
+    "title": "SVP, Business Insurance Claim",
+    "url": "https://investor.travelers.com/newsroom/press-releases/news-details/2025/Travelers-Releases-2025-Injury-Impact-Report/default.aspx",
+    "label": "VERIFIED quoted on page (claims leader, not marketing buyer)"
+   }
+  ],
+  "competitors": [
+   "Liberty Mutual",
+   "Nationwide",
+   "Chubb",
+   "The Hartford",
+   "Progressive"
+  ],
+  "competitor_sponsorship_conflicts": "No direct conflict verified; State Farm / Nationwide first-responder programs adjacent.",
+  "risks": [
+   "Routine litigation; Travelers Indemnity v. Selective filed 2026-10-20 (Justia, minor)",
+   "Class settlements NJ PIP and New Mexico, 2026 hearings (claim handling)",
+   "Anecdotal Glassdoor layoff reviews Aug 2026 (UNVERIFIED)"
+  ],
+  "best_event_format": "Job-site safety night or union hall tied to workers comp / injury prevention; fire station with first-responder tie-in.",
+  "ohio_presence": "UNVERIFIED: no Ohio-specific item found.",
+  "unverified_notes": "travelers.com about page unverified; businesswire blocked, used investor site instead. Travelers consumer-facing community events not found."
+ },
+ {
+  "brand": "Polaris",
+  "values_quote": "furthers our commitment to equipping first responders with high-performance, mission-ready solutions.",
+  "values_date": "2025-04-09",
+  "values_url": "https://www.firerescue1.com/fire-products/fire-apparatus/polaris-government-and-defense-expands-fire-and-rescue-capabilities",
+  "values_verified": true,
+  "worker_safety_fit": "high: Polaris Government and Defense sells fire and rescue UTVs and firefighting skids; Ranger is a work vehicle for trades. Tied to Polaris, hardware brand with recall risk.",
+  "best_activation": {
+   "what": "Fire and rescue Ranger lineup and new QTAC firefighting skids debuted at FDIC International",
+   "where": "Indianapolis (FDIC; city UNVERIFIED), trade-show",
+   "dates": "2025-04 (release 2025-04-09)",
+   "scale": "trade-show presence, 2 new skids",
+   "partners_agency": "MTECH (skids)",
+   "url": "https://www.firerescue1.com/fire-products/fire-apparatus/polaris-government-and-defense-expands-fire-and-rescue-capabilities",
+   "date": "2025-04-09",
+   "label": "VERIFIED (rawfetch FOUND VERBATIM)"
+  },
+  "other_activations": [
+   {
+    "what": "PRCA pickup men sponsorship, rodeo tour athlete lineup",
+    "where": "US rodeos incl. NFR",
+    "dates": "2025",
+    "scale": "multi-year, 16 rodeos",
+    "partners_agency": "PRCA",
+    "url": "https://www.polaris.com/en-ca/news/community/polaris-announces-2025-rodeo-tour-athlete-lineup-and-sponsorship-of-pickup-men/",
+    "date": "2025",
+    "label": "UNVERIFIED (polaris.com 403)"
+   },
+   {
+    "what": "Partner AMSOIL Championship Off-Road 2025 season",
+    "where": "US",
+    "dates": "2025",
+    "scale": "series",
+    "partners_agency": "AMSOIL Championship Off-Road",
+    "url": "https://champoffroad.com/polaris-and-amsoil-championship-off-road-partner-for-the-2025-season/",
+    "date": "2025",
+    "label": "VERIFIED page opened (200)"
+   },
+   {
+    "what": "Cleetus McFarland multi-year partnership",
+    "where": "US",
+    "dates": "2026-04",
+    "scale": "unknown",
+    "partners_agency": "Cleetus McFarland",
+    "url": "https://www.polaris.com/en-ca/news/community/polaris-teams-up-with-cleetus-mcfarland-and-motorsports-community/",
+    "date": "2026-04",
+    "label": "UNVERIFIED (403)"
+   },
+   {
+    "what": "BFGoodrich Mint 400 sponsor",
+    "where": "Las Vegas",
+    "dates": "2025-03",
+    "scale": "unknown",
+    "partners_agency": "",
+    "url": "https://unlimitedoffroadracing.com/news/polaris-rzr-to-sponsor-2025-bfgoodrich-tires-mint-400/",
+    "date": "2025-03",
+    "label": "UNVERIFIED"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Sponsorships continued 2025-26 but company cost cutting: ~10% workforce cut 2024, Osceola WI plant closure with 200 jobs (search summary; rideapart/rurallifestyledealer).",
+  "buyer_roles": [
+   "Polaris Off Road brand/sponsorship marketing",
+   "Polaris Government and Defense business development (fire and rescue)",
+   "Dealer/regional field marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Tony Stanley",
+    "title": "Business Development, Polaris Government and Defense",
+    "url": "https://www.firerescue1.com/fire-products/fire-apparatus/polaris-government-and-defense-expands-fire-and-rescue-capabilities",
+    "label": "VERIFIED quoted on page"
+   }
+  ],
+  "competitors": [
+   "Can-Am (BRP)",
+   "John Deere Gator",
+   "Honda",
+   "Kawasaki"
+  ],
+  "competitor_sponsorship_conflicts": "None verified at similar events.",
+  "risks": [
+   "CPSC recall 2025-10-30: about 5,130 2025-26 Ranger XP 1000 NorthStar / Crew units, fire hazard (search summary; cpsc.gov 403)",
+   "Class action over recalled RZR fire risk, motion to dismiss denied (older)",
+   "Osceola WI plant closure, 200 jobs (rurallifestyledealer)",
+   "Ongoing UTV injury lawsuit marketing (law-firm sites)"
+  ],
+  "best_event_format": "Fire station or job-site safety night with Ranger rescue UTV on display; county/state fair booth.",
+  "ohio_presence": "UNVERIFIED: no Ohio-specific item found; dealer network assumed.",
+  "unverified_notes": "polaris.com blocked by Cloudflare; CPSC page 403. Venue city for FDIC not read from page."
+ }
+]

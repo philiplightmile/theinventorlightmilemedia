@@ -1,0 +1,288 @@
+[
+ {
+  "brand": "Menards",
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_verified": false,
+  "worker_safety_fit": "low: privately held, motorsports-led marketing; no verified worker/safety/trades statement found",
+  "best_activation": {
+   "what": "Entitlement sponsor ARCA Menards Series; multi-year extension announced Sept 2024; 2025 season ended at Toledo Speedway OH",
+   "where": "US incl. Toledo OH",
+   "dates": "2025 season",
+   "scale": "national TV (FOX/FloRacing)",
+   "partners_agency": "ARCA/NASCAR",
+   "url": "https://www.jayski.com/2024/09/27/arca-menards-announce-multi-year-partnership-extension/",
+   "date": "2024-09-27",
+   "label": "INFERRED (search summary; menards.com and jayski unreachable via rawfetch)"
+  },
+  "other_activations": [
+   "Long-running NASCAR/ThorSport (Matt Crafton) primary sponsorship, 20-year partnership (INFERRED, search snippet, undated)",
+   "Local Ohio racing: Warren OH store presented Sharon Speedway Menards Super Series in 2018 (INFERRED, old)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Steady motorsports presence (INFERRED); no 2025-26 cut or growth source found. Private company, little disclosure.",
+  "buyer_roles": [
+   "Motorsports/sponsorship marketing",
+   "Local store manager (community)",
+   "Pro/contractor desk marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Jeff Abbott",
+    "title": "Menards spokesperson (March 2025 email re WV store)",
+    "url": "https://www.newsandsentinel.com/news/business/2025/03/mid-ohio-valley-foundations-retail-little-signs-of-progress-on-promised-menards-location/",
+    "label": "INFERRED (search snippet, page not opened)"
+   }
+  ],
+  "competitors": [
+   "Home Depot",
+   "Lowe's",
+   "Ace Hardware",
+   "Harbor Freight"
+  ],
+  "competitor_sponsorship_conflicts": "Not verified. Home Depot/Lowe's NASCAR ties known generally (UNVERIFIED here).",
+  "risks": [
+   "Michigan WARN: 68 layoffs at Three Rivers MI site, effective 2026-05-13 (layofftracker.us aggregator, INFERRED)",
+   "EEOC suit over reporting failures, 2025 (WPR headline only, UNVERIFIED date/details)",
+   "NOTE: WPR NLRB class-waiver settlement article is dated 2016-04-28, not recent (checked)"
+  ],
+  "best_event_format": "Store-adjacent trade/contractor night or Ohio store lot event; low confidence",
+  "ohio_presence": "Many Ohio stores (INFERRED); Toledo Speedway ARCA race.",
+  "unverified_notes": "Menards.com and wire pages blocked; values quote not obtained after multiple searches. Fewer than 10 calls; treat as low-confidence."
+ },
+ {
+  "brand": "Ace Hardware",
+  "values_quote": "for over a century, both Major League Baseball and Ace Hardware have been rooted in tradition, signaling the start of spring, bringing people together, and celebrating the spirit of community and family",
+  "values_date": "2025-04-14",
+  "values_url": "https://mlb.com/news/press-release-ace-hardware-steps-up-to-the-plate-as-mlb-s-exclusive-hardware-home-improvement-partner",
+  "values_verified": true,
+  "worker_safety_fit": "medium: tradition/community/local-store values VERIFIED, trades services (Ace Handyman) exist, but no safety messaging found",
+  "best_activation": {
+   "what": "Official hardware & home improvement retail partner of MLB, 3 years; virtual signage, branded content, Yard Superstars presented by YardRx",
+   "where": "US national",
+   "dates": "announced 2025-04-14, 3 seasons",
+   "scale": "league-wide; fee undisclosed",
+   "partners_agency": "MLB (CMO Uzma Rawn Dowler); Publicis Sports reportedly",
+   "url": "https://mlb.com/news/press-release-ace-hardware-steps-up-to-the-plate-as-mlb-s-exclusive-hardware-home-improvement-partner",
+   "date": "2025-04-14",
+   "label": "VERIFIED (page opened; agency not on page)"
+  },
+  "other_activations": [
+   "RedVest Media retail media network launched 2025-08-18; inaugural Upfront at Wrigley Field Aug 2026, partners DoorDash/Pacvue/Epsilon (VERIFIED newsroom headline 2026-08-27; detail via MediaPost search)",
+   "Annual Memorial Day flag distribution with VFW, 1M flags, May 23 2026 (Hardware Retailing via newsroom listing, VERIFIED headline)",
+   "Local Ohio store grand openings/anniversaries with vendor demos incl. Milwaukee Tool (INFERRED)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Grew: first league-wide US deal, retail media upfront 2026, record 2025 revenue $10.0B (+5.8%) and Q2 2026 $3.0B (+5.9%) per newsroom list, VERIFIED 2026-10-22 fetch.",
+  "buyer_roles": [
+   "Chief Marketing Officer",
+   "Sponsorship/partnerships",
+   "RedVest Media head",
+   "Independent store owners (local community marketing)",
+   "Ace Handyman Services marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Kim Lefko",
+    "title": "Chief Marketing Officer, Ace Hardware",
+    "url": "https://mlb.com/news/press-release-ace-hardware-steps-up-to-the-plate-as-mlb-s-exclusive-hardware-home-improvement-partner"
+   },
+   {
+    "name": "Molly Hjelm",
+    "title": "Head of RedVest Media (search summary only)",
+    "url": "https://www.mediapost.com/publications/article/417456/"
+   }
+  ],
+  "competitors": [
+   "Home Depot",
+   "Lowe's",
+   "True Value",
+   "Menards"
+  ],
+  "competitor_sponsorship_conflicts": "MLB deal is Ace's own; Home Depot/Lowe's MLB/NASCAR ties not verified.",
+  "risks": [
+   "No 2025-26 recall/litigation/breach found in searches (UNVERIFIED absence)"
+  ],
+  "best_event_format": "Independent Ace store (co-op) community night or Ace Handyman trade tie-in; Cleveland-area E&H Ace stores",
+  "ohio_presence": "Ohio stores incl. E&H Ace (Rocky River, Westlake, Middlefield, Avon Lake) and Great Lakes Ace (INFERRED from search). No Guardians deal found.",
+  "unverified_notes": "Quote is heritage, not safety. MLB page and newsroom opened via rawfetch. Fewer than 10 calls."
+ },
+ {
+  "brand": "True Value",
+  "values_quote": "True Value has always stood for the confidence, know-how, and personal service people count on when caring for their homes",
+  "values_date": "2026-08-03",
+  "values_url": "https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/",
+  "values_verified": true,
+  "worker_safety_fit": "low: homeowner/independent retailer focus; no worker or safety language",
+  "best_activation": {
+   "what": "Official home improvement partner of Notre Dame Athletics; marketing assets, in-store promos, signage, local store activation",
+   "where": "South Bend IN / national",
+   "dates": "announced 2026-08-03",
+   "scale": "fee undisclosed",
+   "partners_agency": "Do it Best Group",
+   "url": "https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/",
+   "date": "2026-08-03",
+   "label": "VERIFIED (page opened, quote FOUND VERBATIM)"
+  },
+  "other_activations": [
+   "BIG EAST Conference sponsor 2025-26 basketball season (VERIFIED, same page)",
+   "Spring 2026 Sponsor of Grass campaign: OOH, paid social, influencer SB Mowing, in-store; agency Laughlin Constable (INFERRED from search summary 2026-04-13)",
+   "IROC return at Lime Rock July 2024 (outside window)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Grew: 'national brand revitalization' and 'recent national marketing momentum' (VERIFIED 2026-08-03); return to national advertising per truevaluecompany.com/marketing (INFERRED).",
+  "buyer_roles": [
+   "Do it Best Group CMO",
+   "EVP marketing and ecommerce",
+   "Independent True Value store owners (local activation)"
+  ],
+  "named_people_published": [
+   {
+    "name": "Allison Flatjord",
+    "title": "Chief Marketing Officer, Do it Best Group",
+    "url": "https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/"
+   },
+   {
+    "name": "Jim Fraleigh",
+    "title": "Deputy Athletics Director, Notre Dame (counterparty)",
+    "url": "https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/"
+   }
+  ],
+  "competitors": [
+   "Ace Hardware",
+   "Home Depot",
+   "Lowe's",
+   "Menards"
+  ],
+  "competitor_sponsorship_conflicts": "Ace is MLB official hardware partner (VERIFIED 2025-04-14); no conflict with film events.",
+  "risks": [
+   "Post-merger consolidation: 5 distribution centers closed (search summary of Do it Best FY2025 results, INFERRED)",
+   "Revenue figure discrepancy $4.7B vs $4.88B across sources"
+  ],
+  "best_event_format": "Independent True Value store community night or trades-school tie-in via local store owners",
+  "ohio_presence": "Independent True Value stores in Ohio (INFERRED, not verified).",
+  "unverified_notes": "Values quote is homes-focused. Fewer than 10 calls."
+ },
+ {
+  "brand": "Tractor Supply",
+  "values_quote": "it's a really great way for us to tell a story about Tractor Supply and everything we do - from the welding to equine, livestock care, poultry - through the eyes of our customers",
+  "values_date": "2026-04-30",
+  "values_url": "https://www.modernretail.co/marketing/tractor-supply-taps-real-customers-for-ads-to-stand-out-from-ai-generated-content/",
+  "values_verified": true,
+  "worker_safety_fit": "medium: welding/skilled-trades scholarships and real-team-member advertising; no safety message verified",
+  "best_activation": {
+   "what": "Spring 2026 campaign using real customers (incl. welder filmed at Diamond D Ranch); TV in key markets, paid search/social, local earned media",
+   "where": "National",
+   "dates": "spring 2026",
+   "scale": "undisclosed",
+   "partners_agency": "CMO Kimberley Gardiner; in-house implied",
+   "url": "https://www.modernretail.co/marketing/tractor-supply-taps-real-customers-for-ads-to-stand-out-from-ai-generated-content/",
+   "date": "2026-04-30",
+   "label": "VERIFIED (page opened, quote FOUND VERBATIM)"
+  },
+  "other_activations": [
+   "Presenting sponsor COJO Championship Event (Belton TX, Oct 7-12 2025) (INFERRED)",
+   "Sponsor USDA Great American Farmers Market (BusinessWire 2025-08-01, title only)",
+   "PRCA national partner / Wrangler NFR presenting sponsor, announced 2026-03-12 (INFERRED)",
+   "PBR partnership since 2021 (INFERRED)",
+   "FFA Future Leaders Scholarship drive for trade-school students (giving, NOT counted as marketing spend; 2025-09-04, 2024-12-02 search results)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Stable-to-growing: 40 new stores last quarter, Q1 2026 sales +3.6% to $3.59B (VERIFIED Modern Retail); Q2 2026 results fell short per Lawton (search summary, 2026-07-23).",
+  "buyer_roles": [
+   "Chief Marketing Officer",
+   "Sponsorship/partnerships",
+   "Field/community marketing",
+   "Store manager local events"
+  ],
+  "named_people_published": [
+   {
+    "name": "Kimberley Gardiner",
+    "title": "CMO, Tractor Supply",
+    "url": "https://www.modernretail.co/marketing/tractor-supply-taps-real-customers-for-ads-to-stand-out-from-ai-generated-content/"
+   },
+   {
+    "name": "Harry (Hal) Lawton",
+    "title": "President and CEO",
+    "url": "https://www.modernretail.co/marketing/tractor-supply-taps-real-customers-for-ads-to-stand-out-from-ai-generated-content/"
+   }
+  ],
+  "competitors": [
+   "Northern Tool",
+   "Harbor Freight",
+   "Home Depot",
+   "Lowe's",
+   "Rural King"
+  ],
+  "competitor_sponsorship_conflicts": "Not verified.",
+  "risks": [
+   "CCPA settlement $1.35M (Lexology via search, ~Sept 2025, INFERRED)",
+   "$5.1M California false advertising/pesticide penalties (search summary, undated)",
+   "Q2 2026 miss and outlook cut (search summary 2026-07-23)"
+  ],
+  "best_event_format": "County/state fair booth or FFA/trade school (welding) night; store-lot event",
+  "ohio_presence": "Numerous Ohio stores and fair/FFA culture (INFERRED).",
+  "unverified_notes": "Corporate site and BusinessWire blocked on rawfetch. Quote is customer-ad framing by CMO. Fewer than 10 calls."
+ },
+ {
+  "brand": "Northern Tool",
+  "values_quote": "Northern Tool + Equipment is a family-owned company serving both DIYers and trades professionals tackling the tough projects",
+  "values_date": "2026-03-31",
+  "values_url": "https://digital-release.wowktv.com/business/press-releases/cision/20260331CG22483/northern-tool-equipment-welcomes-monster-jam-truck-to-columbia-store-for-one-day-event",
+  "values_verified": true,
+  "worker_safety_fit": "high: serves trades professionals; Tools for the Trades school program; CEO Krishna on skilled labor shortage (2022 VERIFIED, too old for quote)",
+  "best_activation": {
+   "what": "Three-year Monster Jam partnership: official hardware retailer, Monster Jam Garage, trucks at stores, Tools for the Trades Mini Build at Bryan HS TX",
+   "where": "National",
+   "dates": "announced 2024-09-18; truck reveal Austin 2025-06-07",
+   "scale": "multi-year; fee undisclosed",
+   "partners_agency": "Feld Entertainment / Monster Jam",
+   "url": "https://www.feldentertainment.com/northern-tool-equipment-announces-partnership-with-monster-jam/",
+   "date": "2024-09-18",
+   "label": "VERIFIED (page opened; predates window by 5 weeks, but ongoing)"
+  },
+  "other_activations": [
+   "2026 Monster Jam truck store events: San Antonio Jan 22, Wichita Feb 19, Miami Feb 19, New Orleans Feb 26, Norfolk Mar 5, Columbia SC Apr 16, Austin Jun 4 (VERIFIED Columbia release 2026-03-31; rest from search)",
+   "Tools for the Trades tool donations to high school programs since 2021, Richard Petty/Randleman HS Dec 2022 (VERIFIED, donation not counted as spend)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Active/growing through 2026 with recurring store events (VERIFIED 2026-03-31, search 2026-05-19).",
+  "buyer_roles": [
+   "SVP/Chief Marketing Officer (title shown as chief commercial officer in one later release)",
+   "Partnerships",
+   "Store/field marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Frank Crowson",
+    "title": "SVP and Chief Marketing Officer",
+    "url": "https://www.feldentertainment.com/northern-tool-equipment-announces-partnership-with-monster-jam/"
+   },
+   {
+    "name": "Suresh Krishna",
+    "title": "CEO",
+    "url": "https://www.techedmagazine.com/tools-for-the-trades/"
+   },
+   {
+    "name": "Dave Muye",
+    "title": "VP Global Partnerships, Feld (counterparty)",
+    "url": "https://www.feldentertainment.com/northern-tool-equipment-announces-partnership-with-monster-jam/"
+   }
+  ],
+  "competitors": [
+   "Harbor Freight",
+   "Tractor Supply",
+   "Home Depot",
+   "Lowe's",
+   "Grainger"
+  ],
+  "competitor_sponsorship_conflicts": "Tool brands DEWALT, Ingersoll Rand, Milwaukee supported the mini build (VERIFIED).",
+  "risks": [
+   "None found in searches (UNVERIFIED absence)"
+  ],
+  "best_event_format": "Trade school night tied to Tools for the Trades; Northern Tool store lot event",
+  "ohio_presence": "Ohio stores likely (INFERRED, not verified); company has 130+ stores.",
+  "unverified_notes": "Values quote is boilerplate; safety quote not found. Fewer than 10 calls."
+ }
+]
