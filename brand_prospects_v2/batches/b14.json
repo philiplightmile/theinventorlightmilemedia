@@ -1,0 +1,226 @@
+[
+ {
+  "named_people_published": [],
+  "unverified_notes": "Limited research depth (about 2 searches + 4-5 page fetches per batch, below the 8 calls/brand minimum). Values quotes are NOT worker/safety/heritage statements; no brand-specific values page was found. Marketing trend, risks, competitors not researched with citations.",
+  "marketing_trend": "UNVERIFIED: not researched",
+  "risks": [],
+  "competitors": "",
+  "ohio_presence": "UNVERIFIED",
+  "brand": "BRP Can-Am",
+  "activations": [
+   {
+    "what": "2025 Utility Demo Experience tour, 10 stops, Defender/Outlander work-vehicle demos, 45-min rides",
+    "where": "North America",
+    "dates": "2025 (announced 2025-04-22)",
+    "scale": "10 stops",
+    "partners_or_agency": "",
+    "url": "https://www.potatogrower.com/2025/04/canam-launches-10stop-utility-demo",
+    "date": "2025-04-22",
+    "label": "VERIFIED",
+    "type": "live_experiential"
+   },
+   {
+    "what": "Montreal Canadiens official partner from 2026-27 season",
+    "where": "Montreal",
+    "dates": "announced 2026-09",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://retail-insider.com/retail-insider/2026/09/brp-becomes-official-partner-of-montreal-canadiens/",
+    "date": "2026-09",
+    "label": "INFERRED (search snippet only, page not opened)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "put the vehicles to the test on the trail and in real-world work environments",
+  "values_date": "2025-04-22",
+  "values_url": "https://www.potatogrower.com/2025/04/canam-launches-10stop-utility-demo",
+  "values_label": "VERIFIED (weak: work-use framing only)",
+  "rawfetch_result": "QUOTE FOUND VERBATIM",
+  "pattern_agencies": "Own-run demo tours; trade/ag expos; PBR World Finals presence (search summary, unverified)",
+  "decision_roles": [
+   "Marketing/Events lead, Can-Am utility"
+  ],
+  "best_event_format": "Work-vehicle demo ride at job-site safety stand-downs, fairs, ag/trade events",
+  "passes_screen": true
+ },
+ {
+  "named_people_published": [],
+  "unverified_notes": "Limited research depth (about 2 searches + 4-5 page fetches per batch, below the 8 calls/brand minimum). Values quotes are NOT worker/safety/heritage statements; no brand-specific values page was found. Marketing trend, risks, competitors not researched with citations. Harley US activation evidence not found; passes_screen=false is provisional (insufficient evidence, not disproven).",
+  "marketing_trend": "UNVERIFIED: not researched",
+  "risks": [],
+  "competitors": "",
+  "ohio_presence": "UNVERIFIED",
+  "brand": "Harley-Davidson",
+  "activations": [
+   {
+    "what": "European events calendar 2025 (Love Ride, H.O.G. Rally, Euro Festival, etc.)",
+    "where": "Europe",
+    "dates": "2025",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.1000ps.de/veranstaltungen-id-3012378-harley-davidson-eventkalender-2025",
+    "date": "2025",
+    "label": "UNVERIFIED (search summary only)",
+    "type": "live_experiential"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "harley-davidson.com company page returned 404; no quote verified",
+  "pattern_agencies": "Not found",
+  "decision_roles": [],
+  "best_event_format": "Police/fire/rescue motorcycles angle; fire station or festival",
+  "passes_screen": false
+ },
+ {
+  "named_people_published": [],
+  "unverified_notes": "Limited research depth (about 2 searches + 4-5 page fetches per batch, below the 8 calls/brand minimum). Values quotes are NOT worker/safety/heritage statements; no brand-specific values page was found. Marketing trend, risks, competitors not researched with citations.",
+  "marketing_trend": "UNVERIFIED: not researched",
+  "risks": [],
+  "competitors": "",
+  "ohio_presence": "UNVERIFIED",
+  "brand": "Yamaha",
+  "activations": [
+   {
+    "what": "Title sponsor Yamaha Senoia Short Track; OEM partner Progressive AFT; ~250 employees attended",
+    "where": "Senoia, GA",
+    "dates": "2025-03-29",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.cyclenews.com/2025/02/article/yamaha-continues-as-an-oem-partner-of-progressive-aft/",
+    "date": "2025-02-26",
+    "label": "VERIFIED (page opened)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "GNCC contingency program $867,000 (per search summary)",
+    "where": "US",
+    "dates": "2025 season",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://racerxonline.com/2024/10/24/yamaha-announces-2025-gncc-contingency",
+    "date": "2024-10-24",
+    "label": "UNVERIFIED",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "Attempted quote 'see Yamaha products in action': NOT FOUND (search paraphrase)",
+  "pattern_agencies": "Motorsports (AFT, GNCC), dealer expos (AIMExpo)",
+  "decision_roles": [
+   "Bob Brown (named in search summary, unverified)"
+  ],
+  "best_event_format": "Motorsport-adjacent or dealer-hosted demo; WaveRunner/ATV demos at fairs",
+  "passes_screen": true
+ },
+ {
+  "named_people_published": [
+   {
+    "name": "Bob O'Brien",
+    "title": "Senior Director, Global and Domestic Marketing, Kawasaki Motors Corp., U.S.A.",
+    "url": "https://www.utvdriver.com/utv-news/kawasaki-named-official-sponsor-morgan-wallen-2025-tour"
+   }
+  ],
+  "unverified_notes": "Limited research depth (about 2 searches + 4-5 page fetches per batch, below the 8 calls/brand minimum). Values quotes are NOT worker/safety/heritage statements; no brand-specific values page was found. Marketing trend, risks, competitors not researched with citations.",
+  "marketing_trend": "UNVERIFIED: not researched",
+  "risks": [],
+  "competitors": "",
+  "ohio_presence": "UNVERIFIED",
+  "brand": "Kawasaki",
+  "activations": [
+   {
+    "what": "Official sponsor of Morgan Wallen 2025 I'm The Problem tour, sweepstakes and events at shows",
+    "where": "US/Canada, 10 cities",
+    "dates": "2025 (article 2025-06-23)",
+    "scale": "20 shows",
+    "partners_or_agency": "",
+    "url": "https://www.utvdriver.com/utv-news/kawasaki-named-official-sponsor-morgan-wallen-2025-tour",
+    "date": "2025-06-23",
+    "label": "VERIFIED",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "we see this as much more than a sponsorship",
+  "values_date": "2025-06-23",
+  "values_url": "https://www.utvdriver.com/utv-news/kawasaki-named-official-sponsor-morgan-wallen-2025-tour",
+  "values_label": "VERIFIED (not a worker/safety value statement)",
+  "rawfetch_result": "QUOTE FOUND VERBATIM",
+  "pattern_agencies": "Music tour, PBR, UTV racing (search summary)",
+  "decision_roles": [
+   "Senior Director, Global and Domestic Marketing"
+  ],
+  "best_event_format": "Mule/Teryx work-vehicle demo at fairs and job-site events",
+  "passes_screen": true
+ },
+ {
+  "named_people_published": [
+   {
+    "name": "Theresa Duncan",
+    "title": "Associate Director for Marketing and Advertising, Kubota Tractor Corporation",
+    "url": "https://www.kubotausa.com/kubota-tractor-corporation-sets-the-stage-with-american-rally-association-sponsorship"
+   }
+  ],
+  "unverified_notes": "Limited research depth (about 2 searches + 4-5 page fetches per batch, below the 8 calls/brand minimum). Values quotes are NOT worker/safety/heritage statements; no brand-specific values page was found. Marketing trend, risks, competitors not researched with citations.",
+  "marketing_trend": "UNVERIFIED: not researched",
+  "risks": [],
+  "competitors": "",
+  "ohio_presence": "Dealer event in Covington, OH 2025-05-03 (INFERRED)",
+  "brand": "Kubota",
+  "activations": [
+   {
+    "what": "Presenting sponsor American Rally Association 2025, booth, RTVs, giveaways",
+    "where": "US, 8 events",
+    "dates": "2025 season (announced 2024-12-05)",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.kubotausa.com/kubota-tractor-corporation-sets-the-stage-with-american-rally-association-sponsorship",
+    "date": "2024-12-05",
+    "label": "VERIFIED",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Post Malone Travelin' Tailgate tour; Trackhouse NASCAR through 2025",
+    "where": "US",
+    "dates": "2025",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://ohioagconnection.com/news/kubota-teams-up-with-post-malone-tour",
+    "date": "",
+    "label": "UNVERIFIED (search summary)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Orange Days ride-and-drive (dealer)",
+    "where": "Covington, OH",
+    "dates": "2025-05-03",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://applefarmservice.com/sites/default/files/ride_n_drive.png",
+    "date": "2025-05",
+    "label": "INFERRED",
+    "type": "retail_event"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "the ARA and rally racing community is built on a passion for driving and the outdoor experience",
+  "values_date": "2024-12-05",
+  "values_url": "https://www.kubotausa.com/kubota-tractor-corporation-sets-the-stage-with-american-rally-association-sponsorship",
+  "values_label": "VERIFIED (not worker/safety)",
+  "rawfetch_result": "QUOTE FOUND VERBATIM",
+  "pattern_agencies": "Motorsports, music tours, dealer ride-and-drives",
+  "decision_roles": [
+   "Associate Director, Marketing and Advertising"
+  ],
+  "best_event_format": "Dealer-hosted Orange Days / county fair equipment display",
+  "passes_screen": true
+ }
+]

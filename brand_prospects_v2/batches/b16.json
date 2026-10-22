@@ -1,0 +1,261 @@
+[
+ {
+  "activations": [
+   {
+    "what": "Pedestrian Safety Institute roadside traffic safety awareness promotion",
+    "where": "US",
+    "dates": "July 2025",
+    "scale": "press release only",
+    "partners_or_agency": "Pedestrian Safety Institute",
+    "url": "https://www.owler.com/company/maglite",
+    "date": "2025-07-01",
+    "label": "INFERRED (via search snippet, page not opened)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "National Police Dog Foundation support (May 2025 headline)",
+    "where": "US",
+    "dates": "2025-05",
+    "scale": "unknown",
+    "partners_or_agency": "NPDF",
+    "url": "https://www.owler.com/company/maglite",
+    "date": "2025-05",
+    "label": "INFERRED (may be donation-type; not counted)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "our commitment to our firefighters and other first-responders is part of our culture and history at maglite and we will never waiver from it",
+  "values_date": "Movember partnership, c.2020 (undated on page)",
+  "values_url": "https://movember.com/news/partner-spotlight-maglite-shining-a-maglite-on-the-brave-and-bold",
+  "values_label": "VERIFIED (verbatim, lowercase raw text; attributed to Anthony Maglica)",
+  "rawfetch_result": "HTTP 200 QUOTE FOUND VERBATIM",
+  "pattern_agencies": "Cause/partner tie-ins with first responders; no agency found",
+  "marketing_trend": "No 2025-26 spend data found",
+  "decision_roles": [
+   "Marketing Director",
+   "CEO/Founder office (privately held by Anthony Maglica)"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Fire station / first-responder screening with product giveaway",
+  "competitors": [
+   "Streamlight",
+   "SureFire",
+   "Fenix"
+  ],
+  "risks": [
+   "No 2025 recall/layoff found in one search; headcount sources conflict (400 vs 800+)"
+  ],
+  "ohio_presence": "Unknown; manufacturing in Ontario, California",
+  "passes_screen": false,
+  "unverified_notes": "No clear commercial activation with rights fees/tours found; activations look cause-based and unopened. Weak evidence of budget; borderline fail.",
+  "brand": "Maglite"
+ },
+ {
+  "activations": [
+   {
+    "what": "Moments Made video series (3 films, brand content)",
+    "where": "digital",
+    "dates": "2025",
+    "scale": "unknown",
+    "partners_or_agency": "unknown",
+    "url": "https://zenocycleparts.com/blogs/biking-topic-gearjunkie/leatherman-celebrates-life-s-moments-with-real-people-real-tools",
+    "date": "2025",
+    "label": "INFERRED (search snippet)",
+    "type": "content"
+   },
+   {
+    "what": "Built Different knife launch campaign, Portland production facility",
+    "where": "US",
+    "dates": "H2 2025",
+    "scale": "unknown",
+    "partners_or_agency": "unknown",
+    "url": "https://gearjunkie.com/knives/leatherman-launches-premium-knives",
+    "date": "2025",
+    "label": "INFERRED (snippet)",
+    "type": "content"
+   },
+   {
+    "what": "Tread 'Always On' campaign profiling tradespeople",
+    "where": "digital",
+    "dates": "undated",
+    "scale": "unknown",
+    "partners_or_agency": "unknown",
+    "url": "https://coroflot.com/rkeverett/Leatherman-Tread",
+    "date": "undated",
+    "label": "UNVERIFIED",
+    "type": "content"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "from our factory in portland, oregon, we're committed to bringing you the best multipurpose products to help you solve expected and unexpected problems in everyday life",
+  "values_date": "accessed 2026-10-22",
+  "values_url": "https://www.leatherman.com/pages/our-story",
+  "values_label": "VERIFIED text opened (weak fit; not about workers/safety); shown lowercase raw",
+  "rawfetch_result": "HTTP 200, page text opened; quote visible in --show output, no --find run",
+  "pattern_agencies": "Brand content; site has Serve/Trades/Respond categories and corporate gifting",
+  "marketing_trend": "Increase signal: 2025 knife-line push (snippet)",
+  "decision_roles": [
+   "Brand/Marketing Director",
+   "Director of Sales (Pro/Serve)"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Trade school / job-site tool demo with Leatherman Garage-style repair",
+  "competitors": [
+   "Gerber",
+   "SOG",
+   "Victorinox"
+  ],
+  "risks": [
+   "None found"
+  ],
+  "ohio_presence": "Unknown",
+  "passes_screen": true,
+  "unverified_notes": "Passes only on content spend; no live experiential or sponsorship found. Needs follow-up.",
+  "brand": "Leatherman"
+ },
+ {
+  "activations": [
+   {
+    "what": "Platinum sponsorship of Backcountry Hunters & Anglers (cash/product)",
+    "where": "US",
+    "dates": "undated",
+    "scale": "unknown",
+    "partners_or_agency": "BHA",
+    "url": "https://blog.gerbergear.com/?p=12133",
+    "date": "undated",
+    "label": "UNVERIFIED",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Fieldsports Channel UK content partnership",
+    "where": "UK",
+    "dates": "undated",
+    "scale": "unknown",
+    "partners_or_agency": "Fieldsports Channel",
+    "url": "https://www.fieldsportschannel.tv/gerber-gear-partners-with-fieldsports-channel-to-secure-a-slice-of-the-uk-hunting-audience/",
+    "date": "undated",
+    "label": "UNVERIFIED",
+    "type": "content"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "our military partnership begins as the vietnam war began, gerber designed and debuted the mark ii for the military. this was the start of a long partnership with the us military that continues to this day",
+  "values_date": "accessed 2026-10-22",
+  "values_url": "https://www.gerbergear.com/pages/about-us",
+  "values_label": "VERIFIED text opened (heritage; lowercase raw, run through --show not --find)",
+  "rawfetch_result": "HTTP 200, text visible",
+  "pattern_agencies": "Parent Fiskars Group; outdoor/hunting content",
+  "marketing_trend": "Unknown",
+  "decision_roles": [
+   "Brand Marketing Manager",
+   "Pro Program manager"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Pro Program / job-site demo",
+  "competitors": [
+   "Leatherman",
+   "SOG",
+   "Milwaukee"
+  ],
+  "risks": [
+   "2014 $2.6M CPSC late-reporting penalty (nwnewsnetwork.org 2014-12-31); old"
+  ],
+  "ohio_presence": "Unknown",
+  "passes_screen": false,
+  "unverified_notes": "No dated commercial activation in last 24 months found; sponsorship undated.",
+  "brand": "Gerber"
+ },
+ {
+  "activations": [
+   {
+    "what": "Official cooler provider, MeatEater Tailgate Tour (college football tailgates)",
+    "where": "US campuses incl. Ann Arbor MI",
+    "dates": "2024-2025 season",
+    "scale": "multi-stop tour",
+    "partners_or_agency": "MeatEater",
+    "url": "https://www.pelican.com/us/en/discover/pelican-flyer/pelican-joins-meateater-tailgate-tour",
+    "date": "2024-2025",
+    "label": "INFERRED (search snippet; rawfetch 403)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Sponsor, Land Rover Defender Service Award, Search and Rescue category (3rd year)",
+    "where": "US",
+    "dates": "Jun-Jul 2024, winners fall 2024",
+    "scale": "award category",
+    "partners_or_agency": "Land Rover",
+    "url": "https://www.pelican.com/us/en/about/press-releases/pelican-and-land-rover-partner-to-recognize-search-rescue-and-emergency-support-professionals",
+    "date": "2024-07",
+    "label": "INFERRED (snippet; rawfetch 403; includes donation, ignored)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "https://www.pelican.com/us/en/about/press-releases/pelican-and-land-rover-partner-to-recognize-search-rescue-and-emergency-support-professionals",
+  "values_label": "UNVERIFIED (no quote obtained)",
+  "rawfetch_result": "HTTP 403 Cloudflare, blocked",
+  "pattern_agencies": "Repeat partner sponsorships (Land Rover, MeatEater)",
+  "marketing_trend": "Unknown",
+  "decision_roles": [
+   "VP Marketing",
+   "Brand/Partnership Manager"
+  ],
+  "named_people_published": [],
+  "best_event_format": "First-responder/SAR screening at fire station with gear display",
+  "competitors": [
+   "YETI",
+   "Otter Products",
+   "Nanuk"
+  ],
+  "risks": [
+   "None researched"
+  ],
+  "ohio_presence": "Unknown",
+  "passes_screen": true,
+  "unverified_notes": "Best fit of batch (SAR/first responder + repeat sponsorships) but all evidence from snippets; pages blocked.",
+  "brand": "Pelican"
+ },
+ {
+  "activations": [
+   {
+    "what": "Official eyewear provider of Team Rubicon; 'Oakley In Service' film; Armed Forces Collection",
+    "where": "US",
+    "dates": "Veterans Day (year not confirmed)",
+    "scale": "unknown",
+    "partners_or_agency": "Team Rubicon",
+    "url": "https://www.police1.com/police-products/tactical/eyewear/oakley-honors-veterans-ongoing-service-with-new-team-rubicon-partnership-and-armed-forces-collection",
+    "date": "undated",
+    "label": "VERIFIED page opened (date not captured)",
+    "type": "content"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "https://www.police1.com/police-products/tactical/eyewear/oakley-honors-veterans-ongoing-service-with-new-team-rubicon-partnership-and-armed-forces-collection",
+  "values_label": "UNVERIFIED (no values quote captured)",
+  "rawfetch_result": "HTTP 200; 'Team Rubicon' found; no values quote tested",
+  "pattern_agencies": "Oakley Standard Issue (first-responder/military program, free membership)",
+  "marketing_trend": "Unknown",
+  "decision_roles": [
+   "OSI Marketing Manager"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Fire station/first-responder event with OSI membership sign-up",
+  "competitors": [
+   "Wiley X",
+   "Smith Optics",
+   "Revision"
+  ],
+  "risks": [
+   "None researched"
+  ],
+  "ohio_presence": "Unknown",
+  "passes_screen": true,
+  "unverified_notes": "Brand content/partnership likely commercial but date unconfirmed; no live activation verified; more research needed.",
+  "brand": "Oakley"
+ }
+]
