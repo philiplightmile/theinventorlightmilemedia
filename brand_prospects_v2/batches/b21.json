@@ -1,0 +1,164 @@
+[
+ {
+  "brand": "New Balance",
+  "activations": [
+   {
+    "what": "TCS NYC Marathon 2025 community activations: Run House pop-up, Cheer Zone at Mile 24, citywide OOH",
+    "where": "New York City",
+    "dates": "Oct 2025 (release Oct 24, 2025)",
+    "scale": "title sponsor of the marathon (rights fee undisclosed)",
+    "partners_or_agency": "NYRR",
+    "url": "https://newbalance.newsmarket.com/latest-news/new-balance-celebrates-the-2025-tcs-new-york-city-marathon-with-activations-and-community-experience/s/39a6344a-5571-4e0a-959e-0ffc3944c50b",
+    "date": "2025-10-24",
+    "label": "UNVERIFIED (rawfetch HTTP 202/empty; details from search summary)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Oxford Street flagship reopening week of London Marathon events (race station, community run, recovery zone)",
+    "where": "London",
+    "dates": "Apr 23-27, 2025",
+    "scale": "week-long",
+    "partners_or_agency": "",
+    "url": "https://www.retailgazette.co.uk/blog/2025/04/new-balance-oxford-street/",
+    "date": "2025-04",
+    "label": "UNVERIFIED (search summary only)",
+    "type": "retail_event"
+   },
+   {
+    "what": "Australian Open sponsorship with Federation Square Brand House and AO Precinct pop-up, global flagship installations",
+    "where": "Melbourne plus NY/London/Tokyo/Boston",
+    "dates": "Jan 2026",
+    "scale": "multi-city",
+    "partners_or_agency": "",
+    "url": "https://footwearmagazine.com/?p=21215",
+    "date": "2026-01",
+    "label": "UNVERIFIED (search summary only)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Morning Runway free runs with Kic",
+    "where": "Melbourne",
+    "dates": "2025",
+    "scale": "3k/5k runs",
+    "partners_or_agency": "Mango Communications (PR/activation), MediaHub",
+    "url": "https://www.bandt.com.au/new-balance-kic-launch-the-morning-runway-to-celebrate-two-year-partnership-extension-via-mango/",
+    "date": "2025",
+    "label": "UNVERIFIED",
+    "type": "agency"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "giant american flag draped across the wall",
+  "values_date": "2022-08-03",
+  "values_url": "https://www.retailbrew.com/stories/2022/08/03/new-balance-s-new-massachusetts-underscores-vision-for-made-in-america-production",
+  "values_label": "VERIFIED verbatim but is reporter prose about Methuen factory (Made in USA, workers building shoes), not a brand statement; 2022 so weak/dated",
+  "rawfetch_result": "Retail Brew: HTTP 200, QUOTE FOUND VERBATIM. newbalance.com made-in-usa: 403 blocked. newsmarket NYC Marathon: 202 empty.",
+  "pattern_agencies": "Heavy running/tennis event sponsor (NYC Marathon title, Australian Open); regional agencies (Mango, MediaHub). Consumer/athletic focus, not trades.",
+  "marketing_trend": "INFERRED increase: expanded 2025-26 marquee activations (NYC Marathon, AO flagships). No spend figures found.",
+  "decision_roles": [
+   "VP of Running",
+   "Brand/Community marketing",
+   "Made in USA manufacturing leadership (COO Dave Wheeler per Retail Brew 2022)"
+  ],
+  "named_people_published": [
+   {
+    "name": "Tom Carleo",
+    "title": "VP of Running",
+    "url": "https://newbalance.newsmarket.com/latest-news/new-balance-celebrates-the-2025-tcs-new-york-city-marathon-with-activations-and-community-experience/s/39a6344a-5571-4e0a-959e-0ffc3944c50b",
+    "label": "UNVERIFIED (search summary)"
+   },
+   {
+    "name": "Dave Wheeler",
+    "title": "COO (2022)",
+    "url": "https://www.retailbrew.com/stories/2022/08/03/new-balance-s-new-massachusetts-underscores-vision-for-made-in-america-production",
+    "label": "VERIFIED 2022, dated"
+   }
+  ],
+  "best_event_format": "Made in USA factory-worker/craftsmanship tie-in screening at a trade school or community venue near Ohio retail; co-brand with running/walking community event. Fit with safety/rescue theme is modest.",
+  "competitors": "Nike, Adidas, Brooks, Hoka; Red Wing/Timberland/Carhartt for workwear angle. No competitor sponsorship of similar events found.",
+  "risks": [
+   "Tariff exposure; 2025 testimony that limited US supply chain makes domestic shoemaking hard (Panjiva, 2025) - UNVERIFIED",
+   "No 2025 layoffs/recall/litigation found in search"
+  ],
+  "ohio_presence": "INFERRED: retail stores and Columbus/Cleveland-area markets; no Ohio factory (factories in MA and ME). Unverified.",
+  "passes_screen": true,
+  "unverified_notes": "Most activation pages blocked to rawfetch; marathon/AO items from search summaries. Passes on commercial activation evidence but values fit weak; no values statement on safety/workers found."
+ },
+ {
+  "brand": "Target",
+  "activations": [
+   {
+    "what": "Platinum Partner, Official Tennis Sponsor and Target Village sponsor of 2026 Special Olympics USA Games; fan experiences, welcome bags, employee volunteers",
+    "where": "Twin Cities, MN",
+    "dates": "announced 2025-06-23; Games 2026",
+    "scale": "3,000+ athletes; thousands of attendees",
+    "partners_or_agency": "Special Olympics USA Games",
+    "url": "https://corporate.target.com/news-features/article/2026/07/special-olympics",
+    "date": "2026-07-08",
+    "label": "VERIFIED (Target page rawfetch 200; BusinessWire announcement rawfetch failed)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Experiential Marketing Lead job posting, New York",
+    "where": "New York",
+    "dates": "undated",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.monster.com/job-openings/experiential-marketing-lead-new-york-ny--d11e6a6a-dce7-4148-a288-d2188dc26d9e",
+    "date": "undated",
+    "label": "UNVERIFIED (search summary)",
+    "type": "job_posting"
+   },
+   {
+    "what": "Roundel retail media: ChatGPT ad test (pilot)",
+    "where": "US",
+    "dates": "Feb 2026",
+    "scale": "2,600 brands pay Roundel (2024 per search)",
+    "partners_or_agency": "OpenAI",
+    "url": "https://foodinstitute.com/focus/on-the-bullseye-target-restructures-leadership-ads-footprint/",
+    "date": "2026-02-11",
+    "label": "VERIFIED (WebFetch)",
+    "type": "media_spend_estimate"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "No matter where you are, no matter who you are, there is a place and a belonging",
+  "values_date": "2026-07-08",
+  "values_url": "https://corporate.target.com/news-features/article/2026/07/special-olympics",
+  "values_label": "Only the fragment 'no matter who you are' confirmed FOUND VERBATIM; full sentence unconfirmed. Belonging theme, not workers/safety.",
+  "rawfetch_result": "Target page: HTTP 200, partial find 'no matter who you are' FOUND VERBATIM. BusinessWire: HTTP 000 blocked. Target safety page: 404.",
+  "pattern_agencies": "Large event sponsorships (Special Olympics, historically ~185 experiences/yr per 2015 BizBash - dated); in-house experiential team.",
+  "marketing_trend": "Mixed: corporate cost cutting (about 1,800 corporate layoffs 2025, 500 more Feb 2026, per Food Institute 2026-02-11) while sponsorship continues; new CEO Michael Fiddelke.",
+  "decision_roles": [
+   "Chief Marketing/Brand officer",
+   "Experiential Marketing lead",
+   "Community/Corporate Responsibility",
+   "Twin Cities market community giving (ignore)"
+  ],
+  "named_people_published": [
+   {
+    "name": "Michael Fiddelke",
+    "title": "CEO",
+    "url": "https://foodinstitute.com/focus/on-the-bullseye-target-restructures-leadership-ads-footprint/",
+    "label": "VERIFIED"
+   },
+   {
+    "name": "Cara Sylvester",
+    "title": "Chief Merchandising Officer",
+    "url": "https://foodinstitute.com/focus/on-the-bullseye-target-restructures-leadership-ads-footprint/",
+    "label": "VERIFIED"
+   }
+  ],
+  "best_event_format": "Store-adjacent community/festival sponsorship; low fit with trades themes. Possible Black History Month or Cleveland-area store tie-in.",
+  "competitors": "Walmart, Costco, Amazon. No competitor sponsorship of similar events found.",
+  "risks": [
+   "DEI rollback boycott, foot traffic decline (Atlanta News First/CNN 2025-04-21; RetailWire Feb 2025) - search summary",
+   "Securities class action Feb 2025 over ESG/DEI - search summary",
+   "Layoffs ~1,800 (2025) + 500 (Feb 2026) - VERIFIED via Food Institute 2026-02-11",
+   "Specific risk for a Black-history film: boycott by Black community"
+  ],
+  "ohio_presence": "INFERRED: dozens of stores across Ohio incl. Cleveland area; unverified count.",
+  "passes_screen": true,
+  "unverified_notes": "Boycott and lawsuit details from search summaries only. Values fit poor; Black-community boycott is a reputational risk for this film. Passes screen narrowly on Special Olympics sponsorship evidence."
+ }
+]
