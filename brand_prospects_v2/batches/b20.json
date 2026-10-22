@@ -1,0 +1,298 @@
+[
+ {
+  "brand": "Smucker's (J.M. Smucker Co.)",
+  "activations": [
+   {
+    "what": "Jif 'Every Jif'ing Thing' paid broadcast/streaming/social campaign (developed by PSOne, Publicis; BBH USA creative)",
+    "where": "national",
+    "dates": "launched 2026-08-10",
+    "scale": "not disclosed",
+    "partners_or_agency": "PSOne/Publicis, BBH USA",
+    "url": "https://www.marketingdive.com/news/jifs-new-campaign-reworks-logo-to-go-beyond-peanut-butter-and-jelly/827414/",
+    "date": "2026-08-10",
+    "label": "VERIFIED (page opened; 'PSOne' found verbatim; Jif, not Smucker's flagship brand)",
+    "type": "content"
+   },
+   {
+    "what": "Milk-Bone x Jif museum-themed dog-treat launch event",
+    "where": "not verified",
+    "dates": "undated in search",
+    "scale": "unknown",
+    "partners_or_agency": "unknown",
+    "url": "https://www.eventmarketer.com/eletters/em-sizzle-newsletter-4-11-2025/",
+    "date": "2025-04-11",
+    "label": "UNVERIFIED (search snippet only)",
+    "type": "live_experiential"
+   },
+   {
+    "what": "Uncrustables 'breakthrough marketing' / limited-edition flavors (corporate FY25 report; trade coverage)",
+    "where": "national",
+    "dates": "FY2025 / 2025-11",
+    "scale": "not disclosed",
+    "partners_or_agency": "",
+    "url": "https://www.foodnavigator.com/Article/2025/11/26/jm-smucker-wins-on-uncrustables-cafe-bustelo-as-it-works-to-revive-hostess/",
+    "date": "2025-11-26",
+    "label": "VERIFIED (page opened, 'Uncrustables' found; marketing detail INFERRED)",
+    "type": "content"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_label": "UNVERIFIED: no worker/safety/heritage quote verified; jmsmucker.com values URL returned 404",
+  "rawfetch_result": "jmsmucker.com /our-company/values and /about-us/our-purpose -> HTTP 404; no quote verified",
+  "pattern_agencies": "Publicis PSOne (agency of record model), BBH USA. Spend is brand advertising across Jif/Uncrustables/Hostess; no event/trade sponsorship pattern for Smucker's flagship found.",
+  "marketing_trend": "INCREASE: search summary says ~5.7% of net sales (~$500M) planned for FY starting 2026-05-01 (UNVERIFIED, search snippet; verify in 10-K/earnings).",
+  "decision_roles": [
+   "CMO",
+   "VP Brand/Marketing Smucker's/Jif",
+   "Director Experiential/Sponsorship",
+   "Community Relations"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Library/fair family event tied to a Smucker's county-fair heritage (Smucker's Ohio roots, Orrville); sampling-style presenting sponsorship",
+  "competitors": "Welch's, Kraft Heinz, Bonne Maman; no competitor found sponsoring similar events",
+  "risks": [
+   "Hostess turnaround/impairments cited in trade coverage (UNVERIFIED)",
+   "Prior Folgers/Jif recalls: not re-verified this pass"
+  ],
+  "ohio_presence": "HQ Orrville, Ohio (INFERRED/well known; not re-verified here)",
+  "passes_screen": false,
+  "unverified_notes": "Commercial evidence is campaign advertising for Jif/Hostess, not Smucker's flagship or live/worker-adjacent activations; no verified values quote. Marginal; passes_screen false pending a Smucker's-brand live activation or verified quote."
+ },
+ {
+  "brand": "Scotts Miracle-Gro",
+  "activations": [
+   {
+    "what": "Miracle-Gro x Martha Stewart / iHeartPodcast live podcast taping with 'planted in Miracle-Gro' signage and QR codes",
+    "where": "New York Botanical Garden, NYC",
+    "dates": "late May 2025",
+    "scale": "single event",
+    "partners_or_agency": "Martha Stewart, iHeartPodcasts",
+    "url": "https://bizbash.com/production-strategy/experiential-marketing-activations-sponsorships/media-gallery/22943783/cool-event-ideas-from-june-2025",
+    "date": "2025-06",
+    "label": "VERIFIED (page opened; 'Miracle-Gro' found; details from page/search)",
+    "type": "live_experiential"
+   },
+   {
+    "what": "'Gro Like Martha' campaign: CTV, cable, Roku 'Martha Gardens' sponsorship, audio, paid social",
+    "where": "national",
+    "dates": "announced Apr 8 (year not confirmed, likely 2024)",
+    "scale": "not disclosed",
+    "partners_or_agency": "The Martin Agency",
+    "url": "https://www.marketingdive.com/news/miracle-gro-martha-stewart-gardening-campaign/712584/",
+    "date": "undated",
+    "label": "UNVERIFIED (search snippet)",
+    "type": "ambassador"
+   },
+   {
+    "what": "Advertising expense $152.3M FY2025 (4.5% of net sales) vs $141.0M",
+    "where": "corporate",
+    "dates": "FY2025",
+    "scale": "$152.3M",
+    "partners_or_agency": "",
+    "url": "https://www.sec.gov/Archives/edgar/data/825542/000082554225000022/smg-20250930.htm",
+    "date": "2025-09-30",
+    "label": "UNVERIFIED (SEC page 403 to rawfetch; figure from search summary)",
+    "type": "media_spend_estimate"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "First and foremost, we are committed to the safety of our associates",
+  "values_date": "2021-05-19",
+  "values_url": "https://markets.financialcontent.com/dowtheoryletters/article/3blmedia-2021-5-19-scottsmiracle-gro-2021-corporate-responsibility-report-operations-and-supply-chain",
+  "values_label": "VERIFIED (older than 24 months, but values statement)",
+  "rawfetch_result": "QUOTE FOUND VERBATIM, HTTP 200",
+  "pattern_agencies": "The Martin Agency (creative); celebrity ambassador (Martha Stewart); US Men's National Team soccer/Every Kid Sports (undated, UNVERIFIED); historically MLB deal (~2009).",
+  "marketing_trend": "INCREASE: FY2025 advertising up to $152.3M from $141.0M; plan of >= $200M/yr advertising+marketing (UNVERIFIED, search summary of 10-K/calls).",
+  "decision_roles": [
+   "CMO",
+   "VP Marketing U.S. Consumer",
+   "Brand Director Miracle-Gro/Scotts",
+   "Community/Corporate Responsibility lead"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Community garden / library or fair event with green-space, trades (grounds/landscape), safety tie-in; Marysville plant worker tie",
+  "competitors": "Spectrum Brands, Bonide, Central Garden & Pet; no competitor found at similar events",
+  "risks": [
+   "Financial pressure, 2024-25 restructuring (UNVERIFIED, not sourced this pass)",
+   "Roundup/glyphosate litigation exposure via Roundup commission line (UNVERIFIED)"
+  ],
+  "ohio_presence": "HQ and largest fertilizer plant in Marysville, Ohio (search summary of Scotts CR content; UNVERIFIED)",
+  "passes_screen": true,
+  "unverified_notes": "Strong commercial spend and Ohio plant; worker safety quote is 2021. Decision-maker names not found."
+ },
+ {
+  "brand": "Speedway / Marathon Petroleum",
+  "activations": [
+   {
+    "what": "Speedway official fuel and c-store of IndyCar, Indianapolis Motor Speedway and Indy 500 (started 2019; current status not confirmed)",
+    "where": "Indianapolis, IN",
+    "dates": "from 2019",
+    "scale": "rights fee not disclosed",
+    "partners_or_agency": "IndyCar/IMS, NBC Sports",
+    "url": "https://cspdailynews.com/fuels/speedway-named-official-fuel-c-store-indycar",
+    "date": "2018-11-27",
+    "label": "VERIFIED (page opened; 'official fuel' found); current 2025-26 status UNVERIFIED",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Marathon Fuel multi-year sponsorship with Detroit Lions for 2025 and 2026 NFL seasons; also renewed LSU and Buffalo Sabres",
+    "where": "Detroit/MI, LSU, Buffalo",
+    "dates": "2025-2026",
+    "scale": "not disclosed",
+    "partners_or_agency": "",
+    "url": "https://www.marathonpetroleum.com/Newsroom/Company-News/Marathon-Fuel-adds-Detroit-Lions-to-sports-sponsorship-lineup/",
+    "date": "2025",
+    "label": "UNVERIFIED (rawfetch 403; search snippet)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Marathon Petroleum Bassmaster title sponsor (Bassmaster Studios) extension",
+    "where": "national",
+    "dates": "undated",
+    "scale": "not disclosed",
+    "partners_or_agency": "Bassmaster/B.A.S.S.",
+    "url": "https://www.marathonpetroleum.com",
+    "date": "undated",
+    "label": "UNVERIFIED (search snippet)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "marathonpetroleum.com pages -> HTTP 403 (Cloudflare); no quote verified",
+  "pattern_agencies": "Sports rights deals (motorsports, NFL, college, NHL, fishing); no NASCAR deal found (Sunoco is NASCAR's official fuel).",
+  "marketing_trend": "Stable/increasing sports sponsorships (Lions added 2025). Not quantified.",
+  "decision_roles": [
+   "Marathon Fuel marketing/sponsorship lead",
+   "Speedway brand marketing VP",
+   "Community relations"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Fire-station / first-responder or job-site safety event with fuel-retail tie-in; motorsports-adjacent county fair",
+  "competitors": "Sunoco (NASCAR official fuel), Pilot/Flying J, Wawa, Casey's, Shell",
+  "risks": [
+   "Refinery incident/environmental litigation history (not sourced this pass)",
+   "Speedway c-store sold to 7-Eleven in 2021 (INFERRED, widely reported; Speedway brand status needs check)"
+  ],
+  "ohio_presence": "Marathon Petroleum HQ in Findlay, Ohio; Speedway stores in Ohio (INFERRED, not verified this pass)",
+  "passes_screen": true,
+  "unverified_notes": "Commercial sports deals present but 403-blocked; values quote missing; Speedway brand was sold to 7-Eleven (verify), so Marathon Fuel is likelier counterpart."
+ },
+ {
+  "brand": "Dollar General",
+  "activations": [
+   {
+    "what": "NASCAR primary sponsorship with Joe Gibbs Racing (2012-2016 era)",
+    "where": "NASCAR",
+    "dates": "2012-2016",
+    "scale": "unknown",
+    "partners_or_agency": "Joe Gibbs Racing",
+    "url": "https://www.chiefmarketer.com/three-ink-nascar-team-sponsorship-deals",
+    "date": "older than 24 months",
+    "label": "UNVERIFIED (snippet); outside window",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Dollar General Literacy Foundation paint scheme on Justin Allgaier Xfinity car",
+    "where": "Nashville",
+    "dates": "2021",
+    "scale": "single race",
+    "partners_or_agency": "JR Motorsports",
+    "url": "https://www.jayski.com/2021/06/14/justin-allgaier-driving-dollar-general-literacy-foundation-paint-scheme-at-nashville/",
+    "date": "2021-06-14",
+    "label": "UNVERIFIED (snippet); outside window; foundation-branded so partly charitable",
+    "type": "sponsorship"
+   },
+   {
+    "what": "DG Media Network retail media (~$170M network volume 2025)",
+    "where": "retail",
+    "dates": "2025",
+    "scale": "$170M",
+    "partners_or_agency": "",
+    "url": "https://www.pymnts.com/earnings/2025/ceo-says-dollar-general-is-second-inning-digital-journey/",
+    "date": "2025",
+    "label": "UNVERIFIED (snippet); this is revenue, not DG's marketing spend",
+    "type": "media_spend_estimate"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "at Dollar General, our actions are guided by a simple mission: serving others.",
+  "values_date": "2026-10-22 (fetched)",
+  "values_url": "https://www.dollargeneral.com/about-us.html",
+  "values_label": "VERIFIED (mission; not worker-safety specific)",
+  "rawfetch_result": "QUOTE FOUND VERBATIM, HTTP 200 (tested lowercase-normalized: 'our actions are guided by a simple mission: serving others')",
+  "pattern_agencies": "Historic NASCAR sponsor; now retail media. No 2025-26 NASCAR/sports/Reading Revolution paid-marketing evidence found; Reading Revolution searches returned nothing.",
+  "marketing_trend": "Third-party estimate of <$100M ad spend, increasing (UNVERIFIED, Winmo/MediaRadar-type snippet); no commercial event activation in window.",
+  "decision_roles": [
+   "CMO",
+   "VP Marketing",
+   "Director Sponsorships/Events",
+   "Dollar General Literacy Foundation (excluded)"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Library / rural-community screening with literacy tie; only if paid retail event program exists",
+  "competitors": "Dollar Tree (NASCAR Cup entitlement and Legacy Motor Club through 2028, UNVERIFIED, rawfetch 403), Walmart, Family Dollar",
+  "risks": [
+   "Safety/OSHA penalties and store-conditions litigation (UNVERIFIED, not sourced this pass)",
+   "Store closures/restructuring 2025 (UNVERIFIED)"
+  ],
+  "ohio_presence": "Large Ohio store/distribution footprint (INFERRED); not verified",
+  "passes_screen": false,
+  "unverified_notes": "No commercial activation in last 24 months found; NASCAR evidence old. Re-score: fails."
+ },
+ {
+  "brand": "LEGO",
+  "activations": [
+   {
+    "what": "LEGO x Formula 1 'Off Track' traveling activation + 'Build the Thrill' at Grand Prix; drivable life-size LEGO cars at Miami GP drivers' parade",
+    "where": "Miami, Austin, Las Vegas and non-race cities",
+    "dates": "2025 (multiyear)",
+    "scale": "large; fees not disclosed",
+    "partners_or_agency": "Formula 1",
+    "url": "https://sponsorpitch.com/blog-posts/lego-brings-f1-to-life-for-the-next-generation-through-off-track-activation-series",
+    "date": "2025-11-06",
+    "label": "VERIFIED (page opened, 8,412 chars); secondary sponsorship-industry blog",
+    "type": "live_experiential"
+   },
+   {
+    "what": "LEGO Experience 23-city tour with branded box trucks/tents (family 4-12)",
+    "where": "US",
+    "dates": "undated, likely older",
+    "scale": "23 cities",
+    "partners_or_agency": "unknown",
+    "url": "https://www.bizbash.com/event-venues/construction-zones",
+    "date": "undated",
+    "label": "UNVERIFIED",
+    "type": "live_experiential"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "lego.com pages -> HTTP 403 (Cloudflare); no quote verified",
+  "pattern_agencies": "Formula 1 multiyear partnership; historic mobile tours via experiential agencies (e.g. Vector Media, undated).",
+  "marketing_trend": "Increasing live-experience scale in 2025 per sponsorship blog (VERIFIED page, but trend INFERRED).",
+  "decision_roles": [
+   "VP Marketing North America",
+   "Director Experiential",
+   "Community Engagement Lead"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Family build-station at libraries/museums/fairs; Morgan-as-inventor STEM/building tie",
+  "competitors": "Mattel, Hasbro, Mega, Disney; Mattel/Hot Wheels sponsor motorsports events",
+  "risks": [
+   "Cost pressure on toy sector; no specific LEGO risk sourced this pass"
+  ],
+  "ohio_presence": "LEGO experiential events and retail stores in Ohio (INFERRED); US HQ Enfield, CT",
+  "passes_screen": true,
+  "unverified_notes": "Commercial activation confirmed but via secondary source; LEGO rarely works with small third-party film events (INFERRED); values quote not obtained."
+ }
+]
