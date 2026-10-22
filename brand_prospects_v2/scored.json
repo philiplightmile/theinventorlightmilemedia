@@ -90,6 +90,36 @@
   "rank": 3
  },
  {
+  "brand": "Timberland PRO",
+  "total_100": 90,
+  "activation_30": 30,
+  "values_20": 20,
+  "audience_event_15": 15,
+  "timing_10": 8,
+  "buyer_role_10": 8,
+  "risk_10": 8,
+  "ohio_5": 1,
+  "score_math": "30+20+15+8+8+8+1=90",
+  "activation_basis": "live=True,verified=True",
+  "values_verified": true,
+  "values_quote": "these workers share the same commitment to performance, reliability and excellence at their craft",
+  "values_date": "2026-07-30",
+  "values_url": "https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856",
+  "worker_safety_fit": "high: safety toe/protective footwear, skilled-trades recruitment history (Generation T)",
+  "best_activation": "{\"what\": \"Official Protective Footwear and Official Safety Toe Partner of NASCAR: at-track signage, digital content, race weekend activations, boots supplied to NASCAR employees/track workers, possible co-branded product and technical-education/workforce work; 'First Turn, Last Lap, Repeat' campaign launched 2026-08-03\", \"where\": \"NASCAR tracks\", \"dates\": \"Announced 2026-07-30; multi-year\", \"scale\": \"Terms undisclosed\", \"partners_agency\": \"NASCAR; VF Corp parent; agency not named (The Martin Agency made earlier Timberland PRO campaigns)\", \"url\": \"https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856\", \"date\": \"2026-07-30\", \"label\": \"VERIFIED (rawfetch page read; nascar.com announcement dated 2026-07-30 via search)\"}",
+  "other_activations": "[\"Phoenix Raceway O'Reilly Auto Parts Series race entitlement partner, Oct 17 (jayski.com 2026-09-22 via search, UNVERIFIED page)\", \"Generation T (Lowe's-led) since 2019, Bring Back the Trades scholarships, Girls at Work, Tools & Tiaras; 2023 SafGard workshop Greensboro NC (search summaries; older/UNVERIFIED)\", \"'Always Do. Never Done' (Martin Agency, ~2019) and 'Your Calling Is Calling' (2022) campaigns, outside 24mo\"]",
+  "marketing_trend": "GREW: new multi-year NASCAR deal Jul 2026 and Phoenix title race (VERIFIED/search). VF Q1 FY27 Timberland grew (fashionunited.de 2026-07-29 summary)",
+  "buyer_roles": "[\"Head of Marketing, Timberland Americas\", \"VP Marketing Americas\", \"Sports/partnership marketing (NASCAR)\", \"Workforce/trades community programs\"]",
+  "named_people_published": "[{\"name\": \"Ryan Murphy\", \"title\": \"Head of Marketing, Timberland Americas\", \"url\": \"https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856\"}, {\"name\": \"Craig Stimmel\", \"title\": \"SVP and Chief Commercial Officer, NASCAR\", \"url\": \"https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856\"}]",
+  "competitors": "[\"Carhartt\", \"Wolverine\", \"Red Wing\", \"Cat Footwear\"]",
+  "competitor_sponsorship_conflicts": "NASCAR footwear exclusivity held by Timberland PRO; NASCAR also has Pye-Barker Fire Safety (unverified prior note). Direct overlap with Wolverine entertainment and Carhartt NFL spend.",
+  "risks": "[\"VF Corp restructuring: ~400 job cuts reported (Fashion Dive/Retail Dive, 2025 inferred, date unconfirmed); Nov 2024 Martinsville VA DC layoffs of 242 (VF Outdoor); Dickies sold Nov 2025\"]",
+  "best_event_format": "Co-presented screening tied to NASCAR workforce/technical-ed or trade school tour; job-site safety night",
+  "ohio_presence": "Not established. Mid-Ohio Sports Car Course is not NASCAR-tied; unverified",
+  "unverified_notes": "Marketing leadership change possible (earlier note about Drieke Leenknegt, UNVERIFIED). Tool calls below 10 minimum.",
+  "rank": 4
+ },
+ {
   "brand": "Snap-on",
   "total_100": 87,
   "activation_30": 30,
@@ -117,7 +147,7 @@
   "best_event_format": "Trade school / community college technician night with franchise-van presence",
   "ohio_presence": "UNVERIFIED; 3,400+ US franchise vans (VERIFIED on snapon.com company page), so Ohio coverage INFERRED",
   "unverified_notes": "Quote page undated. snapon.com pages open; no named buyer found.",
-  "rank": 4
+  "rank": 5
  },
  {
   "brand": "Bosch Power Tools",
@@ -147,7 +177,7 @@
   "best_event_format": "Job-site safety night or trade school screening riding on Bosch 'celebrate jobsite workers' messaging",
   "ohio_presence": "Not verified for Bosch Power Tools; Cleveland Cubs-style market ties none found.",
   "unverified_notes": "Mt. Prospect IL base. Spend on Super Bowl is unsourced. Quote verified on bosch-presse.de dated 10.02.2026.",
-  "rank": 5
+  "rank": 6
  },
  {
   "brand": "Pilot Flying J",
@@ -177,7 +207,7 @@
   "best_event_format": "Job-site / driver safety stand-down at a Pilot/Flying J travel center or trucking-school night; recognize safe-driving drivers",
   "ohio_presence": "INFERRED: many Ohio Pilot/Flying J centers; Ohio-specific page not opened",
   "unverified_notes": "businesswire and pilotflyingj.com release pages blocked/403; quote verified via trade-press reprint, attribution to Pilot's release per Bulk Transporter.",
-  "rank": 6
+  "rank": 7
  },
  {
   "brand": "5.11 Tactical",
@@ -207,7 +237,7 @@
   "best_event_format": "Fire station / firefighter screening with talkback; gear presence at stair-climb or union hall",
   "ohio_presence": "UNVERIFIED; national retail/dealer presence only",
   "unverified_notes": "Research depth below 10-call minimum per brand (time-boxed). Page date: release dated Sept 9, 2026.",
-  "rank": 7
+  "rank": 8
  },
  {
   "brand": "Kenworth",
@@ -237,7 +267,7 @@
   "best_event_format": "Freedom Trucks tour stop tie-in, or trucking/diesel trade school night",
   "ohio_presence": "INFERRED: Chillicothe OH plant (search results confirm layoffs there, 2024, snippet)",
   "unverified_notes": "Pass-1 quote used non-breaking hyphen; verified with ordinary spacing as FOUND VERBATIM on fragment. Corporate PACCAR may make sponsorship calls.",
-  "rank": 8
+  "rank": 9
  },
  {
   "brand": "Rocky Boots",
@@ -267,7 +297,7 @@
   "best_event_format": "Fire station night or union hall in Southeast Ohio; Ohio fair booth",
   "ohio_presence": "VERIFIED: Nelsonville, Ohio dateline on Oct 2025 release; Columbus and Athens stand downs",
   "unverified_notes": "Quote is on Rocky Brands footer via Georgia Boot site; undated. Parent also owns Georgia Boot, Muck, Xtratuf, Lehigh Safety Shoes.",
-  "rank": 9
+  "rank": 10
  },
  {
   "brand": "Tractor Supply",
@@ -297,7 +327,7 @@
   "best_event_format": "County/state fair booth or FFA/trade school (welding) night; store-lot event",
   "ohio_presence": "Numerous Ohio stores and fair/FFA culture (INFERRED).",
   "unverified_notes": "Corporate site and BusinessWire blocked on rawfetch. Quote is customer-ad framing by CMO. Fewer than 10 calls.",
-  "rank": 10
+  "rank": 11
  },
  {
   "brand": "Ram Trucks",
@@ -327,7 +357,7 @@
   "best_event_format": "Fire station or union hall night with dealer-hosted truck display; tie to Built to Serve lineage",
   "ohio_presence": "INFERRED: Ohio dealer network; Warren, OH Ram plant (not re-verified)",
   "unverified_notes": "Stellantis newsroom is captcha-blocked; ramtrucks.com/forconstructionpros 403/404. Quote is patriotism/toughness, not worker safety.",
-  "rank": 11
+  "rank": 12
  },
  {
   "brand": "Goodyear",
@@ -357,7 +387,7 @@
   "best_event_format": "Job-site or trade-school night near Akron/Wingfoot Lake, with fleet/driver safety angle; Highway Hero tie-in",
   "ohio_presence": "VERIFIED: Akron HQ; Wingfoot Lake airship base, Suffield Twp (abcnews4/search); Findlay plant closing",
   "unverified_notes": "Blimp network cost is barter-type per pass 1 (INFERRED). Highway Hero is a recognition program, no spend figure.",
-  "rank": 12
+  "rank": 13
  },
  {
   "brand": "Travelers",
@@ -387,7 +417,7 @@
   "best_event_format": "Job-site safety night or union hall tied to workers comp / injury prevention; fire station with first-responder tie-in.",
   "ohio_presence": "UNVERIFIED: no Ohio-specific item found.",
   "unverified_notes": "travelers.com about page unverified; businesswire blocked, used investor site instead. Travelers consumer-facing community events not found.",
-  "rank": 13
+  "rank": 14
  },
  {
   "brand": "Nationwide",
@@ -417,7 +447,7 @@
   "best_event_format": "Fire station night (grain rescue / rescue-themed) and Ohio county/state fair booth with Ohio Farm Bureau; Columbus trade school night.",
   "ohio_presence": "VERIFIED: HQ Columbus, OH (press release boilerplate, page); Ohio Farm Bureau is a Grain Bin Safety Week partner.",
   "unverified_notes": "Crew ownership date from search summary only. Only 1 quote tried verified; earlier generic On Your Side quote replaced. Grain Bin program is mostly cause giving; marketing-spend evidence is the Columbus rights deals.",
-  "rank": 14
+  "rank": 15
  },
  {
   "brand": "FirstEnergy",
@@ -447,7 +477,37 @@
   "best_event_format": "Union hall / lineworker training center screening in Akron; safety stand-down",
   "ohio_presence": "HQ Akron; Ohio Edison, Illuminating Co., Toledo Edison (VERIFIED in release dateline Akron)",
   "unverified_notes": "Research depth below 10-call minimum per brand (time-boxed).",
-  "rank": 15
+  "rank": 16
+ },
+ {
+  "brand": "Carhartt",
+  "total_100": 80,
+  "activation_30": 30,
+  "values_20": 20,
+  "audience_event_15": 15,
+  "timing_10": 3,
+  "buyer_role_10": 8,
+  "risk_10": 3,
+  "ohio_5": 1,
+  "score_math": "30+20+15+3+8+3+1=80",
+  "activation_basis": "live=True,verified=True",
+  "values_verified": true,
+  "values_quote": "we're starting the conversation about work that is happening all around us",
+  "values_date": "2026-08-27",
+  "values_url": "https://www.modernretail.co/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/",
+  "worker_safety_fit": "high: brand identity is tradespeople/workwear durability; trades-recruitment program Join the Trades with trade schools",
+  "best_activation": "{\"what\": \"'Made Possible' NFL/Buffalo Bills Highmark Stadium campaign: 30s spot 'Making Football Possible', 2-min Thurman Thomas/James Cook III spot, in-stadium ads and rally towels naming construction crew at 2026-08-15 preseason game, full-funnel social; ~$300,000 donated to WNY vocational programs (donation not counted as marketing spend)\", \"where\": \"Buffalo NY / national\", \"dates\": \"Filmed over ~2 years; release 2026-08-13; stadium event 2026-08-15; NFL season from 2026-09-09\", \"scale\": \"Media spend undisclosed; Join the Trades page traffic 5x YoY (Delaney)\", \"partners_agency\": \"Bills, NFL, Thurman Thomas (34 Group); agency not named\", \"url\": \"https://www.modernretail.co/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/\", \"date\": \"2026-08-27\", \"label\": \"VERIFIED (rawfetch FOUND VERBATIM; also MediaPost 2026-08-13 article opened)\"}",
+  "other_activations": "[\"Made Possible national launch Aug 2025, 'Making the Stadium Possible' long-form film, four-phase rollout (sports, music, entertainment, agriculture, commerce): UNVERIFIED, WebSearch summary of carhartt.com press release (403 to rawfetch) and MediaPost 2025-09-03 (paywalled)\", \"Official SkillsUSA sponsor since 2000 per search summary (UNVERIFIED; skillsusa.org page opened but date/terms not confirmed)\", \"Ford x Carhartt skilled-trades partnership incl. 2027 Super Duty Carhartt truck, ToolBank hub Michigan Feb 2026 (UNVERIFIED, AOL URL 404 on rawfetch, date unconfirmed)\", \"Carhartt standalone store Easton (Columbus OH), third Ohio standalone store (UNVERIFIED, undated search snippet)\"]",
+  "marketing_trend": "GREW: 2025 launch and 2026 NFL/stadium escalation; Join the Trades traffic 5x (VERIFIED, Modern Retail 2026-08-27)",
+  "buyer_roles": "[\"VP Marketing and Creative\", \"Chief Brand Officer\", \"Community/trades partnerships (Join the Trades, SkillsUSA)\", \"Local market marketing (Delaney said local market was a major focus)\"]",
+  "named_people_published": "[{\"name\": \"Norma Delaney\", \"title\": \"VP of marketing and creative\", \"url\": \"https://www.modernretail.co/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/\"}, {\"name\": \"Susan Hennike\", \"title\": \"Chief Brand Officer (per search summary of press release, UNVERIFIED)\", \"url\": \"https://www.carhartt.com/carhartt-launches-made-possible-campaign\"}]",
+  "competitors": "[\"Wolverine\", \"Red Wing\", \"Timberland PRO\", \"Ariat\", \"Dickies\", \"Cat Footwear\"]",
+  "competitor_sponsorship_conflicts": "Carhartt is the incumbent trades-storytelling spender and a likely category-exclusive sponsor of NFL-adjacent trades content; wide overlap with Wolverine x Landman and Timberland PRO x NASCAR. Citations above.",
+  "risks": "[\"Private company; no layoffs/recalls/litigation found in this pass (UNVERIFIED, absence of evidence)\"]",
+  "best_event_format": "Benchmark only: trade-school night or job-site safety night aligned with Join the Trades",
+  "ohio_presence": "Carhartt Easton (Columbus) standalone store, third in Ohio (UNVERIFIED undated snippet cwcolumbus.com); Akron-area retailer events (UNVERIFIED undated)",
+  "unverified_notes": "Carhartt.com blocks rawfetch (403). Delaney quote is brand-voice about work, not explicit safety. Only 5-6 tool calls were run per brand, below the 10-call minimum.",
+  "rank": 17
  },
  {
   "brand": "Polaris",
@@ -477,37 +537,37 @@
   "best_event_format": "Fire station or job-site safety night with Ranger rescue UTV on display; county/state fair booth.",
   "ohio_presence": "UNVERIFIED: no Ohio-specific item found; dealer network assumed.",
   "unverified_notes": "polaris.com blocked by Cloudflare; CPSC page 403. Venue city for FDIC not read from page.",
-  "rank": 16
+  "rank": 18
  },
  {
-  "brand": "AEP Ohio",
-  "total_100": 80,
-  "activation_30": 24,
-  "values_20": 20,
-  "audience_event_15": 15,
-  "timing_10": 6,
+  "brand": "Wolverine",
+  "total_100": 79,
+  "activation_30": 30,
+  "values_20": 14,
+  "audience_event_15": 12,
+  "timing_10": 8,
   "buyer_role_10": 8,
   "risk_10": 6,
   "ohio_5": 1,
-  "score_math": "24+20+15+6+8+6+1=80",
-  "activation_basis": "live=True,verified=False",
+  "score_math": "30+14+12+8+8+6+1=79",
+  "activation_basis": "live=True,verified=True",
   "values_verified": true,
-  "values_quote": "our lineworkers are on the front lines, often facing challenging conditions to deliver electricity to our homes and businesses",
-  "values_date": "2025-04-17",
-  "values_url": "https://www.aep.com/news/stories/view/10149",
-  "worker_safety_fit": "high: lineworker appreciation messaging, utility safety culture",
-  "best_activation": "{\"what\": \"AEP Ohio Foundation presenter, Hall of Fame Ribs Burnoff\", \"where\": \"Canton OH\", \"dates\": \"2025-05-23 to 25\", \"scale\": \"free festival\", \"partners_agency\": \"Pro Football Hall of Fame\", \"url\": \"https://profootballhof.com/events/2025/05/2025-hall-of-fame-ribs-burnoff\", \"date\": \"2025-05\", \"label\": \"UNVERIFIED (snippet; 404); foundation giving may not count as marketing\"}",
-  "other_activations": "[\"AEP Power Tower/Power Play naming, Columbus Blue Jackets (undated, page listed)\", \"COSI Science Festival tent 2020 (outside 24mo)\"]",
-  "marketing_trend": "Undetermined",
-  "buyer_roles": "[\"Community/corporate communications\", \"Brand marketing\", \"Safety and training\"]",
-  "named_people_published": "[{\"name\": \"Marc Reitter\", \"title\": \"AEP Ohio president and COO (2022 release)\", \"url\": \"https://www.aep.com/news/stories/view/8479\"}]",
-  "competitors": "[\"FirstEnergy\", \"AES Ohio\", \"Duke Energy Ohio\"]",
-  "competitor_sponsorship_conflicts": "None cited",
-  "risks": "[\"Not researched in depth\"]",
-  "best_event_format": "Lineworker-themed screening at COSI/community college or Columbus union hall",
-  "ohio_presence": "Columbus-based utility (core)",
-  "unverified_notes": "Earlier 2022 Reitter quote also verified. Research depth below 10-call minimum per brand (time-boxed).",
-  "rank": 17
+  "values_quote": "Wolverine has always stood for the people who power progress with their hands and minds",
+  "values_date": "2025-11-06",
+  "values_url": "https://finviz.com/news/221248/wolverine-puts-boots-on-the-ground-in-landman-for-a-new-partnership-with-paramounts-blockbuster-hit",
+  "worker_safety_fit": "medium-high: trades/small-business framing and safety-toe lines; entertainment-led marketing",
+  "best_activation": "{\"what\": \"Exclusive work boot partner of Paramount+ 'Landman' S2: 'Out Do Every Day' branded spot with real tradespeople, product placement, retail programs, e-commerce, influencer, events, PR\", \"where\": \"National\", \"dates\": \"Announced 2025-11-06; S2 premiere 2025-11-16\", \"scale\": \"Terms undisclosed\", \"partners_agency\": \"Paramount+, Taylor Sheridan's Landman; agency not found\", \"url\": \"https://finviz.com/news/221248/wolverine-puts-boots-on-the-ground-in-landman-for-a-new-partnership-with-paramounts-blockbuster-hit\", \"date\": \"2025-11-06\", \"label\": \"VERIFIED (quote FOUND VERBATIM on finviz mirror; wolverineworldwide.gcs-web.com 403)\"}",
+  "other_activations": "[\"Wolverine x Jordan Davis Trades Tour: 8 trades businesses, each $7,500 cash + $2,500 boots/gear + VIP tour stop, applications May 7-Jun 16, shows Sep-Oct (page shows no year; 2025 inferred from site banner referencing 10/1/25). Grants are non-commercial and not counted; tour tie-in/branded tee are. https://www.wolverine.com/US/en/trades-tour/ VERIFIED page, year INFERRED\", \"Wolverine x Metallica Scholars limited-edition collections benefiting skilled trades (4th collection) via All Within My Hands; commercial co-branded product (allwithinmyhands.org; dates UNVERIFIED)\", \"Limited-edition University of Michigan Maker Wedge boot, tailgate season 2025-09-25 (placera.se PR; snippet only)\"]",
+  "marketing_trend": "Active/growing: Landman added Nov 2025; prior-pass note of record marketing investment in Q4 call is UNVERIFIED",
+  "buyer_roles": "[\"Chief Marketing Officer\", \"Brand marketing / partnerships\", \"Entertainment & sports partnerships\", \"Field/retail marketing\"]",
+  "named_people_published": "[{\"name\": \"Scott Schoessel\", \"title\": \"Chief Marketing Officer, Wolverine\", \"url\": \"https://finviz.com/news/221248/wolverine-puts-boots-on-the-ground-in-landman-for-a-new-partnership-with-paramounts-blockbuster-hit\"}]",
+  "competitors": "[\"Carhartt\", \"Red Wing\", \"Timberland PRO\", \"Cat Footwear\", \"Ariat\"]",
+  "competitor_sponsorship_conflicts": "Wolverine holds Landman exclusivity (work-boot category) and Metallica Scholars skilled-trades tie; Carhartt also funds Metallica Scholars/AWMH (allwithinmyhands.org lists both as supporters).",
+  "risks": "[\"Ongoing PFAS litigation: new federal suit filed 2025-12-04 by landfill owner (per 10-K/10-Q search summary; sec.gov); Feb 2026 dispute with Michigan over settlement scope (Law360 2026-02-23, paywalled); 2020 consent decree cap $69.5M. UNVERIFIED primary text, from search summary\", \"Stock fell ~6.6% on Landman announcement day (Stock Titan, third-party)\", \"No layoffs/WARN found\"]",
+  "best_event_format": "Job-site safety night or trade-school night; Trades Tour winners (small trades businesses) as hosts",
+  "ohio_presence": "Not established; Michigan HQ (Rockford); retail presence INFERRED",
+  "unverified_notes": "Government/corporate pages 403 to rawfetch. Tool-call count below 10-per-brand minimum.",
+  "rank": 19
  },
  {
   "brand": "John Deere",
@@ -537,7 +597,7 @@
   "best_event_format": "Dealer-supported county/state fair booth (Ohio State Fair); trade school technician night",
   "ohio_presence": "Ag-Pro, JD Equipment dealers; Ohio State Fair display (INFERRED, undated)",
   "unverified_notes": "Quote is UK/Ireland-sourced, not US. deere.com pages return empty; bauma safety release not verified. PGA page not opened.",
-  "rank": 18
+  "rank": 20
  },
  {
   "brand": "Wrangler",
@@ -567,7 +627,7 @@
   "best_event_format": "County/state fair booth or rodeo-adjacent community screening; trade school night secondary",
   "ohio_presence": "UNVERIFIED; Kontoor HQ Greensboro NC; Wrangler sold broadly in Ohio retail (INFERRED)",
   "unverified_notes": "No worker/safety quote found; Wrangler site 403 and Kontoor press pages mostly blocked. Fit is western heritage.",
-  "rank": 19
+  "rank": 21
  },
  {
   "brand": "Klein Tools",
@@ -597,7 +657,37 @@
   "best_event_format": "Electrician apprentice night at IBEW/NECA training center or trade school with tool demo and screening",
   "ohio_presence": "Not verified (Klein HQ Lincolnshire IL per phcppros listing; sold through distributors nationwide).",
   "unverified_notes": "Marketing spend is trade-show/promo scale; no agency identified. Wording 'served those who work with their hands' confirmed verbatim.",
-  "rank": 20
+  "rank": 22
+ },
+ {
+  "brand": "Red Wing Shoes",
+  "total_100": 77,
+  "activation_30": 30,
+  "values_20": 10,
+  "audience_event_15": 15,
+  "timing_10": 8,
+  "buyer_role_10": 8,
+  "risk_10": 5,
+  "ohio_5": 1,
+  "score_math": "30+10+15+8+8+5+1=77",
+  "activation_basis": "live=True,verified=True; values not credited: quote is Glossy paraphrasing brand messaging",
+  "values_verified": false,
+  "values_quote": "good boots that will last for decades",
+  "values_date": "2025-12-02",
+  "values_url": "https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/",
+  "worker_safety_fit": "high: heritage tradesperson focus, safety footwear program (Red Wing for Business, mobile shoe stores)",
+  "best_activation": "{\"what\": \"'Boots Drop The Hard Way': 6 handmade billboards built by tradespeople, named-builder social series, concrete shoe-box contest for certified tradespeople (free boots for life), contest filmed, held Jan 2026\", \"where\": \"US\", \"dates\": \"Launched ~Dec 2025; contest Jan 2026\", \"scale\": \"6 billboards + contest; spend undisclosed\", \"partners_agency\": \"Wieden+Kennedy NY (in-house creative team under Aaron Seymour-Anderson)\", \"url\": \"https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/\", \"date\": \"2025-12-02\", \"label\": \"VERIFIED (rawfetch 200, text read; result of contest not found)\"}",
+  "other_activations": "[\"Red Wing for Business mobile shoe stores (~170 units, 500+ retail stores) for on-site safety footwear; 2018 launch article, current scale UNVERIFIED (tdworld.com / ishn.com)\", \"'Thanks for Nothing' / #RedWingSafetyHeroes safety-professional campaign (MediaPost 2023-06-19; older than 24mo)\", \"'Will Your Wings' (2024) tiny fabric wills in boots (search snippet, UNVERIFIED date)\"]",
+  "marketing_trend": "GREW: Glossy says 'far more vocal in 2025' with several top-of-funnel campaigns (VERIFIED 2025-12-02); closed Vasque brand Oct 2024 (Footwear News via Wikipedia, UNVERIFIED)",
+  "buyer_roles": "[\"Chief Marketing Officer\", \"Creative Director\", \"Red Wing for Business / safety-channel marketing\", \"Store/regional field marketing\"]",
+  "named_people_published": "[{\"name\": \"Aaron Seymour-Anderson\", \"title\": \"Creative Director\", \"url\": \"https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/\"}, {\"name\": \"Allison Gettings\", \"title\": \"CEO\", \"url\": \"https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/\"}, {\"name\": \"Dave Schneider\", \"title\": \"CMO as of 2023, may be stale\", \"url\": \"https://www.mediapost.com/publications/article/388702/red-wing-unleashes-trades-made-campaign.html\"}]",
+  "competitors": "[\"Carhartt\", \"Wolverine\", \"Timberland PRO\", \"Thorogood\", \"Danner\"]",
+  "competitor_sponsorship_conflicts": "No direct conflict found; Red Wing and Carhartt both run trades-celebration campaigns (overlap in message, not property).",
+  "risks": "[\"Vasque brand shut Oct 2024 (UNVERIFIED secondary)\", \"Historic 2012-13 steel-toe recall (UNVERIFIED, old)\", \"No layoffs found\"]",
+  "best_event_format": "Trade-school or union-hall night hosted at/near a Red Wing store with certified tradespeople; mobile shoe store for job-site safety night",
+  "ohio_presence": "Multiple Columbus-area Red Wing stores listed (redwingsafety.com store locator, snippet; COVID-era page). Cleveland not verified",
+  "unverified_notes": "Quote is Glossy's quotation of Red Wing messaging about durability, associated with Seymour-Anderson; Glossy item is the brand's description, not verified as direct speech. Prior 'backbone of our communities' quote is 2023, outside window. Tool calls below 10 minimum.",
+  "rank": 23
  },
  {
   "brand": "Yamaha",
@@ -627,7 +717,7 @@
   "best_event_format": "Dealer-hosted demo at county fair or ag/trade event; trade school equipment night",
   "ohio_presence": "UNVERIFIED (Newnan GA plant; Ohio dealers assumed)",
   "unverified_notes": "globenewswire and equipmentworld blocked. Prior 'see Yamaha products in action' quote was not found; replaced. 'Bob Brown' from pass 1 not verified and dropped.",
-  "rank": 21
+  "rank": 24
  },
  {
   "brand": "ADT",
@@ -657,7 +747,7 @@
   "best_event_format": "Fire station community safety night / National Night Out",
   "ohio_presence": "UNVERIFIED",
   "unverified_notes": "Donations excluded from budget evidence.",
-  "rank": 22
+  "rank": 25
  },
  {
   "brand": "BRP Can-Am",
@@ -687,7 +777,7 @@
   "best_event_format": "County/state fair or farm-show demo booth; ag-trade night with work-vehicle demo",
   "ohio_presence": "UNVERIFIED (dealer network assumed; no Ohio event found on events page)",
   "unverified_notes": "news.brp.com returned 403; Defender launch release not opened. Values quote is work-ethic framing, not safety. Fewer than 10 tool calls per brand were made for risks/competitors; those fields are thin.",
-  "rank": 23
+  "rank": 26
  },
  {
   "brand": "Roto-Rooter",
@@ -717,7 +807,7 @@
   "best_event_format": "Trade school / union hall plumbing apprentice night; local branch co-sponsored community screening",
   "ohio_presence": "Chemed/Roto-Rooter HQ Cincinnati (pass1, INFERRED)",
   "unverified_notes": "Quote page undated. Company posts describe paid training/plumbing school (search snippet 2026). Research depth below 10-call minimum per brand (time-boxed).",
-  "rank": 24
+  "rank": 27
  },
  {
   "brand": "Ace Hardware",
@@ -747,7 +837,7 @@
   "best_event_format": "Independent Ace store (co-op) community night or Ace Handyman trade tie-in; Cleveland-area E&H Ace stores",
   "ohio_presence": "Ohio stores incl. E&H Ace (Rocky River, Westlake, Middlefield, Avon Lake) and Great Lakes Ace (INFERRED from search). No Guardians deal found.",
   "unverified_notes": "Quote is heritage, not safety. MLB page and newsroom opened via rawfetch. Fewer than 10 calls.",
-  "rank": 25
+  "rank": 28
  },
  {
   "brand": "Michelin",
@@ -777,7 +867,7 @@
   "best_event_format": "Fire station / first-responder or trade school night built on Michelin's past first-responder tire donations; Ohio access via commercial tire dealers",
   "ohio_presence": "UNVERIFIED; HQ Greenville SC, no Ohio facility confirmed this pass",
   "unverified_notes": "michelinman.com blocked (403). Searches of 2025 Michelin worker/safety statements returned only 2006-2008 first-responder donation items (Tire Review/Fire Engineering, outside window). No quote verified.",
-  "rank": 26
+  "rank": 29
  },
  {
   "brand": "Love's Travel Stops",
@@ -807,7 +897,7 @@
   "best_event_format": "Trucking safety stand-down or truck-care academy / diesel trade school night",
   "ohio_presence": "VERIFIED: Ohio locations in newsroom renovations (Aug 2026) and NEVI chargers planned in Ohio (Jan 2025 release)",
   "unverified_notes": "Quote is about driver support, weaker than a safety quote. No better worker-safety quote located.",
-  "rank": 27
+  "rank": 30
  },
  {
   "brand": "Liberty Mutual",
@@ -837,7 +927,7 @@
   "best_event_format": "Job-site or union-hall safety stand-down tied to Risk Control / workers comp; secondary: library/museum.",
   "ohio_presence": "UNVERIFIED: no Ohio-specific item found; Liberty Mutual has Ohio offices per pass 1 (INFERRED).",
   "unverified_notes": "No live experiential found. Workplace Safety Index is research PR, not event spend.",
-  "rank": 28
+  "rank": 31
  },
  {
   "brand": "Nissan",
@@ -867,7 +957,7 @@
   "best_event_format": "Job-site or trade-school night tied to Frontier/workers tribute; tailgate-style pop-up",
   "ohio_presence": "UNVERIFIED (plants in TN and MS)",
   "unverified_notes": "David Johnson's exact title not shown in the excerpt. Financial distress limits sponsor budget.",
-  "rank": 29
+  "rank": 32
  },
  {
   "brand": "Bobcat",
@@ -897,7 +987,7 @@
   "best_event_format": "Trade school equipment-operator night / job-site safety night",
   "ohio_presence": "UNVERIFIED (dealer network only inferred)",
   "unverified_notes": "bobcat.com blocked by captcha; ND Open date and scale unverified; fewer than 10 tool calls used.",
-  "rank": 30
+  "rank": 33
  },
  {
   "brand": "Giant Eagle",
@@ -927,7 +1017,7 @@
   "best_event_format": "Library/museum or community festival screening in Cleveland/Pittsburgh with store/GetGo tie-in",
   "ohio_presence": "Strong NE Ohio grocery and GetGo presence (VERIFIED by coverage)",
   "unverified_notes": "Values quote is community-giving, not safety. Dated only to FY25. Fewer than 10 tool calls.",
-  "rank": 31
+  "rank": 34
  },
  {
   "brand": "Stihl",
@@ -957,7 +1047,7 @@
   "best_event_format": "County/state fair booth or trade/forestry school night paired with Timbersports-style demo",
   "ohio_presence": "Not verified; no 2026 TIMBERSPORTS Ohio event found.",
   "unverified_notes": "Dated values quote not verified: about-page quote FOUND VERBATIM but undated; dated Wolff quote is about competition not workers. 'committed to improving the work of those who rely on our tools' noted in pass 1.",
-  "rank": 32
+  "rank": 35
  },
  {
   "brand": "YETI",
@@ -987,7 +1077,7 @@
   "best_event_format": "County/state fair or job-site hydration station via corporate sales",
   "ohio_presence": "UNVERIFIED",
   "unverified_notes": "yeti.com and investor site 403; no trades-themed quote found after 6+ attempts.",
-  "rank": 33
+  "rank": 36
  },
  {
   "brand": "True Value",
@@ -1017,7 +1107,7 @@
   "best_event_format": "Independent True Value store community night or trades-school tie-in via local store owners",
   "ohio_presence": "Independent True Value stores in Ohio (INFERRED, not verified).",
   "unverified_notes": "Values quote is homes-focused. Fewer than 10 calls.",
-  "rank": 34
+  "rank": 37
  },
  {
   "brand": "Scotts Miracle-Gro",
@@ -1047,7 +1137,7 @@
   "best_event_format": "County/state fair booth or library/community garden event; Marysville OH plant-community night",
   "ohio_presence": "HQ and plants in Marysville/Columbus area, Ohio (VERIFIED via search results showing Marysville expansion; undated)",
   "unverified_notes": "Values quote is 2021, outside 24-month window; no newer quote verified. Fewer than 10 tool calls.",
-  "rank": 35
+  "rank": 38
  },
  {
   "brand": "New Balance",
@@ -1077,7 +1167,7 @@
   "best_event_format": "Trade school night / job-site night around US-made craftsmanship; or fair booth",
   "ohio_presence": "Columbus running events with Fleet Feet (UNVERIFIED); no Cleveland event found; factories in MA and ME only",
   "unverified_notes": "newbalance.com 403; newsmarket 202. Quote verified FOUND VERBATIM on SGB (core phrase; full ellipsized text from page).",
-  "rank": 36
+  "rank": 39
  },
  {
   "brand": "Valvoline",
@@ -1107,7 +1197,7 @@
   "best_event_format": "Trade school / auto-tech program night near Valvoline service centers",
   "ohio_presence": "INFERRED: Valvoline Instant Oil Change centers in Ohio; Oilympics held in Cincinnati 2025 (VERIFIED)",
   "unverified_notes": "No worker-related values quote found; only tagline 'built on trust. focused on results.' (X post 2026-01-05, VERIFIED present on ovalinsider but not worker-related). Pass-1 Hendrick 2024-06-26 date remains snippet-only.",
-  "rank": 37
+  "rank": 40
  },
  {
   "brand": "Kawasaki",
@@ -1137,7 +1227,37 @@
   "best_event_format": "Fair/rodeo-style work-vehicle demo; job-site night with Mule display",
   "ohio_presence": "UNVERIFIED (Wallen tour stops not checked for Ohio)",
   "unverified_notes": "No worker/safety/heritage quote verified in 2025-26 Kawasaki words; pass-1 'much more than a sponsorship' is not a values statement and is dropped. Kawasaki site redirects.",
-  "rank": 38
+  "rank": 41
+ },
+ {
+  "brand": "AEP Ohio",
+  "total_100": 68,
+  "activation_30": 12,
+  "values_20": 20,
+  "audience_event_15": 15,
+  "timing_10": 6,
+  "buyer_role_10": 8,
+  "risk_10": 6,
+  "ohio_5": 1,
+  "score_math": "12+20+15+6+8+6+1=68",
+  "activation_basis": "live=True,verified=False; override: best activation is AEP Ohio Foundation presenting an event: foundation funding, not counted as commercial; downgraded to unverified-nonlive level",
+  "values_verified": true,
+  "values_quote": "our lineworkers are on the front lines, often facing challenging conditions to deliver electricity to our homes and businesses",
+  "values_date": "2025-04-17",
+  "values_url": "https://www.aep.com/news/stories/view/10149",
+  "worker_safety_fit": "high: lineworker appreciation messaging, utility safety culture",
+  "best_activation": "{\"what\": \"AEP Ohio Foundation presenter, Hall of Fame Ribs Burnoff\", \"where\": \"Canton OH\", \"dates\": \"2025-05-23 to 25\", \"scale\": \"free festival\", \"partners_agency\": \"Pro Football Hall of Fame\", \"url\": \"https://profootballhof.com/events/2025/05/2025-hall-of-fame-ribs-burnoff\", \"date\": \"2025-05\", \"label\": \"UNVERIFIED (snippet; 404); foundation giving may not count as marketing\"}",
+  "other_activations": "[\"AEP Power Tower/Power Play naming, Columbus Blue Jackets (undated, page listed)\", \"COSI Science Festival tent 2020 (outside 24mo)\"]",
+  "marketing_trend": "Undetermined",
+  "buyer_roles": "[\"Community/corporate communications\", \"Brand marketing\", \"Safety and training\"]",
+  "named_people_published": "[{\"name\": \"Marc Reitter\", \"title\": \"AEP Ohio president and COO (2022 release)\", \"url\": \"https://www.aep.com/news/stories/view/8479\"}]",
+  "competitors": "[\"FirstEnergy\", \"AES Ohio\", \"Duke Energy Ohio\"]",
+  "competitor_sponsorship_conflicts": "None cited",
+  "risks": "[\"Not researched in depth\"]",
+  "best_event_format": "Lineworker-themed screening at COSI/community college or Columbus union hall",
+  "ohio_presence": "Columbus-based utility (core)",
+  "unverified_notes": "Earlier 2022 Reitter quote also verified. Research depth below 10-call minimum per brand (time-boxed).",
+  "rank": 42
  },
  {
   "brand": "Speedway / Marathon Petroleum",
@@ -1167,7 +1287,7 @@
   "best_event_format": "Fire-station / first-responder night in Canton or Findlay, OH, via refinery community relations",
   "ohio_presence": "HQ Findlay OH; Canton refinery and Lima terminal grants to local fire/police (search snippets, 2024-25; page 403 to rawfetch)",
   "unverified_notes": "No values quote verified FOUND VERBATIM after >6 candidate pages/searches (many brand sites 403/Cloudflare). Fewer than 10 tool calls.",
-  "rank": 39
+  "rank": 43
  },
  {
   "brand": "Jeep",
@@ -1197,37 +1317,7 @@
   "best_event_format": "County/state fair or festival display; weak fit for union hall",
   "ohio_presence": "Toledo Jeep assembly (general knowledge, UNVERIFIED this pass)",
   "unverified_notes": "No worker/safety/heritage quote verified after 6+ searches and pages (jeep-wave page, Stellantis releases, Broderdorf searches).",
-  "rank": 40
- },
- {
-  "brand": "Mossy Oak",
-  "total_100": 65,
-  "activation_30": 30,
-  "values_20": 8,
-  "audience_event_15": 5,
-  "timing_10": 6,
-  "buyer_role_10": 5,
-  "risk_10": 10,
-  "ohio_5": 1,
-  "score_math": "30+8+5+6+5+10+1=65",
-  "activation_basis": "live=True,verified=True",
-  "values_verified": true,
-  "values_quote": "the NWTF convention and sport show, officially sponsored by Mossy Oak",
-  "values_date": "2025 (Feb 2025 event release)",
-  "values_url": "https://www.nwtf.org/content-hub/mossberg-reaffirms-commitment-as-longbeard-sponsor-for-nwtf-convention-and-sport-show",
-  "worker_safety_fit": "low: hunting/conservation heritage; quote is NWTF's words, not Mossy Oak's, and not about workers",
-  "best_activation": "{\"what\": \"Official sponsor, NWTF Convention & Sport Show (500+ exhibitors); presenting sponsor Archery Business pavilion SHOT Show 2026\", \"where\": \"Nashville; Las Vegas\", \"dates\": \"Feb 12-15 2025; Jan 20-23 2026\", \"scale\": \"national trade/consumer shows\", \"partners_agency\": \"NWTF; NSSF/Grand View Outdoors\", \"url\": \"https://www.nwtf.org/content-hub/mossberg-reaffirms-commitment-as-longbeard-sponsor-for-nwtf-convention-and-sport-show\", \"date\": \"2025\", \"label\": \"VERIFIED (NWTF page); SHOT pavilion INFERRED (search snippet)\"}",
-  "other_activations": "[]",
-  "marketing_trend": "Steady sponsorships 2025-26 (search); no spend data",
-  "buyer_roles": "[\"Marketing Director\", \"Events Manager\", \"Licensing/Marketing Services\"]",
-  "named_people_published": "[]",
-  "competitors": "[\"Realtree\"]",
-  "competitor_sponsorship_conflicts": "Mossberg is Longbeard sponsor at same NWTF event (VERIFIED, not a competitor)",
-  "risks": "\"none found\"",
-  "best_event_format": "County/state fair booth",
-  "ohio_presence": "UNVERIFIED",
-  "unverified_notes": "mossyoak.com our-story 404; Toxey Haas named only in 2022 page (first pass).",
-  "rank": 41
+  "rank": 44
  },
  {
   "brand": "Rural King",
@@ -1257,7 +1347,7 @@
   "best_event_format": "Store-lot or new Ohio store event / county fair booth with talkback; workwear and farm tie-in",
   "ohio_presence": "VERIFIED: Ohio listed among 17-18 state footprint on about-us (ruralking.com/about-us); Wooster OH store display (INFERRED)",
   "unverified_notes": "Values quote is first-responder support boilerplate, not worker-safety statement; no direct worker/safety quote verified after 6+ searches. Agency not found.",
-  "rank": 42
+  "rank": 45
  },
  {
   "brand": "Makita",
@@ -1287,7 +1377,7 @@
   "best_event_format": "Tour-style trailer/vehicle at trade school night or job-site safety stand-down with adjacent screening; dealer-hosted evening",
   "ohio_presence": "Not verified; no Ohio event found in searches.",
   "unverified_notes": "No values quote verified in 6+ attempts: makitausa/makitatools blocked (522/000), Wayne Hart WOC quote ('opportunity for contractors to experience Makita innovation') is not about workers/safety.",
-  "rank": 43
+  "rank": 46
  },
  {
   "brand": "USAA",
@@ -1317,7 +1407,7 @@
   "best_event_format": "Veteran-in-the-trades screening at a union hall or trade school with veterans' programs; military-appreciation tie-in.",
   "ohio_presence": "UNVERIFIED: no Ohio-specific item; national member base.",
   "unverified_notes": "Values quote is military not worker; usaa.com blocked. Workers/safety quote not found.",
-  "rank": 44
+  "rank": 47
  },
  {
   "brand": "OtterBox",
@@ -1347,7 +1437,7 @@
   "best_event_format": "Job-site safety night with durability tie-in; weak fit",
   "ohio_presence": "UNVERIFIED (HQ Fort Collins CO)",
   "unverified_notes": "No worker/safety quote verified. Research depth below 10-call minimum per brand (time-boxed).",
-  "rank": 45
+  "rank": 48
  },
  {
   "brand": "Filson",
@@ -1377,7 +1467,7 @@
   "best_event_format": "Store-hosted heritage talkback or library/museum evening; outdoor festival",
   "ohio_presence": "Cincinnati tour stop reported (UNVERIFIED); no Ohio store verified",
   "unverified_notes": "Quote undated; Filson donations (NFF) do not count as marketing spend.",
-  "rank": 46
+  "rank": 49
  },
  {
   "brand": "Oakley",
@@ -1407,7 +1497,7 @@
   "best_event_format": "Fire station / first responder event with OSI sign-up",
   "ohio_presence": "UNVERIFIED",
   "unverified_notes": "Release is partly nonprofit-partnership; no live event verified; fewer than 10 tool calls used per brand.",
-  "rank": 47
+  "rank": 50
  },
  {
   "brand": "Rocket Companies",
@@ -1437,7 +1527,67 @@
   "best_event_format": "Cleveland community screening at/around Rocket Arena via Cavs community team; weak thematic fit",
   "ohio_presence": "Strong: Cleveland arena naming rights (VERIFIED)",
   "unverified_notes": "No values quote verified FOUND VERBATIM after >6 candidate pages/searches (many brand sites 403/Cloudflare). Fewer than 10 tool calls.",
-  "rank": 48
+  "rank": 51
+ },
+ {
+  "brand": "Ariat",
+  "total_100": 61,
+  "activation_30": 30,
+  "values_20": 4,
+  "audience_event_15": 5,
+  "timing_10": 3,
+  "buyer_role_10": 8,
+  "risk_10": 10,
+  "ohio_5": 1,
+  "score_math": "30+4+5+3+8+10+1=61",
+  "activation_basis": "live=True,verified=True; values not credited: quote is Academy Sports' VP, not Ariat",
+  "values_verified": false,
+  "values_quote": "ariat delivers the quality academy customers can rely on every day",
+  "values_date": "2026-08-25",
+  "values_url": "https://finviz.com/news/385298/academy-sports-outdoors-and-ariat-international-expand-partnership-with-200-new-in-store-shops-this-fall",
+  "worker_safety_fit": "low-medium: western/equestrian core; work line exists (steel/composite toe, Ariat Work ads) but weak worker-safety voice",
+  "best_activation": "{\"what\": \"200 Ariat in-store shops at Academy Sports + Outdoors (retail program, western and work) \", \"where\": \"US (Academy, 300+ stores in 21 states)\", \"dates\": \"Announced 2026-08-25, rolling out fall 2026\", \"scale\": \"200 shops\", \"partners_agency\": \"Academy Sports + Outdoors; Sharon Carpenter VP Sales quoted\", \"url\": \"https://finviz.com/news/385298/academy-sports-outdoors-and-ariat-international-expand-partnership-with-200-new-in-store-shops-this-fall\", \"date\": \"2026-08-25\", \"label\": \"VERIFIED (rawfetch 200, quote FOUND VERBATIM; retail rather than event activation)\"}",
+  "other_activations": "[\"US Equestrian partnership renewed April 2025 and again March 25 2026 with Team Collection (usequestrian.org, 403, search summary UNVERIFIED)\", \"British Showjumping Novice Championships sponsor, announced 2026-01-15 (ariat.com blog opened, page read)\", \"Ariat TV spot 'Bring It: Construction' (iSpot; page opened, date not read, search says 2026-09-28; UNVERIFIED)\", \"Title sponsor Ariat Dirt World Summit with BuildWitt, contractor recruitment event (2023; 2026 edition referenced on buildwitt.com nav, UNVERIFIED)\", \"Fulton County Fair rodeo (Wauseon OH) co-presenting sponsor listing, undated (happeningnext.com snippet, UNVERIFIED)\", \"Ariat Texas Rattlers PBR team 2024 (aol.com, INFERRED)\"]",
+  "marketing_trend": "Stable/growing: S&S Activewear distribution Jun 2026 (businesswire 2026-06-16, 000 on rawfetch; search summary), Academy expansion Aug 2026; no pullback found",
+  "buyer_roles": "[\"VP Marketing\", \"Sponsorship/Events Manager\", \"Brand Partnerships\", \"Work category marketing\"]",
+  "named_people_published": "[{\"name\": \"Sharon Carpenter\", \"title\": \"Vice President of Sales, Ariat International (sales, not marketing)\", \"url\": \"https://finviz.com/news/385298/academy-sports-outdoors-and-ariat-international-expand-partnership-with-200-new-in-store-shops-this-fall\"}]",
+  "competitors": "[\"Justin Boots\", \"Wolverine\", \"Carhartt\", \"Cat\", \"Tony Lama\", \"Red Wing\"]",
+  "competitor_sponsorship_conflicts": "Ariat's dense rodeo/equestrian/PBR sponsorships; no direct conflict with trades screening. Justin also rodeo (prior pass, uncited).",
+  "risks": "[\"None found in this pass (UNVERIFIED, absence of evidence)\"]",
+  "best_event_format": "County/state fair or rodeo booth with work-boot tie-in; BuildWitt-style contractor event",
+  "ohio_presence": "Fulton County Fair rodeo sponsor (undated snippet); Academy has no Ohio footprint known; Ohio retail INFERRED",
+  "unverified_notes": "Values quote is a sales VP in a retailer release, weak on worker safety; no worker/safety quote verified. ariat.com/about 429 earlier. Tool calls below 10 minimum.",
+  "rank": 52
+ },
+ {
+  "brand": "Mossy Oak",
+  "total_100": 61,
+  "activation_30": 30,
+  "values_20": 4,
+  "audience_event_15": 5,
+  "timing_10": 6,
+  "buyer_role_10": 5,
+  "risk_10": 10,
+  "ohio_5": 1,
+  "score_math": "30+4+5+6+5+10+1=61",
+  "activation_basis": "live=True,verified=True; values not credited: quote is NWTF wording",
+  "values_verified": false,
+  "values_quote": "the NWTF convention and sport show, officially sponsored by Mossy Oak",
+  "values_date": "2025 (Feb 2025 event release)",
+  "values_url": "https://www.nwtf.org/content-hub/mossberg-reaffirms-commitment-as-longbeard-sponsor-for-nwtf-convention-and-sport-show",
+  "worker_safety_fit": "low: hunting/conservation heritage; quote is NWTF's words, not Mossy Oak's, and not about workers",
+  "best_activation": "{\"what\": \"Official sponsor, NWTF Convention & Sport Show (500+ exhibitors); presenting sponsor Archery Business pavilion SHOT Show 2026\", \"where\": \"Nashville; Las Vegas\", \"dates\": \"Feb 12-15 2025; Jan 20-23 2026\", \"scale\": \"national trade/consumer shows\", \"partners_agency\": \"NWTF; NSSF/Grand View Outdoors\", \"url\": \"https://www.nwtf.org/content-hub/mossberg-reaffirms-commitment-as-longbeard-sponsor-for-nwtf-convention-and-sport-show\", \"date\": \"2025\", \"label\": \"VERIFIED (NWTF page); SHOT pavilion INFERRED (search snippet)\"}",
+  "other_activations": "[]",
+  "marketing_trend": "Steady sponsorships 2025-26 (search); no spend data",
+  "buyer_roles": "[\"Marketing Director\", \"Events Manager\", \"Licensing/Marketing Services\"]",
+  "named_people_published": "[]",
+  "competitors": "[\"Realtree\"]",
+  "competitor_sponsorship_conflicts": "Mossberg is Longbeard sponsor at same NWTF event (VERIFIED, not a competitor)",
+  "risks": "\"none found\"",
+  "best_event_format": "County/state fair booth",
+  "ohio_presence": "UNVERIFIED",
+  "unverified_notes": "mossyoak.com our-story 404; Toxey Haas named only in 2022 page (first pass).",
+  "rank": 53
  },
  {
   "brand": "Motorola",
@@ -1467,7 +1617,7 @@
   "best_event_format": "Weak fit; if pursued, target Motorola Solutions for fire-station/first-responder screening",
   "ohio_presence": "UNVERIFIED (Motorola Solutions has Ohio public-safety customers, not confirmed)",
   "unverified_notes": "No values quote verified FOUND VERBATIM after >6 candidate pages/searches (many brand sites 403/Cloudflare). Entity ambiguity: Mobility vs Solutions. Fewer than 10 tool calls on this brand.",
-  "rank": 49
+  "rank": 54
  },
  {
   "brand": "Target",
@@ -1497,7 +1647,7 @@
   "best_event_format": "County/state fair booth or library community night via local store",
   "ohio_presence": "Many Ohio stores (INFERRED); no Ohio event verified",
   "unverified_notes": "Full values quote FOUND VERBATIM on re-run; but it is a belonging theme, not worker safety. Target safety page 404.",
-  "rank": 50
+  "rank": 55
  },
  {
   "brand": "Hilti",
@@ -1527,7 +1677,7 @@
   "best_event_format": "Trade school or union hall safety night tied to Hilti health-and-safety/Pros Know messaging",
   "ohio_presence": "Not verified; search found no Hilti Ohio event.",
   "unverified_notes": "Values: 'build faster, safer and with more daring' FOUND VERBATIM earlier but page undated; Sept 2025 Hilti McGowan quote 'every tool, technology, service...' returned NOT FOUND on rawfetch (punctuation); 'Hilti is united by a single mission' also NOT FOUND. Therefore not marked verified.",
-  "rank": 51
+  "rank": 56
  },
  {
   "brand": "LEGO",
@@ -1557,7 +1707,7 @@
   "best_event_format": "Library/museum or county fair family build station tied to Morgan-as-inventor STEM",
   "ohio_presence": "LEGOLAND Discovery Center Columbus (Easton), opened 2018 (search summary 2025, UNVERIFIED page); Cleveland BrickUniverse is fan-run, not LEGO Group",
   "unverified_notes": "lego.com Cloudflare 403 on all tries (newsroom, news/2025); 3 searches for 2025 worker/safety/craftsmanship statement found none. Brand unlikely to fund small third-party film events (INFERRED).",
-  "rank": 52
+  "rank": 57
  },
  {
   "brand": "Bass Pro Shops",
@@ -1587,7 +1737,7 @@
   "best_event_format": "Retail-store community night or fair booth",
   "ohio_presence": "VERIFIED stores in West Chester and Niles (about.basspro.com newsroom, 2023-24); 7 Ohio locations as of Niles release",
   "unverified_notes": "No values quote verified; no dated post-2024-10-22 quote found.",
-  "rank": 53
+  "rank": 58
  },
  {
   "brand": "Pelican",
@@ -1617,7 +1767,7 @@
   "best_event_format": "Fire station / SAR screening with gear display",
   "ohio_presence": "UNVERIFIED",
   "unverified_notes": "pelican.com Cloudflare-blocked; no values quote verified; best fit but evidence thin and 2024 award predates cutoff for activation timing.",
-  "rank": 54
+  "rank": 59
  },
  {
   "brand": "Leatherman",
@@ -1647,7 +1797,7 @@
   "best_event_format": "Trade school / job-site tool demo",
   "ohio_presence": "UNVERIFIED",
   "unverified_notes": "Only quote on our-story page is undated and not about workers (opened 2026-10-22, not counted). No post-2024-10-22 worker/safety quote verified.",
-  "rank": 55
+  "rank": 60
  },
  {
   "brand": "Case IH",
@@ -1677,7 +1827,7 @@
   "best_event_format": "County/state fair booth",
   "ohio_presence": "Dealers incl. Redline Equipment, Portage OH (INFERRED)",
   "unverified_notes": "Thin fit; fewer than 10 tool calls used.",
-  "rank": 56
+  "rank": 61
  },
  {
   "brand": "Menards",
@@ -1707,7 +1857,7 @@
   "best_event_format": "Store-adjacent trade/contractor night or Ohio store lot event; low confidence",
   "ohio_presence": "Many Ohio stores (INFERRED); Toledo Speedway ARCA race.",
   "unverified_notes": "Menards.com and wire pages blocked; values quote not obtained after multiple searches. Fewer than 10 calls; treat as low-confidence.",
-  "rank": 57
+  "rank": 62
  },
  {
   "brand": "Columbia Sportswear",
@@ -1737,6 +1887,6 @@
   "best_event_format": "Trade school gear/durability demo",
   "ohio_presence": "UNVERIFIED",
   "unverified_notes": "columbia.com Cloudflare-blocked; Retail Dive wording is journalist's, not Columbia's; no brand quote verified.",
-  "rank": 58
+  "rank": 63
  }
 ]

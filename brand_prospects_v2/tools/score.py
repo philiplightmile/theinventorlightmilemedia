@@ -7,7 +7,7 @@ def key(b): return re.sub(r"\s*\(.*","",b).strip()
 def s(x): return json.dumps(x) if not isinstance(x,str) else x
 rows=[];missing=[]
 # manual overrides, each with reason (activation points, fit label)
-OVR={"Nationwide":("activation",24,"Columbus Crew/Blue Jackets sponsorships are commercial; grain-rescue tube donations excluded as charitable")}
+OVR={"AEP Ohio":("activation",12,"best activation is AEP Ohio Foundation presenting an event: foundation funding, not counted as commercial; downgraded to unverified-nonlive level"),"Nationwide":("activation",24,"Columbus Crew/Blue Jackets sponsorships are commercial; grain-rescue tube donations excluded as charitable")}
 for b,o1 in p1.items():
     if not o1.get("passes_screen"): continue
     k=key(b);d=deep.get(k)
@@ -18,7 +18,9 @@ for b,o1 in p1.items():
     note=f"live={live},verified={ver}"
     if k in OVR: act=OVR[k][1];note+=f"; override: {OVR[k][2]}"
     fit=s(d.get("worker_safety_fit","")).lower();lvl="high" if fit.startswith("high") else "medium" if fit.startswith("medium") else "low"
-    vv=bool(d.get("values_verified"))
+    VVO={"Red Wing Shoes":"quote is Glossy paraphrasing brand messaging","Ariat":"quote is Academy Sports' VP, not Ariat","Mossy Oak":"quote is NWTF wording"}
+    vv=bool(d.get("values_verified")) and k not in VVO
+    if k in VVO: note+=f"; values not credited: {VVO[k]}"
     val={"high":20,"medium":14,"low":8}[lvl] if vv else {"high":10,"medium":7,"low":4}[lvl]
     vd=s(d.get("values_date","")).lower()
     undated=(not re.search(r"20(2[4-9])",vd)) or "undated" in vd or "no date" in vd
