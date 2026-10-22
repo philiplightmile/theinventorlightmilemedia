@@ -1,0 +1,263 @@
+[
+ {
+  "brand": "Rural King",
+  "values_quote": "as veterans and first responders through partnerships with organizations such as the Gary Sinise Foundation",
+  "values_date": "2026-09-14",
+  "values_url": "https://www.webull.com/news/15576377885934592",
+  "values_verified": true,
+  "worker_safety_fit": "low: farm/home retailer; first-responder support is boilerplate and via a foundation (not counted as spend)",
+  "best_activation": {
+   "what": "Primary sponsor No. 4 Front Row Motorsports NASCAR Cup entry (Bristol, Talladega, North Wilkesboro)",
+   "where": "US",
+   "dates": "2025",
+   "scale": "3 Cup races",
+   "partners_agency": "Front Row Motorsports",
+   "url": "https://www.jayski.com/2025/04/09/rural-king-joins-front-row-motorsports-to-sponsor-noah-gragson-chandler-smith/",
+   "date": "2025-04-09",
+   "label": "INFERRED (carried from pass 1; rawfetch 403, not re-verified)"
+  },
+  "other_activations": [
+   "Joey Chestnut National Popcorn Day in-store series, 2026 (INFERRED, wboc.com, 2026-01-19)",
+   "IHRA Pro Pulling / Fendt High Stakes display at Wooster OH store, West Salem OH Darana Dragway 42 (INFERRED, ihra.com, 2026)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "GREW/steady: $75M Mattoon campus incl. 40,000 sq ft event center, completion 1H 2028 (VERIFIED, news-gazette.com, 2026-10-22); store expansion continues (Georgia, NC, Mississippi releases 2026). Gragson 2026 renewal not found (INFERRED).",
+  "buyer_roles": [
+   "Marketing/sponsorship director",
+   "Community relations / store events",
+   "Regional store operations (Ohio)"
+  ],
+  "named_people_published": [
+   {
+    "name": "Alex Melvin",
+    "title": "Owner and Chairman",
+    "url": "https://www.news-gazette.com/business/agriculture/rural-king-to-invest-75-million-in-new-mattoon-campus/article_c4fe3d5c-c933-457c-9723-4a14f6ca5160.html"
+   }
+  ],
+  "competitors": [
+   "Tractor Supply",
+   "Fleet Farm",
+   "Blain's Farm & Fleet"
+  ],
+  "competitor_sponsorship_conflicts": "None verified for trades/safety events (searched; nothing found).",
+  "risks": [
+   "No recall/litigation/layoff found in searches this pass (UNVERIFIED absence)."
+  ],
+  "best_event_format": "Store-lot or new Ohio store event / county fair booth with talkback; workwear and farm tie-in",
+  "ohio_presence": "VERIFIED: Ohio listed among 17-18 state footprint on about-us (ruralking.com/about-us); Wooster OH store display (INFERRED)",
+  "unverified_notes": "Values quote is first-responder support boilerplate, not worker-safety statement; no direct worker/safety quote verified after 6+ searches. Agency not found."
+ },
+ {
+  "brand": "Ram Trucks",
+  "values_quote": "They're unapologetically tough and unmistakably American -because nothing stops America and nothing stops Ram.",
+  "values_date": "2026-03-31",
+  "values_url": "https://www.carpro.com/blog/2026-ram-1500-america250-special-edition-pickups",
+  "values_verified": true,
+  "worker_safety_fit": "medium: truck/first-responder 'Built to Serve' lineage (2022, older) but current messaging is patriotic, not worker safety",
+  "best_activation": {
+   "what": "Exclusive truck sponsor of America250; trucks move official events; Ram 1500 America250 special editions",
+   "where": "US national",
+   "dates": "announced 2025-06-14; through 2026",
+   "scale": "national; fee undisclosed",
+   "partners_agency": "America250; Stellantis",
+   "url": "https://finviz.com/news/80686/ram-brand-launches-never-stop-being-american-marketing-campaign-new-brand-ethos-nothing-stops-ram",
+   "date": "2025-06-14",
+   "label": "VERIFIED (campaign release opened, dated June 14, 2025; America250 detail INFERRED from search summary)"
+  },
+  "other_activations": [
+   "Official truck, Macy's Thanksgiving Day Parade 2025 (INFERRED)",
+   "'Never Stop Being American' campaign with Goodyear Blimp, Ram monster truck cameo (VERIFIED text, finviz 2025-06-14)",
+   "Built to Serve first-responder editions 2022 (older than 24 mo)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Grew: new brand ethos and America250 in 2025-26 (VERIFIED campaign release).",
+  "buyer_roles": [
+   "Ram brand head of marketing / American Brands",
+   "Stellantis NA sponsorship/experiential",
+   "Regional dealer marketing groups"
+  ],
+  "named_people_published": [
+   {
+    "name": "Tim Kuniskis",
+    "title": "Head of American Brands, SRT Performance, NA marketing and retail strategy",
+    "url": "https://www.carpro.com/blog/2026-ram-1500-america250-special-edition-pickups"
+   },
+   {
+    "name": "Olivier Francois",
+    "title": "Global CMO, Stellantis",
+    "url": "https://finviz.com/news/80686/ram-brand-launches-never-stop-being-american-marketing-campaign-new-brand-ethos-nothing-stops-ram"
+   }
+  ],
+  "competitors": [
+   "Ford (F-Series)",
+   "Chevrolet/GMC",
+   "Toyota"
+  ],
+  "competitor_sponsorship_conflicts": "None verified for trade/first-responder screenings.",
+  "risks": [
+   "Aug 2026 Stellantis rearview-camera software recall, 848,511 US vehicles incl. 2026 Ram 1500/2500, no injuries (VERIFIED 848,511 on fox2detroit.com)"
+  ],
+  "best_event_format": "Fire station or union hall night with dealer-hosted truck display; tie to Built to Serve lineage",
+  "ohio_presence": "INFERRED: Ohio dealer network; Warren, OH Ram plant (not re-verified)",
+  "unverified_notes": "Stellantis newsroom is captcha-blocked; ramtrucks.com/forconstructionpros 403/404. Quote is patriotism/toughness, not worker safety."
+ },
+ {
+  "brand": "Jeep",
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_verified": false,
+  "worker_safety_fit": "low: lifestyle/off-road positioning; no verified worker or safety messaging",
+  "best_activation": {
+   "what": "Camp Jeep off-road experiential at auto shows (Philadelphia Auto Show 2026 return; GPJ claims 28 states, 15 countries, 3M+ rides)",
+   "where": "US auto shows",
+   "dates": "2026-01 (Philadelphia); program since 2003",
+   "scale": "3M+ rides (agency claim)",
+   "partners_agency": "GPJ",
+   "url": "https://ae.gpj.com/case-study/camp-jeep/",
+   "date": "undated page",
+   "label": "VERIFIED page text (gpj.com 'Camp Jeep' found); 2026 Philly return INFERRED from search result"
+  },
+  "other_activations": [
+   "X Games Aspen Jan 23-25 2026 presenting partner + exclusive auto partner (INFERRED; barchart fetch blocked)",
+   "Jeep 4x4 City Camp, Brooklyn Domino Park, Aug 2025 Cherokee launch with LL Cool J influencer campaign (INFERRED; fetch blocked)",
+   "IZEA creator activations (INFERRED, 403)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Grew/active 2025-26: X Games elevated, new Cherokee launch campaign (INFERRED).",
+  "buyer_roles": [
+   "Jeep brand CEO/CMO",
+   "Head of experiential/events",
+   "Regional marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Bob Broderdorf",
+    "title": "Jeep brand CEO (appointed Feb 2025)",
+    "url": "https://www.media.stellantis.com/uk-en/jeep/press/jeep-brand-appoints-bob-broderdorf-to-chief-executive-officer"
+   }
+  ],
+  "competitors": [
+   "Ford Bronco",
+   "Toyota",
+   "Ram"
+  ],
+  "competitor_sponsorship_conflicts": "None found.",
+  "risks": [
+   "Aug 2026 radio-software rearview camera recall covering 2026 Jeep lineup, 848,511 US vehicles (VERIFIED fox2detroit.com)",
+   "Nov 2025 4xe fire-risk recall ~320k (UNVERIFIED, pass 1)"
+  ],
+  "best_event_format": "County/state fair or festival display; weak fit for union hall",
+  "ohio_presence": "Toledo Jeep assembly (general knowledge, UNVERIFIED this pass)",
+  "unverified_notes": "No worker/safety/heritage quote verified after 6+ searches and pages (jeep-wave page, Stellantis releases, Broderdorf searches)."
+ },
+ {
+  "brand": "Nissan",
+  "values_quote": "generations of American workers and their craftsmanship, dedication and innovation",
+  "values_date": "2026-07-01",
+  "values_url": "https://theshopmag.com/news/nissan-250th-anniversary-edition-frontier-pickup/?amp=1",
+  "values_verified": true,
+  "worker_safety_fit": "medium: Frontier tribute to American workers/craftsmanship (Canton MS, 1M Frontiers) but financially strained, no safety program",
+  "best_activation": {
+   "what": "Digital graffiti projection-mapped vehicle activation at college football tailgates",
+   "where": "Dallas and multiple cities",
+   "dates": "2025",
+   "scale": "multi-city",
+   "partners_agency": "Interactive Dallas",
+   "url": "https://markets.financialcontent.com/dailytimesleader/article/getnews-2025-7-21-nissan-drives-fan-engagement-with-interactive-dallas-digital-graffiti-activation",
+   "date": "2025-07-21",
+   "label": "INFERRED (carried from pass 1)"
+  },
+  "other_activations": [
+   "5WPR multicultural AOR incl. experiential events (VERIFIED pass 1, martechedge.com, 2025-05-02)",
+   "Frontier 250th Anniversary Edition, 2,500 units, July 2026 (VERIFIED shopmag)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Pullback: 15% global workforce cut and plant reductions May 2025 (VERIFIED wlbt.com 2025-05-13); Smyrna/Canton buyouts (VERIFIED manufacturingdive.com); marketing budget cut not documented.",
+  "buyer_roles": [
+   "VP Marketing",
+   "Multicultural marketing lead",
+   "Regional/field marketing",
+   "Canton MS and Smyrna TN plant community relations"
+  ],
+  "named_people_published": [
+   {
+    "name": "Ashley Barton",
+    "title": "SVP & Group Director of Multicultural, 5WPR (agency)",
+    "url": "https://martechedge.com/news/5wpr-selected-as-nissan-uss-multicultural-communications-agency-of-record"
+   },
+   {
+    "name": "David Johnson",
+    "title": "Nissan Americas (quoted in Frontier release)",
+    "url": "https://theshopmag.com/news/nissan-250th-anniversary-edition-frontier-pickup/?amp=1"
+   }
+  ],
+  "competitors": [
+   "Toyota",
+   "Honda",
+   "Ford",
+   "Chevrolet"
+  ],
+  "competitor_sponsorship_conflicts": "None verified.",
+  "risks": [
+   "May 2025 record loss and 15% global workforce cut (VERIFIED wlbt.com)",
+   "2025 Smyrna/Canton buyouts and shift cut (VERIFIED manufacturingdive.com)"
+  ],
+  "best_event_format": "Job-site or trade-school night tied to Frontier/workers tribute; tailgate-style pop-up",
+  "ohio_presence": "UNVERIFIED (plants in TN and MS)",
+  "unverified_notes": "David Johnson's exact title not shown in the excerpt. Financial distress limits sponsor budget."
+ },
+ {
+  "brand": "Goodyear",
+  "values_quote": "Since 1983, Goodyear has recognized professional drivers who go beyond their daily responsibilities to protect others and keep our highways safe.",
+  "values_date": "2025-12-03",
+  "values_url": "https://finviz.com/news/244202/goodyear-launches-search-for-2025s-most-heroic-truck-drivers",
+  "values_verified": true,
+  "worker_safety_fit": "high: Highway Hero award honors working drivers who protect others; HQ in Akron, Ohio",
+  "best_activation": {
+   "what": "Blimp 100th anniversary tour; sweepstakes to fly",
+   "where": "100+ cities N. America and Europe; Akron Blimp Day June 2026",
+   "dates": "2025 onward",
+   "scale": "100+ cities",
+   "partners_agency": "Goodyear",
+   "url": "https://abcnews4.com/news/offbeat/goodyear-blimp-celebrating-100-years-with-tour-across-us-flight-giveaway-airspace-aircraft-events-olympics-super-bowl-songs-movies-television-shows-military-world-war-ii-history-anniversary",
+   "date": "2025",
+   "label": "VERIFIED (pass 1 page opened)"
+  },
+  "other_activations": [
+   "Highway Hero award, winner gets cash prize and blimp ride (cash is award, not counted; VERIFIED finviz 2025-12-03)",
+   "Airbnb pop-up blimp hotel, Michigan-Notre Dame game weekend (VERIFIED page opened frontofficesports.com, 2026)",
+   "Blimp at EAA AirVenture Oshkosh July 2026 (INFERRED)",
+   "Akron inaugural Blimp Day June 6, 2026 (INFERRED from search, fetch 429)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Brand marketing active (centennial, 2026 tour) while company cuts: Findlay OH mold plant closing, 85 layoffs, WARN filed 2026-01-30 (VERIFIED spectrumnews1); Fayetteville NC closure talks, 1,700 workers (VERIFIED manufacturingdive); 2025 net loss $1.7B (search summary).",
+  "buyer_roles": [
+   "CMO",
+   "Director of Blimp/brand experiences",
+   "Commercial tire marketing (Highway Hero program)",
+   "Akron community relations"
+  ],
+  "named_people_published": [
+   {
+    "name": "Mark Stewart",
+    "title": "CEO (quoted, pass 1 abcnews4)",
+    "url": "https://abcnews4.com/news/offbeat/goodyear-blimp-celebrating-100-years-with-tour-across-us-flight-giveaway-airspace-aircraft-events-olympics-super-bowl-songs-movies-television-shows-military-world-war-ii-history-anniversary"
+   }
+  ],
+  "competitors": [
+   "Bridgestone",
+   "Michelin",
+   "Cooper (Goodyear-owned)",
+   "Firestone"
+  ],
+  "competitor_sponsorship_conflicts": "None verified at trades/safety events.",
+  "risks": [
+   "Layoffs and plant closures 2026 (Findlay OH, Fayetteville NC; VERIFIED)",
+   "No 2026 recall found"
+  ],
+  "best_event_format": "Job-site or trade-school night near Akron/Wingfoot Lake, with fleet/driver safety angle; Highway Hero tie-in",
+  "ohio_presence": "VERIFIED: Akron HQ; Wingfoot Lake airship base, Suffield Twp (abcnews4/search); Findlay plant closing",
+  "unverified_notes": "Blimp network cost is barter-type per pass 1 (INFERRED). Highway Hero is a recognition program, no spend figure."
+ }
+]
