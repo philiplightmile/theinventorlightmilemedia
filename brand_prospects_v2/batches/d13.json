@@ -1,0 +1,180 @@
+[
+ {
+  "brand": "LEGO",
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_verified": false,
+  "worker_safety_fit": "low: toy brand, no worker/safety messaging verified; only generic builder/STEM tie",
+  "best_activation": {
+   "what": "LEGO x Formula 1 multiyear alliance: 'Build the Thrill' at Grand Prix and traveling 'Off Track' pop-ups; ten drivable life-size LEGO cars (~400k bricks each, crew of 26, ~22,000 hours) at 2025 Miami GP drivers parade",
+   "where": "Miami, Austin, Las Vegas plus non-race cities",
+   "dates": "2025 (multiyear)",
+   "scale": "large; fees undisclosed",
+   "partners_agency": "Formula 1",
+   "url": "https://sponsorpitch.com/blog-posts/lego-brings-f1-to-life-for-the-next-generation-through-off-track-activation-series",
+   "date": "2025-11-06",
+   "label": "VERIFIED (rawfetch 200, 'multiyear' FOUND VERBATIM; secondary sponsorship blog)"
+  },
+  "other_activations": [
+   {
+    "what": "LEGOLAND Discovery Center Columbus (Easton) 1.5M-brick Columbus cityscape unveiled",
+    "date": "2025-06",
+    "label": "INFERRED/UNVERIFIED (search summary only; Merlin-operated attraction, not LEGO Group sponsorship)"
+   },
+   {
+    "what": "LEGO Experience 23-city tour",
+    "label": "UNVERIFIED, undated, likely older"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Growing live experiential in 2025 via F1 (INFERRED from VERIFIED page)",
+  "buyer_roles": [
+   "VP Marketing North America",
+   "Director Experiential/Brand Experience",
+   "Community Engagement Lead",
+   "Partnerships/Sponsorship lead"
+  ],
+  "named_people_published": [],
+  "competitors": [
+   "Mattel",
+   "Hasbro",
+   "MEGA",
+   "Disney",
+   "K'NEX"
+  ],
+  "competitor_sponsorship_conflicts": "Mattel/Hot Wheels motorsport presence (INFERRED); no sourced conflicts with trade/safety events",
+  "risks": [
+   "lego.com blocked (403) so no first-party risk check; no specific LEGO recall/litigation sourced this pass (UNVERIFIED)"
+  ],
+  "best_event_format": "Library/museum or county fair family build station tied to Morgan-as-inventor STEM",
+  "ohio_presence": "LEGOLAND Discovery Center Columbus (Easton), opened 2018 (search summary 2025, UNVERIFIED page); Cleveland BrickUniverse is fan-run, not LEGO Group",
+  "unverified_notes": "lego.com Cloudflare 403 on all tries (newsroom, news/2025); 3 searches for 2025 worker/safety/craftsmanship statement found none. Brand unlikely to fund small third-party film events (INFERRED)."
+ },
+ {
+  "brand": "New Balance",
+  "values_quote": "U.S. manufacturing has always been at the core of our company culture... we can better serve the local communities where our associates live and work, while also enhancing our focus on the craftsmanship and quality integral to our global business.",
+  "values_date": "2025-09-22",
+  "values_url": "https://sgbonline.com/new-balance-opens-expanded-central-maine-factory/",
+  "values_verified": true,
+  "worker_safety_fit": "medium: US factory workforce (Skowhegan 400 associates, $65M expansion) and craftsmanship messaging; footwear not safety",
+  "best_activation": {
+   "what": "TCS NYC Marathon 2025 title-sponsor activations: Run House pop-up, Cheer Zone Mile 24, citywide OOH",
+   "where": "New York City",
+   "dates": "Oct 2025",
+   "scale": "title sponsor, fee undisclosed",
+   "partners_agency": "NYRR",
+   "url": "https://newbalance.newsmarket.com/latest-news/new-balance-celebrates-the-2025-tcs-new-york-city-marathon-with-activations-and-community-experience/s/39a6344a-5571-4e0a-959e-0ffc3944c50b",
+   "date": "2025-10-24",
+   "label": "UNVERIFIED (rawfetch HTTP 202 empty; from search summary)"
+  },
+  "other_activations": [
+   {
+    "what": "Fleet Feet Columbus x New Balance TogetherFest free run, Alum Creek State Park",
+    "date": "June 21, year not stated",
+    "label": "UNVERIFIED (aol page 404 on re-fetch; search summary)"
+   },
+   {
+    "what": "Shakeout Run with Meb presented by New Balance, Columbus area",
+    "date": "2024-11-02",
+    "label": "UNVERIFIED (listing; pre-window)"
+   },
+   {
+    "what": "Australian Open sponsorship/Brand House",
+    "date": "2026-01",
+    "label": "UNVERIFIED"
+   },
+   {
+    "what": "Oxford St London flagship marathon week",
+    "date": "2025-04",
+    "label": "UNVERIFIED"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Growing/sustained: marathon title sponsorship, AO, flagship events 2025-26 (UNVERIFIED summaries); Skowhegan $65M factory expansion Sept 2025 (VERIFIED)",
+  "buyer_roles": [
+   "Community/Grassroots Marketing Manager",
+   "Sponsorship & Events Manager",
+   "Brand/Experiential Marketing Director",
+   "Made in USA / Manufacturing communications",
+   "Local Fleet Feet/retail partner event leads"
+  ],
+  "named_people_published": [
+   {
+    "name": "Joe Preston",
+    "title": "President and CEO",
+    "url": "https://sgbonline.com/new-balance-opens-expanded-central-maine-factory/"
+   }
+  ],
+  "competitors": [
+   "Nike",
+   "Adidas",
+   "Brooks",
+   "Hoka",
+   "Asics",
+   "Saucony",
+   "Wolverine/Timberland PRO (work boots)"
+  ],
+  "competitor_sponsorship_conflicts": "Brooks, adidas, HOKA, ASICS listed as TogetherFest sponsors (UNVERIFIED, aol search summary)",
+  "risks": [
+   "No specific recall/litigation/boycott sourced this pass (UNVERIFIED); tariff/footwear cost pressure generic INFERRED"
+  ],
+  "best_event_format": "Trade school night / job-site night around US-made craftsmanship; or fair booth",
+  "ohio_presence": "Columbus running events with Fleet Feet (UNVERIFIED); no Cleveland event found; factories in MA and ME only",
+  "unverified_notes": "newbalance.com 403; newsmarket 202. Quote verified FOUND VERBATIM on SGB (core phrase; full ellipsized text from page)."
+ },
+ {
+  "brand": "Target",
+  "values_quote": "No matter where you are, no matter who you are, there is a place and a belonging and a role for you to play.",
+  "values_date": "2026-07-08",
+  "values_url": "https://corporate.target.com/news-features/article/2026/07/special-olympics",
+  "values_verified": true,
+  "worker_safety_fit": "low: belonging/community theme; workplace health & safety page 404; no worker/trades messaging verified",
+  "best_activation": {
+   "what": "Platinum Partner, Official Tennis Sponsor and Target Village at 2026 Special Olympics USA Games; fan experiences, employee volunteers",
+   "where": "Twin Cities, MN",
+   "dates": "announced 2025-06-23; Games 2026",
+   "scale": "3,000+ athletes",
+   "partners_agency": "Special Olympics USA Games",
+   "url": "https://corporate.target.com/news-features/article/2026/07/special-olympics",
+   "date": "2026-07-08",
+   "label": "VERIFIED (page rawfetch 200)"
+  },
+  "other_activations": [
+   {
+    "what": "Roundel retail media / ChatGPT ad pilot",
+    "date": "2026-02-11",
+    "label": "VERIFIED per pass1 (WebFetch)"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Mixed: ~1,800 corporate cuts Oct 2025 (VERIFIED kplctv page FOUND '1,800'), more cuts Feb 2026 (pass1), while sponsorship continues",
+  "buyer_roles": [
+   "Experiential Marketing Lead",
+   "Community/Corporate Responsibility",
+   "Local market/store community giving (Twin Cities), store team leads",
+   "Brand marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Michael Fiddelke",
+    "title": "CEO from Feb 1, 2026",
+    "url": "https://www.kplctv.com/2025/10/24/target-is-eliminating-1800-corporate-jobs-it-looks-reclaim-its-lost-luster/"
+   }
+  ],
+  "competitors": [
+   "Walmart",
+   "Amazon",
+   "Costco",
+   "Kohl's",
+   "Lowe's/Home Depot (events)"
+  ],
+  "competitor_sponsorship_conflicts": "none sourced",
+  "risks": [
+   "Oct 2025 ~1,800 corporate layoffs, flat/declining comps, DEI-rollback boycotts (kplctv 2025-10-24, VERIFIED page; boycott claim from search summaries)"
+  ],
+  "best_event_format": "County/state fair booth or library community night via local store",
+  "ohio_presence": "Many Ohio stores (INFERRED); no Ohio event verified",
+  "unverified_notes": "Full values quote FOUND VERBATIM on re-run; but it is a belonging theme, not worker safety. Target safety page 404."
+ }
+]

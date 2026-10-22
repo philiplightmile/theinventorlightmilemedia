@@ -1,0 +1,299 @@
+[
+ {
+  "brand": "Motorola (Motorola Mobility / Lenovo)",
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_verified": false,
+  "worker_safety_fit": "low: consumer smartphones/FIFA sports; rugged Defy was Bullitt-licensed (2021), no worker positioning from Motorola itself. Motorola Solutions (public safety radios) is a different company with strong first-responder fit (10-K FY2025 mentions first responders; INFERRED).",
+  "best_activation": {
+   "what": "Official Smartphone Partner FIFA Club World Cup 2025 incl. fan activation; FIFA partnership through 2027",
+   "where": "US / global",
+   "dates": "2025",
+   "scale": "global sponsorship",
+   "partners_agency": "FIFA",
+   "url": "https://motorolanews.com/mx/motorola-mundial-clubes-fifa-official-smartphone-partner/",
+   "date": "2025",
+   "label": "INFERRED (pass1 search summary; not re-opened)"
+  },
+  "other_activations": [
+   {
+    "what": "'Live the moto way' social campaign",
+    "where": "Benelux",
+    "dates": "2025-04",
+    "scale": "regional",
+    "partners_agency": "Modern Citizens",
+    "url": "https://mobilemarketingmagazine.com/motorola-launches-live-the-moto-way-in-benelux/",
+    "date": "2025-04",
+    "label": "UNVERIFIED (403)"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Growing/stable: FIFA through 2027 (INFERRED).",
+  "buyer_roles": [
+   "Head of Brand/Sports Marketing",
+   "Field/Experiential marketing",
+   "Motorola Solutions: public-safety community/events marketing (different entity)"
+  ],
+  "named_people_published": [],
+  "competitors": [
+   "Samsung",
+   "Apple",
+   "Google Pixel",
+   "Caterpillar/Bullitt rugged phones"
+  ],
+  "competitor_sponsorship_conflicts": "None researched for trades/safety events (UNVERIFIED).",
+  "risks": [
+   "Bullitt (Defy licensee) insolvency 2024 (UNVERIFIED)"
+  ],
+  "best_event_format": "Weak fit; if pursued, target Motorola Solutions for fire-station/first-responder screening",
+  "ohio_presence": "UNVERIFIED (Motorola Solutions has Ohio public-safety customers, not confirmed)",
+  "unverified_notes": "No values quote verified FOUND VERBATIM after >6 candidate pages/searches (many brand sites 403/Cloudflare). Entity ambiguity: Mobility vs Solutions. Fewer than 10 tool calls on this brand."
+ },
+ {
+  "brand": "Rocket Companies (commercial marketing only)",
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_verified": false,
+  "worker_safety_fit": "low: mortgage/fintech; no worker/safety statements found. Only civic/Cleveland tie via Cavs arena.",
+  "best_activation": {
+   "what": "Cavaliers arena naming rights; Rocket Mortgage FieldHouse renamed Rocket Arena 2025-02-18; agreement to 2034; $9.2M paid 2025 per proxy",
+   "where": "Cleveland, OH",
+   "dates": "2017-2034",
+   "scale": "$9.2M FY2025",
+   "partners_agency": "Cleveland Cavaliers / Rock Entertainment Group",
+   "url": "https://www.news5cleveland.com/sports/basketball/cavaliers/rocket-mortgage-fieldhouse-becomes-rocket-arena-in-new-rebranding",
+   "date": "2025-02-18",
+   "label": "VERIFIED rename (news5 page opened, quote 'cornerstone of Cleveland' FOUND VERBATIM, but that is Rock Entertainment CEO Nic Barlage, not Rocket); $9.2M INFERRED from SEC proxy summary"
+  },
+  "other_activations": [
+   {
+    "what": "Redfin (Rocket subsidiary) x Cavaliers 'largest-ever listing' Rocket Arena promo",
+    "where": "Cleveland, OH",
+    "dates": "2026-03-31",
+    "scale": "single campaign",
+    "partners_agency": "Cleveland Cavaliers",
+    "url": "https://www.redfin.com/news/press-releases/redfin-and-cleveland-cavaliers-debut-redfins-largest-ever/",
+    "date": "2026-03-31",
+    "label": "VERIFIED page opened; Redfin ownership by Rocket INFERRED"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Grew: brand consolidation to 'Rocket', arena rename 2025, new Redfin tie 2026 (VERIFIED/INFERRED).",
+  "buyer_roles": [
+   "CMO",
+   "VP Sponsorships/Partnerships",
+   "Rock Entertainment Group partnerships (Cavs)"
+  ],
+  "named_people_published": [
+   {
+    "name": "Nic Barlage",
+    "title": "CEO, Rock Entertainment Group (not Rocket)",
+    "url": "https://www.news5cleveland.com/sports/basketball/cavaliers/rocket-mortgage-fieldhouse-becomes-rocket-arena-in-new-rebranding"
+   }
+  ],
+  "competitors": [
+   "Huntington (Browns stadium naming)",
+   "UWM",
+   "Guaranteed Rate"
+  ],
+  "competitor_sponsorship_conflicts": "Huntington holds Browns stadium naming 20 yrs (search result); no conflict specific to trades screenings.",
+  "risks": [
+   "Not researched beyond sponsorship; UNVERIFIED"
+  ],
+  "best_event_format": "Cleveland community screening at/around Rocket Arena via Cavs community team; weak thematic fit",
+  "ohio_presence": "Strong: Cleveland arena naming rights (VERIFIED)",
+  "unverified_notes": "No values quote verified FOUND VERBATIM after >6 candidate pages/searches (many brand sites 403/Cloudflare). Fewer than 10 tool calls."
+ },
+ {
+  "brand": "Giant Eagle (commercial only)",
+  "values_quote": "when we set our ambitious goal in 2021, we knew that the spirit and dedication of our team members, customers and partners would generate the momentum needed to make a meaningful impact",
+  "values_date": "FY2025 (page undated; mentions FY25 results and spring 2025 campaign; approx late 2025)",
+  "values_url": "https://www.fmi.org/get-involved/community-uplift/nominees/view/101-million-meals",
+  "values_verified": true,
+  "worker_safety_fit": "medium-low: team-member dedication quote only (about food giving, not safety); Giant Eagle has first-responder goodwill history (2020 early hours) but no 2025 safety statement.",
+  "best_activation": {
+   "what": "'Giant Buggy' motorized cart city tour for Cavs playoff push vs Knicks, Fan Fest at Gateway Plaza",
+   "where": "Cleveland, OH",
+   "dates": "Friday before Saturday Cavs-Knicks playoff game (year not shown on page text; likely 2026 INFERRED)",
+   "scale": "multi-stop city tour",
+   "partners_agency": "Cleveland Cavaliers",
+   "url": "https://www.news5cleveland.com/news/local-news/cleveland-metro/giant-motorized-shopping-cart-rolls-through-cleveland-to-hype-cavs-playoff-run",
+   "date": "2026 (INFERRED)",
+   "label": "VERIFIED page opened, 'Giant Buggy' FOUND VERBATIM; date INFERRED"
+  },
+  "other_activations": [
+   {
+    "what": "Pittsburgh teams/Browns tie-ins per Supermarket News (undated)",
+    "where": "Pittsburgh/Cleveland",
+    "dates": "undated",
+    "scale": "",
+    "partners_agency": "",
+    "url": "https://www.supermarketnews.com/grocery-operations/giant-eagle-goes-all-out-for-cleveland-browns",
+    "date": "undated",
+    "label": "VERIFIED page exists; undated, may be old"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Local sports/community activation continuing 2025-26 (INFERRED); spend not quantified.",
+  "buyer_roles": [
+   "Marketing/Sponsorship lead",
+   "Community giving & partnerships (senior director)",
+   "GetGo brand marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Dan Magrish",
+    "title": "Senior Director of Community Giving, Partnerships and Sustainability",
+    "url": "https://www.fmi.org/get-involved/community-uplift/nominees/view/101-million-meals"
+   }
+  ],
+  "competitors": [
+   "Heinen's",
+   "Kroger",
+   "Aldi",
+   "Walmart"
+  ],
+  "competitor_sponsorship_conflicts": "Not determined (UNVERIFIED).",
+  "risks": [
+   "Not researched in depth; UNVERIFIED"
+  ],
+  "best_event_format": "Library/museum or community festival screening in Cleveland/Pittsburgh with store/GetGo tie-in",
+  "ohio_presence": "Strong NE Ohio grocery and GetGo presence (VERIFIED by coverage)",
+  "unverified_notes": "Values quote is community-giving, not safety. Dated only to FY25. Fewer than 10 tool calls."
+ },
+ {
+  "brand": "Scotts Miracle-Gro",
+  "values_quote": "First and foremost, we are committed to the safety of our associates",
+  "values_date": "2021-05-19 (older than 24 months)",
+  "values_url": "https://markets.financialcontent.com/dowtheoryletters/article/3blmedia-2021-5-19-scottsmiracle-gro-2021-corporate-responsibility-report-operations-and-supply-chain",
+  "values_verified": false,
+  "worker_safety_fit": "medium: manufacturing safety culture (Fort Madison 365-day safety milestone per Stock Titan, 403 to rawfetch) and Marysville OH plants; consumer lawn/garden theme otherwise.",
+  "best_activation": {
+   "what": "Miracle-Gro x Martha Stewart / iHeartPodcasts live taping with branded signage",
+   "where": "New York Botanical Garden",
+   "dates": "late May 2025",
+   "scale": "single event",
+   "partners_agency": "Martha Stewart, iHeartPodcasts",
+   "url": "https://bizbash.com/production-strategy/experiential-marketing-activations-sponsorships/media-gallery/22943783/cool-event-ideas-from-june-2025",
+   "date": "2025-06",
+   "label": "VERIFIED in pass1 (page opened)"
+  },
+  "other_activations": [
+   {
+    "what": "'Gro Like Martha' CTV/audio/social campaign",
+    "where": "national",
+    "dates": "Apr (year unconfirmed)",
+    "scale": "undisclosed",
+    "partners_agency": "The Martin Agency",
+    "url": "https://www.marketingdive.com/news/miracle-gro-martha-stewart-gardening-campaign/712584/",
+    "date": "undated",
+    "label": "UNVERIFIED"
+   },
+   {
+    "what": "Advertising expense $152.3M FY2025 vs $141.0M",
+    "where": "corporate",
+    "dates": "FY2025",
+    "scale": "$152.3M",
+    "partners_agency": "",
+    "url": "https://www.sec.gov/Archives/edgar/data/825542/000082554225000022/smg-20250930.htm",
+    "date": "2025-09-30",
+    "label": "UNVERIFIED (SEC 403; search summary)"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Grew: ad spend up to $152.3M FY2025 (UNVERIFIED).",
+  "buyer_roles": [
+   "CMO",
+   "VP Marketing U.S. Consumer",
+   "Brand Director Miracle-Gro",
+   "Community/Corporate Responsibility lead"
+  ],
+  "named_people_published": [],
+  "competitors": [
+   "Spectrum Brands",
+   "Central Garden & Pet",
+   "Bonide",
+   "Home Depot/Lowe's private labels"
+  ],
+  "competitor_sponsorship_conflicts": "Not determined (UNVERIFIED).",
+  "risks": [
+   "Hawthorne hydroponics retrenchment and past layoffs (not re-sourced this pass; UNVERIFIED)",
+   "Historical pesticide/bird-seed EPA settlement 2012 (older)"
+  ],
+  "best_event_format": "County/state fair booth or library/community garden event; Marysville OH plant-community night",
+  "ohio_presence": "HQ and plants in Marysville/Columbus area, Ohio (VERIFIED via search results showing Marysville expansion; undated)",
+  "unverified_notes": "Values quote is 2021, outside 24-month window; no newer quote verified. Fewer than 10 tool calls."
+ },
+ {
+  "brand": "Speedway / Marathon Petroleum",
+  "values_quote": null,
+  "values_date": null,
+  "values_url": "https://www.marathonpetroleum.com/Newsroom/Company-News/National-First-Responders-Day-Investing-in-public-safety/",
+  "values_verified": false,
+  "worker_safety_fit": "medium: first-responder grant programs (Canton OH fire dept $25K; MPC $730K to 100+ agencies, per search snippet, date unconfirmed) but those are grants (not counted as budget); Speedway sold to 7-Eleven 2021 (INFERRED).",
+  "best_activation": {
+   "what": "Marathon Fuel multi-year sponsorship of Detroit Lions 2025-2026 seasons; LSU, Buffalo Sabres renewals",
+   "where": "Detroit/LSU/Buffalo",
+   "dates": "2025-2026",
+   "scale": "undisclosed",
+   "partners_agency": "Detroit Lions",
+   "url": "https://www.marathonpetroleum.com/Newsroom/Company-News/Marathon-Fuel-adds-Detroit-Lions-to-sports-sponsorship-lineup/",
+   "date": "2025",
+   "label": "UNVERIFIED (403 Cloudflare; search snippet)"
+  },
+  "other_activations": [
+   {
+    "what": "Speedway official fuel/c-store of IndyCar/IMS (from 2019)",
+    "where": "Indianapolis",
+    "dates": "from 2019",
+    "scale": "undisclosed",
+    "partners_agency": "IndyCar/IMS",
+    "url": "https://cspdailynews.com/fuels/speedway-named-official-fuel-c-store-indycar",
+    "date": "2018-11-27",
+    "label": "VERIFIED 2018; current status UNVERIFIED"
+   },
+   {
+    "what": "Bassmaster title sponsor extension",
+    "where": "national",
+    "dates": "undated",
+    "scale": "",
+    "partners_agency": "B.A.S.S.",
+    "url": "https://www.marathonpetroleum.com",
+    "date": "undated",
+    "label": "UNVERIFIED"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Stable/increasing sports sponsorships (Lions added 2025; INFERRED).",
+  "buyer_roles": [
+   "Marathon Fuel marketing/sponsorship lead",
+   "Speedway brand marketing",
+   "Community relations / refinery public affairs (Canton, Findlay)"
+  ],
+  "named_people_published": [
+   {
+    "name": "Rick Morabito",
+    "title": "Assistant Chief, Canton Fire Department (recipient, not buyer)",
+    "url": "https://www.marathonpetroleum.com/Newsroom/Company-News/National-First-Responders-Day-Investing-in-public-safety/"
+   }
+  ],
+  "competitors": [
+   "Sunoco (NASCAR official fuel)",
+   "Pilot/Flying J",
+   "Wawa",
+   "Casey's",
+   "Shell",
+   "BP/GetGo (Giant Eagle)"
+  ],
+  "competitor_sponsorship_conflicts": "Sunoco-NASCAR (pass1); no direct trades-event conflicts found.",
+  "risks": [
+   "Refinery incident/environmental litigation history (unsourced)",
+   "Speedway sold to 7-Eleven 2021 (INFERRED)"
+  ],
+  "best_event_format": "Fire-station / first-responder night in Canton or Findlay, OH, via refinery community relations",
+  "ohio_presence": "HQ Findlay OH; Canton refinery and Lima terminal grants to local fire/police (search snippets, 2024-25; page 403 to rawfetch)",
+  "unverified_notes": "No values quote verified FOUND VERBATIM after >6 candidate pages/searches (many brand sites 403/Cloudflare). Fewer than 10 tool calls."
+ }
+]
