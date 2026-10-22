@@ -1,0 +1,298 @@
+[
+ {
+  "brand": "Klein Tools",
+  "values_quote": "for nearly 170 years, Klein Tools has served those who work with their hands - from electricians and fabricators to technicians and builders",
+  "values_date": "2025-10-10",
+  "values_url": "https://www.semashow.com/node/985457",
+  "values_verified": true,
+  "worker_safety_fit": "high: tradesperson-centric brand voice (electricians, builders); durability messaging",
+  "best_activation": {
+   "what": "First SEMA Show appearance, North Hall booth 12964, with ModBox/KNECT demos and influencer Faye Hadley autograph signings",
+   "where": "Las Vegas",
+   "dates": "Nov 2025 (release Oct 10, 2025)",
+   "scale": "trade show booth; spend undisclosed",
+   "partners_agency": "none named",
+   "url": "https://www.semashow.com/node/985457",
+   "date": "2025-10-10",
+   "label": "VERIFIED (rawfetch: quote FOUND VERBATIM, page opened)"
+  },
+  "other_activations": [
+   "Final 2025 distributor Counter Blitz promotion Oct 13-Dec 31, 2025 (kleintools.com/content/2025-counter-blitz-promotion) - INFERRED from search snippet, page not opened",
+   "Trade Hounds app marketing partnership, 250,000+ trades members, undated (phcppros.com/articles/14923) - UNVERIFIED",
+   "YouTube creator sponsorships (7 channels per sponsorradar.com/brands/klein-tools) - UNVERIFIED third-party",
+   "IBEW-NECA/HBI training pledges exist but are philanthropic; excluded from budget evidence"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Growing: first-ever SEMA 2025 entry into automotive audience (VERIFIED 2025-10-10). No pullback found.",
+  "buyer_roles": [
+   "VP Sales",
+   "Brand/Marketing Manager",
+   "Trade/Channel Marketing (distributor promos)",
+   "Events/Trade Show Coordinator"
+  ],
+  "named_people_published": [
+   {
+    "name": "Todd Tatara",
+    "title": "Vice President of Sales",
+    "url": "https://www.semashow.com/node/985457",
+    "label": "VERIFIED page opened 2025-10-10"
+   }
+  ],
+  "competitors": [
+   "Milwaukee Tool",
+   "Fluke",
+   "Knipex",
+   "Ideal Industries",
+   "Southwire"
+  ],
+  "competitor_sponsorship_conflicts": "None verified against similar community events; Milwaukee/Ideal not checked. UNVERIFIED.",
+  "risks": "No recall, litigation, breach or layoff found in searches (2025-26). UNVERIFIED absence; searches did not return Klein-specific items.",
+  "best_event_format": "Electrician apprentice night at IBEW/NECA training center or trade school with tool demo and screening",
+  "ohio_presence": "Not verified (Klein HQ Lincolnshire IL per phcppros listing; sold through distributors nationwide).",
+  "unverified_notes": "Marketing spend is trade-show/promo scale; no agency identified. Wording 'served those who work with their hands' confirmed verbatim."
+ },
+ {
+  "brand": "Makita",
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_verified": false,
+  "worker_safety_fit": "medium: strong jobsite/trades audience, but no verified safety/worker statement",
+  "best_activation": {
+   "what": "World of Concrete 2025 booth: tons of concrete, 16 demo stations, Makita-edition Can-Am; hands-on demos for trades",
+   "where": "Las Vegas",
+   "dates": "Jan 2025 (release Jan 28, 2025)",
+   "scale": "large interactive booth; spend undisclosed",
+   "partners_agency": "none named",
+   "url": "https://www.nbmcw.com/news/makita-showcases-groundbreaking-cordless-innovations-at-woc-2025.html",
+   "date": "2025-01",
+   "label": "VERIFIED (nbmcw page opened HTTP 200 via rawfetch; makitatools.com original blocked HTTP 000)"
+  },
+  "other_activations": [
+   "Title sponsor Warnert Racing in AMSOIL Championship Snocross, announced Dec 2024 (compactequip.com) - UNVERIFIED, page 403",
+   "Driving Innovation Tour vehicle fleet with product specialists, launched June 2018 (wconline.com page found 'Driving Innovation Tour' FOUND VERBATIM); no 2025-26 schedule found - STALE/UNVERIFIED currency",
+   "Kicker Audio marketing partner for tour vehicles (2018)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Steady: WOC 2025 interactive presence; snocross title sponsorship extended per Dec 2024 report (unverified). No pullback evidence.",
+  "buyer_roles": [
+   "Senior Communications Manager",
+   "Brand Marketing director",
+   "Field/Experiential Marketing Manager",
+   "Sponsorship/Motorsports Marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Wayne Hart",
+    "title": "Senior Communications Manager, Makita U.S.A.",
+    "url": "https://www.nbmcw.com/news/makita-showcases-groundbreaking-cordless-innovations-at-woc-2025.html",
+    "label": "VERIFIED page opened; Jan 2025"
+   }
+  ],
+  "competitors": [
+   "DeWalt",
+   "Milwaukee",
+   "Bosch",
+   "Hilti",
+   "Ryobi/Ridgid (TTI)",
+   "Ingersoll Rand (NASCAR power tools per prior pass, unverified)"
+  ],
+  "competitor_sponsorship_conflicts": "DeWalt/McLaren F1 and Bosch pro-sports deals are brand-level, not community trade events. No direct conflict verified.",
+  "risks": "No Makita-specific recall/litigation/layoff found in 2025-26 search. UNVERIFIED absence.",
+  "best_event_format": "Tour-style trailer/vehicle at trade school night or job-site safety stand-down with adjacent screening; dealer-hosted evening",
+  "ohio_presence": "Not verified; no Ohio event found in searches.",
+  "unverified_notes": "No values quote verified in 6+ attempts: makitausa/makitatools blocked (522/000), Wayne Hart WOC quote ('opportunity for contractors to experience Makita innovation') is not about workers/safety."
+ },
+ {
+  "brand": "Bosch Power Tools",
+  "values_quote": "our new 'champ' spot highlights not only the essential contributions of jobsite workers to the U.S. economy, but how Bosch supports their craft and makes their everyday work easier.",
+  "values_date": "2026-02-10",
+  "values_url": "https://www.bosch-presse.de/pressportal/us/en/press-release-29952.html",
+  "values_verified": true,
+  "worker_safety_fit": "high: explicitly celebrates jobsite workers and craft; safety positioning on boschtools.com/us/en/about/safety (undated)",
+  "best_activation": {
+   "what": "Super Bowl LX ad (Feb 2026) with Guy Fieri plus follow-on 'Champ' jobsite-worker spot airing through 2026 (linear, digital, SiriusXM, Pandora)",
+   "where": "US national",
+   "dates": "Feb 2026-2026",
+   "scale": "national TV; media spend not disclosed",
+   "partners_agency": "Droga5 (creative agency, VERIFIED on page)",
+   "url": "https://www.bosch-presse.de/pressportal/us/en/press-release-29952.html",
+   "date": "2026-02-10",
+   "label": "VERIFIED (rawfetch FOUND VERBATIM; Droga5 text read on page)"
+  },
+  "other_activations": [
+   "Chicago Cubs Official Power Tools partner, announced March 2024; signage, video board, Wrigley marquee (per search result) - UNVERIFIED page not opened",
+   "Carolina Panthers / San Antonio Spurs official power tool partner; Panthers 'Keep Pounding Day' build with donated tools (panthers.com/news/bosch-power-tools-supports-local-community-by-partnering-with-carolina-panthers) - UNVERIFIED snippet, 2024",
+   "FC Dallas official power tool sponsor 2023",
+   "Bosch Pro Tour showtruck: Europe only (bosch-presse.de) - not US",
+   "Ram Truck partnership historically (WOC 2013) - stale"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Growing: Super Bowl 2025 and 2026, new multi-year Droga5 campaign, 60 new products planned 2026, NA sales $18.8B 2025 up from $17.3B (VERIFIED bosch-presse press-release-31168, 2026-06-11).",
+  "buyer_roles": [
+   "Director Marketing, Bosch Power Tools North America",
+   "Sponsorship/Partnership Manager",
+   "Field Marketing / Trade Marketing Manager",
+   "Corporate Communications"
+  ],
+  "named_people_published": [
+   {
+    "name": "John Paul Marcantonio",
+    "title": "President and CEO, Bosch Power Tools North America",
+    "url": "https://www.bosch-presse.de/pressportal/us/en/press-release-29952.html",
+    "label": "VERIFIED 2026-02-10"
+   },
+   {
+    "name": "Jordan Keller",
+    "title": "Power Tools Manager, Media Touchpoint (press contact)",
+    "url": "https://www.bosch-presse.de/pressportal/us/en/press-release-29952.html",
+    "label": "VERIFIED 2026-02-10"
+   },
+   {
+    "name": "Philipp Gosau",
+    "title": "Director of Product Management, Bosch Power Tools NA",
+    "url": "https://www.bosch-presse.de/pressportal/us/en/press-release-27648.html",
+    "label": "VERIFIED 2025-06-06"
+   }
+  ],
+  "competitors": [
+   "DeWalt",
+   "Milwaukee",
+   "Makita",
+   "Hilti",
+   "Ryobi"
+  ],
+  "competitor_sponsorship_conflicts": "Bosch itself holds team 'official power tool' deals (Cubs, Panthers, Spurs, FC Dallas), so category exclusivity at pro-sports level, not at trade events. UNVERIFIED for community events.",
+  "risks": "No Bosch Power Tools recall/litigation found in 2025-26 searches. UNVERIFIED absence.",
+  "best_event_format": "Job-site safety night or trade school screening riding on Bosch 'celebrate jobsite workers' messaging",
+  "ohio_presence": "Not verified for Bosch Power Tools; Cleveland Cubs-style market ties none found.",
+  "unverified_notes": "Mt. Prospect IL base. Spend on Super Bowl is unsourced. Quote verified on bosch-presse.de dated 10.02.2026."
+ },
+ {
+  "brand": "Hilti",
+  "values_quote": "we want to build a company where every team member is valued / helping our customers to build faster, safer and with more daring",
+  "values_date": "undated page (2025 release also says 'to advance productivity, safety, and sustainability' - not verbatim-matched)",
+  "values_url": "https://www.hilti.com.hk/content/hilti/A1/HK/en/company/corporate-information/strategy/core-purpose-and-values.html",
+  "values_verified": false,
+  "worker_safety_fit": "high: positions on jobsite health and safety, construction pros ('Pros Know' campaign)",
+  "best_activation": {
+   "what": "'Pros Know' brand campaign honoring construction workers, across social, radio, search, display",
+   "where": "US/North America",
+   "dates": "Debuted Oct 17, 2024",
+   "scale": "multi-channel; spend undisclosed",
+   "partners_agency": "none named",
+   "url": "https://www.phcppros.com/articles/20318-hilti-unveils-new-brand-campaign-highlighting-work-of-construction-pros",
+   "date": "2024-10-17",
+   "label": "VERIFIED (page opened; 5 days before 24-month window, so borderline)"
+  },
+  "other_activations": [
+   "Official Tool Partner Dallas Cowboys, announced 2022-01-05 (roofingcontractor.com) - older than 24 mo, renewal unconfirmed",
+   "Heavy-duty Nuron cordless launch Oct 21, 2025 (product, not event)",
+   "Six Pro Tool Innovation awards Sept 8, 2025 (PR)",
+   "Hilti 'Pros know: safety & leadership' content hub on hilti.com nav (INFERRED)"
+  ],
+  "live_activation_last24mo": false,
+  "marketing_trend": "Brand investment ongoing (Pros Know campaign Oct 2024; 2025 product launches). No pullback evidence.",
+  "buyer_roles": [
+   "Head of Marketing, Hilti North America",
+   "Brand/Content Marketing Manager",
+   "Field Marketing / Event Manager",
+   "Corporate Communications (Plano TX)"
+  ],
+  "named_people_published": [
+   {
+    "name": "Mike McGowan",
+    "title": "Region Head and CEO, Hilti North America",
+    "url": "https://www.hilti.com/content/hilti/W1/US/en/company/news/press-releases/2025-Pro-Tool-innovation.html",
+    "label": "VERIFIED text read 2025-09-08"
+   },
+   {
+    "name": "Thomas Hillbrand",
+    "title": "quoted in Oct 2025 Nuron release (title not confirmed)",
+    "url": "https://www.theautochannel.com/news/2025/10/21/1594021-hilti-s-all-new-lineup-over-60-heavy-duty-cordless.html",
+    "label": "UNVERIFIED, from search snippet"
+   }
+  ],
+  "competitors": [
+   "DeWalt",
+   "Milwaukee",
+   "Bosch",
+   "Makita",
+   "Fischer"
+  ],
+  "competitor_sponsorship_conflicts": "Pro-sports tool partner deals exist (Hilti-Cowboys; Bosch-Cubs); no community trade-event conflict verified.",
+  "risks": "No Hilti-specific recall/litigation/layoff found in 2025-26 searches. UNVERIFIED absence.",
+  "best_event_format": "Trade school or union hall safety night tied to Hilti health-and-safety/Pros Know messaging",
+  "ohio_presence": "Not verified; search found no Hilti Ohio event.",
+  "unverified_notes": "Values: 'build faster, safer and with more daring' FOUND VERBATIM earlier but page undated; Sept 2025 Hilti McGowan quote 'every tool, technology, service...' returned NOT FOUND on rawfetch (punctuation); 'Hilti is united by a single mission' also NOT FOUND. Therefore not marked verified."
+ },
+ {
+  "brand": "Stihl",
+  "values_quote": "there must be a way to make working in the forest easier.",
+  "values_date": "undated about page (fetched 2026-10-22)",
+  "values_url": "https://www.stihlusa.com/about-stihl/",
+  "values_verified": false,
+  "worker_safety_fit": "high: professional tool users (loggers, arborists, landscapers), chainsaw safety programming, Timbersports spectacle",
+  "best_activation": {
+   "what": "STIHL TIMBERSPORTS 2026 season opener (North American Trophy, Women's Cup, Hot Saw Showdown); U.S. Championships at German Fest Milwaukee July 2026",
+   "where": "Jackalope Virginia Beach VA; Milwaukee WI",
+   "dates": "May 29-31, 2026; July 2026",
+   "scale": "thousands of fans; owned property series",
+   "partners_agency": "Jackalope Festival; German Fest",
+   "url": "https://www.stihlusa.com/en/support-events/about-stihl/press/2026-stihl-timbersports-opens-at-jackalope-va-beach",
+   "date": "2026-06-01",
+   "label": "VERIFIED (rawfetch FOUND VERBATIM 'Jackalope', quote by Adam Wolff, USA team manager)"
+  },
+  "other_activations": [
+   "Equip Expo 2025 booth Louisville KY, Oct 22-24, 2025 (INFERRED from prior pass listing)",
+   "Team Rubicon partnership Aug 2025 (INFERRED; disaster relief, may be philanthropic)",
+   "Made for America / STIHL community programs listed on stihlusa nav (INFERRED)",
+   "STIHL Chainsaw Safety Week (Australia, not US)"
+  ],
+  "live_activation_last24mo": true,
+  "marketing_trend": "Active: TIMBERSPORTS expanded with women's events 2026 (VERIFIED), AllPro battery launch; but business softening: Virginia Beach furlough ~30% (wtkr.com, date unconfirmed), 500 global job cuts Apr 2025, ~100 Waiblingen cuts Aug 2025 (search report), CEO aims to hold 2026 sales at 2025 level.",
+  "buyer_roles": [
+   "Event/Sponsorship Manager (TIMBERSPORTS)",
+   "Marketing Director",
+   "Community/Government Relations",
+   "Dealer marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Sean McGinnis",
+    "title": "President, STIHL Inc.",
+    "url": "https://virginiabusiness.com/stihl-mcginnis-caterpillar-vet-new-president/",
+    "label": "VERIFIED per search result dated Oct 1, 2026; page body not read"
+   },
+   {
+    "name": "Adam Wolff",
+    "title": "USA Team Manager, STIHL TIMBERSPORTS",
+    "url": "https://www.stihlusa.com/en/support-events/about-stihl/press/2026-stihl-timbersports-opens-at-jackalope-va-beach",
+    "label": "VERIFIED 2026-06-01"
+   },
+   {
+    "name": "Stephanie Friess",
+    "title": "Executive Vice President (furlough release)",
+    "url": "https://www.wtkr.com/news/stihl-inc-temporary-furloughs-roughly-30-of-vb-workforce",
+    "label": "VERIFIED page, undated"
+   },
+   {
+    "name": "Chris Keffer",
+    "title": "former President/CEO, departed",
+    "url": "https://www.rurallifestyledealer.com/articles/12082-stihl-inc-announced-departure-of-ceo-and-president-chris-keffer",
+    "label": "search snippet, date unconfirmed"
+   }
+  ],
+  "competitors": [
+   "Husqvarna",
+   "Echo",
+   "Makita (outdoor)",
+   "Milwaukee/Ryobi outdoor"
+  ],
+  "competitor_sponsorship_conflicts": "Stihl owns Timbersports; no rival event conflict verified. UNVERIFIED.",
+  "risks": "Recall Mar 12, 2026: gas edgers/trimmers/pole pruners/kombimotors fuel tank vent fire hazard (ammonslaw.com page read). Earlier CPSC recall of ~2.3M units toolless fuel caps (fireengineering.com, date unconfirmed). Virginia Beach furlough ~30% (wtkr, date unconfirmed). Leadership churn: Keffer out, McGinnis named Oct 2026.",
+  "best_event_format": "County/state fair booth or trade/forestry school night paired with Timbersports-style demo",
+  "ohio_presence": "Not verified; no 2026 TIMBERSPORTS Ohio event found.",
+  "unverified_notes": "Dated values quote not verified: about-page quote FOUND VERBATIM but undated; dated Wolff quote is about competition not workers. 'committed to improving the work of those who rely on our tools' noted in pass 1."
+ }
+]
