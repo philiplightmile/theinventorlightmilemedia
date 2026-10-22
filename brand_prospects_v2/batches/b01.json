@@ -1,0 +1,300 @@
+[
+ {
+  "brand": "Carhartt (benchmark)",
+  "activations": [
+   {
+    "what": "'Made Possible' NFL/Buffalo Bills Highmark Stadium campaign: 30s spot, 2-min Thurman Thomas spot, in-stadium ads, rally towels naming construction crew",
+    "where": "Buffalo NY / national",
+    "dates": "Filmed over 2 yrs; stadium celebration 2026-08-15; season starts 2026-09-09",
+    "scale": "Media spend undisclosed; 'Join the Trades' traffic 5x YoY",
+    "partners_or_agency": "Not named in article",
+    "url": "https://www.modernretail.co/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/",
+    "date": "2026-08-27",
+    "label": "VERIFIED",
+    "type": "content"
+   },
+   {
+    "what": "Earlier Thurman Thomas spot",
+    "where": "national",
+    "dates": "fall 2025",
+    "scale": "n/a",
+    "partners_or_agency": "n/a",
+    "url": "https://www.modernretail.co/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/",
+    "date": "2026-08-27",
+    "label": "VERIFIED (mentioned)",
+    "type": "content"
+   },
+   {
+    "what": "Official sponsor CMA Music Festival and ESPN The Party",
+    "where": "Nashville / Super Bowl host city",
+    "dates": "2014",
+    "scale": "n/a",
+    "partners_or_agency": "n/a",
+    "url": "https://sponsorpitch.com/deals/carhartt-sponsors-cma-music-festival",
+    "date": "2014",
+    "label": "UNVERIFIED (search snippet only; older than 24mo)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "site-worthy",
+  "values_date": "2026-08-27",
+  "values_url": "https://www.modernretail.co/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/",
+  "values_label": "VERIFIED (short phrase; Norma Delaney describing products)",
+  "rawfetch_result": "FOUND VERBATIM (HTTP 200) for 'site-worthy'; 'Join the Trades' also found. Weak values quote; no strong worker/safety line captured.",
+  "pattern_agencies": "Large national media/content plays tied to NFL and trades; agency not named in source.",
+  "marketing_trend": "Increase/active: Modern Retail 2026-08-27 reports ongoing 'Made Possible' campaign and 5x traffic to Join the Trades page.",
+  "decision_roles": [
+   "VP Marketing and Creative"
+  ],
+  "named_people_published": [
+   {
+    "name": "Norma Delaney",
+    "title": "VP of marketing and creative",
+    "url": "https://www.modernretail.co/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/"
+   }
+  ],
+  "best_event_format": "Benchmark only; trades/job-site themed content and stadium-style local events.",
+  "competitors": "Wolverine (Landman, Trades Tour), Timberland PRO (NASCAR), Red Wing (Trades-Made)",
+  "risks": [
+   "2023 CPSC recall of men's work pants, ~32,505 units (cpsc.gov 2023; UNVERIFIED snippet)",
+   "2022 vaccine-mandate boycott calls (wgrd.com; UNVERIFIED)",
+   "2023 Mexico plant closures (publimetro.com.mx 2023-10-09; UNVERIFIED)"
+  ],
+  "ohio_presence": "Not established in this research (UNVERIFIED/none found).",
+  "passes_screen": true,
+  "unverified_notes": "Charitable $300k donation ignored. Ohio and decision-maker depth not found."
+ },
+ {
+  "brand": "Wolverine",
+  "activations": [
+   {
+    "what": "Wolverine x Jordan Davis Trades Tour: Wolverine-run program backing 8 trades small businesses with tour VIP experiences at 'Ain't Enough Road' shows; branded tour t-shirt; featured on Wolverine channels",
+    "where": "US tour stops",
+    "dates": "Apps May 7-Jun 16 2025; shows Sep-Oct 2025",
+    "scale": "Co-branded tour tie-in (cash grants in program ignored as non-commercial)",
+    "partners_or_agency": "Jordan Davis",
+    "url": "https://www.wolverine.com/US/en/trades-tour/",
+    "date": "2025",
+    "label": "VERIFIED",
+    "type": "ambassador"
+   },
+   {
+    "what": "Exclusive work boot partner of Paramount+ 'Landman' S2: branded spot, product placement, retail programs, influencer, events, PR",
+    "where": "National",
+    "dates": "Announced 2025-11-06; S2 premiere 2025-11-16",
+    "scale": "Terms undisclosed",
+    "partners_or_agency": "Paramount+, Taylor Sheridan show",
+    "url": "https://www.stocktitan.net/news/WWW/wolverine-puts-boots-on-the-ground-in-landman-for-a-new-partnership-1y9qdybrnras.html",
+    "date": "2025-11-06",
+    "label": "VERIFIED (read via WebFetch; rawfetch blocked)",
+    "type": "content"
+   },
+   {
+    "what": "Jordan Davis limited-edition boot/apparel collection ahead of headlining tour",
+    "where": "US",
+    "dates": "Sep 2025",
+    "scale": "n/a",
+    "partners_or_agency": "Jordan Davis",
+    "url": "https://wolverineworldwide.gcs-web.com/news-releases/news-release-details/wolverine-and-country-star-jordan-davis-launch-limited-edition",
+    "date": "2025-09",
+    "label": "INFERRED (search snippet)",
+    "type": "ambassador"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "At Wolverine, we know small businesses keep our country running with their critical work.",
+  "values_date": "2025",
+  "values_url": "https://www.wolverine.com/US/en/trades-tour/",
+  "values_label": "VERIFIED",
+  "rawfetch_result": "FOUND VERBATIM (HTTP 200) on wolverine.com trades-tour page (matched 'small businesses keep our country running with their critical work'). Schoessel Landman quote: rawfetch blocked, UNVERIFIED.",
+  "pattern_agencies": "Celebrity/entertainment partnerships (country music, TV); agency not found.",
+  "marketing_trend": "Increase: Q4 2025 call described a record marketing investment year for Wolverine Worldwide (search summary of earnings coverage, UNVERIFIED on exact wording; businesswire 2026-02-26).",
+  "decision_roles": [
+   "Chief Marketing Officer",
+   "Brand marketing / partnerships"
+  ],
+  "named_people_published": [
+   {
+    "name": "Scott Schoessel",
+    "title": "Chief Marketing Officer, Wolverine",
+    "url": "https://www.stocktitan.net/news/WWW/wolverine-puts-boots-on-the-ground-in-landman-for-a-new-partnership-1y9qdybrnras.html"
+   }
+  ],
+  "best_event_format": "Trades-themed screening at job-site/trade-school events, tied to Trades Tour style local business honorees.",
+  "competitors": "Carhartt, Timberland PRO (NASCAR), Red Wing",
+  "risks": [
+   "No 2025-26 recalls/litigation found in this search (not exhaustive)"
+  ],
+  "ohio_presence": "Not established (UNVERIFIED).",
+  "passes_screen": true,
+  "unverified_notes": "Schoessel quote 'Wolverine has always stood for the people who power progress with their hands and minds' UNVERIFIED (stocktitan blocked rawfetch). Project Bootstrap giving ignored."
+ },
+ {
+  "brand": "Red Wing Shoes",
+  "activations": [
+   {
+    "what": "'Boots Drop The Hard Way' campaign: 6 handmade billboards across US, social, concrete shoe-box contest for certified tradespeople (filmed for content; contest Jan 2026)",
+    "where": "US",
+    "dates": "Launched Dec 2025; contest Jan 2026",
+    "scale": "6 billboards plus contest; spend undisclosed",
+    "partners_or_agency": "Wieden+Kennedy",
+    "url": "https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/",
+    "date": "2025-12-02",
+    "label": "VERIFIED",
+    "type": "agency"
+   },
+   {
+    "what": "'Trades-Made' campaign: projections in NYC (Brooklyn Bridge), LA, Dallas; 15+ brands joined",
+    "where": "3 US cities",
+    "dates": "2023-08-30",
+    "scale": "550 company stores",
+    "partners_or_agency": "Mischief",
+    "url": "https://www.mediapost.com/publications/article/388702/red-wing-unleashes-trades-made-campaign.html",
+    "date": "2023-08-30",
+    "label": "VERIFIED (older than 24mo)",
+    "type": "agency"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "They're the backbone of our communities",
+  "values_date": "2023-08-30",
+  "values_url": "https://www.mediapost.com/publications/article/388702/red-wing-unleashes-trades-made-campaign.html",
+  "values_label": "VERIFIED",
+  "rawfetch_result": "FOUND VERBATIM (HTTP 200) for 'backbone of our communities'; 'Trades-Made' also found; Glossy 'Wieden' found.",
+  "pattern_agencies": "Wieden+Kennedy (2025), Mischief (2023).",
+  "marketing_trend": "Increase: Glossy 2025-12-02 says brand is 'far more vocal in 2025' with several top-of-funnel campaigns.",
+  "decision_roles": [
+   "Chief Marketing Officer",
+   "Creative Director"
+  ],
+  "named_people_published": [
+   {
+    "name": "Dave Schneider",
+    "title": "CMO (as of 2023)",
+    "url": "https://www.mediapost.com/publications/article/388702/red-wing-unleashes-trades-made-campaign.html"
+   },
+   {
+    "name": "Aaron Seymour-Anderson",
+    "title": "Creative Director",
+    "url": "https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/"
+   }
+  ],
+  "best_event_format": "Trade-school/union-hall screening with tradespeople as hosts; fits Trades-Made.",
+  "competitors": "Carhartt, Wolverine, Timberland PRO, Dickies",
+  "risks": [
+   "Historic 2012-13 steel-toe boot recall (inquirer.com; UNVERIFIED snippet)",
+   "No 2025-26 WARN notices found (warnfirehose; UNVERIFIED)"
+  ],
+  "ohio_presence": "Not established in this research; company operates ~550 own stores nationally (mediapost 2023), Ohio count UNVERIFIED.",
+  "passes_screen": true,
+  "unverified_notes": "Schneider title dated 2023; may have changed."
+ },
+ {
+  "brand": "Timberland PRO",
+  "activations": [
+   {
+    "what": "NASCAR official protective footwear and safety toe partner: at-track signage, digital content, race weekend activations, 'First Turn, Last Lap, Repeat' campaign; possible work with technical education groups",
+    "where": "NASCAR tracks",
+    "dates": "Announced 2026-07-30; multi-year",
+    "scale": "Terms undisclosed",
+    "partners_or_agency": "NASCAR",
+    "url": "https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856",
+    "date": "2026-07-30 (announcement date per search; page date not shown)",
+    "label": "VERIFIED",
+    "type": "sponsorship"
+   },
+   {
+    "what": "'Your Calling Is Calling' skilled-trades campaign",
+    "where": "US",
+    "dates": "2022-08",
+    "scale": "n/a",
+    "partners_or_agency": "n/a",
+    "url": "https://www.businesswire.com/news/home/20220801005737/en/",
+    "date": "2022-08",
+    "label": "INFERRED (snippet; older than 24mo)",
+    "type": "content"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "performance, reliability and excellence at their craft",
+  "values_date": "2026",
+  "values_url": "https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856",
+  "values_label": "VERIFIED (Ryan Murphy quote fragment)",
+  "rawfetch_result": "FOUND VERBATIM (HTTP 200).",
+  "pattern_agencies": "Sports-property deal (NASCAR); agency not found.",
+  "marketing_trend": "Increase: new multi-year NASCAR deal July 2026.",
+  "decision_roles": [
+   "Head of Marketing, Timberland Americas",
+   "VP Marketing Americas"
+  ],
+  "named_people_published": [
+   {
+    "name": "Ryan Murphy",
+    "title": "Head of Marketing, Timberland Americas",
+    "url": "https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856"
+   }
+  ],
+  "best_event_format": "Co-presented screening at NASCAR-adjacent or tech-ed/workforce events; trade school tour.",
+  "competitors": "Carhartt, Wolverine, Red Wing; NASCAR also has Pye-Barker Fire Safety partnership",
+  "risks": [
+   "Parent VF Corp divested Dickies (Nov 2025); VF restructuring (UNVERIFIED detail)"
+  ],
+  "ohio_presence": "Not established (UNVERIFIED).",
+  "passes_screen": true,
+  "unverified_notes": "Ryan Murphy title from a single article; Timberland marketing leadership appears to have changed (Drieke Leenknegt, Jul 2026 headline, UNVERIFIED remit)."
+ },
+ {
+  "brand": "Dickies",
+  "activations": [
+   {
+    "what": "Dickies x Budweiser 150th anniversary limited-edition jacket contest/collection honoring workers",
+    "where": "US",
+    "dates": "2026-09-16",
+    "scale": "n/a",
+    "partners_or_agency": "Budweiser",
+    "url": "https://www.licenseglobal.com/food-beverages/dickies-x-budweiser-launch-limited-edition-jacket-contest-and-apparel-collection",
+    "date": "2026-09-16",
+    "label": "UNVERIFIED (search snippet; page 403 blocked; alcohol co-brand)",
+    "type": "content"
+   },
+   {
+    "what": "Long-running PBR bullfighter sponsorship",
+    "where": "PBR events",
+    "dates": "since 2005",
+    "scale": "n/a",
+    "partners_or_agency": "PBR",
+    "url": "https://pbr.com/news/2016/02/dickies-and-pbr-debut-new-jerseys-for-dickies-bullfighters",
+    "date": "2016",
+    "label": "UNVERIFIED (current status not confirmed)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "No quote verified; licenseglobal rawfetch returned 403 (Cloudflare).",
+  "pattern_agencies": "Ownership moved from VF to Bluestar Alliance (closed 2025-11-12); licensing-led model.",
+  "marketing_trend": "Uncertain/transition: brand sold for $600M (announced 2025-09); no verified new live activation.",
+  "decision_roles": [
+   "Bluestar Alliance brand marketing (unknown)"
+  ],
+  "named_people_published": [
+   {
+    "name": "Joseph Gabbay",
+    "title": "CEO, Bluestar Alliance",
+    "url": "https://fashionunited.es/noticias/empresas/bluestar-alliance-adquiere-dickies-en-una-operacion-de-600-millones-de-dolares/2025091546996"
+   }
+  ],
+  "best_event_format": "Unclear; licensing-driven brand.",
+  "competitors": "Carhartt, Red Wing, Wolverine",
+  "risks": [
+   "Ownership transition and licensing model reduce activation capacity (INFERRED)"
+  ],
+  "ohio_presence": "Not established.",
+  "passes_screen": false,
+  "unverified_notes": "No verified live activation in last 24 months and no verified values quote; Budweiser collab involves alcohol brand."
+ }
+]

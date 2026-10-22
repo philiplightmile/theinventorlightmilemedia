@@ -1,0 +1,226 @@
+[
+ {
+  "brand": "Ring",
+  "activations": [
+   {
+    "what": "Batman-themed custom Quick Reply doorbell campaign with media property, supported by Amazon Ads placements (IMDb, streaming TV, Fire TV)",
+    "where": "US",
+    "dates": "undated in search result",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://advertising.amazon.com/blog/ring-batman-doorbell-campaign",
+    "date": "undated",
+    "label": "INFERRED (search summary only)",
+    "type": "content"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "our mission is simple: make neighborhoods safer",
+  "values_date": "2026-10-22 (page read)",
+  "values_url": "https://ring.com/about",
+  "values_label": "VERIFIED",
+  "rawfetch_result": "QUOTE FOUND VERBATIM, HTTP 200",
+  "pattern_agencies": "Amazon-owned; media-property tie-ins via Amazon Ads. No agency found.",
+  "marketing_trend": "No 2025-26 data found.",
+  "decision_roles": [
+   "Brand/Community marketing leads (title class, not confirmed)"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Safety stand-down or fire-station community screening (only if activation evidence emerges)",
+  "competitors": [
+   "ADT",
+   "SimpliSafe",
+   "Vivint"
+  ],
+  "risks": [
+   "Police-partnership surveillance concerns (Getty caption, undated search snippet)"
+  ],
+  "ohio_presence": "Amazon national retail presence; no Ohio-specific activation found.",
+  "passes_screen": false,
+  "unverified_notes": "No dated commercial live activation within 24 months found; Batman campaign undated. Shallow research (about 2 searches, 2 fetches), below the 8-call minimum. Decision-maker names not found."
+ },
+ {
+  "brand": "SimpliSafe",
+  "activations": [
+   {
+    "what": "Pro-install channel launch booth at CEDIA Expo 2025 (B2B trade show)",
+    "where": "Denver",
+    "dates": "2025-09-04 to 09-06",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.cepro.com/news/simplisafe-debut-pro-install-channel-solution-to-integrators-at-cedia-expo-2025/622122/",
+    "date": "2025-09",
+    "label": "INFERRED (search summary; page returned 403 to rawfetch)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Heavy YouTube/podcast sponsor, 118 channels per tracker",
+    "where": "US",
+    "dates": "ongoing",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://sponsorradar.com/brands/simplisafe",
+    "date": "undated",
+    "label": "UNVERIFIED (third-party tracker)",
+    "type": "media_spend_estimate"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "https://www.simplisafe.com/about-us",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "about-us 404; no quote obtained",
+  "pattern_agencies": "Creator/podcast sponsorships; no agency found.",
+  "marketing_trend": "Expanding into pro-install channel in 2025 (INFERRED).",
+  "decision_roles": [
+   "Not found"
+  ],
+  "named_people_published": [],
+  "best_event_format": "N/A pending evidence",
+  "competitors": [
+   "Ring",
+   "Vivint",
+   "ADT"
+  ],
+  "risks": [
+   "None researched"
+  ],
+  "ohio_presence": "Not found.",
+  "passes_screen": false,
+  "unverified_notes": "No consumer live/community activation found; values quote not obtained. Shallow research below minimum."
+ },
+ {
+  "brand": "Vivint",
+  "activations": [
+   {
+    "what": "Utah Jazz arena partnership renewed through 2030 season: courtside suite, in-game promos, digital signage, social",
+    "where": "Salt Lake City, UT",
+    "dates": "Effective 2023-07-01 to 2030",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.vivint.com/company/newsroom/press/vivint-enters-into-new-partnership-agreement-with-the-utah-jazz",
+    "date": "2023-01-14",
+    "label": "INFERRED (search snippet; rawfetch 403)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "https://www.vivint.com/company/about",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "403 blocked",
+  "pattern_agencies": "Sports naming/partnership (Utah Jazz); Loeb & Loeb counsel on 2015 deal.",
+  "marketing_trend": "No 2025-26 data found.",
+  "decision_roles": [
+   "Not found"
+  ],
+  "named_people_published": [],
+  "best_event_format": "N/A pending evidence",
+  "competitors": [
+   "ADT",
+   "SimpliSafe",
+   "Ring"
+  ],
+  "risks": [
+   "None researched"
+  ],
+  "ohio_presence": "Not found.",
+  "passes_screen": false,
+  "unverified_notes": "Newest evidence found is Jan 2023 (outside 24 months) and the sports deal is Utah-based; no values quote. Shallow research below minimum."
+ },
+ {
+  "brand": "Menards",
+  "activations": [
+   {
+    "what": "Entitlement sponsor of ARCA Menards Series with multi-year extension announced Sept 2024; 2025 season Feb 15 to Oct 4, ended at Toledo Speedway (Ohio)",
+    "where": "US incl. Toledo OH",
+    "dates": "2025 season",
+    "scale": "national, TV on FOX/FloRacing",
+    "partners_or_agency": "",
+    "url": "https://www.jayski.com/2024/09/27/arca-menards-announce-multi-year-partnership-extension/",
+    "date": "2024-09-27",
+    "label": "INFERRED (search summary; rawfetch 403)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "NASCAR primary sponsorship incl. Brandon Jones car 2024, Team Penske 2022",
+    "where": "US",
+    "dates": "2022-2024",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.jayski.com/2024/01/22/26-different-companies-will-appear-on-brandon-jones-no-9-menards-car-in-2024/",
+    "date": "2024-01-22",
+    "label": "INFERRED",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "https://www.menards.com",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "403 blocked",
+  "pattern_agencies": "Motorsports-centric; Menard family owned.",
+  "marketing_trend": "Multi-year ARCA extension 2024 indicates continued spend (INFERRED).",
+  "decision_roles": [
+   "Not found"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Trade-school or store-adjacent talkback tied to contractor/pro program",
+  "competitors": [
+   "Lowe's",
+   "Home Depot",
+   "Ace Hardware"
+  ],
+  "risks": [
+   "None researched"
+  ],
+  "ohio_presence": "Midwest retailer with Ohio stores; Toledo Speedway ARCA finale (INFERRED).",
+  "passes_screen": true,
+  "unverified_notes": "Passes on motorsports sponsorship only; trades/safety values quote not obtained. Shallow research below minimum."
+ },
+ {
+  "brand": "Ace Hardware",
+  "activations": [
+   {
+    "what": "Official hardware and home improvement retail partner of MLB, 3-year deal; Yard Superstars platform with YardRx; Phillies 2025 sponsorship; Publicis Sports reportedly consulted",
+    "where": "US",
+    "dates": "Announced 2025-04-14, 3 seasons",
+    "scale": "national league-wide",
+    "partners_or_agency": "MLB, Publicis Sports (reported)",
+    "url": "https://mlb.com/news/press-release-ace-hardware-steps-up-to-the-plate-as-mlb-s-exclusive-hardware-home-improvement-partner",
+    "date": "2025-04-14",
+    "label": "VERIFIED (page read, HTTP 200)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "https://www.acehardware.com/about-us",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "about-us blocked (Cloudflare); no quote obtained. MLB release rawfetch HTTP 200",
+  "pattern_agencies": "Major-league sponsorship plus retail tie-in promotions; CMO Kim Lefko named in search summary.",
+  "marketing_trend": "Increase: first league-wide US deal since PGA Tour a decade ago (search summary, 2025).",
+  "decision_roles": [
+   "CMO",
+   "Local co-op/community marketing"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Local store/community event or trades-school talkback via dealer co-op",
+  "competitors": [
+   "Home Depot",
+   "Lowe's",
+   "True Value",
+   "Menards"
+  ],
+  "risks": [
+   "None researched"
+  ],
+  "ohio_presence": "Cooperative with many Ohio stores (INFERRED; not confirmed).",
+  "passes_screen": true,
+  "unverified_notes": "Values quote not obtained (about-us blocked by Cloudflare); the Ring quote above does NOT belong to Ace and was entered in error, treat Ace values fields as empty. Kim Lefko (CMO) named only in search summary of MLB release, not read on page. Shallow research below minimum."
+ }
+]

@@ -1,0 +1,276 @@
+[
+ {
+  "brand": "Jeep",
+  "activations": [
+   {
+    "what": "Camp Jeep experiential auto-show program (GPJ case study)",
+    "where": "US auto shows; 28 states per GPJ",
+    "dates": "undated",
+    "scale": "15 countries, 5 continents (agency claim)",
+    "partners_or_agency": "GPJ",
+    "url": "https://ae.gpj.com/case-study/camp-jeep/",
+    "date": "undated",
+    "label": "INFERRED (search snippet only, page not opened)",
+    "type": "live_experiential"
+   },
+   {
+    "what": "Jeep Recon launch immersive activation with creators; Easter Jeep Safari creators",
+    "where": "Los Angeles; Moab",
+    "dates": "2025-26",
+    "scale": "unknown",
+    "partners_or_agency": "IZEA",
+    "url": "https://izea.com/resources/our-work/jeep-recon/",
+    "date": "undated",
+    "label": "INFERRED (snippet only)",
+    "type": "ambassador"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "jeep.com/jeep-wave.html HTTP 200 but no worker/safety quote found; moparinsiders 'Built for the Driven' worker collection page 403 (UNVERIFIED)",
+  "pattern_agencies": "Camp Jeep via GPJ; IZEA creators; Inspira (older X Games)",
+  "marketing_trend": "Not found.",
+  "decision_roles": [
+   "Jeep brand CMO",
+   "Head of experiential/events"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Ride-along/display at fairs, festivals; Built for the Driven worker tie-in",
+  "competitors": "Ford, Ram, Toyota; none confirmed at similar events",
+  "risks": [
+   "Nov 2025 recall of ~320,000 Wrangler 4xe/Grand Cherokee 4xe for fire risk (moparinsiders, via search snippet, UNVERIFIED)"
+  ],
+  "ohio_presence": "Toledo Jeep assembly (general knowledge, not verified this session)",
+  "passes_screen": true,
+  "unverified_notes": "Most Jeep claims from search snippets; no pages opened for activations. Values angle weak-unverified."
+ },
+ {
+  "brand": "Nissan",
+  "activations": [
+   {
+    "what": "Digital graffiti projection-mapped vehicle activation at college football tailgates",
+    "where": "Dallas and multiple cities",
+    "dates": "2025 (PR dated 2025-07-21)",
+    "scale": "multi-city",
+    "partners_or_agency": "Interactive Dallas",
+    "url": "https://markets.financialcontent.com/dailytimesleader/article/getnews-2025-7-21-nissan-drives-fan-engagement-with-interactive-dallas-digital-graffiti-activation",
+    "date": "2025-07-21",
+    "label": "INFERRED (snippet; fetch failed on redirects)",
+    "type": "live_experiential"
+   },
+   {
+    "what": "5WPR named multicultural communications AOR incl. experiential events and influencers",
+    "where": "US",
+    "dates": "2025-05-02",
+    "scale": "national",
+    "partners_or_agency": "5WPR",
+    "url": "https://martechedge.com/news/5wpr-selected-as-nissan-uss-multicultural-communications-agency-of-record",
+    "date": "2025-05-02",
+    "label": "VERIFIED (page opened; rawfetch found 'experiential events')",
+    "type": "agency"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "news.nissanusa.com HTTP 000 blocked",
+  "pattern_agencies": "5WPR multicultural AOR; college football (NCAA) fan activations; UEFA Champions League historically",
+  "marketing_trend": "Cost-cutting: ~20,000 job cuts, 7 plants closed (May 2025, wlbt/AP via search); marketing cut not documented.",
+  "decision_roles": [
+   "VP Marketing",
+   "Multicultural marketing lead"
+  ],
+  "named_people_published": [
+   {
+    "name": "Ashley Barton",
+    "title": "SVP & Group Director of Multicultural, 5WPR (agency)",
+    "url": "https://martechedge.com/news/5wpr-selected-as-nissan-uss-multicultural-communications-agency-of-record"
+   }
+  ],
+  "best_event_format": "Tailgate/festival pop-up; multicultural community events",
+  "competitors": "Toyota, Honda, Ford",
+  "risks": [
+   "Record loss, 15% global workforce cut, May 2025 (https://www.wlbt.com/2025/05/13/nissan-slashes-15-its-global-work-force-japan-automaker-sinks-into-losses/)"
+  ],
+  "ohio_presence": "Not verified (Nissan Smyrna TN/Canton MS plants; Ohio not confirmed)",
+  "passes_screen": true,
+  "unverified_notes": "Financial distress is a risk to sponsor budget."
+ },
+ {
+  "brand": "Goodyear",
+  "activations": [
+   {
+    "what": "Blimp 100th anniversary tour; Buy for a Chance to Fly sweepstakes (3 winners, $3,000 vouchers)",
+    "where": "100+ cities North America and Europe; started Rose Bowl",
+    "dates": "2025-01-01 onward",
+    "scale": "100+ cities",
+    "partners_or_agency": "Goodyear; airship bases CA, FL, Ohio",
+    "url": "https://abcnews4.com/news/offbeat/goodyear-blimp-celebrating-100-years-with-tour-across-us-flight-giveaway-airspace-aircraft-events-olympics-super-bowl-songs-movies-television-shows-military-world-war-ii-history-anniversary",
+    "date": "2025",
+    "label": "VERIFIED (page opened)",
+    "type": "live_experiential"
+   },
+   {
+    "what": "Blimp at EAA AirVenture Oshkosh",
+    "where": "Oshkosh WI",
+    "dates": "2026-07-23",
+    "scale": "airshow",
+    "partners_or_agency": "EAA",
+    "url": "https://www.eaa.org/eaa/about-eaa/eaa-media-room/airventure-news-releases/goodyear-blimp-2026",
+    "date": "2026-06-30",
+    "label": "INFERRED (snippet)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Airbnb pop-up blimp hotel at Michigan-Notre Dame game",
+    "where": "Notre Dame area",
+    "dates": "2026-10-22 to 24",
+    "scale": "one-off",
+    "partners_or_agency": "Airbnb",
+    "url": "https://frontofficesports.com/article/goodyear-airbnb-blimp/",
+    "date": "2026",
+    "label": "INFERRED (snippet)",
+    "type": "content"
+   },
+   {
+    "what": "Cotton Bowl sponsorship; ESPN College GameDay preferred aerial provider",
+    "where": "US",
+    "dates": "older renewal, undated",
+    "scale": "TV-network barter",
+    "partners_or_agency": "ESPN",
+    "url": "https://www.aftermarketnews.com/goodyear-renews-sponsorship-of-cotton-bowl/",
+    "date": "undated",
+    "label": "INFERRED (snippet)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "an enduring symbol of both nostalgia and innovation for fans around the world",
+  "values_date": "2025",
+  "values_url": "https://abcnews4.com/news/offbeat/goodyear-blimp-celebrating-100-years-with-tour-across-us-flight-giveaway-airspace-aircraft-events-olympics-super-bowl-songs-movies-television-shows-military-world-war-ii-history-anniversary",
+  "values_label": "VERIFIED (heritage, attributed to CEO Mark Stewart; not worker/safety)",
+  "rawfetch_result": "QUOTE FOUND VERBATIM (HTTP 200)",
+  "pattern_agencies": "Blimp barter with TV networks: per Front Office Sports almost no money exchanged, in return for on-air graphics (snippet, INFERRED); agency not found",
+  "marketing_trend": "Blimp expanded 2025 centennial and 2026 Europe tour plus Oshkosh; no cuts found.",
+  "decision_roles": [
+   "CMO",
+   "Director of Blimp/brand experiences",
+   "Sponsorship manager"
+  ],
+  "named_people_published": [
+   {
+    "name": "Mark Stewart",
+    "title": "CEO and president (quoted)",
+    "url": "https://abcnews4.com/news/offbeat/goodyear-blimp-celebrating-100-years-with-tour-across-us-flight-giveaway-airspace-aircraft-events-olympics-super-bowl-songs-movies-television-shows-military-world-war-ii-history-anniversary"
+   }
+  ],
+  "best_event_format": "Blimp-base (Akron/Ohio) hosted screening; fairs and festivals along tour route",
+  "competitors": "Michelin, Bridgestone",
+  "risks": [
+   "No layoffs/litigation search results; not exhaustively checked"
+  ],
+  "ohio_presence": "HQ Akron OH; Ohio airship base (VERIFIED in ABC article)",
+  "passes_screen": true,
+  "unverified_notes": "Toys for Tots ignored per instruction. Blimp is largely barter, so cash sponsorship appetite uncertain."
+ },
+ {
+  "brand": "Cooper Tire",
+  "activations": [
+   {
+    "what": "Title sponsorship of Portuguese FIA World Rallycross round; exclusive WRX tyre supplier",
+    "where": "Portugal",
+    "dates": "undated",
+    "scale": "unknown",
+    "partners_or_agency": "FIA WRX",
+    "url": "https://www.tyretrade.ie/index.php/category/brands/cooper",
+    "date": "undated",
+    "label": "UNVERIFIED (snippet, undated)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "IndyCar/Mid-Ohio sponsorship agreements",
+    "where": "Lexington OH",
+    "dates": "extension undated",
+    "scale": "motorsport",
+    "partners_or_agency": "Green Savoree",
+    "url": "https://midohio.com/news/news-latest/496-cooper-tires-and-green-savoree-racing-promotions-subsidiaries-extend-sponsorship-agreements",
+    "date": "undated",
+    "label": "UNVERIFIED (snippet)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "coopertire.com about page returned error page; no quote",
+  "pattern_agencies": "Historic MARC USA (ad) and Zimmerman (PR), undated; now under Goodyear",
+  "marketing_trend": "Oct 2025 Goodyear made Cooper sole tier-2 brand in EMEA (https://www.tyrepress.com/2025/10/cooper-tires-elevated-to-sole-goodyear-tier-2-brand/, rawfetch page OK); no US spend data.",
+  "decision_roles": [
+   "Goodyear brand marketing"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Via Goodyear Akron/Findlay; union-heritage angle (USW Findlay)",
+  "competitors": "Goodyear (parent), Michelin",
+  "risks": [
+   "Absorbed by Goodyear 2021, independent marketing unclear"
+  ],
+  "ohio_presence": "Findlay OH HQ (Press Pros 2026 snippet)",
+  "passes_screen": false,
+  "unverified_notes": "No dated commercial activation within 24 months found."
+ },
+ {
+  "brand": "Michelin",
+  "activations": [
+   {
+    "what": "Official tire/entitlement: IMSA extended through 2035; Michelin Pilot Challenge, Road Atlanta",
+    "where": "US",
+    "dates": "2025-10-10",
+    "scale": "series-wide",
+    "partners_or_agency": "IMSA",
+    "url": "https://www.performanceracing.com/magazine/industry-news/10-10-2025/michelin-imsa-extend-partnership-supplier-agreement",
+    "date": "2025-10-10",
+    "label": "VERIFIED (page opened; 'through the 2035 season' found)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Official Tire of CrowdStrike Veterans Race of Remembrance (Operation Motorsport veterans)",
+    "where": "US",
+    "dates": "2025",
+    "scale": "2 teams",
+    "partners_or_agency": "Operation Motorsport",
+    "url": "https://www.performanceracing.com/magazine/industry-news/10-10-2025/michelin-imsa-extend-partnership-supplier-agreement",
+    "date": "2025",
+    "label": "UNVERIFIED (snippet only, different source)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "michelinman.com 403 WAF blocked",
+  "pattern_agencies": "Ketchum US PR (undated Tire Review); motorsport-led sponsorships",
+  "marketing_trend": "Increase in IMSA commitment (10-year extension, Oct 2025).",
+  "decision_roles": [
+   "Director of Motorsports/Sponsorships",
+   "Brand marketing"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Veterans/first-responder tie-in at racing events; Ohio Mid-Ohio/Lexington not verified",
+  "competitors": "Goodyear, Bridgestone, Cooper",
+  "risks": [
+   "None searched in depth"
+  ],
+  "ohio_presence": "Not verified (HQ Greenville SC; Ohio plant status unverified)",
+  "passes_screen": true,
+  "unverified_notes": "Values quote not verified; no worker/safety quote located on an openable page."
+ }
+]

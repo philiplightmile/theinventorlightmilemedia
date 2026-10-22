@@ -1,0 +1,341 @@
+[
+ {
+  "brand": "True Value",
+  "activations": [
+   {
+    "what": "Sponsor of BIG EAST Conference (official home improvement partner)",
+    "where": "national, NCAA basketball",
+    "dates": "2025-26 season",
+    "scale": "conference-level; scale undisclosed",
+    "partners_or_agency": "Do it Best Group",
+    "url": "https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/",
+    "date": "2026-08-03",
+    "label": "VERIFIED",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Official home improvement partner of Notre Dame Athletics: marketing assets, in-store promos, signage, local store activation",
+    "where": "South Bend IN / national",
+    "dates": "announced 2026-08-03",
+    "scale": "fee undisclosed",
+    "partners_or_agency": "Do it Best Group (CMO Allison Flatjord)",
+    "url": "https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/",
+    "date": "2026-08-03",
+    "label": "VERIFIED",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Sponsored IROC return event at Lime Rock Park with branded cars and toolbox",
+    "where": "Lime Rock Park CT",
+    "dates": "July 2024",
+    "scale": "one event; outside 24-mo window",
+    "partners_or_agency": "unknown",
+    "url": "https://www.jayski.com/2024/07/18/true-value-sponsors-return-of-iroc/",
+    "date": "2024-07-18",
+    "label": "INFERRED (search summary; rawfetch 403)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "True Value has always stood for the confidence, know-how, and personal service people count on when caring for their homes",
+  "values_date": "2026-08-03",
+  "values_url": "https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/",
+  "values_label": "VERIFIED (weak fit: homes, not workers/safety)",
+  "rawfetch_result": "HTTP 200, QUOTE FOUND VERBATIM",
+  "pattern_agencies": "Sports sponsorships (college athletics, motorsports heritage) run by Do it Best Group, which owns/operates True Value; no agency found.",
+  "marketing_trend": "Increase: 'national brand revitalization' and 'recent national marketing momentum' (Hardware Retailing, 2026-08-03). VERIFIED.",
+  "decision_roles": [
+   "Chief Marketing Officer, Do it Best Group"
+  ],
+  "named_people_published": [
+   {
+    "name": "Allison Flatjord",
+    "title": "CMO, Do it Best Group",
+    "url": "https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/"
+   }
+  ],
+  "best_event_format": "Co-branded screening at independently owned True Value stores or local hardware-store community events (tools/trades tie-in).",
+  "competitors": "Ace Hardware, Home Depot, Lowe's, Do it Best; no competitor sponsoring comparable events found (not searched deeply).",
+  "risks": "Not researched beyond sources opened; none found. Brand is being rebuilt under Do it Best after True Value Company acquisition (INFERRED).",
+  "ohio_presence": "Independent True Value stores exist in Ohio (INFERRED, not verified).",
+  "passes_screen": true,
+  "unverified_notes": "Activations are sports sponsorships, no live experiential in last 24 mo found. Values quote is about homeowner service, not workers/safety. IROC page blocked."
+ },
+ {
+  "brand": "Tractor Supply",
+  "activations": [
+   {
+    "what": "Presenting sponsor, COJO Championship Event (benefits Texas FFA), on-site activations",
+    "where": "Belton TX",
+    "dates": "2025-10-07 to 10-12",
+    "scale": "multi-day event; fee undisclosed",
+    "partners_or_agency": "Cody Johnson event",
+    "url": "https://corporate.tractorsupply.com/newsroom/news-releases/news-releases-details/2025/The-COJO-Championship-Event-Announces-Tractor-Supply-Company-As-Its-2025-Presenting-Sponsor/default.aspx",
+    "date": "2025-09-10",
+    "label": "INFERRED (WebSearch summary; rawfetch 403)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Sponsor, USDA Great American Farmers Market",
+    "where": "Washington DC",
+    "dates": "2025",
+    "scale": "unknown",
+    "partners_or_agency": "USDA",
+    "url": "https://www.businesswire.com/news/home/20250801214660/en/Tractor-Supply-Celebrates-Sponsorship-of-the-U.S.-Department-of-Agricultures-Great-American-Farmers-Market",
+    "date": "2025-08-01",
+    "label": "INFERRED (title only; rawfetch failed)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Official national partner of PRCA; presenting sponsor Wrangler National Finals Rodeo with in-arena presence, on-site activations, athlete store appearances",
+    "where": "national",
+    "dates": "2025 partnership; WNFR 2026",
+    "scale": "fee undisclosed",
+    "partners_or_agency": "PRCA",
+    "url": "https://www.businesswire.com/news/home/20260312297048/en/Tractor",
+    "date": "2026-03-12",
+    "label": "INFERRED (search summary)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Partnership with Professional Bull Riders",
+    "where": "national",
+    "dates": "from 2021",
+    "scale": "multi-year",
+    "partners_or_agency": "PBR",
+    "url": "https://www.businesswire.com/news/home/20210716005072/en/Tractor-Supply-Company-Enters-New-Milestone-Partnership-With-Professional-Bull-Riders",
+    "date": "2021-07-16",
+    "label": "INFERRED",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Spring campaign using real customers; TV in key markets, paid search/social, local earned media",
+    "where": "national",
+    "dates": "spring 2026",
+    "scale": "undisclosed",
+    "partners_or_agency": "in-house",
+    "url": "https://www.modernretail.co/marketing/tractor-supply-taps-real-customers-for-ads-to-stand-out-from-ai-generated-content/",
+    "date": "2026-04-30",
+    "label": "INFERRED (search summary)",
+    "type": "ambassador"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_label": "UNVERIFIED (corporate site blocked, no quote obtained)",
+  "rawfetch_result": "corporate.tractorsupply.com HTTP 403 Cloudflare; businesswire HTTP 000",
+  "pattern_agencies": "Heavy rodeo/ag/FFA sponsorship portfolio (PBR, PRCA, WNFR, COJO); agencies not found.",
+  "marketing_trend": "Increase in local marketing: CMO Gardiner said 'doubling down on local marketing in 2026' (Modern Retail via search summary, 2026-04-30; INFERRED). Reports Gardiner has since departed, with CMO duties added to Neil Tenzer (MediaPost, undated; INFERRED).",
+  "decision_roles": [
+   "Chief Marketing Officer",
+   "Sponsorship/partnership marketing leads"
+  ],
+  "named_people_published": [
+   {
+    "name": "Kimberley Gardiner",
+    "title": "CMO (reported departed)",
+    "url": "https://www.modernretail.co/marketing/tractor-supply-taps-real-customers-for-ads-to-stand-out-from-ai-generated-content/"
+   },
+   {
+    "name": "Neil Tenzer",
+    "title": "reported to hold CMO duties",
+    "url": "https://www.mediapost.com/publications/article/417500/tractor-supply-loses-top-executive.html"
+   }
+  ],
+  "best_event_format": "Store-parking-lot or county fair/FFA/ag-event screening with talkback; trades/workwear tie-in.",
+  "competitors": "Rural King, Fleet Farm, Orscheln, Northern Tool; Rural King in NASCAR/pulling.",
+  "risks": "CMO turnover (MediaPost, undated). No other risks researched.",
+  "ohio_presence": "Many Ohio stores (INFERRED; not verified).",
+  "passes_screen": true,
+  "unverified_notes": "Most pages blocked; activation details come from search summaries. No values quote."
+ },
+ {
+  "brand": "Northern Tool",
+  "activations": [
+   {
+    "what": "Three-year Monster Jam partnership: official hardware retailer/tool partner, Monster Jam Garage 'Outfitted by Northern Tool', trucks visiting stores nationwide",
+    "where": "national",
+    "dates": "announced 2024-09-18; 3 years",
+    "scale": "multi-year; fee undisclosed",
+    "partners_or_agency": "Feld Entertainment / Monster Jam",
+    "url": "https://www.feldentertainment.com/northern-tool-equipment-announces-partnership-with-monster-jam/",
+    "date": "2024-09-18",
+    "label": "VERIFIED (page opened; partial text read)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Tools for the Trades Monster Jam Mini Build for high school skilled-trades students (first site Bryan HS, Texas); DEWALT, Ingersoll Rand, Milwaukee Tool supported",
+    "where": "Bryan TX",
+    "dates": "Oct 2024",
+    "scale": "student program",
+    "partners_or_agency": "Monster Jam, tool brands",
+    "url": "https://www.semashow.com/node/963195",
+    "date": "2024-09-19",
+    "label": "INFERRED (search summary)",
+    "type": "content"
+   },
+   {
+    "what": "In-store Monster Jam events with ticket giveaways",
+    "where": "Austin, Greensboro stores",
+    "dates": "undated",
+    "scale": "store events",
+    "partners_or_agency": "Monster Jam",
+    "url": "https://www.cnhinews.com/news/article_e4055059-3b44-5eb8-bde3-4b0e8f0d161e.html",
+    "date": "undated",
+    "label": "INFERRED",
+    "type": "retail_event"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_label": "UNVERIFIED (about page blocked: 403)",
+  "rawfetch_result": "northerntool.com/about-us HTTP 403",
+  "pattern_agencies": "Motorsports/entertainment (historic NASCAR title, now Monster Jam); trades-education tie-in.",
+  "marketing_trend": "Active: Monster Jam deal runs through ~2027; no 2025-26 cut found (INFERRED).",
+  "decision_roles": [
+   "Chief Marketing Officer",
+   "Senior VP marketing"
+  ],
+  "named_people_published": [
+   {
+    "name": "Frank Crowson",
+    "title": "SVP and Chief Marketing Officer",
+    "url": "https://aijourn.com/northern-tool-equipment-teams-up-with-monster-jam-to-bring-legendary-truck-to-new-orleans/"
+   }
+  ],
+  "best_event_format": "Tools for the Trades skilled-trades school screening or Northern Tool store event with talkback; strong fit with existing trades-student program.",
+  "competitors": "Harbor Freight, Tractor Supply, Lowe's, Home Depot; Milwaukee Tool etc. co-supported the trades program.",
+  "risks": "None researched.",
+  "ohio_presence": "Northern Tool has Ohio stores (INFERRED; not verified).",
+  "passes_screen": true,
+  "unverified_notes": "Best fit of batch for trades theme. Verify dates of Monster Jam store events and CMO Crowson's current status."
+ },
+ {
+  "brand": "Rural King",
+  "activations": [
+   {
+    "what": "Primary sponsor of Noah Gragson/Chandler Smith No. 4 Front Row Motorsports at Bristol, Talladega, North Wilkesboro",
+    "where": "US",
+    "dates": "2025",
+    "scale": "3 Cup races",
+    "partners_or_agency": "Front Row Motorsports",
+    "url": "https://www.jayski.com/2025/04/09/rural-king-joins-front-row-motorsports-to-sponsor-noah-gragson-chandler-smith/",
+    "date": "2025-04-09",
+    "label": "INFERRED (search summary; rawfetch 403)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Joey Chestnut National Popcorn Day partnership, multistate in-store competition series ending 2027-01-19 championship",
+    "where": "Terre Haute IN store 2026-05-25 and other stores",
+    "dates": "2026",
+    "scale": "multistate",
+    "partners_or_agency": "Joey Chestnut",
+    "url": "https://www.wboc.com/online_features/press_releases/rural-king-and-joey-chestnut-announce-2026-partnership-launch-national-popcorn-day-tradition-and-path/article_607a2225-be92-565f-86d8-c58ad0243b8e.html",
+    "date": "2026-01-19",
+    "label": "INFERRED (search summary)",
+    "type": "retail_event"
+   },
+   {
+    "what": "IHRA Pro Pulling Series partner; store vehicle display for Fendt High Stakes Series",
+    "where": "Wooster OH store; West Salem OH Darana Dragway 42",
+    "dates": "2026-05-30",
+    "scale": "local",
+    "partners_or_agency": "IHRA",
+    "url": "https://ihra.com/news/pull-week-for-fendt-high-stakes-series-at-darana-dragway-42-kicks-off-with-rural-king-display-in-wooster-ohio",
+    "date": "2026",
+    "label": "INFERRED (rawfetch blocked)",
+    "type": "live_experiential"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "providing essentials to the communities we serve",
+  "values_date": "2026-10-22 (page retrieved)",
+  "values_url": "https://www.ruralking.com/about-us",
+  "values_label": "VERIFIED (weak fit: community, not workers/safety)",
+  "rawfetch_result": "HTTP 200, QUOTE FOUND VERBATIM",
+  "pattern_agencies": "NASCAR primary sponsorships, pulling series, celebrity in-store events; agency not found. Note: a later search found no Rural King mention in Gragson 2026-27 deals (possible non-renewal; INFERRED).",
+  "marketing_trend": "Active 2025-26: new NASCAR, Chestnut and pulling programs; store expansion in Ohio (Warren, Lancaster).",
+  "decision_roles": [
+   "Marketing/Sponsorship director"
+  ],
+  "named_people_published": [],
+  "best_event_format": "In-store or store-lot event with talkback at an Ohio Rural King, or pulling/fair event; Rural King has a military page (workwear/farm tie-in).",
+  "competitors": "Tractor Supply, Fleet Farm, Blain's; Tractor Supply sponsors rodeo.",
+  "risks": "None researched.",
+  "ohio_presence": "Strong: stores in Wooster, Lancaster, Warren and others; Ohio is one of 17 states (VERIFIED about page; store openings per search results).",
+  "passes_screen": true,
+  "unverified_notes": "No named decision-makers found. Values fit weak."
+ },
+ {
+  "brand": "Ram Trucks",
+  "activations": [
+   {
+    "what": "Exclusive truck sponsor of America250; fleet to move official events; special-edition 2026 Ram 1500 America250",
+    "where": "US national",
+    "dates": "announced 2025-06-14; through 2026",
+    "scale": "national; fee undisclosed",
+    "partners_or_agency": "America250; Stellantis",
+    "url": "https://media.stellantisnorthamerica.com/text.do?id=26802",
+    "date": "2025-06-14",
+    "label": "INFERRED (search summary)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Official Truck Sponsor, Macy's Thanksgiving Day Parade",
+    "where": "New York",
+    "dates": "2025-11",
+    "scale": "national broadcast",
+    "partners_or_agency": "Macy's",
+    "url": "https://moparinsiders.com/tag/parade-route",
+    "date": "2025",
+    "label": "INFERRED",
+    "type": "sponsorship"
+   },
+   {
+    "what": "'The Calling' campaign (J.J. Watt, Glen Powell), College Football Playoff sponsor, 'Never Stop Being American' campaign",
+    "where": "national",
+    "dates": "2025",
+    "scale": "national TV",
+    "partners_or_agency": "unknown",
+    "url": "https://finviz.com/news/80686/ram-brand-launches-never-stop-being-american-marketing-campaign-new-brand-ethos-nothing-stops-ram",
+    "date": "2025",
+    "label": "INFERRED",
+    "type": "content"
+   },
+   {
+    "what": "Built to Serve limited editions honoring firefighters, EMS, military",
+    "where": "US",
+    "dates": "2022-2023+",
+    "scale": "limited editions",
+    "partners_or_agency": "none",
+    "url": "https://motorweek.org/this_just_in/2022-ram-1500-built-to-serve-edition-honors-first-responders/",
+    "date": "2022",
+    "label": "INFERRED",
+    "type": "content"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_label": "UNVERIFIED (ramtrucks page 404; no quote obtained)",
+  "rawfetch_result": "ramtrucks.com/built-to-serve.html HTTP 404; forconstructionpros HTTP 403",
+  "pattern_agencies": "Big national sponsorships via Stellantis; agency not found.",
+  "marketing_trend": "No cut found; increased visibility through America250 (INFERRED).",
+  "decision_roles": [
+   "Ram Brand CEO/Head of Marketing",
+   "Stellantis North America CMO"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Fire-station or union-hall screening with a Ram truck presence, tied to Built to Serve first-responder lineage; likely requires dealer-level partnership.",
+  "competitors": "Ford (F-150), Chevrolet, GMC, Toyota; all sponsor trades/first-responder programs.",
+  "risks": "Stellantis sales and recall issues not researched; none verified.",
+  "ohio_presence": "Ohio dealer network (INFERRED); Toledo Jeep and Warren Ram-related plants (INFERRED, not verified).",
+  "passes_screen": true,
+  "unverified_notes": "National brand with big spend; likely corporate gatekeeping. No quote verified. Built to Serve theme aligns with rescue and first responders."
+ }
+]

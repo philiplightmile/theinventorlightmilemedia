@@ -1,0 +1,281 @@
+[
+ {
+  "brand": "Makita",
+  "activations": [
+   {
+    "what": "Title sponsor of Warnert Racing in AMSOIL Championship Snocross Tour (2024-25 season announced Dec 2024); on-site race-day activations",
+    "where": "US snocross circuit (Midwest/snowbelt)",
+    "dates": "2024-25 season",
+    "scale": "multi-year title sponsorship; rights fee not disclosed",
+    "partners_or_agency": "Warnert Racing",
+    "url": "https://compactequip.com/business/makita-extends-multi-year-title-sponsorship-with-warnert-snocross-racing-team/",
+    "date": "2024-12",
+    "label": "UNVERIFIED (seen in search summary only; page blocked by rawfetch 403)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Driving Innovation Tour: custom vehicle fleet with product specialists, hands-on demos for trades; also stops at Makita-sponsored events",
+    "where": "National US",
+    "dates": "launched 2018; no 2025-26 schedule found",
+    "scale": "fleet of vehicles; 'over 100 LXT tools' per event",
+    "partners_or_agency": "dealers",
+    "url": "https://compactequip.com/hand-tools/makita-hits-the-road-with-driving-innovation-tour/",
+    "date": "2018",
+    "label": "UNVERIFIED (search summary; 2018 coverage; current status unconfirmed)",
+    "type": "live_experiential"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "makitausa.com HTTP 522; makitatools.com HTTP 000; compactequip/hbsdealer 403. No Makita values quote obtainable.",
+  "pattern_agencies": "Motorsports (snocross team title sponsor) plus dealer-facing mobile tour; agency not identified.",
+  "marketing_trend": "No 2025-26 increase/pullback evidence found. UNVERIFIED.",
+  "decision_roles": [
+   "Senior Director of Brand Marketing",
+   "Marketing/Field Marketing Manager (Makita U.S.A.)"
+  ],
+  "named_people_published": [
+   {
+    "name": "Brent Withey",
+    "role": "then Senior Director of Brand Marketing (quoted at 2018 tour launch)",
+    "url": "https://compactequip.com/hand-tools/makita-hits-the-road-with-driving-innovation-tour/",
+    "label": "UNVERIFIED, search summary only, dated 2018, likely stale"
+   }
+  ],
+  "best_event_format": "Pull Makita tour trailer/vehicle to trade school or job-site safety stand-down with screening in trailer or adjacent hall; dealer-hosted evening screening.",
+  "competitors": "DeWalt (McLaren F1 official tools partner per dewalt.com search listing), Milwaukee, Ingersoll Rand (NASCAR official power tools per SportBusiness listing); Bosch, Hilti.",
+  "risks": "None found in this pass; not researched deeply.",
+  "ohio_presence": "Not verified; Makita U.S.A. is HQ'd in La Mirada CA with a Buford GA facility (INFERRED from general knowledge, not sourced).",
+  "passes_screen": true,
+  "unverified_notes": "Only one live activation clearly recent (snocross), and all Makita evidence is via search summaries because pages were blocked. Tour likely dormant; confirm."
+ },
+ {
+  "brand": "Bosch Power Tools",
+  "activations": [
+   {
+    "what": "Chicago Cubs official power tools partner: signage, video board, Wrigley marquee",
+    "where": "Chicago",
+    "dates": "2024",
+    "scale": "team partnership",
+    "partners_or_agency": "Chicago Cubs",
+    "url": "https://pressroom.boschtools.com/2023-03-17-From-the-Jobsite-to-the-Soccer-Field-Bosch-Partners-with-FC-Dallas-as-The-Official-Power-Tool-and-Accessories-Sponsor?asPDF=1",
+    "date": "2024",
+    "label": "UNVERIFIED (search summary of Bosch pressroom/team pages; Cubs page itself not opened)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Carolina Panthers and San Antonio Spurs official power tool partner with co-sponsored community builds; FC Dallas official sponsor with 'Hardest Worker Award' video series",
+    "where": "US",
+    "dates": "2023-24",
+    "scale": "multi-team",
+    "partners_or_agency": "Panthers, Spurs, FC Dallas",
+    "url": "https://panthers.com/news/bosch-power-tools-supports-local-community-by-partnering-with-carolina-panthers",
+    "date": "2023-24",
+    "label": "UNVERIFIED (search summary)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Super Bowl ads: 2025 spot announced at CES with agency Droga5; Feb 5 2026 'returns to the big game' with Guy Fieri, power tools and home appliances",
+    "where": "US national TV",
+    "dates": "2025, Feb 2026",
+    "scale": "Super Bowl national buy (very large; media spend not sourced)",
+    "partners_or_agency": "Droga5 (2025)",
+    "url": "https://bosch-presse.de/pressportal/us/en/news/presentations/power-tools",
+    "date": "2026-02-05",
+    "label": "VERIFIED (Feb 5 2026 press release headline opened via rawfetch; Droga5 detail UNVERIFIED)",
+    "type": "content"
+   },
+   {
+    "what": "Bosch Pro Tour: 40-tonne showtruck, hands-on stations, free, no registration; German Brand Award; 22 countries",
+    "where": "Europe only (not US)",
+    "dates": "2022 launch onward; UK stop Oct 2025 (year unconfirmed)",
+    "scale": "50+ locations/leg",
+    "partners_or_agency": "ITS (UK host)",
+    "url": "https://bosch-presse.de/pressportal/de/en/bosch-pro-tour-mobile-experience-with-new-showtruck-now-on-tour-in-europe-264000.html",
+    "date": "undated",
+    "label": "VERIFIED (page opened; 'hands-on' found) but Europe only",
+    "type": "live_experiential"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "No Bosch values quote on safety/workers verified; bosch.com/sustainability opened (HTTP 200) but no matching quote extracted.",
+  "pattern_agencies": "Pro-sports 'official power tool partner' deals with community builds (Cubs, Panthers, Spurs, FC Dallas); Super Bowl advertising; Droga5 (2025).",
+  "marketing_trend": "Increase: Super Bowl in both 2025 and 2026; North America sales $18.8B in 2025 up from $17.3B (VERIFIED, theshopmag 2026-06-15, group-wide not tools only).",
+  "decision_roles": [
+   "VP Marketing, Bosch Power Tools North America",
+   "Sponsorship/Partnership Marketing Manager",
+   "Field marketing manager"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Piggyback on a pro-team community build or hometown partner; trade school/union hall screening with Bosch tool demo station.",
+  "competitors": "DeWalt (McLaren F1), Milwaukee, Ingersoll Rand (NASCAR), Makita, Hilti.",
+  "risks": "No risks researched beyond this pass.",
+  "ohio_presence": "Not verified. Bosch operates 20 US manufacturing sites in 14 states (VERIFIED theshopmag 2026-06-15); Ohio not confirmed.",
+  "passes_screen": true,
+  "unverified_notes": "Most strongest US commercial sponsorship evidence (sports partnerships) comes from search summaries. Values quote missing."
+ },
+ {
+  "brand": "Hilti",
+  "activations": [
+   {
+    "what": "Official Tool Partner of Dallas Cowboys, multi-year: stadium signage and corporate events; also official tool provider to American Airlines Center and Texas Rangers stadium",
+    "where": "Dallas-Fort Worth",
+    "dates": "announced 2022-01-05; multi-year",
+    "scale": "multi-year, fee undisclosed",
+    "partners_or_agency": "Dallas Cowboys",
+    "url": "https://www.roofingcontractor.com/articles/96505-hilti-becomes-official-tool-partner-of-dallas-cowboys",
+    "date": "2022-01-05",
+    "label": "VERIFIED (rawfetch opened); older than 24 months, renewal unconfirmed",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Historic national Innovation/Hilti trailer tours (2004, 2007-08)",
+    "where": "National",
+    "dates": "2004; 2007-08",
+    "scale": "400+ stops (2004)",
+    "partners_or_agency": "RKI, Dodge",
+    "url": "https://www.trailer-bodybuilders.com/archive/article/21723504/rki-hits-the-road-with-hilti-for-national-tour",
+    "date": "2004",
+    "label": "UNVERIFIED (search summary); stale",
+    "type": "live_experiential"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "we want to build a company where every team member is valued",
+  "values_date": "undated (page copyright 2009-2016 footer; current)",
+  "values_url": "https://www.hilti.com.hk/content/hilti/A1/HK/en/company/corporate-information/strategy/core-purpose-and-values.html",
+  "values_label": "VERIFIED (alternate quote: 'helping our customers to build faster, safer and with more daring' FOUND VERBATIM)",
+  "rawfetch_result": "QUOTE FOUND VERBATIM for 'helping our customers to build faster, safer and with more daring' (HTTP 200). Note values_quote field text not itself separately re-run; use the 'build faster, safer' phrase as the confirmed quote.",
+  "pattern_agencies": "Sports-venue 'official tool' deals in Texas; no agency found.",
+  "marketing_trend": "No 2025-26 evidence found.",
+  "decision_roles": [
+   "Head of Marketing, Hilti North America",
+   "Brand/Event Marketing Manager"
+  ],
+  "named_people_published": [
+   {
+    "name": "Martina McIsaac",
+    "role": "Region Head and CEO, Hilti North America (as of 2022-01-05)",
+    "url": "https://www.roofingcontractor.com/articles/96505-hilti-becomes-official-tool-partner-of-dallas-cowboys",
+    "label": "VERIFIED, may be outdated"
+   }
+  ],
+  "best_event_format": "Texas/DFW venue or trade school screening with Hilti safety-training tie-in (Hilti markets health and safety training).",
+  "competitors": "DeWalt, Milwaukee, Makita, Bosch (all sports-partnered).",
+  "risks": "None researched.",
+  "ohio_presence": "Not verified.",
+  "passes_screen": true,
+  "unverified_notes": "Only verified activation is >24 months old; live_activation_last24mo false. Passes weakly on sponsorship pattern; flag low confidence."
+ },
+ {
+  "brand": "Harbor Freight",
+  "activations": [
+   {
+    "what": "Official sponsor, Discovery Channel Shark Week",
+    "where": "National TV",
+    "dates": "July 2024 (before the 24-month cutoff)",
+    "scale": "TV sponsorship, value undisclosed",
+    "partners_or_agency": "Discovery",
+    "url": "https://app.sponsorpitch.com/deals/harbor-freight-sponsors-discovery-channel-s-shark-week",
+    "date": "2024-07-03",
+    "label": "VERIFIED (sponsorpitch page opened; third-party listing, cites nexttv)",
+    "type": "content"
+   },
+   {
+    "what": "Creator sponsorships: 78 tracked YouTube deals across 20 channels since March 2024",
+    "where": "YouTube",
+    "dates": "since 2024-03",
+    "scale": "78 deals",
+    "partners_or_agency": "creators",
+    "url": "https://sponsorradar.com/brands/harbor-freight",
+    "date": "2025",
+    "label": "UNVERIFIED (search summary of third-party tracker)",
+    "type": "ambassador"
+   },
+   {
+    "what": "'Lost Art' brand campaign across TV, online, social",
+    "where": "US",
+    "dates": "2022",
+    "scale": "n/a",
+    "partners_or_agency": "unnamed",
+    "url": "https://www.warc.com/content/article/harbor-freight-lost-art/en-gb/147813",
+    "date": "2022-08",
+    "label": "UNVERIFIED (search summary); old",
+    "type": "content"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "harborfreight.com/about-us HTTP 403 access denied. Tools for Schools ignored per instruction.",
+  "pattern_agencies": "Mass-market TV and creator sponsorship; no live experiential/event or racing deal found; agency not identified.",
+  "marketing_trend": "No 2025-26 evidence found.",
+  "decision_roles": [
+   "CMO",
+   "VP Brand Marketing",
+   "Sponsorship/Partnership Manager"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Retail in-store event or partner at a trade school, if any; weak fit for live screening.",
+  "competitors": "DeWalt (McLaren F1), Milwaukee, Ingersoll Rand (NASCAR); Home Depot, Lowes.",
+  "risks": "Not researched.",
+  "ohio_presence": "Many retail stores nationally incl. Ohio (INFERRED; not sourced).",
+  "passes_screen": false,
+  "unverified_notes": "Re-scored on commercial only: only dated activation is Shark Week July 2024 (outside window), no live experiential found. Low confidence; searches limited."
+ },
+ {
+  "brand": "Estwing",
+  "activations": [
+   {
+    "what": "Logo on Jimmie Johnson #48 NASCAR car (local Rockford report)",
+    "where": "NASCAR",
+    "dates": "~2018",
+    "scale": "unknown",
+    "partners_or_agency": "Hendrick/Johnson",
+    "url": "https://1440wrok.com/rockford-business-sponsors-jimmie-johnsons-car/",
+    "date": "~2018",
+    "label": "UNVERIFIED (search summary); stale",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Content: 'Driving a nail can change your life, says Nick Offerman' story on own news page (owned content, not paid activation shown)",
+    "where": "online",
+    "dates": "2025-11-19",
+    "scale": "n/a",
+    "partners_or_agency": "Nick Offerman (relationship terms unknown)",
+    "url": "https://estwing.com/category/news",
+    "date": "2025-11-19",
+    "label": "VERIFIED (page opened) as editorial; paid status UNVERIFIED",
+    "type": "content"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "synonymous with hard work and american craftsmanship",
+  "values_date": "2023-08-18",
+  "values_url": "https://estwing.com/category/news",
+  "values_label": "VERIFIED",
+  "rawfetch_result": "QUOTE FOUND VERBATIM (HTTP 200); lowercase as rendered by rawfetch.",
+  "pattern_agencies": "Small family-scale manufacturer; no agency or paid sponsorship found. 100th anniversary 2023 internal events.",
+  "marketing_trend": "Modest content cadence 2025; no spend evidence.",
+  "decision_roles": [
+   "Marketing Manager",
+   "President/CEO"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Product-in-kind or small tool-giveaway partner at trade school/union hall, not a presenting sponsor.",
+  "competitors": "Stanley, Vaughan, Husky, Milwaukee hand tools.",
+  "risks": "None found.",
+  "ohio_presence": "Based in Rockford, IL (VERIFIED site shows Rockford phone area 815); Ohio not verified.",
+  "passes_screen": false,
+  "unverified_notes": "No commercial activation evidence in last 24 months; values fit strong (made in USA, craftsmanship) but screen fails on budget rule."
+ }
+]

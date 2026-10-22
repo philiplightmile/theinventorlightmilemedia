@@ -1,0 +1,236 @@
+[
+ {
+  "brand": "Filson",
+  "activations": [
+   {
+    "what": "Ford Bronco x Filson nationwide tour, 20+ cities, mostly at Filson stores",
+    "where": "North America incl. Cincinnati (Aug 22), Pittsburgh, Detroit Woodward Dream Cruise",
+    "dates": "Jul-Oct 2026",
+    "scale": "20+ cities",
+    "partners_or_agency": "Ford",
+    "url": "https://bronco6g.com/forum/threads/135477/",
+    "date": "2026",
+    "label": "UNVERIFIED (forum repost of Ford release; official page not opened)",
+    "type": "live_experiential"
+   },
+   {
+    "what": "Seattle Kraken / Climate Pledge Arena multi-year partnership; AR sweepstakes via SMT",
+    "where": "Seattle",
+    "dates": "announced Sep 2021; sweepstakes 2022-23",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://smartmediatech.io/case-studies/filson",
+    "date": "2022-23",
+    "label": "INFERRED (search snippet only; older than 24 months)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED - no quote obtained (filson.com about URLs guessed returned 404)",
+  "rawfetch_result": "404 on filson.com/about-us and /pages/our-story",
+  "pattern_agencies": "Co-branded experiential with Ford; sports-venue partnership (Kraken); SMT (Smart Media Tech) for activation. Not studied further.",
+  "marketing_trend": "No 2025-26 pullback/increase evidence found; 2026 Ford tour suggests active spend (UNVERIFIED).",
+  "decision_roles": [
+   "VP/Head of Marketing",
+   "Brand Partnerships / Events manager"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Store-hosted talkback / heritage-craft evening; outdoor/festival pairing",
+  "competitors": "Carhartt, Duluth Trading, Dickies; no competitor sponsorship of similar events checked",
+  "risks": "Not researched.",
+  "ohio_presence": "Ford tour had Cincinnati stop (Aug 22, 2026; UNVERIFIED). No Ohio store verified.",
+  "passes_screen": true,
+  "unverified_notes": "Fewer than 8 calls; tour details only from forum repost; no values quote. Fit is more outdoor/heritage than safety/trades."
+ },
+ {
+  "brand": "Snap-on",
+  "activations": [
+   {
+    "what": "Sponsor of Josh Hart Racing R+L Carriers Top Fuel dragster, expanded 2025",
+    "where": "NHRA",
+    "dates": "2025 season, announced PRI Show Dec 2024",
+    "scale": "",
+    "partners_or_agency": "Josh Hart Racing",
+    "url": "https://nhra.com/news/2024/josh-hart-racing-adds-snap-tools-2025-top-fuel-season",
+    "date": "2024",
+    "label": "VERIFIED page exists/contains Snap-on (rawfetch FOUND); details from search summary",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Snap-on NO COMPROMISE TOUR stops at select NHRA events",
+    "where": "NHRA venues",
+    "dates": "undated",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.aftermarketnews.com/?p=59213",
+    "date": "undated",
+    "label": "UNVERIFIED (undated; may be old)",
+    "type": "live_experiential"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED - none obtained (snapon.com/About-Us 404)",
+  "rawfetch_result": "snapon.com About-Us 404; nhra.com page FOUND 'Snap-on' only",
+  "pattern_agencies": "Long-running motorsports (NHRA, formerly NASCAR/IRL) plus franchisee tool-truck network; no agency identified.",
+  "marketing_trend": "Q3 2026 sales $1,183.7M, organic -2.8% (SEC 8-K Oct 22, 2026; reported by search summary, not opened). No marketing spend change found.",
+  "decision_roles": [
+   "CMO / VP Marketing",
+   "Motorsports / sponsorship manager"
+  ],
+  "named_people_published": [
+   "Nick Pinchuk, CEO (named in search results; no contact)"
+  ],
+  "best_event_format": "Tool-truck style mobile activation at trade schools / union training centers; NHRA-adjacent",
+  "competitors": "Matco, Mac Tools, Milwaukee; Craftsman (NASCAR)",
+  "risks": "Q3 2026 organic sales decline (SEC 8-K, 2026-10-22). No recalls found.",
+  "ohio_presence": "Not verified; franchisee vans widespread (INFERRED).",
+  "passes_screen": true,
+  "unverified_notes": "Fewer than 8 calls; no values quote; tour undated."
+ },
+ {
+  "brand": "Klein Tools",
+  "activations": [
+   {
+    "what": "First appearance at SEMA Show 2025, Booth 12964, with ASE-certified technician Faye Hadley autograph appearances",
+    "where": "Las Vegas",
+    "dates": "Nov 2025 (release dated 2025-10-10)",
+    "scale": "trade show booth",
+    "partners_or_agency": "",
+    "url": "https://www.semashow.com/node/985457",
+    "date": "2025-10-10",
+    "label": "VERIFIED (page opened; WebFetch + rawfetch)",
+    "type": "live_experiential"
+   },
+   {
+    "what": "Marketing partnership with Trade Hounds app (250,000+ trades members)",
+    "where": "Online",
+    "dates": "undated",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.phcppros.com/articles/14923-klein-tools-announces-new-marketing-partnership-with-trade-hounds",
+    "date": "undated",
+    "label": "UNVERIFIED (snippet)",
+    "type": "content"
+   },
+   {
+    "what": "Title electrical sponsor of Home Builders Institute electrical training",
+    "where": "National",
+    "dates": "2022",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://trainingindustry.com/press-release/workforce-development/klein-tools-partners-with-home-builders-institute-to-further-efforts-helping-young-people-pursue-careers/",
+    "date": "2022",
+    "label": "INFERRED (older than 24 mo; may be philanthropic)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "those who work with their hands",
+  "values_date": "2025-10-10",
+  "values_url": "https://www.semashow.com/node/985457",
+  "values_label": "VERIFIED",
+  "rawfetch_result": "QUOTE FOUND VERBATIM, HTTP 200",
+  "pattern_agencies": "Trade shows, training-org partnerships (IBEW/NECA/HBI donations ignored as charitable), trades media. No agency identified.",
+  "marketing_trend": "Expanding into automotive audience at SEMA 2025 (increase signal).",
+  "decision_roles": [
+   "VP Sales",
+   "Marketing/Brand manager"
+  ],
+  "named_people_published": [
+   "Todd Tatara, Vice President of Sales (semashow.com/node/985457)"
+  ],
+  "best_event_format": "Electrician/IBEW apprentice training center screening with tool demo",
+  "competitors": "Milwaukee, Fluke, Knipex, Ideal; unconfirmed",
+  "risks": "No recall/litigation found in one search.",
+  "ohio_presence": "Not verified.",
+  "passes_screen": true,
+  "unverified_notes": "Best-fit values quote of the batch. Fewer than 8 calls."
+ },
+ {
+  "brand": "Craftsman",
+  "activations": [
+   {
+    "what": "Title sponsor NASCAR Craftsman Truck Series, from 2023; Stanley Black & Decker Official Tools Partner of NASCAR (multi-year)",
+    "where": "US tracks",
+    "dates": "2023-",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.nascar.com/?p=364089",
+    "date": "2022-08",
+    "label": "INFERRED (nascar.com 403 to rawfetch; 2025 renewal not confirmed)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Official tools sponsor of six MLB teams, VIP experiences honoring tradespeople",
+    "where": "MLB parks",
+    "dates": "2022 season",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.stanleyblackanddecker.com/node/4831",
+    "date": "2022",
+    "label": "UNVERIFIED (older than 24 mo; page unreachable by rawfetch)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED - none obtained",
+  "rawfetch_result": "craftsman.com/about 404/empty; SBD node HTTP 000",
+  "pattern_agencies": "Parent Stanley Black & Decker; NASCAR and MLB rights deals. Agency not identified.",
+  "marketing_trend": "SBD 2025 restructuring $89M and plant closures, tariffs; plans to use tariff refunds to accelerate growth investment (10-Q FY2026 via search; not opened).",
+  "decision_roles": [
+   "Craftsman brand marketing lead (SBD)",
+   "Sports marketing"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Trade-school/job-site tie-in via SBD",
+  "competitors": "Snap-on, Milwaukee, DeWalt (same parent)",
+  "risks": "SBD layoffs/plant closure New Britain CT (ctmirror, Feb 2026).",
+  "ohio_presence": "Not verified.",
+  "passes_screen": false,
+  "unverified_notes": "No confirmed last-24-month activation found (2025-26 Truck Series sponsorship unconfirmed); flagged false pending verification. Fewer than 8 calls."
+ },
+ {
+  "brand": "Ryobi",
+  "activations": [
+   {
+    "what": "Home Depot-exclusive retail brand; RYOBI Days promotion (older)",
+    "where": "US Home Depot",
+    "dates": "2016 award",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.webaward.org/iac/winner/16118/techtronic-industries-power-equipment-wins-2016-iac-award-for-ryobi-days.html",
+    "date": "2016",
+    "label": "INFERRED (old)",
+    "type": "retail_event"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": null,
+  "values_date": null,
+  "values_url": null,
+  "values_label": "UNVERIFIED - none obtained",
+  "rawfetch_result": "ryobitools.com/about 404",
+  "pattern_agencies": "Via TTI and Home Depot; no sponsorships found.",
+  "marketing_trend": "TTI 2025: Ryobi +5.4% local currency (Mar 2026 results via search, not opened).",
+  "decision_roles": [
+   "TTI Consumer Power Tools marketing",
+   "Home Depot vendor marketing"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Home Depot store workshop (not natural)",
+  "competitors": "DeWalt, Milwaukee (same parent), Craftsman",
+  "risks": "2025 CPSC recalls: mowers Feb 6 (217,500), hedge trimmers Jun 12 (113,000), pressure washers Aug 28 (~780,000, injuries) - cpsc.gov/Recalls/2025.",
+  "ohio_presence": "Not verified.",
+  "passes_screen": false,
+  "unverified_notes": "No commercial activation in last 24 months found; heavy 2025 recalls. Fewer than 8 calls."
+ }
+]

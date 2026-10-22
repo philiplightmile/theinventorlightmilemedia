@@ -1,0 +1,286 @@
+[
+ {
+  "brand": "Channellock",
+  "activations": [
+   {
+    "what": "Trades 101 landing page aimed at young people entering trades (search snippet; not a sponsorship)",
+    "where": "online",
+    "dates": "unknown",
+    "scale": "unknown",
+    "partners_or_agency": "",
+    "url": "https://en.wikipedia.org/wiki/Channellock",
+    "date": "unknown",
+    "label": "INFERRED",
+    "type": "content"
+   },
+   {
+    "what": "Past 'Fiercely Made in Meadville' plant event (2014, old)",
+    "where": "Meadville PA",
+    "dates": "2014",
+    "scale": "unknown",
+    "partners_or_agency": "",
+    "url": "https://www.supplyht.com/articles/98004-on-the-road-with-supply-house-times-channellocks-2014-fiercely-made-in-meadville-event",
+    "date": "2014",
+    "label": "UNVERIFIED",
+    "type": "live_experiential"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "https://www.channellock.com/about-us/",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "channellock.com/about-us/ HTTP 404 (nav shows 'by trade: first responders, linemen'); no quote retrievable",
+  "pattern_agencies": "No agency or sponsorship rights evidence found.",
+  "marketing_trend": "Unknown; no data found.",
+  "decision_roles": [
+   "VP Sales & Marketing (Ryan DeArment per hardwareretailing.com plant expansion release, UNVERIFIED page not opened)"
+  ],
+  "named_people_published": [
+   {
+    "name": "Ryan DeArment",
+    "title": "VP Sales and Marketing",
+    "url": "https://hardwareretailing.com/tag/ryan-dearment/",
+    "label": "UNVERIFIED (search snippet)"
+   }
+  ],
+  "best_event_format": "Meadville PA plant/heritage tie-in; trade-school and first responder demo",
+  "competitors": "Klein Tools, Knipex, Milwaukee; not confirmed sponsoring similar events",
+  "risks": "None found; not searched deeply",
+  "ohio_presence": "Meadville PA is near Ohio border; Ohio presence otherwise unverified",
+  "passes_screen": false,
+  "unverified_notes": "No commercial activation within 24 months found. Strong values fit (made in USA, trades, first responders) but screen fails on evidence."
+ },
+ {
+  "brand": "Stihl",
+  "activations": [
+   {
+    "what": "STIHL TIMBERSPORTS 2026 season opener: North American Trophy, Women's Cup, Hot Saw Showdown",
+    "where": "Jackalope Festival, Virginia Beach VA",
+    "dates": "May 29-31, 2026",
+    "scale": "unknown",
+    "partners_or_agency": "Jackalope Festival",
+    "url": "https://www.stihlusa.com/en/support-events/about-stihl/press/2026-stihl-timbersports-opens-at-jackalope-va-beach",
+    "date": "May 29-31, 2026",
+    "label": "VERIFIED (search summary of press release; page not opened)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "STIHL TIMBERSPORTS U.S. Championships",
+    "where": "Milwaukee WI",
+    "dates": "July 2026",
+    "scale": "unknown",
+    "partners_or_agency": "",
+    "url": "https://www.stihlusa.com/about-stihl/press/",
+    "date": "July 2026",
+    "label": "INFERRED",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Equip Expo 2025 booth with immersive experiences",
+    "where": "Louisville KY",
+    "dates": "Oct 22-24, 2025",
+    "scale": "unknown",
+    "partners_or_agency": "",
+    "url": "https://www.stihlusa.com/about-stihl/press/media-contact/",
+    "date": "Oct 22-24, 2025",
+    "label": "VERIFIED (press listing opened)",
+    "type": "live_experiential"
+   },
+   {
+    "what": "Team Rubicon partnership (disaster recovery)",
+    "where": "US",
+    "dates": "Aug 2025",
+    "scale": "unknown",
+    "partners_or_agency": "",
+    "url": "https://www.stihlusa.com/about-stihl/press/media-contact/",
+    "date": "Aug 2025",
+    "label": "INFERRED",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "there must be a way to make working in the forest easier.",
+  "values_date": "2026-10-22 (page fetched)",
+  "values_url": "https://www.stihlusa.com/about-stihl/",
+  "values_label": "VERIFIED",
+  "rawfetch_result": "QUOTE FOUND VERBATIM; also verbatim: 'committed to improving the work of those who rely on our tools'",
+  "pattern_agencies": "Long history of title/presenting deals (Reno air races, British Superbike, WTCC); owns TIMBERSPORTS series. Agencies not found.",
+  "marketing_trend": "Active 2025-26: new AllPro battery launch Aug 2026, TIMBERSPORTS expanded women's events. No pullback found.",
+  "decision_roles": [
+   "Marketing/Events director",
+   "Sponsorship manager",
+   "President (Sean McGinnis, named Oct 2026 per stihlusa.com press listing)"
+  ],
+  "named_people_published": [
+   {
+    "name": "Sean McGinnis",
+    "title": "President, STIHL Inc.",
+    "url": "https://www.stihlusa.com/about-stihl/press/media-contact/",
+    "label": "VERIFIED (listing)"
+   }
+  ],
+  "best_event_format": "Workers/trades demo or TIMBERSPORTS-style show paired with screening at fairs, trade schools, forestry/arborist events",
+  "competitors": "Husqvarna, Echo, Dewalt; Husqvarna sponsors golf/motocross",
+  "risks": "Recalls & notices page exists on stihlusa.com; not reviewed. Executive transition Oct 2026.",
+  "ohio_presence": "Not verified; US HQ Virginia Beach VA",
+  "passes_screen": true,
+  "unverified_notes": "Contacts titles are generic. Press summaries from search not all opened."
+ },
+ {
+  "brand": "Husqvarna",
+  "activations": [
+   {
+    "what": "DP World Tour: Irish Open, BMW International Open partnership with product showcases and hospitality; British Masters title sponsor",
+    "where": "Europe",
+    "dates": "multi-year, date unconfirmed",
+    "scale": "unknown",
+    "partners_or_agency": "",
+    "url": "https://www.sportcal.com/news/dp-world-tour-and-husqvarna-in-three-tournament-sponsorship-deal/",
+    "date": "multi-year, date unconfirmed",
+    "label": "UNVERIFIED (403, search summary only)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Husqvarna Trek 2025 owner ride (Husqvarna Mobility motorcycles, different company)",
+    "where": "Portugal",
+    "dates": "Oct 6-10, 2025",
+    "scale": "unknown",
+    "partners_or_agency": "",
+    "url": "https://www.motofichas.com/noticias/7164-husqvarna-trek-2025-tres-dias-para-disfrutar-en-la-serra-da-estrela-de-portugal/amp",
+    "date": "Oct 6-10, 2025",
+    "label": "UNVERIFIED",
+    "type": "live_experiential"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "https://www.husqvarna.com/us/about-husqvarna/",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "HTTP 200 but only nav menu captured; no values quote",
+  "pattern_agencies": "Golf sponsorships in Europe; US activation not found. Motorcycle sponsorships belong to separate Husqvarna Mobility (not Forest & Garden).",
+  "marketing_trend": "Husqvarna Group Q2 2025: North America weak, cost-saving program; Q2 2026 North America recovery (placera.se, tipranks summaries).",
+  "decision_roles": [
+   "Head of Marketing North America",
+   "Brand/event manager"
+  ],
+  "named_people_published": [
+   {
+    "name": "Glen Instone",
+    "title": "CEO, Husqvarna Group",
+    "url": "https://www.husqvarnagroup.com/",
+    "label": "UNVERIFIED (search snippet)"
+   }
+  ],
+  "best_event_format": "Pro landscaper/arborist demo day",
+  "competitors": "Stihl (TIMBERSPORTS), Echo, Toro",
+  "risks": "Weak North America demand 2025",
+  "ohio_presence": "Not verified",
+  "passes_screen": false,
+  "unverified_notes": "No US commercial activation in last 24 months confirmed; Europe golf deals only. Could be rechecked."
+ },
+ {
+  "brand": "YETI",
+  "activations": [
+   {
+    "what": "Freeride World Tour five-year renewal; title partner of YETI Xtreme Verbier, Alaska Haines Pro, junior championships",
+    "where": "Global",
+    "dates": "announced Nov 10, 2025",
+    "scale": "unknown",
+    "partners_or_agency": "",
+    "url": "https://www.freerideworldtour.com/news-videos/fwt-and-yeti-renew-multi-year-global-partnership",
+    "date": "announced Nov 10, 2025",
+    "label": "VERIFIED",
+    "type": "sponsorship"
+   },
+   {
+    "what": "CrossFit Games official drinkware/cooler through 2027; Community Cup presenting sponsor",
+    "where": "US",
+    "dates": "through 2027",
+    "scale": "unknown",
+    "partners_or_agency": "",
+    "url": "https://athletechnews.com/crossfit-yeti-extend-partnership",
+    "date": "through 2027",
+    "label": "UNVERIFIED (snippet)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Natural Selection Tour title partner DUELS and Revelstoke",
+    "where": "Revelstoke",
+    "dates": "2025",
+    "scale": "unknown",
+    "partners_or_agency": "",
+    "url": "https://shop-eat-surf-outdoor.com/?p=136882",
+    "date": "2025",
+    "label": "UNVERIFIED (snippet)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Q4 2025 high-impact campaigns, 240M impressions; 400M targeted spring 2026",
+    "where": "US",
+    "dates": "Q4 2025",
+    "scale": "unknown",
+    "partners_or_agency": "",
+    "url": "https://www.aol.com/articles/yeti-yeti-q4-2025-earnings-160857157.html",
+    "date": "Q4 2025",
+    "label": "UNVERIFIED (snippet)",
+    "type": "media_spend_estimate"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "https://www.yeti.com/about-us",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "yeti.com HTTP 403 blocked",
+  "pattern_agencies": "Action sports, golf, fishing, surf/rodeo sponsorships; agency not found.",
+  "marketing_trend": "Increase: higher marketing spend cited in Q4 2025 results (AOL transcript, Yahoo summary); tariffs pressure margins.",
+  "decision_roles": [
+   "CMO",
+   "Director of Sponsorships/Events"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Co-branded hydration station at festivals, fairs, trade shows; 'built for the workers' content",
+  "competitors": "Stanley, Hydro Flask, RTIC, Coleman",
+  "risks": "Tariff margin pressure; CEO transition mentioned in Barchart title (unread)",
+  "ohio_presence": "Not verified",
+  "passes_screen": true,
+  "unverified_notes": "Brand skews recreational; values quote not obtained. Check YETI Built For The Working Man style content."
+ },
+ {
+  "brand": "Coleman",
+  "activations": [
+   {
+    "what": "Kane Brown official ambassador, multi-year; official sponsor of The High Road tour",
+    "where": "US tour",
+    "dates": "date not confirmed",
+    "scale": "unknown",
+    "partners_or_agency": "",
+    "url": "https://www.aol.com/kane-brown-announces-surprising-partnership-164739039.html",
+    "date": "date not confirmed",
+    "label": "UNVERIFIED (search summary; page 404 via rawfetch)",
+    "type": "ambassador"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "https://www.coleman.com/about-us",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "coleman.com HTTP 403 Cloudflare",
+  "pattern_agencies": "Parent Newell Brands; agencies not found.",
+  "marketing_trend": "Newell 2026 plans reportedly highest-ever A&P (aggregator, UNVERIFIED) amid 900+ role cuts Dec 2025 and ~$180M tariff cost (SEC filings per search).",
+  "decision_roles": [
+   "Newell Outdoor & Recreation marketing lead",
+   "Coleman brand manager"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Camp-style family event at fairs/festivals",
+  "competitors": "YETI, Igloo, Stanley",
+  "risks": "Newell layoffs, tariffs, restructuring of Outdoor segment",
+  "ohio_presence": "Not verified",
+  "passes_screen": false,
+  "unverified_notes": "Tour date not confirmed so 24-month activation unproven; theme fit weak."
+ }
+]

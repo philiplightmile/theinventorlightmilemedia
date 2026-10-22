@@ -1,0 +1,259 @@
+[
+ {
+  "brand": "Ariat",
+  "activations": [
+   {
+    "what": "Renewed multi-year Official Equestrian Apparel/Footwear partnership with US Equestrian",
+    "where": "US",
+    "dates": "2025-04",
+    "scale": "",
+    "partners_or_agency": "US Equestrian",
+    "url": "https://usequestrian.org/media/press-releases/us-equestrian-renews-longstanding-partnership",
+    "date": "2025-04",
+    "label": "INFERRED (search snippet only; page 403 to rawfetch)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Ariat Texas Rattlers PBR team naming; Chevron Showdown presented by team",
+    "where": "Odessa TX",
+    "dates": "2024",
+    "scale": "",
+    "partners_or_agency": "PBR, Chevron",
+    "url": "https://www.aol.com/news/chevron-ariat-texas-rattlers-bringing-154600020.html",
+    "date": "2024",
+    "label": "INFERRED",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Official boot partner Dickies Arena / western apparel partner Fort Worth Stock Show & Rodeo",
+    "where": "Fort Worth TX",
+    "dates": "2023-01",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://blog.iavm.org/ariat-announces-new-partnership-with-dickies-arena-and-fort-worth-stock-show-rodeo/",
+    "date": "2023-01",
+    "label": "INFERRED (outside 24mo)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": true,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_label": "UNVERIFIED - no worker/safety quote verified",
+  "rawfetch_result": "ariat.com/about returned 429 / homepage nav only; US Equestrian 403",
+  "pattern_agencies": "Heavy western/equestrian/rodeo sponsorships (PBR, PRCA-type, stock shows, USEF). Agency not found.",
+  "marketing_trend": "No 2025-26 pullback or increase found (UNVERIFIED).",
+  "decision_roles": [
+   "VP Marketing",
+   "Sponsorship/Events Manager",
+   "Brand Partnerships"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Rodeo/fair/stock show tie-in; work-boot line screening at fairs",
+  "competitors": "Justin, Tony Lama, Wolverine; Justin sponsors rodeo too",
+  "risks": "None found in this pass",
+  "ohio_presence": "Ohio retail and state fair/rodeo reach likely (INFERRED)",
+  "passes_screen": true,
+  "unverified_notes": "Worker-values quote not obtained; Ariat leans western/equestrian, weaker fit."
+ },
+ {
+  "brand": "Justin Brands",
+  "activations": [
+   {
+    "what": "Presenting sponsor of Road to the Horse broadcast/Tailgate; The Justin Studio on Cowboy Channel",
+    "where": "US",
+    "dates": "2021",
+    "scale": "",
+    "partners_or_agency": "The Cowboy Channel",
+    "url": "https://thecowboychannel.com/justin-boots-and-the-cowboy-channel-announce-collaborative-partnership",
+    "date": "2021",
+    "label": "INFERRED (rawfetch 403; outside 24mo)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Fort Worth Stock Show & Rodeo sponsor",
+    "where": "Fort Worth TX",
+    "dates": "2019 listing",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://app.sponsorpitch.com/deals/justin-boots-sponsors-fort-worth-stock-show-rodeo",
+    "date": "2019 listing",
+    "label": "INFERRED (outside 24mo)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "Team Justin rodeo athlete ambassador program",
+    "where": "US",
+    "dates": "undated",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://en.wikipedia.org/wiki/Justin_Boots",
+    "date": "undated",
+    "label": "INFERRED",
+    "type": "ambassador"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "Cowboy Channel 403; no values page read",
+  "pattern_agencies": "PRCA/WPRA, AQHA, Cowboy Channel, stock shows; Berkshire Hathaway subsidiary",
+  "marketing_trend": "No 2025-26 data found (UNVERIFIED).",
+  "decision_roles": [
+   "Marketing Director",
+   "Sponsorship Manager"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Rodeo/stock show",
+  "competitors": "Ariat, Tony Lama, Cavender's",
+  "risks": "None found",
+  "ohio_presence": "Unknown",
+  "passes_screen": false,
+  "unverified_notes": "No activation confirmed within last 24 months; sponsor evidence dated."
+ },
+ {
+  "brand": "Thorogood",
+  "activations": [
+   {
+    "what": "Official Boot Sponsor / National Conservation Partner, Union Sportsmen's Alliance (multi-year)",
+    "where": "US",
+    "dates": "c.2020 (undated)",
+    "scale": "",
+    "partners_or_agency": "Union Sportsmen's Alliance",
+    "url": "https://unionsportsmen.org/thorogood-joins-union-sportsmens-alliance-as-national-conservation-partner-and-official-boot-sponsor/",
+    "date": "c.2020 (undated)",
+    "label": "VERIFIED page opened (date unverified)",
+    "type": "sponsorship"
+   },
+   {
+    "what": "USA-made workwear collection launch, pre-orders May 21 2025",
+    "where": "US",
+    "dates": "2025-05",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://thorogoodusa.com/thorogood-workwear-launchs-usa-made-collection/",
+    "date": "2025-05",
+    "label": "INFERRED (search snippet)",
+    "type": "content"
+   },
+   {
+    "what": "Tariff/American-made messaging campaign",
+    "where": "US",
+    "dates": "2025-04",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://thorogoodusa.com/thorogood-stands/",
+    "date": "2025-04",
+    "label": "VERIFIED",
+    "type": "content"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "quality American craftsmanship is worth investing in",
+  "values_date": "2025-04",
+  "values_url": "https://thorogoodusa.com/thorogood-stands/",
+  "values_label": "VERIFIED",
+  "rawfetch_result": "QUOTE FOUND VERBATIM (also union tradespeople quote on USA page found; Jeff Burns 'never wavered in our support of the american worker' seen in raw text)",
+  "pattern_agencies": "Union/trades-aligned sponsorship; agency not found",
+  "marketing_trend": "2025 American-made messaging push; spend unknown",
+  "decision_roles": [
+   "President",
+   "Marketing Director"
+  ],
+  "named_people_published": [
+   {
+    "name": "Jeff Burns",
+    "title": "President, Thorogood",
+    "url": "https://thorogoodusa.com/thorogood-stands/"
+   }
+  ],
+  "best_event_format": "Union hall / trade school screening with USA-made craftsmanship angle",
+  "competitors": "Danner, Red Wing, Wolverine, Carhartt",
+  "risks": "Tariff exposure (2025, own page)",
+  "ohio_presence": "Unknown (Wisconsin-based, Weinbrenner)",
+  "passes_screen": false,
+  "unverified_notes": "Strong values fit but no verified live activation in last 24 months; only union sponsorship, undated. Borderline."
+ },
+ {
+  "brand": "Danner",
+  "activations": [
+   {
+    "what": "Danner x New Balance American Pioneer Project 2 product collaboration",
+    "where": "Portland",
+    "dates": "2025",
+    "scale": "",
+    "partners_or_agency": "New Balance",
+    "url": "https://acquiremag.com/style/danner-new-balance-second-made-in-us-collaboration/",
+    "date": "2025",
+    "label": "INFERRED (rawfetch 404)",
+    "type": "content"
+   },
+   {
+    "what": "Portland Timbers Timbers 600 boot partnership",
+    "where": "Portland",
+    "dates": "2018",
+    "scale": "",
+    "partners_or_agency": "Portland Timbers",
+    "url": "https://www.mlssoccer.com/news/portland-timbers-team-danner-produce-timbers-600-hiking-boot",
+    "date": "2018",
+    "label": "INFERRED (old)",
+    "type": "sponsorship"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "https://www.danner.com/about-danner",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "about-danner page read (200) but no worker/safety quote extracted; only 'built to last' fragment",
+  "pattern_agencies": "Collabs, outdoor conservation; owned by Rocky Brands",
+  "marketing_trend": "Not found",
+  "decision_roles": [
+   "Brand Marketing Director"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Trade school/maker event",
+  "competitors": "Thorogood, Red Wing, Wolverine",
+  "risks": "None found",
+  "ohio_presence": "Parent Rocky Brands is Nelsonville, Ohio (INFERRED, not opened)",
+  "passes_screen": false,
+  "unverified_notes": "Collaboration is product, not sponsorship; no live activation found."
+ },
+ {
+  "brand": "KEEN Utility",
+  "activations": [
+   {
+    "what": "'Work Monumental. Live Monumental.' campaign with redesigned site",
+    "where": "US",
+    "dates": "undated",
+    "scale": "",
+    "partners_or_agency": "",
+    "url": "https://www.safetyandhealthmagazine.com/articles/15845-keen-inc",
+    "date": "undated",
+    "label": "INFERRED",
+    "type": "content"
+   }
+  ],
+  "live_activation_last24mo": false,
+  "values_quote": "",
+  "values_date": "",
+  "values_url": "https://www.contractormag.com/training/article/21241473/keen-utility-advances-women-in-the-trades-with-1m-pledge",
+  "values_label": "UNVERIFIED",
+  "rawfetch_result": "'Work Monumental' NOT FOUND on contractormag page",
+  "pattern_agencies": "She Builds $1M pledge (grant/charity - ignored per rules)",
+  "marketing_trend": "Not found",
+  "decision_roles": [
+   "Utility Marketing Lead"
+  ],
+  "named_people_published": [],
+  "best_event_format": "Trade school / tradeswomen event",
+  "competitors": "Timberland PRO, Wolverine, Carhartt",
+  "risks": "None found",
+  "ohio_presence": "Unknown",
+  "passes_screen": false,
+  "unverified_notes": "Only grant evidence found, which is excluded; no commercial activation verified."
+ }
+]
