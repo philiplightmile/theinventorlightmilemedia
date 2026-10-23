@@ -1,0 +1,9 @@
+batch_id,kind,brands,agent,output_file,status,verified_pass_rate,notes
+E01,enrich,Carhartt; Duluth Trading; Northern Tool; Timberland PRO; Rocky Boots,,brand_kb/batches/E01.json,pending,,
+E02,enrich,Klein Tools; Goodyear; Nationwide; FirstEnergy; Kubota,,brand_kb/batches/E02.json,pending,,
+E03,enrich,Snap-on; Bosch Power Tools; Pilot Flying J; 5.11 Tactical; Kenworth,,brand_kb/batches/E03.json,pending,,
+E04,enrich,Tractor Supply; Ram Trucks; Travelers; Polaris; Wolverine,,brand_kb/batches/E04.json,pending,,
+E05,enrich,John Deere; Wrangler; Red Wing Shoes; Yamaha; ADT,,brand_kb/batches/E05.json,pending,,
+E06,enrich,BRP Can-Am; Roto-Rooter; Ace Hardware; Michelin; Love's Travel Stops,,brand_kb/batches/E06.json,pending,,
+E07,enrich,Liberty Mutual; Nissan; Bobcat; Giant Eagle; Stihl,,brand_kb/batches/E07.json,pending,,
+E08,enrich,YETI; True Value; Scotts Miracle-Gro; New Balance; Valvoline,,brand_kb/batches/E08.json,pending,,
