@@ -52,9 +52,19 @@ for b in brands:
     br=c.execute("select hq,ohio_flag,ownership from brands where brand=?",(b,)).fetchone()
     ohio=5 if re.search(r"ohio|, oh\b|akron|columbus|cleveland|cincinnati|nelsonville",(br["hq"] or ""),re.I) else 3 if br["ohio_flag"]=="Y" else 1
     ohio_g="C" if (br["hq"] or br["ohio_flag"]) else "D"
+    OV={"GuideOne Insurance":{"activation":(12,"only activation is an undated Iowa State Fair sponsor listing; no in-window dated evidence")},
+        "Mahindra Tractors (US)":{"activation":(0,"discovery lead is 2011; NASCAR sponsorship ended; exiting Mitsubishi JV (E-batch N01 risks)")},
+        "FirstEnergy":{"risk":(3,"HB6 bribery settlement (Fox19 2024-08-14, verified) is Ohio's largest corruption case; reputational sensitivity for a local press-seeking sponsor; rule-based penalty undercounts it")}}
+    ovlog=[]
+    for k2,(pts2,why) in OV.get(b,{}).items():
+        if k2=="activation": act_pts=pts2
+        if k2=="risk": risk=pts2
+        ovlog.append((k2,pts2,why))
     comp=[("activation",act_pts,act_g),("values",val,v_g),("audience",aud,aud_g),("timing",tim,tim_g),("buyer",buy,buy_g),("risk",risk,risk_g),("ohio",ohio,ohio_g)]
     fit=sum(p for _,p,_ in comp);conf=sum(p*MULT[gr] for _,p,gr in comp)/max(1,fit);fin=fit*conf
     c.execute("insert into scores(brand,round,fit_score,evidence_confidence,final_score,weights_version,notes) values(?,3,?,?,?,?,?)",(b,fit,round(conf,3),round(fin,1),W["version"]," ".join(f"{n}={p}{gr}" for n,p,gr in comp)))
+    for k2,pts2,why in ovlog:
+        if not c.execute("select 1 from changelog where change=?",(f"override {b} {k2}={pts2}",)).fetchone(): c.execute("insert into changelog(date,change,reason,who) values('2026-10-23',?,?,'orchestrator')",(f"override {b} {k2}={pts2}",why))
     out.append((b,fit,round(conf,2),round(fin,1)))
 db.commit()
 out.sort(key=lambda x:-x[3])
