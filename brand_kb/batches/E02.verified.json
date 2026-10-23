@@ -1,0 +1,754 @@
+{
+ "results": [
+  {
+   "brand": "Klein Tools",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "SEMA Show 2025 first appearance, North Hall booth 12964 (ModBox, KNECT demos)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Klein Tools events calendar: on the road year-round at trade shows with live demonstrations",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Electric Expo Philadelphia 2026 exhibitor (free trade show, 2,000+ professionals)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Goodyear",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Goodyear Blimp 100th anniversary tour, 100+ cities incl. Buy for a Chance to Fly sweepstakes",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Goodyear Blimp and exhibitor booth #489 at EAA AirVenture Oshkosh 2026",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  },
+  {
+   "brand": "Nationwide",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Nominate Your Fire Department grain rescue tube contest and Grain Bin Safety Week",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Columbus Crew ownership group (minority stake) and jersey sponsor; centennial year",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Sponsorship portfolio: Blue Jackets naming rights, Clippers, NFL Walter Payton Man of the Year, Dale Jr.",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "FirstEnergy",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Presenting sponsor, Akron Marathon, Half Marathon and Team Relay, through 2027 (Experience the Energy branding)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Three-year sponsorship renewal; branded block party kits, finisher festival",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  },
+  {
+   "brand": "Kubota",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Official partner of NASCAR (tractor, construction, compact, utility vehicle), multi-year from 2026; NASCAR San Diego Weekend sponsor",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Title sponsor Olympus Rally and major sponsor American Rally Association 2026",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  }
+ ],
+ "batch": [
+  {
+   "brand": "Klein Tools",
+   "parent": "Klein Tools, Inc. (privately held, Klein family)",
+   "domain": "kleintools.com",
+   "hq": "Lincolnshire, IL",
+   "ownership": "private (family-owned)",
+   "category": "Tools & equipment",
+   "competitors": [
+    "Milwaukee Tool",
+    "Fluke",
+    "Knipex",
+    "Ideal Industries",
+    "Southwire"
+   ],
+   "ohio_note": "No Ohio HQ; sells through distributors and Lowe's statewide; IBEW/JATC training ties are national.",
+   "quote": {
+    "text": "for nearly 170 years, Klein Tools has served those who work with their hands - from electricians and fabricators to technicians and builders",
+    "url": "https://www.semashow.com/node/985457",
+    "date_of_source": "2025-10-10",
+    "speaker": "Klein Tools (SEMA Show press release)",
+    "source_type": "partner site"
+   },
+   "activations": [
+    {
+     "type": "live_experiential",
+     "event_or_property": "SEMA Show 2025 first appearance, North Hall booth 12964 (ModBox, KNECT demos)",
+     "location": "Las Vegas, NV",
+     "dates": "Nov 2025 (release 2025-10-10)",
+     "scale": "trade show booth; spend undisclosed",
+     "partner_or_agency": "SEMA",
+     "source_url": "https://www.semashow.com/node/985457",
+     "date_of_source": "2025-10-10",
+     "source_type": "partner site",
+     "proof_snippet": "will make its first appearance at SEMA Show 2025",
+     "verification": "A"
+    },
+    {
+     "type": "live_experiential",
+     "event_or_property": "Klein Tools events calendar: on the road year-round at trade shows with live demonstrations",
+     "location": "US",
+     "dates": "2026 (page undated; retrieved 2026-10-23)",
+     "scale": "multiple trade shows",
+     "partner_or_agency": "",
+     "source_url": "https://www.kleintools.com/content/events",
+     "date_of_source": "2026-10-23",
+     "source_type": "brand newsroom",
+     "proof_snippet": "participating in leading trade shows and industry events across the country",
+     "verification": "B"
+    },
+    {
+     "type": "live_experiential",
+     "event_or_property": "Electric Expo Philadelphia 2026 exhibitor (free trade show, 2,000+ professionals)",
+     "location": "King of Prussia, PA",
+     "dates": "2026-10-21 to 2026-10-22",
+     "scale": "2,000+ professionals",
+     "partner_or_agency": "Electrical Association of Philadelphia",
+     "source_url": "https://electricexpo.org/attend/",
+     "date_of_source": "2026-10-23",
+     "source_type": "event listing",
+     "proof_snippet": "Kinsley Power Systems Klein Tools Knipex Tools Kohler Generators",
+     "verification": "B"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "SEMA Show 2025 (exhibitor)",
+    "Electric Expo Philadelphia 2026 (exhibitor)",
+    "Home Builders Institute electrical programs (title electrical sponsor, 2022, older)",
+    "Trade Hounds app marketing partnership (2022, older)"
+   ],
+   "roles": [
+    {
+     "title": "Vice President of Sales",
+     "team": "Sales",
+     "name": "Todd Tatara",
+     "source_url": "https://www.semashow.com/node/985457",
+     "proof_snippet": "Todd Tatara, vice president of sales",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Strong: electrician/IBEW-JATC and trade-school audiences are core; already does live demos at shows. Pitch as presenting sponsor of apprentice-night screenings with a tool demo table.",
+   "risks": [],
+   "marketing_trend_2025_26": "Expanding beyond core electrical into automotive (first SEMA) and modular storage/KNECT; favors trade-show presence over big sponsorship rights. No NASCAR-scale deals found.",
+   "ladder_log": [
+    {
+     "url": "https://www.semashow.com/node/985457",
+     "rung": "direct",
+     "result": "200, verbatim"
+    },
+    {
+     "url": "https://www.kleintools.com/content/events",
+     "rung": "direct",
+     "result": "200, verbatim"
+    },
+    {
+     "url": "https://electricexpo.org/attend/",
+     "rung": "direct",
+     "result": "200"
+    },
+    {
+     "url": "https://2026congress.nsc.org/?page_id=2424",
+     "rung": "direct",
+     "result": "200; Klein not in text, not used"
+    },
+    {
+     "url": "https://www.kleintools.com/content/klein-tools-partners-ibew-neca-and-electrical-training-alliance-training-and-educational-programs",
+     "rung": "direct",
+     "result": "200; 2016 donation, ignored"
+    },
+    {
+     "url": "WebSearch Klein sponsorship 2025/2026",
+     "rung": "trade press",
+     "result": "no 2026 sponsorship deals found"
+    }
+   ],
+   "notes_unverified": "Prior Trade Hounds and HBI items are 2022 and from search results only (D). NSC Safety Congress 2026 Booth 631 seen only in search snippet. No contacts found beyond Tatara."
+  },
+  {
+   "brand": "Goodyear",
+   "parent": "The Goodyear Tire & Rubber Company",
+   "domain": "goodyear.com",
+   "hq": "Akron, OH",
+   "ownership": "public (NASDAQ: GT)",
+   "category": "Auto, truck & mobility",
+   "competitors": [
+    "Bridgestone",
+    "Michelin",
+    "Cooper (Goodyear-owned)",
+    "Firestone"
+   ],
+   "ohio_note": "HQ Akron; airship base in Suffield/Akron OH; blimp is a local icon.",
+   "quote": {
+    "text": "Since 1983, Goodyear has recognized professional drivers who go beyond their daily responsibilities to protect others and keep our highways safe.",
+    "url": "https://finviz.com/news/244202/goodyear-launches-search-for-2025s-most-heroic-truck-drivers",
+    "date_of_source": "2025-12-03",
+    "speaker": "Goodyear (press release)",
+    "source_type": "wire mirror"
+   },
+   "activations": [
+    {
+     "type": "live_experiential",
+     "event_or_property": "Goodyear Blimp 100th anniversary tour, 100+ cities incl. Buy for a Chance to Fly sweepstakes",
+     "location": "North America and Europe",
+     "dates": "2025 (began Jan 1, 2025 Rose Bowl)",
+     "scale": "100+ cities",
+     "partner_or_agency": "Goodyear",
+     "source_url": "https://abcnews4.com/news/offbeat/goodyear-blimp-celebrating-100-years-with-tour-across-us-flight-giveaway-airspace-aircraft-events-olympics-super-bowl-songs-movies-television-shows-military-world-war-ii-history-anniversary",
+     "date_of_source": "2025-01-02",
+     "source_type": "trade press",
+     "proof_snippet": "flying through more than 100 cities across north america and europe",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Goodyear Blimp and exhibitor booth #489 at EAA AirVenture Oshkosh 2026",
+     "location": "Oshkosh, WI",
+     "dates": "2026-07-20 to 2026-07-26 (blimp arrives 2026-07-23)",
+     "scale": "airshow",
+     "partner_or_agency": "EAA",
+     "source_url": "https://www.aviationpros.com/aircraft-maintenance-technology/aircraft-technology/press-release/55388747/goodyear-blimp-announces-return-appearance-at-eaa-airventure-oshkosh-2026",
+     "date_of_source": "2026-07-06",
+     "source_type": "trade press",
+     "proof_snippet": "exhibitor display at booth #489 in main aircraft display",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "Publicis Groupe (global integrated AOR; BBH USA leads creative)",
+    "source_url": "https://www.adweek.com/agencies/wheels-up-goodyear-names-publicis-groupe-integrated-global-aor/",
+    "proof_snippet": "consolidating its global integrated account with Publicis Groupe as agency of record",
+    "date_of_source": "2025 (page undated; exact date unverified)"
+   },
+   "sponsored_properties": [
+    "Goodyear Blimp appearances (sports, festivals)",
+    "EAA AirVenture Oshkosh",
+    "Cotton Bowl (older)",
+    "NASCAR (older)"
+   ],
+   "roles": [
+    {
+     "title": "SVP and Global Chief Marketing Officer",
+     "team": "Marketing",
+     "name": "Will Roland",
+     "source_url": "https://www.adweek.com/agencies/wheels-up-goodyear-names-publicis-groupe-integrated-global-aor/",
+     "proof_snippet": "senior vice president and global chief marketing officer Will Roland",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Good: Akron safety/trucking heritage; blimp base and driver recognition programs fit a first-responder or trucker-safety screening. Rubber and hood parallel (Morgan and traffic signal) is a natural story hook.",
+   "risks": [],
+   "marketing_trend_2025_26": "Consolidated agencies under Publicis in 2025, shifting to a brand reset; heavy use of the blimp as an experiential asset during centennial.",
+   "ladder_log": [
+    {
+     "url": "https://abcnews4.com/news/offbeat/goodyear-blimp-celebrating-100-years-with-tour-across-us-flight-giveaway-airspace-aircraft-events-olympics-super-bowl-songs-movies-television-shows-military-world-war-ii-history-anniversary",
+     "rung": "trade press",
+     "result": "200, verbatim"
+    },
+    {
+     "url": "https://www.aviationpros.com/aircraft-maintenance-technology/aircraft-technology/press-release/55388747/goodyear-blimp-announces-return-appearance-at-eaa-airventure-oshkosh-2026",
+     "rung": "trade press",
+     "result": "200, verbatim"
+    },
+    {
+     "url": "https://www.adweek.com/agencies/wheels-up-goodyear-names-publicis-groupe-integrated-global-aor/",
+     "rung": "trade press",
+     "result": "200, verbatim; undated"
+    },
+    {
+     "url": "https://finviz.com/news/244202/goodyear-launches-search-for-2025s-most-heroic-truck-drivers",
+     "rung": "wire mirror",
+     "result": "verbatim"
+    },
+    {
+     "url": "https://www.tirereview.com/?p=188470",
+     "rung": "trade press",
+     "result": "403"
+    }
+   ],
+   "notes_unverified": "Airbnb pop-up and Cotton Bowl items from prior round remain D. Will Roland start date Aug 2024 from search result only. No media spend source found."
+  },
+  {
+   "brand": "Nationwide",
+   "parent": "Nationwide Mutual Insurance Company",
+   "domain": "nationwide.com",
+   "hq": "Columbus, OH",
+   "ownership": "mutual (policyholder-owned)",
+   "category": "Consumer insurance",
+   "competitors": [
+    "State Farm",
+    "Progressive",
+    "Erie",
+    "Farm Bureau Insurance",
+    "Liberty Mutual"
+   ],
+   "ohio_note": "Columbus HQ; naming rights Nationwide Arena; Crew, Blue Jackets, Clippers sponsor; centennial year 2026.",
+   "quote": {
+    "text": "Nationwide remains committed to preventing these tragedies by equipping local first responders with the life-saving rescue tools and training they need",
+    "url": "https://news.nationwide.com/more-grain-more-risk-nominate-first-responders-for-lifesaving-grain-rescue-tools/",
+    "date_of_source": "2026-02-12",
+    "speaker": "Nationwide (news release)",
+    "source_type": "brand newsroom"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Nominate Your Fire Department grain rescue tube contest and Grain Bin Safety Week",
+     "location": "US rural; Ohio partners",
+     "dates": "contest open until 2026-04-30",
+     "scale": "452 tubes, 35 states, 16 lives saved (company claim)",
+     "partner_or_agency": "NECAS",
+     "source_url": "https://news.nationwide.com/more-grain-more-risk-nominate-first-responders-for-lifesaving-grain-rescue-tools/",
+     "date_of_source": "2026-02-12",
+     "source_type": "brand newsroom",
+     "proof_snippet": "nominate your fire department contest is now open until april 30, 2026",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Columbus Crew ownership group (minority stake) and jersey sponsor; centennial year",
+     "location": "Columbus, OH",
+     "dates": "2026-06-25",
+     "scale": "major rights/ownership",
+     "partner_or_agency": "Haslam Sports Group",
+     "source_url": "https://www.prnewswire.com/news-releases/nationwide-joins-columbus-crew-ownership-group-302810835.html",
+     "date_of_source": "2026-06-25",
+     "source_type": "wire mirror",
+     "proof_snippet": "Nationwide announced today that it is joining the Columbus Crew ownership group",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Sponsorship portfolio: Blue Jackets naming rights, Clippers, NFL Walter Payton Man of the Year, Dale Jr.",
+     "location": "Columbus/national",
+     "dates": "current (page undated; retrieved 2026-10-23)",
+     "scale": "national",
+     "partner_or_agency": "NFL, Blue Jackets",
+     "source_url": "https://www.nationwide.com/personal/about-us/nationwide-sponsorships/",
+     "date_of_source": "2026-10-23",
+     "source_type": "brand newsroom",
+     "proof_snippet": "Nationwide is a minority owner of the Columbus Blue Jackets",
+     "verification": "B"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "Columbus Crew",
+    "Columbus Blue Jackets / Nationwide Arena",
+    "Columbus Clippers",
+    "NFL (Walter Payton award)",
+    "NWSL Columbus 2028",
+    "Picnic with the Pops"
+   ],
+   "roles": [
+    {
+     "title": "CEO",
+     "team": "Executive",
+     "name": "Kirt Walker",
+     "source_url": "https://www.prnewswire.com/news-releases/nationwide-joins-columbus-crew-ownership-group-302810835.html",
+     "proof_snippet": "said Nationwide CEO Kirt Walker",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Excellent: grain rescue and first-responder program is the exact rescue-themed audience; fire stations and farm safety stand-downs; Columbus home market.",
+   "risks": [],
+   "marketing_trend_2025_26": "Centennial-year push in 2026 deepening Columbus sports ownership; first-responder safety (grain rescue) is a recurring cause platform. US creative agency not confirmed (UK Mother results refer to the unrelated UK building society).",
+   "ladder_log": [
+    {
+     "url": "https://news.nationwide.com/more-grain-more-risk-nominate-first-responders-for-lifesaving-grain-rescue-tools/",
+     "rung": "brand newsroom",
+     "result": "200, verbatim"
+    },
+    {
+     "url": "https://www.prnewswire.com/news-releases/nationwide-joins-columbus-crew-ownership-group-302810835.html",
+     "rung": "wire mirror",
+     "result": "200, verbatim"
+    },
+    {
+     "url": "https://www.nationwide.com/personal/about-us/nationwide-sponsorships/",
+     "rung": "direct",
+     "result": "200, verbatim"
+    },
+    {
+     "url": "https://lbbonline.com/news/nationwide-appoints-mother-as-creative-agency",
+     "rung": "trade press",
+     "result": "403; UK Nationwide, unrelated"
+    },
+    {
+     "url": "https://coverager.com/nationwide-names-new-cmo/",
+     "rung": "trade press",
+     "result": "200; no usable snippet"
+    }
+   ],
+   "notes_unverified": "CMO: Ramon Jones reportedly retired March 2025 and Ann Bair listed by GlobalData; not verified on a page. Kirt Walker CEO snippet is lowercased in raw text; confirm. No US AOR confirmed."
+  },
+  {
+   "brand": "FirstEnergy",
+   "parent": "FirstEnergy Corp.",
+   "domain": "firstenergycorp.com",
+   "hq": "Akron, OH",
+   "ownership": "public (NYSE: FE)",
+   "category": "Energy & home services",
+   "competitors": [
+    "AEP Ohio",
+    "Duke Energy Ohio",
+    "AES Ohio"
+   ],
+   "ohio_note": "HQ Akron; Ohio Edison, Illuminating Company, Toledo Edison; large Ohio lineworker workforce.",
+   "quote": {
+    "text": "lineworkers face hazards every day when they go up in their buckets, climb poles or work on underground power lines",
+    "url": "https://www.miningstockeducation.com/2025/04/firstenergy-recognizes-frontline-crews-on-lineworker-appreciation-day/",
+    "date_of_source": "2025-04-16",
+    "speaker": "FirstEnergy (Lineworker Appreciation Day release)",
+    "source_type": "wire mirror"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Presenting sponsor, Akron Marathon, Half Marathon and Team Relay, through 2027 (Experience the Energy branding)",
+     "location": "Akron, OH",
+     "dates": "renewed 2024-09-26 through 2027",
+     "scale": "100+ employees participate yearly",
+     "partner_or_agency": "Akron Marathon",
+     "source_url": "https://www.firstenergycorp.com/community/corporate_programs/marathon.html",
+     "date_of_source": "2024-09-26",
+     "source_type": "brand newsroom",
+     "proof_snippet": "will continue to serve as the presenting sponsor of the Akron Marathon until 2027",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Three-year sponsorship renewal; branded block party kits, finisher festival",
+     "location": "Akron, OH",
+     "dates": "2024-09-27",
+     "scale": "local",
+     "partner_or_agency": "Akron Marathon",
+     "source_url": "https://www.firstenergycorp.com/newsroom/featured_stories/experience-the-energy-of-an-elite-race-powered-by-community.html",
+     "date_of_source": "2024-09-27",
+     "source_type": "brand newsroom",
+     "proof_snippet": "three-year sponsorship renewal through 2027",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "Akron Marathon",
+    "International Soap Box Derby (title; D)"
+   ],
+   "roles": [
+    {
+     "title": "Ohio President",
+     "team": "Ohio operations",
+     "name": "Torrence Hinton",
+     "source_url": "https://www.firstenergycorp.com/community/corporate_programs/marathon.html",
+     "proof_snippet": "said ohio president torrence hinton",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Strong for lineworker and safety audiences, union halls (IBEW), Akron/Cleveland tie. Reputational caution needed.",
+   "risks": [
+    {
+     "risk": "HB 6 bribery scandal: $20 million settlement with Ohio to avoid prosecution (federal DPA 2021 $230M)",
+     "date": "2024-08-14",
+     "source_url": "https://www.fox19.com/2024/08/14/first-energy-agrees-20m-settlement-with-ohio-ag-avoid-charges-hb-6-bribery-scandal",
+     "source_type": "trade press",
+     "proof_snippet": "will pay the state of ohio a $20 million settlement to avoid prosecution",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Local-community sponsorships in Akron with sustainability messaging; annual lineworker recognition content.",
+   "ladder_log": [
+    {
+     "url": "https://www.firstenergycorp.com/community/corporate_programs/marathon.html",
+     "rung": "brand newsroom",
+     "result": "200, verbatim"
+    },
+    {
+     "url": "https://www.firstenergycorp.com/newsroom/featured_stories/experience-the-energy-of-an-elite-race-powered-by-community.html",
+     "rung": "brand newsroom",
+     "result": "200"
+    },
+    {
+     "url": "https://www.miningstockeducation.com/2025/04/firstenergy-recognizes-frontline-crews-on-lineworker-appreciation-day/",
+     "rung": "wire mirror",
+     "result": "verbatim"
+    },
+    {
+     "url": "https://www.fox19.com/2024/08/14/first-energy-agrees-20m-settlement-with-ohio-ag-avoid-charges-hb-6-bribery-scandal",
+     "rung": "trade press",
+     "result": "200"
+    },
+    {
+     "url": "https://www.akronmarathon.org/firstenergy-renews-commitment-as-presenting-sponsor-of-the-akron-marathon-half-marathon-team-relay-through-2027/",
+     "rung": "partner site",
+     "result": "404"
+    },
+    {
+     "url": "https://stocktitan.net/news/FE/first-energy-and-international-soap-box-derby-race-into-the-future-ybftaheak8zy.html",
+     "rung": "wire mirror",
+     "result": "403"
+    }
+   ],
+   "notes_unverified": "Soap Box Derby extension not script-verified. No 2025-26 HB6 developments found. Hinton snippet appears lowercase in raw text."
+  },
+  {
+   "brand": "Kubota",
+   "parent": "Kubota Corporation (Japan); US arm Kubota Tractor Corporation",
+   "domain": "kubotausa.com",
+   "hq": "Grapevine, TX (US); Osaka, Japan (parent)",
+   "ownership": "public parent (TYO: 6326)",
+   "category": "Powersports, trailers, farm & ranch",
+   "competitors": [
+    "John Deere",
+    "Case/New Holland",
+    "Mahindra",
+    "Polaris/Can-Am/Kawasaki/Yamaha (UTV)"
+   ],
+   "ohio_note": "Dealer network incl. Ohio (e.g., Covington Orange Days 2025).",
+   "quote": {
+    "text": "Kubota equipment is built for customers who demand quality, durability and high productivity.",
+    "url": "https://www.kubotausa.com/kubota-shifts-into-high-gear-with-multi-year-nascar-partnership",
+    "date_of_source": "2026-04-23",
+    "speaker": "Alex Woods, President, Kubota Tractor Corporation",
+    "source_type": "brand newsroom"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Official partner of NASCAR (tractor, construction, compact, utility vehicle), multi-year from 2026; NASCAR San Diego Weekend sponsor",
+     "location": "US; Naval Base Coronado, San Diego",
+     "dates": "announced 2026-04-23; race weekend 2026-06-19 to 06-21",
+     "scale": "national",
+     "partner_or_agency": "NASCAR; Trackhouse Racing",
+     "source_url": "https://www.kubotausa.com/kubota-shifts-into-high-gear-with-multi-year-nascar-partnership",
+     "date_of_source": "2026-04-23",
+     "source_type": "brand newsroom",
+     "proof_snippet": "official tractor of nascar, official construction equipment partner of nascar",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Title sponsor Olympus Rally and major sponsor American Rally Association 2026",
+     "location": "Shelton, WA",
+     "dates": "2026-04-17 to 2026-04-19",
+     "scale": "national championship",
+     "partner_or_agency": "American Rally Association",
+     "source_url": "https://www.kubotausa.com/kubota-renews-support-of-ara-national-championship-named-title-sponsor-of-olympus-rally",
+     "date_of_source": "2026-03-02",
+     "source_type": "brand newsroom",
+     "proof_snippet": "adding title sponsorship of the world-famous olympus rally to their portfolio",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "NASCAR",
+    "Trackhouse Racing",
+    "American Rally Association",
+    "Texas Rangers",
+    "PBR",
+    "NCHA",
+    "Post Malone Travelin' Tailgate 2025 (D)"
+   ],
+   "roles": [
+    {
+     "title": "Associate Director, Marketing and Advertising",
+     "team": "Marketing",
+     "name": "Theresa Duncan",
+     "source_url": "https://www.kubotausa.com/kubota-renews-support-of-ara-national-championship-named-title-sponsor-of-olympus-rally",
+     "proof_snippet": "associate director for marketing and advertising, Kubota Tractor Corporation",
+     "verified_by_script": true
+    },
+    {
+     "title": "President",
+     "team": "Executive",
+     "name": "Alex Woods",
+     "source_url": "https://www.kubotausa.com/kubota-shifts-into-high-gear-with-multi-year-nascar-partnership",
+     "proof_snippet": "said alex woods, president, kubota tractor corporation",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Good: veterans/farmer-veteran ties and 'hardworking people' positioning; dealer ride-and-drives can host local screenings. Skews rural/ag; fit with trades via construction equipment.",
+   "risks": [],
+   "marketing_trend_2025_26": "Big shift to motorsports and lifestyle properties (NASCAR, rally, Post Malone tour), national rights deals with dealer activation.",
+   "ladder_log": [
+    {
+     "url": "https://www.kubotausa.com/kubota-shifts-into-high-gear-with-multi-year-nascar-partnership",
+     "rung": "brand newsroom",
+     "result": "200, verbatim"
+    },
+    {
+     "url": "https://www.kubotausa.com/kubota-renews-support-of-ara-national-championship-named-title-sponsor-of-olympus-rally",
+     "rung": "brand newsroom",
+     "result": "200, verbatim"
+    },
+    {
+     "url": "https://www.nascar.com/news-media/2026/04/23/kubota-shifts-into-high-gear-with-multiyear-nascar-partnership/amp/",
+     "rung": "partner site",
+     "result": "403"
+    },
+    {
+     "url": "https://lawnandlandscape.com/news/post-malone-partners-with-kubota-tractor-for-travelin-tailgate-tour",
+     "rung": "trade press",
+     "result": "blocked, 0 chars"
+    },
+    {
+     "url": "https://www.equipmentworld.com/business/article/15743640/kubota-sponsors-post-malone-travelin-tailgate-tour",
+     "rung": "trade press",
+     "result": "403"
+    }
+   ],
+   "notes_unverified": "Post Malone 2025 tour details only seen in search results (D). Geared to Give donation excluded. Kubota Corp parent listing from general knowledge."
+  }
+ ]
+}
