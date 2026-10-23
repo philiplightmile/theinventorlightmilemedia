@@ -1,0 +1,1124 @@
+{
+ "results": [
+  {
+   "brand": "John Deere",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "John Deere Classic PGA Tour title sponsorship extended through 2030; Concerts on the Course; official PGA Tour equipment designations (utility vehicle, mower, tractor)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "PGA Tour global official marketing partner program (official utility vehicle, mower, tractor of the PGA Tour)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Deere/John Deere paid media in digital, print and national TV (MediaRadar profile; creative last seen 2026-10-01 YouTube, 2026-08-24 RFD TV, Oct 2026 Farm & Ranch Guide print)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "2026 Ag-Pro Expo (Deere dealer Ag-Pro; 20 speakers, equipment showcases)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Yamaha + Deere collaboration on future side-by-side vehicles (product, not marketing spend; context only)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  },
+  {
+   "brand": "Wrangler",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Wrangler summer 2026 country-music festival tour: official CMA Fest sponsor (Remix Stage, Wrangler Ranch at Acme Feed & Seed), Braves Country Fest, Under The Big Sky, Bulls Bands and Barrels (all 7 stops); desert events April",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Bulls, Bands, and Barrels 7-stop tour sponsorship",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Wrangler National Finals Rodeo (title); Tractor Supply presenting sponsor for 2026",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "RIGGS Workwear SS26 trade-pro collection launch (product; trade-press placement)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Genesco-licensed Wrangler footwear incl. work styles meeting ASTM safety-toe, launched",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  },
+  {
+   "brand": "Red Wing Shoes",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Big Boots to Fill campaign: Talker Research study (2,000 parents/kids), Heavy Metal Summer Experience 2026 national sponsorship (1,000+ students), kids-on-dads video series",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Heavy Metal Summer Experience 2026 national sponsor (free hands-on trade camps for high schoolers)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Boots Drop the Hard Way: six handmade billboards, named-builder social, concrete shoe-box contest for certified tradespeople (boots for life), filmed",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Trades-Made campaign: logo change, projections in NYC/LA/Dallas, 15+ brands joined (pre-window)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  },
+  {
+   "brand": "Yamaha",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Yamaha BLU CRU Invitational Series 2026: four Yamaha-exclusive motocross events (CA, TX, MD, AL), family activities, camping",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Title sponsor Yamaha Atlanta Short Track; OEM partner Progressive AFT 2026",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Presenting sponsor, 2026 AMA Motorcycle Hall of Fame induction ceremony",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Agency of record GearShift Advertising (Costa Mesa) chosen 2014; current status unknown",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  },
+  {
+   "brand": "ADT",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "National Night Out 2026 sponsor, 4th consecutive year; employees at hundreds of local events; team members on hand for security solutions",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "NNO on-site presence: team members help families and small business owners learn about security solutions; free backpacks handed out",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Miami Marlins first-ever jersey patch, pillar partner (2023-25; 2025 extension reported on Marlins news listing only, not opened)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  }
+ ],
+ "batch": [
+  {
+   "brand": "John Deere",
+   "parent": "Deere & Company",
+   "domain": "deere.com",
+   "hq": "Moline, IL",
+   "ownership": "Public (NYSE: DE)",
+   "category": "Powersports, trailers, farm & ranch",
+   "competitors": [
+    "Kubota",
+    "CNH (Case IH)",
+    "Caterpillar",
+    "AGCO"
+   ],
+   "ohio_note": "Ohio presence is via independent dealers (Ag-Pro hosted 2026 Ag-Pro Expo in Millersburg OH, 2026-01-22; Farm Science Review, London OH, returns Sept 22-24 2026 per fsr.osu.edu snippet, not verified by rawfetch). No Deere-corporate Ohio activation verified.",
+   "quote": {
+    "text": "The John Deere Classic continues to be a powerful expression of who we are as a company - deeply connected to our customers, committed to our hometown communities, and proud of our people",
+    "url": "https://www.kwqc.com/2025/06/02/john-deere-extends-sponsorship-john-deere-classic",
+    "date_of_source": "2025-06-02",
+    "speaker": "John C. May, Chairman and CEO, Deere & Company",
+    "source_type": "trade press (local TV, quoting Deere/PGA Tour release)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "John Deere Classic PGA Tour title sponsorship extended through 2030; Concerts on the Course; official PGA Tour equipment designations (utility vehicle, mower, tractor)",
+     "location": "TPC Deere Run, Silvis IL",
+     "dates": "Extension announced 2025-06-02; title sponsor since 1998; 2026 event July 1-5 (search result, unverified)",
+     "scale": "National PGA Tour event; rights fee undisclosed",
+     "partner_or_agency": "PGA Tour; Quad Cities Golf Classic Charitable Foundation",
+     "source_url": "https://www.kwqc.com/2025/06/02/john-deere-extends-sponsorship-john-deere-classic",
+     "date_of_source": "2025-06-02",
+     "source_type": "trade press (local TV)",
+     "proof_snippet": "has signed a multi-year extension to continue as title sponsor of the John Deere Classic through 2030",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "PGA Tour global official marketing partner program (official utility vehicle, mower, tractor of the PGA Tour)",
+     "location": "National",
+     "dates": "Continued under 2025 extension",
+     "scale": "National",
+     "partner_or_agency": "PGA Tour",
+     "source_url": "https://www.kwqc.com/2025/06/02/john-deere-extends-sponsorship-john-deere-classic",
+     "date_of_source": "2025-06-02",
+     "source_type": "trade press (local TV)",
+     "proof_snippet": "official utility vehicle of the PGA Tour",
+     "verification": "A"
+    },
+    {
+     "type": "media_spend",
+     "event_or_property": "Deere/John Deere paid media in digital, print and national TV (MediaRadar profile; creative last seen 2026-10-01 YouTube, 2026-08-24 RFD TV, Oct 2026 Farm & Ranch Guide print)",
+     "location": "National",
+     "dates": "Trailing 12 months to ~2026-10",
+     "scale": "Under $100M (MediaRadar modeled)",
+     "partner_or_agency": "MediaRadar (observer)",
+     "source_url": "https://advertisers.mediaradar.com/john-deere-advertising-profile",
+     "date_of_source": "2026-10",
+     "source_type": "trade press / ad intelligence",
+     "proof_snippet": "they spent under $100 million on advertising in digital, print, and national TV in the last year",
+     "verification": "B"
+    },
+    {
+     "type": "retail_event",
+     "event_or_property": "2026 Ag-Pro Expo (Deere dealer Ag-Pro; 20 speakers, equipment showcases)",
+     "location": "Harvest Ridge Expo Center, Millersburg, OH",
+     "dates": "2026-01-22",
+     "scale": "One-day dealer event",
+     "partner_or_agency": "Ag-Pro Companies (Deere dealer)",
+     "source_url": "https://agprocompanies.com/blog/2026-ag-pro-expo",
+     "date_of_source": "2026-01-30",
+     "source_type": "partner site",
+     "proof_snippet": "Harvest Ridge Expo Center in Millersburg, Ohio",
+     "verification": "A"
+    },
+    {
+     "type": "other",
+     "event_or_property": "Yamaha + Deere collaboration on future side-by-side vehicles (product, not marketing spend; context only)",
+     "location": "US",
+     "dates": "Announced 2026-10-06",
+     "scale": "n/a",
+     "partner_or_agency": "Yamaha Motor Corp USA",
+     "source_url": "https://www.cyclenews.com/2026/10/article/yamaha-motor-and-john-deere-announce-collaboration-on-future-side-by-side-vehicles/",
+     "date_of_source": "2026-10-06",
+     "source_type": "trade press (press release)",
+     "proof_snippet": "agreement to collaborate on the development of certain future side-by-side vehicles",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "Under $100 million (digital, print, national TV, trailing year)",
+    "source": "MediaRadar advertiser profile (modeled)",
+    "url": "https://advertisers.mediaradar.com/john-deere-advertising-profile",
+    "date": "2026-10",
+    "label": "ESTIMATE"
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "John Deere Classic (PGA Tour, title through 2030)",
+    "PGA Tour official equipment partner"
+   ],
+   "roles": [
+    {
+     "title": "Vice President, John Deere Turf and Compact Utility business unit",
+     "team": "Turf & Compact Utility BU",
+     "name": "Jon Chase",
+     "source_url": "https://www.cyclenews.com/2026/10/article/yamaha-motor-and-john-deere-announce-collaboration-on-future-side-by-side-vehicles/",
+     "proof_snippet": "said Jon Chase, vice president, John Deere Turf and Compact Utility business unit",
+     "verified_by_script": true
+    },
+    {
+     "title": "Chairman and CEO, Deere & Company",
+     "team": "Executive",
+     "name": "John C. May",
+     "source_url": "https://www.kwqc.com/2025/06/02/john-deere-extends-sponsorship-john-deere-classic",
+     "proof_snippet": "chairman and CEO of Deere & Company",
+     "verified_by_script": true
+    },
+    {
+     "title": "Manager, dealer advertising",
+     "team": "Marketing (name not printed; initial only on MediaRadar)",
+     "name": "",
+     "source_url": "https://advertisers.mediaradar.com/john-deere-advertising-profile",
+     "proof_snippet": "manager, dealer advertising"
+    },
+    {
+     "title": "Dealer event/marketing managers in Ohio (Ag-Pro)",
+     "team": "Dealer",
+     "name": "",
+     "source_url": "https://agprocompanies.com/blog/2026-ag-pro-expo",
+     "proof_snippet": "Ag-Pro Companies welcomed customers, vendors, and industry partners"
+    }
+   ],
+   "event_format_fit": "Weak-to-moderate. Deere activates through PGA Tour/JDC and dealers; no evidence of corporate trade-school or union-hall sponsorships. Best entry is a local dealer (Ag-Pro, Ohio) or Deere Tech/apprenticeship angle (UK programme quote, not US).",
+   "risks": [
+    {
+     "risk": "FTC and five states right-to-repair antitrust settlement; 10-year obligation to give independent shops same diagnostic tools",
+     "date": "2026-07-08",
+     "source_url": "https://www.ktiv.com/2026/07/08/deere-reaches-settlement-with-ftc-right-to-repair-antitrust-lawsuit/",
+     "source_type": "trade press (local TV)",
+     "proof_snippet": "the Federal Trade Commission and five state attorneys general have reached a settlement with Deere",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    },
+    {
+     "risk": "~$99M consumer class-action repair settlement reported April 2026 (search summary only)",
+     "date": "2026-04",
+     "source_url": "https://lasvegassun.com/news/2026/jul/08/john-deere-owners-will-get-the-right-to-repair-the/",
+     "source_type": "search summary",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Leaning on owned heritage/hometown sponsorship (JDC extended to 2030, Concerts on the Course) plus dealer-led local events; tariffs ($1.1B FY26 direct expense per search summary) and weak large-ag demand pressure discretionary spend.",
+   "ladder_log": [
+    {
+     "url": "https://www.kwqc.com/2025/06/02/john-deere-extends-sponsorship-john-deere-classic",
+     "rung": "direct",
+     "result": "200, snippets found"
+    },
+    {
+     "url": "https://www.cyclenews.com/2026/10/article/yamaha-motor-and-john-deere-announce-collaboration-on-future-side-by-side-vehicles/",
+     "rung": "direct",
+     "result": "200, snippets found"
+    },
+    {
+     "url": "https://agprocompanies.com/blog/2026-ag-pro-expo",
+     "rung": "direct",
+     "result": "200, found"
+    },
+    {
+     "url": "https://advertisers.mediaradar.com/john-deere-advertising-profile",
+     "rung": "direct",
+     "result": "200, found"
+    },
+    {
+     "url": "https://www.ktiv.com/2026/07/08/deere-reaches-settlement-with-ftc-right-to-repair-antitrust-lawsuit/",
+     "rung": "direct",
+     "result": "200, found"
+    },
+    {
+     "url": "https://www.sportcal.com/news/john-deere-extends-pga-tour-title-sponsorship-to-2030/",
+     "rung": "direct",
+     "result": "403"
+    },
+    {
+     "url": "https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/de-20251102x10k.htm",
+     "rung": "sec filing",
+     "result": "403 blocked; 10-K advertising figure not obtained"
+    },
+    {
+     "url": "https://lasvegassun.com/news/2026/jul/08/john-deere-owners-will-get-the-right-to-repair-the/",
+     "rung": "direct",
+     "result": "410"
+    },
+    {
+     "url": "https://dealerjobs.deere.com/en/jobs/looking-for-a-2026-apprenticeship-b877479df9-ef23925d-20ce-4a1b-b3bb-3c1d1f969c4c",
+     "rung": "direct",
+     "result": "JS shell, nothing"
+    }
+   ],
+   "notes_unverified": "No Deere 'We Run For All' campaign or US 2026 JDC activation page verified. Prior-round quote (irishtractor.ie, 2025-11-03, UK training centre manager Allan Cochran, 'Our apprenticeships continue to play a vital role...') verified verbatim but is a UK subsidiary employee, not corporate. Deere named CMO not found. No US 10-K advertising figure (SEC blocked). Layoff and $99M class-action items are search-snippet only."
+  },
+  {
+   "brand": "Wrangler",
+   "parent": "Kontoor Brands, Inc.",
+   "domain": "wrangler.com",
+   "hq": "Greensboro, NC (Kontoor)",
+   "ownership": "Public (NYSE: KTB)",
+   "category": "Workwear & work boots",
+   "competitors": [
+    "Carhartt",
+    "Ariat",
+    "Levi's",
+    "Cinch",
+    "Dickies"
+   ],
+   "ohio_note": "Ohio-specific activation not found. Bulls, Bands and Barrels tour stops not enumerated in opened text.",
+   "quote": {
+    "text": "By pairing our legacy of durability and craftsmanship with Genesco's industry-leading capabilities",
+    "url": "https://finviz.com/news/391948/genesco-launches-wrangler-footwear-collection",
+    "date_of_source": "2026-09-15",
+    "speaker": "Steve Armus per prior round (name printed in release per prior round)",
+    "source_type": "wire mirror (Business Wire via Finviz)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Wrangler summer 2026 country-music festival tour: official CMA Fest sponsor (Remix Stage, Wrangler Ranch at Acme Feed & Seed), Braves Country Fest, Under The Big Sky, Bulls Bands and Barrels (all 7 stops); desert events April",
+     "location": "Nashville; Atlanta; Whitefish MT; 7-stop tour; Palm Springs/Indio",
+     "dates": "Apr-Aug 2026 (release 2026-06-22)",
+     "scale": "Nationwide multi-property",
+     "partner_or_agency": "Kontoor Brands in-house",
+     "source_url": "https://www.kontoorbrands.com/news-media/press-release/236/wrangler-celebrates-its-deep-roots-in-country-music-with",
+     "date_of_source": "2026-06-22",
+     "source_type": "brand newsroom",
+     "proof_snippet": "Wrangler proudly sponsored the Remix Stage",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Bulls, Bands, and Barrels 7-stop tour sponsorship",
+     "location": "US, 7 stops",
+     "dates": "Summer 2026",
+     "scale": "7 events",
+     "partner_or_agency": "Bulls Bands and Barrels",
+     "source_url": "https://www.kontoorbrands.com/news-media/press-release/236/wrangler-celebrates-its-deep-roots-in-country-music-with",
+     "date_of_source": "2026-06-22",
+     "source_type": "brand newsroom",
+     "proof_snippet": "all seven stops",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Wrangler National Finals Rodeo (title); Tractor Supply presenting sponsor for 2026",
+     "location": "Las Vegas",
+     "dates": "Annual; Dec 2026",
+     "scale": "National flagship",
+     "partner_or_agency": "PRCA; Tractor Supply",
+     "source_url": "https://hardwareretailing.com/tractor-supply-company-becomes-presenting-sponsor-of-the-wrangler-national-finals-rodeo/",
+     "date_of_source": "2026-03-12",
+     "source_type": "trade press",
+     "proof_snippet": "wrangler national finals rodeo presented by tractor supply company",
+     "verification": "A"
+    },
+    {
+     "type": "content",
+     "event_or_property": "RIGGS Workwear SS26 trade-pro collection launch (product; trade-press placement)",
+     "location": "US",
+     "dates": "2026-01-12 per ISHN",
+     "scale": "National",
+     "partner_or_agency": "",
+     "source_url": "https://www.ishn.com/articles/115112-wrangler-ss26-riggs-workwear-collection",
+     "date_of_source": "2026",
+     "source_type": "trade press",
+     "proof_snippet": "built to serve the evolving demands of today's trade professionals",
+     "verification": "A"
+    },
+    {
+     "type": "retail_event",
+     "event_or_property": "Genesco-licensed Wrangler footwear incl. work styles meeting ASTM safety-toe, launched",
+     "location": "US retail",
+     "dates": "2026-09-15",
+     "scale": "National",
+     "partner_or_agency": "Genesco Brands Group",
+     "source_url": "https://finviz.com/news/391948/genesco-launches-wrangler-footwear-collection",
+     "date_of_source": "2026-09-15",
+     "source_type": "wire mirror",
+     "proof_snippet": "select work styles meet ASTM standards for safety-toe protection",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "$190.3 million advertising expense, Kontoor Brands total (fiscal 2025, FYE 2026-01-03; includes all brands); prior year $140.5M",
+    "source": "Kontoor 10-K per web search summary (XBRL); SEC page blocked to rawfetch so NOT verified",
+    "url": "https://www.sec.gov/Archives/edgar/data/1760965/000176096526000014/ktb-20260103.htm",
+    "date": "2026-01-03",
+    "label": "ESTIMATE (unverified, company-wide)"
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "CMA Fest (Remix Stage)",
+    "Braves Country Fest",
+    "Bulls, Bands, and Barrels",
+    "Under The Big Sky",
+    "Wrangler National Finals Rodeo (title)",
+    "Dallas Cowboys (2023 deal)"
+   ],
+   "roles": [
+    {
+     "title": "Vice President of Global Marketing, Kontoor Brands",
+     "team": "Marketing",
+     "name": "Holly Wheeler",
+     "source_url": "https://www.kontoorbrands.com/news-media/press-release/236/wrangler-celebrates-its-deep-roots-in-country-music-with",
+     "proof_snippet": "said Holly Wheeler, vice president of global marketing at Kontoor Brands",
+     "verified_by_script": true
+    },
+    {
+     "title": "President, Genesco Brands Group (licensee)",
+     "team": "Licensee",
+     "name": "Rick Higgins",
+     "source_url": "https://finviz.com/news/391948/genesco-launches-wrangler-footwear-collection",
+     "proof_snippet": "said Rick Higgins, president of Genesco Brands Group",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Moderate. Wrangler already funds experiential in country/western contexts and RIGGS targets trades, but tour is music/rodeo-led. A RIGGS-branded trades pitch to the work/occupational channel is the plausible angle.",
+   "risks": [
+    {
+     "risk": "Kontoor selling Lee to Authentic Brands (up to $1B), portfolio refocus on Wrangler and Helly Hansen",
+     "date": "2026-05-21",
+     "source_url": "https://finance.yahoo.com/markets/stocks/articles/kontoor-brands-enters-definitive-agreement-105000208.html",
+     "source_type": "wire mirror",
+     "proof_snippet": "Kontoor Brands Enters Into Definitive Agreement to Sell Lee",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    },
+    {
+     "risk": "Wrangler x Coors Banquet collabs (alcohol tie-in) excluded from activations per rules; brand safety adjacency",
+     "date": "2026-05-28",
+     "source_url": "https://www.businesswire.com/news/home/20260528785337/en/Jeans-Beer-Music-Coors-Banquet-and-Wrangler-Announce-Encore-With-Second-Apparel-Collection-for-Festival-Season",
+     "source_type": "search result",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Heavy investment in country-music and rodeo experiential, licensing/collabs (Genesco footwear, Chaco, Dr. Scholl's, Coors), and RIGGS workwear; advertising expense rose to $190.3M (unverified).",
+   "ladder_log": [
+    {
+     "url": "https://www.kontoorbrands.com/news-media/press-release/236/wrangler-celebrates-its-deep-roots-in-country-music-with",
+     "rung": "brand newsroom",
+     "result": "200, found"
+    },
+    {
+     "url": "https://finviz.com/news/391948/genesco-launches-wrangler-footwear-collection",
+     "rung": "wire mirror",
+     "result": "200, found"
+    },
+    {
+     "url": "https://hardwareretailing.com/tractor-supply-company-becomes-presenting-sponsor-of-the-wrangler-national-finals-rodeo/",
+     "rung": "direct",
+     "result": "200, found"
+    },
+    {
+     "url": "https://www.ishn.com/articles/115112-wrangler-ss26-riggs-workwear-collection",
+     "rung": "direct",
+     "result": "200, found"
+    },
+    {
+     "url": "https://finance.yahoo.com/markets/stocks/articles/kontoor-brands-enters-definitive-agreement-105000208.html",
+     "rung": "wire mirror",
+     "result": "200, found"
+    },
+    {
+     "url": "https://www.stocktitan.net/news/KTB/wrangler-and-coors-banquet-saddle-up-for-western-apparel-q9pydm7y3d9y.html",
+     "rung": "direct",
+     "result": "403"
+    },
+    {
+     "url": "https://www.barchart.com/story/news/2580411/wrangler-celebrates-its-deep-roots-in-country-music-with-major-festival-activations-across-the-u-s-this-summer",
+     "rung": "direct",
+     "result": "202 empty"
+    },
+    {
+     "url": "https://www.businesswire.com/news/home/20260622692551/en/Wrangler-Celebrates-Its-Deep-Roots-in-Country-Music-With-Major-Festival-Activations-Across-the-U.S.-This-Summer",
+     "rung": "direct",
+     "result": "blocked; used kontoorbrands.com newsroom instead"
+    },
+    {
+     "url": "https://www.sec.gov/Archives/edgar/data/1760965/000176096526000014/ktb-20260103.htm",
+     "rung": "sec filing",
+     "result": "403"
+    }
+   ],
+   "notes_unverified": "Quote speaker: the Genesco release quote is attributed in prior round to Steve Armus; I confirmed phrase verbatim but did not re-confirm which speaker, and it is a licensing partner release so partly Wrangler's own words. Prior round activation 'barchart festival' dated summer 2025 was actually the 2026-06-22 release. Wrangler x Coors tour (Aug 2025) came from search only and involves alcohol, excluded. Ad expense $190.3M from search summary only."
+  },
+  {
+   "brand": "Red Wing Shoes",
+   "parent": "Red Wing Shoe Company",
+   "domain": "redwingshoes.com",
+   "hq": "Red Wing, MN",
+   "ownership": "Private, family-owned",
+   "category": "Workwear & work boots",
+   "competitors": [
+    "Carhartt",
+    "Wolverine",
+    "Timberland PRO",
+    "Thorogood",
+    "Danner"
+   ],
+   "ohio_note": "No Ohio-specific event found. Company operates ~500 stores plus mobile shoe stores (search summary).",
+   "quote": {
+    "text": "trade work isn't a backup plan, it's what our society is built on",
+    "url": "https://finance.yahoo.com/small-business/articles/red-wing-launches-big-boots-140000103.html",
+    "date_of_source": "2026-06-18",
+    "speaker": "Dave Schneider, Chief Marketing Officer, Red Wing Shoe Company",
+    "source_type": "wire mirror (Access Newswire via Yahoo Finance)"
+   },
+   "activations": [
+    {
+     "type": "content",
+     "event_or_property": "Big Boots to Fill campaign: Talker Research study (2,000 parents/kids), Heavy Metal Summer Experience 2026 national sponsorship (1,000+ students), kids-on-dads video series",
+     "location": "US",
+     "dates": "Launched 2026-06-18",
+     "scale": "National; spend undisclosed",
+     "partner_or_agency": "Talker Research; Heavy Metal Summer Experience",
+     "source_url": "https://finance.yahoo.com/small-business/articles/red-wing-launches-big-boots-140000103.html",
+     "date_of_source": "2026-06-18",
+     "source_type": "wire mirror",
+     "proof_snippet": "a campaign honoring blue-collar dads and championing the kids who want to follow in their footsteps",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Heavy Metal Summer Experience 2026 national sponsor (free hands-on trade camps for high schoolers)",
+     "location": "US",
+     "dates": "2026",
+     "scale": "1,000+ students",
+     "partner_or_agency": "Heavy Metal Summer Experience",
+     "source_url": "https://finance.yahoo.com/small-business/articles/red-wing-launches-big-boots-140000103.html",
+     "date_of_source": "2026-06-18",
+     "source_type": "wire mirror",
+     "proof_snippet": "As a 2026 national sponsor of Heavy Metal Summer Experience",
+     "verification": "A"
+    },
+    {
+     "type": "agency",
+     "event_or_property": "Boots Drop the Hard Way: six handmade billboards, named-builder social, concrete shoe-box contest for certified tradespeople (boots for life), filmed",
+     "location": "US",
+     "dates": "Launched Dec 2025; contest Jan 2026",
+     "scale": "6 billboards + contest; spend undisclosed",
+     "partner_or_agency": "Wieden+Kennedy NY",
+     "source_url": "https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/",
+     "date_of_source": "2025-12-02",
+     "source_type": "trade press",
+     "proof_snippet": "a series of six billboards erected around the country",
+     "verification": "A"
+    },
+    {
+     "type": "agency",
+     "event_or_property": "Trades-Made campaign: logo change, projections in NYC/LA/Dallas, 15+ brands joined (pre-window)",
+     "location": "3 US cities",
+     "dates": "2023-08-30",
+     "scale": "550 company stores",
+     "partner_or_agency": "Mischief",
+     "source_url": "https://www.mediapost.com/publications/article/388702/red-wing-unleashes-trades-made-campaign.html",
+     "date_of_source": "2023-08-30",
+     "source_type": "trade press",
+     "proof_snippet": "Trades-Made",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "Wieden+Kennedy (New York), campaign creative partner with in-house team",
+    "source_url": "https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/",
+    "proof_snippet": "designed by its creative team, along with the creative agency wieden+kennedy",
+    "date_of_source": "2025-12-02"
+   },
+   "sponsored_properties": [
+    "Heavy Metal Summer Experience (2026 national sponsor)"
+   ],
+   "roles": [
+    {
+     "title": "Chief Marketing Officer",
+     "team": "Marketing",
+     "name": "Dave Schneider",
+     "source_url": "https://finance.yahoo.com/small-business/articles/red-wing-launches-big-boots-140000103.html",
+     "proof_snippet": "said Dave Schneider, chief marketing officer, Red Wing Shoe Company",
+     "verified_by_script": true
+    },
+    {
+     "title": "Associate Creative Director",
+     "team": "Creative",
+     "name": "Ani Djaferian",
+     "source_url": "https://finance.yahoo.com/small-business/articles/red-wing-launches-big-boots-140000103.html",
+     "proof_snippet": "said Ani Djaferian, associate creative director at Red Wing",
+     "verified_by_script": true
+    },
+    {
+     "title": "Creative Director",
+     "team": "Creative",
+     "name": "Aaron Seymour-Anderson",
+     "source_url": "https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/",
+     "proof_snippet": "creative director aaron seymour-anderson said",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Strong. Brand's 2025-26 marketing is explicitly about tradespeople and getting youth into trades; sponsors trade-education camps; has 'Red Wing for Business' safety channel. Screenings at trade schools/union halls match Big Boots to Fill and Heavy Metal Summer Experience.",
+   "risks": [
+    {
+     "risk": "Prior-round Vasque shutdown and old steel-toe recall remain unverified; none re-sourced",
+     "date": "",
+     "source_url": "",
+     "source_type": "",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Unusually vocal top-of-funnel push centered on tradespeople: Boots Drop the Hard Way (Dec 2025), Big Boots to Fill (Jun 2026), fashion collabs, new website.",
+   "ladder_log": [
+    {
+     "url": "https://finance.yahoo.com/small-business/articles/red-wing-launches-big-boots-140000103.html",
+     "rung": "wire mirror",
+     "result": "200, found verbatim"
+    },
+    {
+     "url": "https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/",
+     "rung": "trade press",
+     "result": "200, found"
+    },
+    {
+     "url": "https://www.mediapost.com/publications/article/388702/red-wing-unleashes-trades-made-campaign.html",
+     "rung": "trade press",
+     "result": "200, found"
+    },
+    {
+     "url": "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/red-wing-launches-big-boots-to-fill-campaign-honoring-blue-collar-dads-1178855",
+     "rung": "wire",
+     "result": "Cloudflare blocked; Yahoo mirror used"
+    },
+    {
+     "url": "https://lbbonline.com/news/Red-Wing-Proves-the-Hard-Way-Hits-Different",
+     "rung": "trade press",
+     "result": "403"
+    },
+    {
+     "url": "https://www.creativereview.co.uk/red-wing-made-the-hard-way-campaign-film/",
+     "rung": "trade press",
+     "result": "403"
+    }
+   ],
+   "notes_unverified": "Prior-round CMO 'Dave Schneider may be stale' now confirmed current as of 2026-06-18. CEO Allison Gettings from prior round not re-verified. Media spend not found. 'The Crew' ambassador group and Red Wing for Business facts are search-summary only."
+  },
+  {
+   "brand": "Yamaha",
+   "parent": "Yamaha Motor Co., Ltd. (Japan)",
+   "domain": "yamaha-motor.com",
+   "hq": "Marietta, GA (Yamaha Motor Corp., USA)",
+   "ownership": "Public (TSE: 7272) parent",
+   "category": "Powersports, trailers, farm & ranch",
+   "competitors": [
+    "Polaris",
+    "Can-Am",
+    "Kawasaki",
+    "Honda",
+    "Kubota",
+    "John Deere (now partner)"
+   ],
+   "ohio_note": "Yamaha presenting sponsor of AMA Motorcycle Hall of Fame induction, Pickerington OH, Sept 10 2026 (Ohio event).",
+   "quote": {
+    "text": "Yamaha remains committed to the side-by-side category and to creating opportunities that deliver value for our dealers and customers alike.",
+    "url": "https://www.cyclenews.com/2026/08/article/yamaha-discontinuing-sxs-production-in-georgia/",
+    "date_of_source": "2026-08-05",
+    "speaker": "Dean Burnett, President, Yamaha Motorsports USA",
+    "source_type": "trade press (press release)"
+   },
+   "activations": [
+    {
+     "type": "live_experiential",
+     "event_or_property": "Yamaha BLU CRU Invitational Series 2026: four Yamaha-exclusive motocross events (CA, TX, MD, AL), family activities, camping",
+     "location": "Glen Helen, Oak Hill, Budds Creek, Monster Mountain (per search summary)",
+     "dates": "Apr-Nov 2026",
+     "scale": "4 events",
+     "partner_or_agency": "Yamaha in-house experiential",
+     "source_url": "https://www.vurbmoto.com/yamaha-announces-the-2026-blu-cru-invitational-series/",
+     "date_of_source": "2026-02-27",
+     "source_type": "trade press",
+     "proof_snippet": "built around motocross riders and families",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Title sponsor Yamaha Atlanta Short Track; OEM partner Progressive AFT 2026",
+     "location": "Senoia, GA",
+     "dates": "2026-03-21",
+     "scale": "4th straight year as title sponsor",
+     "partner_or_agency": "Progressive American Flat Track",
+     "source_url": "https://www.americanflattrack.com/news/view/yamaha-returns-oem-partner-2026-progressive-aft-campaign-and-title-sponsor-atlanta-short-track",
+     "date_of_source": "2026-02-13",
+     "source_type": "trade press (press release)",
+     "proof_snippet": "will return as an official OEM partner for the 2026 season",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Presenting sponsor, 2026 AMA Motorcycle Hall of Fame induction ceremony",
+     "location": "Pickerington, OH",
+     "dates": "2026-09-10",
+     "scale": "One ceremony",
+     "partner_or_agency": "AMA; Ducati (livestream)",
+     "source_url": "https://powersportsbusiness.com/news/motorcycle/2026/08/26/yamaha-ducati-step-up-support-for-2026-motorcycle-hall-of-fame-ceremony/",
+     "date_of_source": "2026-08-26",
+     "source_type": "trade press",
+     "proof_snippet": "with Yamaha serving as presenting sponsor",
+     "verification": "A"
+    },
+    {
+     "type": "agency",
+     "event_or_property": "Agency of record GearShift Advertising (Costa Mesa) chosen 2014; current status unknown",
+     "location": "Costa Mesa, CA",
+     "dates": "2014-02-25",
+     "scale": "Account est. $10-20M/yr (OCBJ)",
+     "partner_or_agency": "GearShift; ymarketing",
+     "source_url": "https://www.ocbj.com/manufacturing/costa-mesa-shops-win-yamaha-motor-account/",
+     "date_of_source": "2014-02-25",
+     "source_type": "trade press",
+     "proof_snippet": "will handle creative duties as Yamaha's advertising agency of record",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "$10-20 million per year (agency account value, 2014)",
+    "source": "Orange County Business Journal estimate; OLD, not media spend",
+    "url": "https://www.ocbj.com/manufacturing/costa-mesa-shops-win-yamaha-motor-account/",
+    "date": "2014-02-25",
+    "label": "ESTIMATE (stale)"
+   },
+   "agency_of_record": {
+    "name": "GearShift Advertising (2014; may be stale)",
+    "source_url": "https://www.ocbj.com/manufacturing/costa-mesa-shops-win-yamaha-motor-account/",
+    "proof_snippet": "will handle creative duties as Yamaha's advertising agency of record",
+    "date_of_source": "2014-02-25"
+   },
+   "sponsored_properties": [
+    "Progressive AFT (OEM partner)",
+    "Yamaha Atlanta Short Track",
+    "BLU CRU Invitational Series",
+    "MotoAmerica factory teams",
+    "AMA Motorcycle Hall of Fame (presenting)"
+   ],
+   "roles": [
+    {
+     "title": "Experiential Marketing Manager",
+     "team": "Marketing",
+     "name": "Jennifer Davie",
+     "source_url": "https://www.vurbmoto.com/yamaha-announces-the-2026-blu-cru-invitational-series/",
+     "proof_snippet": "Jennifer Davie, Yamaha's experiential marketing manager",
+     "verified_by_script": true
+    },
+    {
+     "title": "President, Yamaha Motorsports USA",
+     "team": "Motorsports",
+     "name": "Dean Burnett",
+     "source_url": "https://www.cyclenews.com/2026/08/article/yamaha-discontinuing-sxs-production-in-georgia/",
+     "proof_snippet": "said Dean Burnett, Yamaha Motorsports USA President",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Weak-moderate. Yamaha spends on motorsports and family race events; has an in-house experiential team. Utility/work-ready positioning (Viking) is a thin tie. Currently cost-cutting.",
+   "risks": [
+    {
+     "risk": "Yamaha ending in-house SxS production in Newnan GA; workforce adjustments ~300 positions globally incl. ~200 full-time",
+     "date": "2026-08-05",
+     "source_url": "https://www.cyclenews.com/2026/08/article/yamaha-discontinuing-sxs-production-in-georgia/",
+     "source_type": "trade press (press release)",
+     "proof_snippet": "affecting approximately 300 positions in total",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    },
+    {
+     "risk": "NHTSA recall 26V367, 4,173 XTZ690 motorcycles, turn signals",
+     "date": "2026-06-05",
+     "source_url": "https://vehiclesafetyrecalls.com/recall/26V367000",
+     "source_type": "recall tracker",
+     "proof_snippet": "Yamaha will replace the meter assembly, free of charge",
+     "verification": "B",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Racing/youth-motocross and family events; retrenchment in SxS with Deere partnership (Oct 2026) and layoffs signal budget caution.",
+   "ladder_log": [
+    {
+     "url": "https://www.vurbmoto.com/yamaha-announces-the-2026-blu-cru-invitational-series/",
+     "rung": "trade press",
+     "result": "200, found"
+    },
+    {
+     "url": "https://www.americanflattrack.com/news/view/yamaha-returns-oem-partner-2026-progressive-aft-campaign-and-title-sponsor-atlanta-short-track",
+     "rung": "trade press",
+     "result": "200, found"
+    },
+    {
+     "url": "https://powersportsbusiness.com/news/motorcycle/2026/08/26/yamaha-ducati-step-up-support-for-2026-motorcycle-hall-of-fame-ceremony/",
+     "rung": "trade press",
+     "result": "200, found"
+    },
+    {
+     "url": "https://www.cyclenews.com/2026/08/article/yamaha-discontinuing-sxs-production-in-georgia/",
+     "rung": "trade press",
+     "result": "200, found"
+    },
+    {
+     "url": "https://www.cyclenews.com/2026/10/article/yamaha-motor-and-john-deere-announce-collaboration-on-future-side-by-side-vehicles/",
+     "rung": "trade press",
+     "result": "200, found"
+    },
+    {
+     "url": "https://vehiclesafetyrecalls.com/recall/26V367000",
+     "rung": "direct",
+     "result": "200 found"
+    },
+    {
+     "url": "https://www.vehiclesafetyrecalls.com/recall/26V197000",
+     "rung": "direct",
+     "result": "525"
+    },
+    {
+     "url": "https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V367-9626.pdf",
+     "rung": "direct",
+     "result": "PDF, no text"
+    }
+   ],
+   "notes_unverified": "Article date 2026-08-05 per page 'press release | August 5, 2026'. GNCC $867K contingency and Outdoor Access grants (prior round) not re-verified; grants excluded. AFT page body shows datelined 2025 typo. TW200 recall 26V197 search-only. OCBJ agency is 2014, current agency unknown."
+  },
+  {
+   "brand": "ADT",
+   "parent": "ADT Inc.",
+   "domain": "adt.com",
+   "hq": "Boca Raton, FL",
+   "ownership": "Public (NYSE: ADT)",
+   "category": "Home safety & security",
+   "competitors": [
+    "Vivint",
+    "SimpliSafe",
+    "Ring"
+   ],
+   "ohio_note": "No Ohio-specific item found; National Night Out is nationwide.",
+   "quote": {
+    "text": "Communities are stronger when neighbors and first responders come together, and that's why we're proud to once again support National Night Out",
+    "url": "https://news.adt.com/corporate-news/adt-helps-bring-communities-together-for-national-night-out-2026",
+    "date_of_source": "2026-08-03",
+    "speaker": "Kim Miller, Chief Marketing & Communications Officer, ADT",
+    "source_type": "brand newsroom"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "National Night Out 2026 sponsor, 4th consecutive year; employees at hundreds of local events; team members on hand for security solutions",
+     "location": "Nationwide (e.g., Indianapolis, Margate FL)",
+     "dates": "2026-08-04",
+     "scale": "Hundreds of events",
+     "partner_or_agency": "NATW (National Night Out)",
+     "source_url": "https://news.adt.com/corporate-news/adt-helps-bring-communities-together-for-national-night-out-2026",
+     "date_of_source": "2026-08-03",
+     "source_type": "brand newsroom",
+     "proof_snippet": "this marks the fourth consecutive year that ADT has sponsored National Night Out",
+     "verification": "A"
+    },
+    {
+     "type": "live_experiential",
+     "event_or_property": "NNO on-site presence: team members help families and small business owners learn about security solutions; free backpacks handed out",
+     "location": "Indianapolis and others",
+     "dates": "2026-08-04",
+     "scale": "Hundreds of events",
+     "partner_or_agency": "NATW",
+     "source_url": "https://news.adt.com/corporate-news/adt-helps-bring-communities-together-for-national-night-out-2026",
+     "date_of_source": "2026-08-03",
+     "source_type": "brand newsroom",
+     "proof_snippet": "ADT team members will be on hand to help families and small business owners",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Miami Marlins first-ever jersey patch, pillar partner (2023-25; 2025 extension reported on Marlins news listing only, not opened)",
+     "location": "Miami",
+     "dates": "Announced 2023-03-29",
+     "scale": "Est. ~$5M/yr (Sportico)",
+     "partner_or_agency": "Miami Marlins",
+     "source_url": "https://newsroom.adt.com/corporate-news/adt-and-miami-marlins-announce-historic-multi-year-partnership",
+     "date_of_source": "2023-03-29",
+     "source_type": "brand newsroom",
+     "proof_snippet": "first-ever jersey patch",
+     "verification": "B"
+    }
+   ],
+   "media_spend": {
+    "estimate": "Advertising costs $98M (2025), $105M (2024), $131M (2023) per 10-K via search summary; Marlins patch est. ~$5M/yr (Sportico, 2023)",
+    "source": "ADT 10-K FY2025 (search summary only; SEC page 403) and Sportico",
+    "url": "https://www.sec.gov/Archives/edgar/data/1703056/000170305626000022/adt-20251231.htm",
+    "date": "2025-12-31",
+    "label": "ESTIMATE (10-K figure unverified by script)"
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "National Night Out (4th year)",
+    "Miami Marlins (jersey patch)"
+   ],
+   "roles": [
+    {
+     "title": "Chief Marketing & Communications Officer",
+     "team": "Marketing/Comms",
+     "name": "Kim Miller",
+     "source_url": "https://news.adt.com/corporate-news/adt-helps-bring-communities-together-for-national-night-out-2026",
+     "proof_snippet": "said Kim Miller, chief marketing & communications officer at ADT",
+     "verified_by_script": true
+    },
+    {
+     "title": "Chief Marketing Officer (2023)",
+     "team": "Marketing",
+     "name": "Delu Jackson",
+     "source_url": "https://www.sportico.com/business/sponsorship/2023/marlins-jersey-patch-mlb-adt-1234717616/",
+     "proof_snippet": "delu jackson, adt chief marketing officer, said",
+     "verified_by_script": true
+    },
+    {
+     "title": "Chief Financial Officer",
+     "team": "Finance",
+     "name": "Jeff Likosar",
+     "source_url": "https://news.adt.com/adt-safe-places/adt-celebrates-national-night-out-with-communities-across-the-country",
+     "proof_snippet": "ADT CFO Jeff Likosar presents a donation",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Strong. First-responder/community-safety positioning, existing 4-year National Night Out sponsorship, local on-site presence, 'safe communities' messaging fits fire stations, libraries, safety events.",
+   "risks": [
+    {
+     "risk": "DOJ SCRA settlement: $1.26M to 3,400 servicemembers plus $79,380 penalty",
+     "date": "2026-04-14",
+     "source_url": "https://www.justice.gov/index%2Ephp/crt/case/adt-llc-dba-adt-security-services",
+     "source_type": "government",
+     "proof_snippet": "violated the Servicemembers Civil Relief Act (SCRA)",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Community-led sponsorship (NNO 4 years, Safe Places giving) and partnership-based local-business spotlights with Marlins; ad spend declining from $131M (2023) to $98M (2025) per 10-K summary.",
+   "ladder_log": [
+    {
+     "url": "https://news.adt.com/corporate-news/adt-helps-bring-communities-together-for-national-night-out-2026",
+     "rung": "brand newsroom",
+     "result": "200, found"
+    },
+    {
+     "url": "https://news.adt.com/adt-safe-places/adt-celebrates-national-night-out-with-communities-across-the-country",
+     "rung": "brand newsroom",
+     "result": "200, found"
+    },
+    {
+     "url": "https://finviz.com/news/376075/adt-helps-bring-communities-together-for-national-night-out-2026",
+     "rung": "wire mirror",
+     "result": "200"
+    },
+    {
+     "url": "https://newsroom.adt.com/corporate-news/adt-and-miami-marlins-announce-historic-multi-year-partnership",
+     "rung": "brand newsroom",
+     "result": "200, found"
+    },
+    {
+     "url": "https://www.sportico.com/business/sponsorship/2023/marlins-jersey-patch-mlb-adt-1234717616/",
+     "rung": "trade press",
+     "result": "200, found"
+    },
+    {
+     "url": "https://www.justice.gov/index%2Ephp/crt/case/adt-llc-dba-adt-security-services",
+     "rung": "government",
+     "result": "200, found"
+    },
+    {
+     "url": "https://www.sec.gov/Archives/edgar/data/1703056/000170305626000022/adt-20251231.htm",
+     "rung": "sec filing",
+     "result": "403"
+    },
+    {
+     "url": "https://news.adt.com/community-impact/adt-surprises-emt-with-donation-on-the-kelly-clarkson-show",
+     "rung": "brand newsroom",
+     "result": "200, donation only so excluded"
+    }
+   ],
+   "notes_unverified": "Marlins May 2025 extension seen as search snippet only. DOJ proof_snippet must match page text exactly: page says 'Servicemembers Civil Relief Act (SCRA)' lowercase-insensitive. $75K and donations are giving, not counted as marketing spend. Agency of record not found (2013 item stale, not opened). Prior 'Protecting Our Comunidad' 2025 not re-verified."
+  }
+ ]
+}

@@ -1,0 +1,462 @@
+[
+ {
+  "brand": "Dr Pepper",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "Dr Pepper",
+   "parent": "Keurig Dr Pepper",
+   "domain": "drpepper.com",
+   "category": "Beverage",
+   "why_candidate": "Listed in Iowa State Fair 2026-27 sponsor tiers (Purple Ribbon)",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://www.iowastatefair.org/sponsors",
+   "date_of_source": "2026",
+   "proof_snippet": "childserve dr pepper drive smart iowa",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Fairgoers incl. farm and trades families"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Farm Bureau Financial Services",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "Farm Bureau Financial Services",
+   "parent": "Farm Bureau Financial Services",
+   "domain": "fbfs.com",
+   "category": "Insurance",
+   "why_candidate": "Listed in Iowa State Fair 2026-27 sponsor tiers (Purple Ribbon)",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://www.iowastatefair.org/sponsors",
+   "date_of_source": "2026",
+   "proof_snippet": "erie home farm bureau financial services iowa beef industry council",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Insures farm and rural working families"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Leaf Home Water Solutions",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "Leaf Home Water Solutions",
+   "parent": "Leaf Home",
+   "domain": "leafhome.com",
+   "category": "Home improvement",
+   "why_candidate": "Listed in Iowa State Fair 2026-27 sponsor tiers (Purple Ribbon)",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://www.iowastatefair.org/sponsors",
+   "date_of_source": "2026",
+   "proof_snippet": "iowa state education association leaf home water solutions mountain valley spring water",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Homeowner/blue-collar families"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Mountain Valley Spring Water",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "Mountain Valley Spring Water",
+   "parent": "Mountain Valley Spring Water",
+   "domain": "mountainvalleyspring.com",
+   "category": "Beverage",
+   "why_candidate": "Listed in Iowa State Fair 2026-27 sponsor tiers (Purple Ribbon)",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://www.iowastatefair.org/sponsors",
+   "date_of_source": "2026",
+   "proof_snippet": "leaf home water solutions mountain valley spring water solar day",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Fairgoer audience incl. workers"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Transamerica",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "Transamerica",
+   "parent": "Aegon",
+   "domain": "transamerica.com",
+   "category": "Insurance",
+   "why_candidate": "Listed in Iowa State Fair 2026-27 sponsor tiers (Purple Ribbon)",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://www.iowastatefair.org/sponsors",
+   "date_of_source": "2026",
+   "proof_snippet": "stivers ford lincoln of iowa transamerica wyffels hybrids",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Life insurance to working families"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Delta Dental of Iowa",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "Delta Dental of Iowa",
+   "parent": "Delta Dental",
+   "domain": "deltadentalia.com",
+   "category": "Dental insurance",
+   "why_candidate": "Listed in Iowa State Fair 2026-27 sponsor tiers (White Ribbon)",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://www.iowastatefair.org/sponsors",
+   "date_of_source": "2026",
+   "proof_snippet": "cargill delta dental of iowa des moines marriott downtown",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Dental plans for employed families"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "GuideOne Insurance",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "GuideOne Insurance",
+   "parent": "GuideOne",
+   "domain": "guideone.com",
+   "category": "Insurance",
+   "why_candidate": "Listed in Iowa State Fair 2026-27 sponsor tiers (White Ribbon)",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://www.iowastatefair.org/sponsors",
+   "date_of_source": "2026",
+   "proof_snippet": "farmers mutual hail guideone hilton des moines downtown",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Auto/home/farm insurance"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Home Instead",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "Home Instead",
+   "parent": "Honor Holding",
+   "domain": "homeinstead.com",
+   "category": "Senior care",
+   "why_candidate": "Listed in Iowa State Fair 2026-27 sponsor tiers (White Ribbon)",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://www.iowastatefair.org/sponsors",
+   "date_of_source": "2026",
+   "proof_snippet": "guideone hilton des moines downtown home instead hoover presidential foundation",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Families of workers/retirees"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "WARN Industries",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "WARN Industries",
+   "parent": "Warn Industries (Allied Powers)",
+   "domain": "warn.com",
+   "category": "Winches/off-road",
+   "why_candidate": "Presenting sponsor of NASCAR Craftsman Truck race at IRP",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://speedwaydigest.com/?p=882086",
+   "date_of_source": "2026-04-13",
+   "proof_snippet": "Warn Industries joins as presenting sponsor for TSPORT 200 in 2026",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Truck/off-road enthusiasts, mechanics"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Mechanix Wear",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "Mechanix Wear",
+   "parent": "Mechanix Wear",
+   "domain": "mechanix.com",
+   "category": "Work gloves",
+   "why_candidate": "Official Work Glove of PBR",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://pbr.com/news/2021/03/mechanix-wear-becomes-official-work-glove-of-pbr",
+   "date_of_source": "2021-03",
+   "proof_snippet": "Official Work Glove of the PBR",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Trades, mechanics, first responders; note source dated 2021"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Keystone Cooperative",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "Keystone Cooperative",
+   "parent": "Keystone Cooperative",
+   "domain": "keystonecoop.com",
+   "category": "Farm co-op/propane/fuel",
+   "why_candidate": "Sponsored Keystone Cooperative Day at Indiana State Fair",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://www.keystonecoop.com/news/keystone-news/keystone-cooperative-celebrates-4-h-youth-and-indi",
+   "date_of_source": "2026-08-05",
+   "proof_snippet": "Keystone Cooperative Day",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Farmers and rural households"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Indiana Farm Bureau Insurance",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "Indiana Farm Bureau Insurance",
+   "parent": "Indiana Farm Bureau",
+   "domain": "infarmbureau.com",
+   "category": "Insurance",
+   "why_candidate": "Sponsors Insurance Day at Indiana State Fair",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://www.infarmbureau.com/inside-story/articles/complete-2026-guide-to-county-fair-dates-in-indiana",
+   "date_of_source": "2026",
+   "proof_snippet": "Indiana Farm Bureau Insurance",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Farm and rural families"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Mopar",
+  "method": "M1 sponsor-of-sponsor",
+  "file": "brand_kb/batches/D1.json",
+  "candidate": {
+   "brand": "Mopar",
+   "parent": "Stellantis",
+   "domain": "mopar.com",
+   "category": "Auto parts",
+   "why_candidate": "Full-season sponsor of NASCAR Truck driver Daniel Dye 2026",
+   "discovery_method": "M1 sponsor-of-sponsor",
+   "source_url": "https://www.si.com/onsi/racing-america/news/mopar-to-serve-as-full-season-sponsor-for-daniel-dye-in-2026",
+   "date_of_source": "2026",
+   "proof_snippet": "Mopar to Serve as Full-Season Sponsor for Daniel Dye in 2026",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Truck owners, DIY mechanics"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Mack Trucks",
+  "method": "M2",
+  "file": "brand_kb/batches/D2.json",
+  "candidate": {
+   "brand": "Mack Trucks",
+   "parent": "Volvo Group",
+   "domain": "macktrucks.com",
+   "category": "Heavy trucks",
+   "why_candidate": "Direct competitor of seed Kenworth; official hauler of NASCAR",
+   "discovery_method": "M2",
+   "source_url": "https://www.macktrucks.com/mack-news/2026/mack-trucks-extends-partnership-as-official-hauler-of-nascar",
+   "date_of_source": "2026-02-10",
+   "proof_snippet": "Mack Trucks and NASCAR\u00ae today announced a multi-year extension",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Truckers and owner-operators"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Peterbilt",
+  "method": "M2",
+  "file": "brand_kb/batches/D2.json",
+  "candidate": {
+   "brand": "Peterbilt",
+   "parent": "PACCAR",
+   "domain": "peterbilt.com",
+   "category": "Heavy trucks",
+   "why_candidate": "Direct competitor of seed Kenworth (same PACCAR family); sponsors ATA Trucking U",
+   "discovery_method": "M2",
+   "source_url": "https://peterbilt.com/news-and-events/press-releases/peterbilt-sponsors-ata-s-trucking-u-for-second-consecutive-year-investing-in-trucking-leaders-of-tomorrow",
+   "date_of_source": "2024-10-08",
+   "proof_snippet": "As the exclusive OEM sponsor for the second consecutive year, Peterbilt",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Truckers and fleet drivers"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Cornwell Tools",
+  "method": "M2",
+  "file": "brand_kb/batches/D2.json",
+  "candidate": {
+   "brand": "Cornwell Tools",
+   "parent": "Cornwell Quality Tools",
+   "domain": "cornwelltools.com",
+   "category": "Mobile professional tools",
+   "why_candidate": "Direct competitor of seed Snap-on; NHRA U.S. Nationals title sponsor",
+   "discovery_method": "M2",
+   "source_url": "https://speedsport.com/drag-racing/cornwell-tools-named-u-s-nationals-title-sponsor/",
+   "date_of_source": "2024-11-05",
+   "proof_snippet": "Cornwell Quality Tools has been named the new title sponsor",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Auto technicians and tradespeople"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Matco Tools",
+  "method": "M2",
+  "file": "brand_kb/batches/D2.json",
+  "candidate": {
+   "brand": "Matco Tools",
+   "parent": "Danaher/Fortive (Matco)",
+   "domain": "matcotools.com",
+   "category": "Mobile professional tools",
+   "why_candidate": "Direct competitor of seed Snap-on; sponsors NHRA drivers",
+   "discovery_method": "M2",
+   "source_url": "https://wikipedia.com/wiki/Matco",
+   "date_of_source": "2026-03",
+   "proof_snippet": "Antron Brown",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Auto technicians and mechanics"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Mac Tools",
+  "method": "M2",
+  "file": "brand_kb/batches/D2.json",
+  "candidate": {
+   "brand": "Mac Tools",
+   "parent": "Stanley Black & Decker",
+   "domain": "mactools.com",
+   "category": "Mobile professional tools",
+   "why_candidate": "Direct competitor of seed Snap-on; motorsports sponsor (old, 2014)",
+   "discovery_method": "M2",
+   "source_url": "https://app.sponsorpitch.com/deals/mac-tools-sponsors-rab-racing",
+   "date_of_source": "2014",
+   "proof_snippet": "Mac Tools is a professional tool company located in Westerville, Ohio",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Mechanics and tradespeople"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Mahindra Tractors",
+  "method": "M2",
+  "file": "brand_kb/batches/D2.json",
+  "candidate": {
+   "brand": "Mahindra Tractors",
+   "parent": "Mahindra & Mahindra",
+   "domain": "mahindratractor.com",
+   "category": "Tractors",
+   "why_candidate": "Direct competitor of seed Kubota and Tractor Supply seller; sponsors Texas FFA",
+   "discovery_method": "M2",
+   "source_url": "https://www.progressivecattle.com/news/industry-news/mahindra-usa-announces-corporate-sponsorship-of-the-texas-ffa",
+   "date_of_source": "2011-08-02",
+   "proof_snippet": "Mahindra USA announces corporate sponsorship of the Texas FFA",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Farmers and ranchers"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Mechanix Wear",
+  "method": "M2",
+  "file": "brand_kb/batches/D2.json",
+  "candidate": {
+   "brand": "Mechanix Wear",
+   "parent": "Mechanix Wear Inc",
+   "domain": "mechanix.com",
+   "category": "Work gloves",
+   "why_candidate": "Adjacent to seed 5.11 Tactical (tactical and trades gloves); NASCAR-linked",
+   "discovery_method": "M2",
+   "source_url": "https://www.apparelsearch.com/Definitions/Clothing_Companies/USA/m/mechanix_wear_united_states_clothing_company_definitions.htm",
+   "date_of_source": "undated",
+   "proof_snippet": "Mechanix Wear \"Original\" gloves were first used in NASCAR",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Mechanics, first responders, tradespeople"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Berne Apparel",
+  "method": "M2",
+  "file": "brand_kb/batches/D2.json",
+  "candidate": {
+   "brand": "Berne Apparel",
+   "parent": "Berne Apparel",
+   "domain": "berneapparel.com",
+   "category": "Workwear",
+   "why_candidate": "Peer of seed Duluth Trading on same workwear roundup",
+   "discovery_method": "M2",
+   "source_url": "https://www.irreverentgent.com/brands-like-carhartt-alternatives/",
+   "date_of_source": "undated",
+   "proof_snippet": "Berne Walls Caterpillar Tough Duck Arborwear",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Tradespeople"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Walls Workwear",
+  "method": "M2",
+  "file": "brand_kb/batches/D2.json",
+  "candidate": {
+   "brand": "Walls Workwear",
+   "parent": "Walls Industries",
+   "domain": "wallsworkwear.com",
+   "category": "Workwear",
+   "why_candidate": "Peer of seed Duluth Trading on same workwear roundup",
+   "discovery_method": "M2",
+   "source_url": "https://www.irreverentgent.com/brands-like-carhartt-alternatives/",
+   "date_of_source": "undated",
+   "proof_snippet": "Berne Walls Caterpillar Tough Duck Arborwear",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Tradespeople and outdoor workers"
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "SERVPRO",
+  "method": "M3",
+  "file": "brand_kb/batches/D3.json",
+  "candidate": {
+   "brand": "SERVPRO",
+   "parent": "SERVPRO Industries",
+   "domain": "servpro.com",
+   "category": "home restoration services",
+   "why_candidate": "National title sponsor of Firefighter Challenge League, extended through 2029 in Oct 2025",
+   "discovery_method": "M3",
+   "source_url": "https://www.servpro.com/news-press-releases/252310-servpro-extends-national-title-sponsorship-of-firefighter-challenge-league-through-2029",
+   "date_of_source": "2025-10-23",
+   "proof_snippet": "national title sponsorship",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Firefighter-focused sponsorship plus fire safety education materials."
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ }
+]

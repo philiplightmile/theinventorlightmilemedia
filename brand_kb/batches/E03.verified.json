@@ -1,0 +1,618 @@
+{
+ "results": [
+  {
+   "brand": "Snap-on",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Snap-on IndyCar Weekend at the Milwaukee Mile title sponsor; official tools partner of IndyCar and IMS",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Josh Hart Racing R+L Carriers Top Fuel team official sponsor, 2025 NHRA season",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Bosch Power Tools",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": false
+   },
+   "activations": [
+    {
+     "event": "Super Bowl LX ad with Guy Fieri, 'The More You Bosch' campaign",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Bosch and Lowe's planned activations, discounts, exclusive products",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Pilot Flying J",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": false
+   },
+   "activations": [
+    {
+     "event": "Road Warrior contest: customized Kenworth W990 and $50,000 for a professional driver; Driver Appreciation Month",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "5.11 Tactical",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Official #ForThe343 tribute partner with National Fallen Firefighters Foundation",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  },
+  {
+   "brand": "Kenworth",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": false
+   },
+   "activations": [
+    {
+     "event": "Freedom 250 tour: donated T680 to 'Freedom Trucks' mobile museum fleet; TourAmerica paint scheme",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "U.S. Capitol Christmas Tree transport, 12 years",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Transition Trucking: Driving for Excellence award, T680 grand prize, 11th year (veteran drivers)",
+     "verified": false,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  }
+ ],
+ "batch": [
+  {
+   "brand": "Snap-on",
+   "parent": "Snap-on Incorporated (NYSE: SNA)",
+   "domain": "snapon.com",
+   "hq": "Kenosha, WI",
+   "ownership": "Public",
+   "category": "Tools & equipment",
+   "competitors": [
+    "Matco",
+    "Mac Tools",
+    "Milwaukee",
+    "Craftsman"
+   ],
+   "ohio_note": "Prior round flagged Ohio Y; not re-verified here.",
+   "quote": {
+    "text": "Snap-on has been dedicated to celebrating the pride and dignity of makers and fixers performing critical work",
+    "url": "https://biztimes.com/?p=641066",
+    "date_of_source": "2026-08-28",
+    "speaker": "Nick Pinchuk, Chairman and CEO",
+    "source_type": "trade press (quoting company announcement)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Snap-on IndyCar Weekend at the Milwaukee Mile title sponsor; official tools partner of IndyCar and IMS",
+     "location": "Milwaukee, WI",
+     "dates": "2026 event, renewed multiyear",
+     "scale": "thousands of spectators (2025 event)",
+     "partner_or_agency": "IndyCar / Wisconsin State Fair Park",
+     "source_url": "https://biztimes.com/?p=641066",
+     "date_of_source": "2026-08-28",
+     "source_type": "trade press",
+     "proof_snippet": "will continue as the title sponsor for the Snap-on IndyCar Weekend at the Milwaukee Mile",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Josh Hart Racing R+L Carriers Top Fuel team official sponsor, 2025 NHRA season",
+     "location": "NHRA national",
+     "dates": "2025 season",
+     "scale": "one Top Fuel team",
+     "partner_or_agency": "Josh Hart Racing",
+     "source_url": "https://nhra.com/news/2024/josh-hart-racing-adds-snap-tools-2025-top-fuel-season",
+     "date_of_source": "2024-12-15",
+     "source_type": "partner site",
+     "proof_snippet": "will chase the championship with the official support of Snap-on Tools",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "Snap-on IndyCar Weekend / Milwaukee Mile",
+    "IndyCar",
+    "Indianapolis Motor Speedway",
+    "Josh Hart Racing (NHRA)"
+   ],
+   "roles": [],
+   "event_format_fit": "Strong brand-language fit (makers and fixers, dignity of skilled work); motorsports-centric spend, so a skilled-trades/tech-school pitch is the angle. Q2 2026 call: technicians cautious on big purchases.",
+   "risks": [
+    {
+     "risk": "Technician customers cautious on big-ticket purchases; pivot to quick-payback products",
+     "date": "2026-07-23",
+     "source_url": "https://www.snapon.com/Snap-on-Files/Investors/2026-Q2/Q2-2026-Transcript.pdf",
+     "source_type": "earnings transcript",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Racing/sponsorship renewals plus tech-shortage messaging; no 2025-26 tour found in this pass.",
+   "ladder_log": [
+    {
+     "url": "https://biztimes.com/?p=641066",
+     "rung": "direct",
+     "result": "200 ok"
+    },
+    {
+     "url": "https://nhra.com/news/2024/josh-hart-racing-adds-snap-tools-2025-top-fuel-season",
+     "rung": "direct",
+     "result": "200 ok"
+    },
+    {
+     "url": "https://www.aftermarketnews.com/?p=59213",
+     "rung": "direct",
+     "result": "403"
+    },
+    {
+     "url": "https://vehicleservicepros.com/training-and-resources/news/11150426/vehicle-technicians-are-special-people",
+     "rung": "direct",
+     "result": "503"
+    },
+    {
+     "url": "https://www.snapon.com/Snap-on-Files/Investors/2026-Q2/Q2-2026-Transcript.pdf",
+     "rung": "direct (pdf via curl+pdftotext)",
+     "result": "read; no proof_snippet checked by script"
+    }
+   ],
+   "notes_unverified": "Prior-round NO COMPROMISE tour link blocked (403), unverified here. No agency or event-marketing roles found. Fewer than 12 tool calls per brand were made."
+  },
+  {
+   "brand": "Bosch Power Tools",
+   "parent": "Robert Bosch GmbH (Bosch North America)",
+   "domain": "boschtools.com",
+   "hq": "Gerlingen, Germany (US: Mount Prospect, IL)",
+   "ownership": "Private (foundation-controlled)",
+   "category": "Tools & equipment",
+   "competitors": [
+    "DeWalt",
+    "Milwaukee",
+    "Makita",
+    "Hilti",
+    "Ryobi"
+   ],
+   "ohio_note": "",
+   "quote": {
+    "text": "The campaign is focused on demonstrating how our products elevate the lives of home appliance and power tool consumers",
+    "url": "https://www.bosch-presse.de/pressportal/us/en/press-release-29888.html",
+    "date_of_source": "2026-02-05",
+    "speaker": "Paul Thomas, President, Bosch in North America",
+    "source_type": "brand newsroom"
+   },
+   "activations": [
+    {
+     "type": "content",
+     "event_or_property": "Super Bowl LX ad with Guy Fieri, 'The More You Bosch' campaign",
+     "location": "Super Bowl LX, national",
+     "dates": "2026-02-08",
+     "scale": "second consecutive Big Game",
+     "partner_or_agency": "Droga5",
+     "source_url": "https://www.bosch-presse.de/pressportal/us/en/press-release-29888.html",
+     "date_of_source": "2026-02-05",
+     "source_type": "brand newsroom",
+     "proof_snippet": "developed together with creative ad agency Droga5",
+     "verification": "A"
+    },
+    {
+     "type": "retail_event",
+     "event_or_property": "Bosch and Lowe's planned activations, discounts, exclusive products",
+     "location": "US Lowe's",
+     "dates": "2026",
+     "scale": "not stated",
+     "partner_or_agency": "Lowe's",
+     "source_url": "https://www.bosch-presse.de/pressportal/us/en/press-release-29888.html",
+     "date_of_source": "2026-02-05",
+     "source_type": "brand newsroom",
+     "proof_snippet": "Bosch and Lowe's are planning a big year together with activations",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "Droga5 (campaign creative)",
+    "source_url": "https://www.bosch-presse.de/pressportal/us/en/press-release-29888.html",
+    "proof_snippet": "developed together with creative ad agency Droga5",
+    "date_of_source": "2026-02-05"
+   },
+   "sponsored_properties": [
+    "Chicago Cubs",
+    "Carolina Panthers",
+    "San Antonio Spurs",
+    "FC Dallas (prior round, unverified here)"
+   ],
+   "roles": [],
+   "event_format_fit": "Consumer/DIY and home-appliance weighted, mass media; weaker fit for a trades-safety screening unless via Pro channel. Pro Tour truck exists in Europe only.",
+   "risks": [],
+   "marketing_trend_2025_26": "Big-game ads two years running, multi-year 'More You Bosch' platform, retail partnership with Lowe's.",
+   "ladder_log": [
+    {
+     "url": "https://www.bosch-presse.de/pressportal/us/en/press-release-29888.html",
+     "rung": "direct",
+     "result": "200 ok"
+    }
+   ],
+   "notes_unverified": "Bosch Pro Tour found only for Europe (search only). Prior-round sports sponsorships not re-verified. Quote is consumer-focused, not workers/safety."
+  },
+  {
+   "brand": "Pilot Flying J",
+   "parent": "Pilot Company",
+   "domain": "pilotflyingj.com",
+   "hq": "Knoxville, TN",
+   "ownership": "Private (Berkshire Hathaway holds a stake; not verified here)",
+   "category": "Auto, truck & mobility",
+   "competitors": [
+    "Love's",
+    "TA/Petro",
+    "Sapp Bros",
+    "Buc-ee's"
+   ],
+   "ohio_note": "Prior round flagged Ohio Y; not re-verified.",
+   "quote": {
+    "text": "Professional drivers are the backbone of our economy and keep our communities supplied, often with little recognition for the important work they do",
+    "url": "https://landline.media/2026-road-warrior-contest-has-begun/",
+    "date_of_source": "2026-09-02",
+    "speaker": "Kari Irons, Chief Experience Officer, Pilot",
+    "source_type": "trade press (quoting Pilot release)"
+   },
+   "activations": [
+    {
+     "type": "content",
+     "event_or_property": "Road Warrior contest: customized Kenworth W990 and $50,000 for a professional driver; Driver Appreciation Month",
+     "location": "US travel centers / online",
+     "dates": "nominations to 2026-09-18; winner Oct 2026",
+     "scale": "nationwide",
+     "partner_or_agency": "Kenworth",
+     "source_url": "https://landline.media/2026-road-warrior-contest-has-begun/",
+     "date_of_source": "2026-09-02",
+     "source_type": "trade press",
+     "proof_snippet": "customized Kenworth truck and a $50,000 cash prize",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "SEC/ESPN (older, ~2019)",
+    "Road Warrior"
+   ],
+   "roles": [
+    {
+     "title": "Senior Vice President, Chief Experience Officer",
+     "team": "Brand strategy, creative, integrated marketing",
+     "name": "Kari Irons",
+     "source_url": "https://pilotcompany.com/pilot-leadership/kari-irons",
+     "proof_snippet": "responsible for overseeing the company's brand strategy, creative development, integrated marketing efforts",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Excellent: professional-driver recognition, safety and service emphasis; sites are truck stops and driver events.",
+   "risks": [],
+   "marketing_trend_2025_26": "Annual Driver Appreciation Month with Road Warrior contest, in-app deals.",
+   "ladder_log": [
+    {
+     "url": "https://landline.media/2026-road-warrior-contest-has-begun/",
+     "rung": "direct",
+     "result": "200 ok"
+    },
+    {
+     "url": "https://pilotcompany.com/pilot-leadership/kari-irons",
+     "rung": "direct",
+     "result": "200 ok"
+    },
+    {
+     "url": "https://secure.businesswire.com/news/home/20260901625149/en/Pilot-Celebrates-Driver-Appreciation-with-%2450000-Road-Warrior-Contest-and-Free-Drinks-in-the-Pilot-App",
+     "rung": "direct",
+     "result": "blocked"
+    },
+    {
+     "url": "https://www.cstoredive.com/news/pilot-vice-president-brand-marketing-kari-irons/742512/",
+     "rung": "direct",
+     "result": "200 ok"
+    }
+   ],
+   "notes_unverified": "Role proof_snippet not script-checked after rawfetch read (page text lowercased; text was seen). No agency found. Berkshire stake from memory."
+  },
+  {
+   "brand": "5.11 Tactical",
+   "parent": "Compass Diversified (from memory, unverified)",
+   "domain": "511tactical.com",
+   "hq": "Costa Mesa, CA",
+   "ownership": "Private equity-style holding (unverified)",
+   "category": "First-responder-adjacent consumer",
+   "competitors": [
+    "Under Armour Tactical",
+    "Carhartt",
+    "Blauer",
+    "Propper",
+    "Condor"
+   ],
+   "ohio_note": "",
+   "quote": {
+    "text": "5.11 has always had a deep connection to the first responder community",
+    "url": "https://soldiersystems.net/2026/09/10/5-11-partners-with-national-fallen-firefighters-foundation-to-support-forthe343/",
+    "date_of_source": "2026-09-09",
+    "speaker": "Will Ayres, VP of Professional Sales",
+    "source_type": "partner/trade site reposting release"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Official #ForThe343 tribute partner with National Fallen Firefighters Foundation",
+     "location": "National; 115+ 9/11 memorial stair climbs",
+     "dates": "2026-09",
+     "scale": "more than 115 official stair climbs",
+     "partner_or_agency": "NFFF",
+     "source_url": "https://soldiersystems.net/2026/09/10/5-11-partners-with-national-fallen-firefighters-foundation-to-support-forthe343/",
+     "date_of_source": "2026-09-09",
+     "source_type": "trade press",
+     "proof_snippet": "using its platforms and community to help raise awareness",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "NFFF #ForThe343"
+   ],
+   "roles": [
+    {
+     "title": "Community Activation Manager (2024 posting, archived)",
+     "team": "Ambassador, brand events",
+     "name": "",
+     "source_url": "https://www.influencermarketingsociety.com/jobs/319404582-community-activation-manager-at-5-11-tactical",
+     "proof_snippet": ""
+    }
+   ],
+   "event_format_fit": "Strong first-responder audience fit, fire stations and union halls; ask is through professional sales and ambassador team.",
+   "risks": [
+    {
+     "risk": "Tactec plate carrier recall (CPSC, originally 2021/22; law-firm blog Sept 2025)",
+     "date": "2025-09",
+     "source_url": "https://www.ammonslaw.com/blog/2025/september/allegedly-defective-tactec-plate-carriers-recalled-over-injury-risk-lawyers-lawsuits/",
+     "source_type": "search result",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Cause-tied first-responder partnerships and product collabs (Sig Sauer, SHOT 2025). Note firearms-adjacent range; keep sponsorship to first-responder lines.",
+   "ladder_log": [
+    {
+     "url": "https://soldiersystems.net/2026/09/10/5-11-partners-with-national-fallen-firefighters-foundation-to-support-forthe343/",
+     "rung": "direct",
+     "result": "200 ok"
+    },
+    {
+     "url": "https://www.cpsc.gov/Recalls/2022/5-11-Recalls-Tactec-Plate-Carriers-Due-to-Injury-Hazard",
+     "rung": "direct",
+     "result": "403"
+    },
+    {
+     "url": "https://www.influencermarketingsociety.com/jobs/319404582-community-activation-manager-at-5-11-tactical",
+     "rung": "direct",
+     "result": "403"
+    }
+   ],
+   "notes_unverified": "Parent and ownership not checked. The #ForThe343 partnership is cause-related, so commercial-spend weight is limited."
+  },
+  {
+   "brand": "Kenworth",
+   "parent": "PACCAR Inc",
+   "domain": "kenworth.com",
+   "hq": "Kirkland, WA",
+   "ownership": "Public parent (PACCAR, NASDAQ: PCAR)",
+   "category": "Auto, truck & mobility",
+   "competitors": [
+    "Peterbilt (PACCAR sibling)",
+    "Freightliner",
+    "Volvo",
+    "Mack",
+    "International"
+   ],
+   "ohio_note": "Chillicothe, OH assembly plant (from memory; prior-round layoff note unverified).",
+   "quote": {
+    "text": "Kenworth's donation underscores the company's long standing dedication to the trucking community, veterans, and organizations that strengthen and support drivers across the country.",
+    "url": "https://www.kenworth.com/about-us/news/kenworth-introduces-limited-edition-touramerica-paint-scheme-donates-t680-to-freedom-250-museum-tour",
+    "date_of_source": "2026-04-09",
+    "speaker": "Kenworth release",
+    "source_type": "brand newsroom"
+   },
+   "activations": [
+    {
+     "type": "live_experiential",
+     "event_or_property": "Freedom 250 tour: donated T680 to 'Freedom Trucks' mobile museum fleet; TourAmerica paint scheme",
+     "location": "US nationwide",
+     "dates": "2026",
+     "scale": "fleet of mobile museums",
+     "partner_or_agency": "Freedom 250",
+     "source_url": "https://www.kenworth.com/about-us/news/kenworth-introduces-limited-edition-touramerica-paint-scheme-donates-t680-to-freedom-250-museum-tour",
+     "date_of_source": "2026-04-09",
+     "source_type": "brand newsroom",
+     "proof_snippet": "Kenworth donated a T680 with 76\" integral sleeper",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "U.S. Capitol Christmas Tree transport, 12 years",
+     "location": "Nevada to Washington DC, 15 stops",
+     "dates": "2025-12-02",
+     "scale": "3,700-mile journey",
+     "partner_or_agency": "Knight-Swift",
+     "source_url": "https://www.kenworth.com/about-us/news/2025-u-s-capitol-christmas-tree-lighting",
+     "date_of_source": "2025-12-03",
+     "source_type": "brand newsroom",
+     "proof_snippet": "Kenworth has been a major sponsor of the U.S. Capitol Christmas Tree program",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Transition Trucking: Driving for Excellence award, T680 grand prize, 11th year (veteran drivers)",
+     "location": "Mid-America Trucking Show, Louisville KY",
+     "dates": "2026-03-26 to 28",
+     "scale": "one prize truck",
+     "partner_or_agency": "Fastport, Hiring Our Heroes",
+     "source_url": "https://www.thetrucker.com/trucking-news/truck-driving-jobs-news/kenworth-donates-t680-as-2026-transition-trucking-driving-for-excellence-award-for-11th-year",
+     "date_of_source": "2026-03-25",
+     "source_type": "trade press",
+     "proof_snippet": "",
+     "verification": "B"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "U.S. Capitol Christmas Tree",
+    "Freedom 250",
+    "Transition Trucking award",
+    "Mid-America Trucking Show"
+   ],
+   "roles": [
+    {
+     "title": "Assistant General Manager, Sales and Marketing",
+     "team": "Sales and marketing",
+     "name": "Kevin Haygood",
+     "source_url": "https://www.kenworth.com/about-us/news/kenworth-introduces-limited-edition-touramerica-paint-scheme-donates-t680-to-freedom-250-museum-tour",
+     "proof_snippet": "Kenworth's assistant general manager for sales and marketing",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Strong: driver and veteran focus, heritage messaging, history of donating trucks to touring events; Ohio plant link.",
+   "risks": [],
+   "marketing_trend_2025_26": "Heritage and patriotic programs (TourAmerica, Freedom 250), technician pipeline (NextTech with WyoTech, search only).",
+   "ladder_log": [
+    {
+     "url": "https://www.kenworth.com/about-us/news/kenworth-introduces-limited-edition-touramerica-paint-scheme-donates-t680-to-freedom-250-museum-tour",
+     "rung": "direct",
+     "result": "200 ok"
+    },
+    {
+     "url": "https://www.kenworth.com/about-us/news/2025-u-s-capitol-christmas-tree-lighting",
+     "rung": "direct",
+     "result": "200 ok"
+    },
+    {
+     "url": "https://www.thetrucker.com/trucking-news/truck-driving-jobs-news/kenworth-donates-t680-as-2026-transition-trucking-driving-for-excellence-award-for-11th-year",
+     "rung": "direct",
+     "result": "200 ok"
+    },
+    {
+     "url": "https://www.fleetequipmentmag.com/kenworth-nexttech-program-2025-wyotech/",
+     "rung": "direct",
+     "result": "403"
+    }
+   ],
+   "notes_unverified": "Donations are in-kind and cause-leaning; commercial spend not quantified. Transition Trucking activation is B (page read, snippet not extracted)."
+  }
+ ]
+}
