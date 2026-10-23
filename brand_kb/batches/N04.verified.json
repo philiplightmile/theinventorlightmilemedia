@@ -1,0 +1,612 @@
+{
+ "results": [
+  {
+   "brand": "Cinch",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": false
+   },
+   "activations": [
+    {
+     "event": "Cinch Playoffs Governor's Cup (PRCA)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Cinch Playoffs / Playoff Series (PRCA title sponsor)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "National Team Roping presenting sponsor / official apparel",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "PRCA sponsor since 2018, title sponsor of Playoffs",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  },
+  {
+   "brand": "TYM Tractors",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "ThorSport Racing No. 99 Ben Rhodes, NASCAR Craftsman Truck Series",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "National Farm Machinery Show booth",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "TYM 75th anniversary national sponsorship",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  },
+  {
+   "brand": "AMSOIL",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "CORR presented by AMSOIL (presenting sponsor)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "AMSOIL Championship Off-Road (title partner; Polaris partnership)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "TV, YouTube, print placements",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Dead On Tools",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Sam Hunt Racing No. 24, Harrison Burton, NASCAR O'Reilly Series",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Official tool belt of Darlington Raceway; Dead On Tools 250 entitlement at Martinsville",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  }
+ ],
+ "batch": [
+  {
+   "brand": "Cinch",
+   "parent": "Miller International, Inc.",
+   "domain": "cinchjeans.com",
+   "hq": "Denver, CO (per 2020s NRCHA release; unverified current)",
+   "ownership": "Private; part of Miller International family (Cinch, Cruel Denim, Miller Ranch)",
+   "category": "Western jeans, shirts, workwear",
+   "competitors": [
+    "Wrangler",
+    "Ariat",
+    "Rock & Roll Denim",
+    "Levi's"
+   ],
+   "ohio_note": "No Ohio-specific activation found; sponsors rodeos nationally and has a first responder discount link in site footer.",
+   "quote": {
+    "text": "our apparel is a trusted choice for those who live boldly, work hard",
+    "url": "https://cinchjeans.com/pages/our-story",
+    "date_of_source": "2026-10-23 (page undated; site footer (c) 2026)",
+    "speaker": "Cinch brand website, Our Story",
+    "source_type": "brand site"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Cinch Playoffs Governor's Cup (PRCA)",
+     "location": "Sioux Falls, SD",
+     "dates": "2026-09-25 to 09-27",
+     "scale": "Prize over $1M; presale tickets",
+     "partner_or_agency": "PRCA, State of South Dakota, Experience Sioux Falls",
+     "source_url": "https://www.dakotanewsnow.com/2026/04/13/pcra-bringing-cinch-playoffs-sioux-falls/",
+     "date_of_source": "2026-04-13",
+     "source_type": "local TV news",
+     "proof_snippet": "bringing the cinch playoffs to the city on september 25 through september 27",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Cinch Playoffs / Playoff Series (PRCA title sponsor)",
+     "location": "Puyallup, WA and 60 series rodeos",
+     "dates": "2025-2026 season",
+     "scale": "2025 Cinch Playoffs total payout $1,080,314",
+     "partner_or_agency": "PRCA / Cowboy Channel",
+     "source_url": "https://www.thecowboychannel.com/understanding-the-cinch-playoff-series",
+     "date_of_source": "2026 (undated, early 2026)",
+     "source_type": "trade press",
+     "proof_snippet": "the 2025 cinch playoffs boast a total payout of $1,080,314",
+     "verification": "B"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "National Team Roping presenting sponsor / official apparel",
+     "location": "National",
+     "dates": "multi-year from 2022",
+     "scale": "",
+     "partner_or_agency": "National Team Roping",
+     "source_url": "https://teamropingjournal.com/news/cinch-leads-the-way-as-national-team-ropings-presenting-sponsor/",
+     "date_of_source": "2022-10-02",
+     "source_type": "trade press",
+     "proof_snippet": "cinch taking the lead as the presenting sponsor of the association",
+     "verification": "B"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "PRCA sponsor since 2018, title sponsor of Playoffs",
+     "location": "National",
+     "dates": "2018-",
+     "scale": "",
+     "partner_or_agency": "PRCA",
+     "source_url": "https://barrelracing.com/news/cinch-nfr-playoff-series/",
+     "date_of_source": "2022-08-18",
+     "source_type": "trade press",
+     "proof_snippet": "in 2018, cinch became a prca sponsor and is elevating its sponsorship",
+     "verification": "B"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "PRCA Cinch Playoffs",
+    "Governor's Cup",
+    "National Team Roping",
+    "NRCHA",
+    "NHSRA",
+    "NIRA"
+   ],
+   "roles": [
+    {
+     "title": "Marketing Manager",
+     "team": "Cinch/Miller International",
+     "name": "Jessica Wahlert",
+     "source_url": "https://teamropingjournal.com/news/cinch-leads-the-way-as-national-team-ropings-presenting-sponsor/",
+     "proof_snippet": "said cinch marketing manager jessica wahlert",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Rodeo/western audience; worker-heritage angle is secondary. Site footer lists a military, teacher & first responder discount. Moderate-low fit for trade school/union hall screenings; best via rural fairs and stock shows.",
+   "risks": [
+    {
+     "risk": "Sponsorship money concentrated in rodeo; no worker/safety program found",
+     "date": "2026-10-23",
+     "source_url": "https://cinchjeans.com/pages/our-story",
+     "source_type": "brand site",
+     "proof_snippet": "we remain deeply connected to our rodeo roots, sponsoring many rodeos across the united states",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Doubling down on PRCA Playoffs title rights and Governor's Cup (Sioux Falls, $1M+).",
+   "ladder_log": [
+    {
+     "url": "https://www.thecowboychannel.com/prca-announces-cinch-playoffs-in-puyallup",
+     "rung": "direct",
+     "result": "404"
+    },
+    {
+     "url": "https://www.cinchjeans.com/pages/about-us",
+     "rung": "direct",
+     "result": "404 (used /our-story instead)"
+    }
+   ],
+   "notes_unverified": "HQ Denver from undated NRCHA-era release; parent Miller International from Cinch Our Story page (verified). Prior discovery lead PDF (PRCA committee doc) not re-fetched. No dated 2024-10+ Cinch exec quote found; quote is evergreen site copy. Call count below 12 per brand target (about 10 shared/brand)."
+  },
+  {
+   "brand": "TYM Tractors",
+   "parent": "TYM Corporation (South Korea); TYM North America",
+   "domain": "tymusa.com",
+   "hq": "Georgia (North America); Korea (global)",
+   "ownership": "Subsidiary of Korea-listed TYM Corp (unverified listing status)",
+   "category": "Compact and utility tractors",
+   "competitors": [
+    "Kubota",
+    "Mahindra",
+    "Kioti",
+    "John Deere",
+    "Massey Ferguson"
+   ],
+   "ohio_note": "Ohio dealers listed on aggregator (Jones Equipment, Midwest Machinery Medina, Tractor Barn Columbiana, Holgate Implement); ThorSport Racing is in Sandusky, OH.",
+   "quote": {
+    "text": "the TYM North America team is excited to partner with ThorSport Racing for the 2026 Craftsman Truck Series",
+    "url": "https://thorsport.com/news-tym2026rhodes",
+    "date_of_source": "2026-02-11",
+    "speaker": "Richard Mancinelli, TYM North America marketing leader",
+    "source_type": "partner site"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "ThorSport Racing No. 99 Ben Rhodes, NASCAR Craftsman Truck Series",
+     "location": "Daytona opener and multiple races",
+     "dates": "2026 season",
+     "scale": "Primary partner, multiple races",
+     "partner_or_agency": "ThorSport Racing",
+     "source_url": "https://thorsport.com/news-tym2026rhodes",
+     "date_of_source": "2026-02-11",
+     "source_type": "partner site",
+     "proof_snippet": "tym will appear as the primary partner on ben rhodes' truck for multiple races",
+     "verification": "A"
+    },
+    {
+     "type": "live_experiential",
+     "event_or_property": "National Farm Machinery Show booth",
+     "location": "Louisville, KY",
+     "dates": "2025-02-11 to 02-14; 2026 launch of T5068/T5074",
+     "scale": "Booth, 20-130 hp models",
+     "partner_or_agency": "",
+     "source_url": "https://tym.world/en/about/latest-news/tym-2025-national-farm-machinery-show/",
+     "date_of_source": "2025-02",
+     "source_type": "brand newsroom",
+     "proof_snippet": "National Farm Machinery Show",
+     "verification": "C"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "TYM 75th anniversary national sponsorship",
+     "location": "National",
+     "dates": "2026",
+     "scale": "",
+     "partner_or_agency": "ThorSport",
+     "source_url": "https://mv.tym.world/en-us/about/latest-news/na-75th-anniversary",
+     "date_of_source": "2026-02-10",
+     "source_type": "brand newsroom",
+     "proof_snippet": "national sponsorship for our 75th year in business",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "ThorSport Racing No. 99",
+    "Sunbelt Ag Expo exhibitor",
+    "Equip Expo exhibitor"
+   ],
+   "roles": [
+    {
+     "title": "Marketing Leader, North America",
+     "team": "Marketing",
+     "name": "Richard Mancinelli",
+     "source_url": "https://thorsport.com/news-tym2026rhodes",
+     "proof_snippet": "richard mancinelli, tym north america marketing leader",
+     "verified_by_script": true
+    },
+    {
+     "title": "Director of Marketing, Product Strategy, and Sales Planning",
+     "team": "Marketing",
+     "name": "Keith Wainwright",
+     "source_url": "https://ohioagconnection.com/news/tym-launches-series-5-compact-tractors",
+     "proof_snippet": "said keith wainwright, director of marketing, product strategy, and sales planning",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Rural/agri audience, dealer network (hundreds of dealers) could host local screenings at fairs; weak trade-union/fire-station fit. Growth-minded 75th-anniversary year.",
+   "risks": [
+    {
+     "risk": "Primary sponsorship covers only select races; budget may be committed to NASCAR",
+     "date": "2026-02-11",
+     "source_url": "https://thorsport.com/news-tym2026rhodes",
+     "source_type": "partner site",
+     "proof_snippet": "primary partner on ben rhodes' truck for multiple races",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Shift to national awareness via NASCAR plus trade shows and dealer/influencer events.",
+   "ladder_log": [
+    {
+     "url": "https://group.tym.world/en/all-latest-news/2025-na-dealers-visit-pr",
+     "rung": "direct",
+     "result": "fetched; snippet 'content influencers' not found verbatim, claim left at D from search"
+    }
+   ],
+   "notes_unverified": "Dealer-invitation event (Nov 2025, 29 participants, influencers) seen only in search summary. Ohio dealer data from aggregator allmachines.com. NFMS verification C (page title match only). Call count below 12 target."
+  },
+  {
+   "brand": "AMSOIL",
+   "parent": "AMSOIL Inc.",
+   "domain": "amsoil.com",
+   "hq": "Superior, WI",
+   "ownership": "Private",
+   "category": "Synthetic lubricants",
+   "competitors": [
+    "Mobil 1",
+    "Valvoline",
+    "Royal Purple",
+    "Castrol"
+   ],
+   "ohio_note": "Direct dealer model; no Ohio-specific activation found.",
+   "quote": {
+    "text": "amsoil has a long history of supporting short-course off-road",
+    "url": "https://corracing.com/?p=4871",
+    "date_of_source": "2026-08-21",
+    "speaker": "Sara Oettinger, AMSOIL Marketing Manager",
+    "source_type": "partner site"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "CORR presented by AMSOIL (presenting sponsor)",
+     "location": "AZ, NV, CA",
+     "dates": "2026-27 season",
+     "scale": "At-track branding, digital and broadcast",
+     "partner_or_agency": "Championship Off-Road Racing",
+     "source_url": "https://corracing.com/?p=4871",
+     "date_of_source": "2026-08-21",
+     "source_type": "partner site",
+     "proof_snippet": "welcome amsoil as the series' new presenting sponsor, beginning with the 2026-27 season",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "AMSOIL Championship Off-Road (title partner; Polaris partnership)",
+     "location": "Midwest US short course",
+     "dates": "2025 season",
+     "scale": "",
+     "partner_or_agency": "Polaris",
+     "source_url": "https://champoffroad.com/polaris-and-amsoil-championship-off-road-partner-for-the-2025-season/",
+     "date_of_source": "2025-05-13",
+     "source_type": "partner site",
+     "proof_snippet": "Polaris and AMSOIL Championship Off-Road today announce their official partnership for the 2025 season",
+     "verification": "A"
+    },
+    {
+     "type": "media_spend",
+     "event_or_property": "TV, YouTube, print placements",
+     "location": "National",
+     "dates": "2026",
+     "scale": "MediaRadar: under $100M, decreased YoY",
+     "partner_or_agency": "",
+     "source_url": "https://advertisers.mediaradar.com/amsoil-advertising-profile",
+     "date_of_source": "2026-10",
+     "source_type": "trade data",
+     "proof_snippet": "amsoil advertising spend: under $100 million",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "Under $100 million (decreasing YoY)",
+    "source": "MediaRadar",
+    "url": "https://advertisers.mediaradar.com/amsoil-advertising-profile",
+    "date": "2026-10",
+    "label": "ESTIMATE"
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "CORR presented by AMSOIL",
+    "AMSOIL Championship Off-Road",
+    "Polaris RZR racing tie"
+   ],
+   "roles": [
+    {
+     "title": "Marketing Manager",
+     "team": "Marketing",
+     "name": "Sara Oettinger",
+     "source_url": "https://corracing.com/?p=4871",
+     "proof_snippet": "said sara oettinger, amsoil marketing manager",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Strong blue-collar/diesel/fleet audience; dealer network plus motorsport budget. Fire/EMS fleet marketing exists via dealer page (undated, search only). Good fit for fairs and fleet/trade events.",
+   "risks": [
+    {
+     "risk": "MediaRadar shows decreased ad spend YoY",
+     "date": "2026-10",
+     "source_url": "https://advertisers.mediaradar.com/amsoil-advertising-profile",
+     "source_type": "trade data",
+     "proof_snippet": "decreased spending yoy",
+     "verification": "B",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Consolidating into motorsports title/presenting rights (CORR, Champ Off-Road).",
+   "ladder_log": [
+    {
+     "url": "https://www.import-car.com/?p=145245",
+     "rung": "trade press",
+     "result": "403 Cloudflare"
+    },
+    {
+     "url": "https://app.energyhire.com/job-board/marketing-specialist-superior-wi-655ea278-ceed-41cf-bdc9-8640f7861181",
+     "rung": "job board",
+     "result": "blocked; job posting seen only in search summary, undated"
+    }
+   ],
+   "notes_unverified": "Marketing Specialist job (tradeshows, sponsorships) seen in search only, undated. Winmo lists CMO and AOR agencies but names not visible; agency of record unknown. MediaRadar contact names are truncated and not recorded. Quote is about off-road, not workers. Call count below 12 target."
+  },
+  {
+   "brand": "Dead On Tools",
+   "parent": "Dead On Tools (private)",
+   "domain": "deadontools.com",
+   "hq": "Midwest US (per search summary; unverified city)",
+   "ownership": "Private",
+   "category": "Hand tools, tool belts, work gear",
+   "competitors": [
+    "Estwing",
+    "Milwaukee Tool",
+    "Klein Tools",
+    "Stanley"
+   ],
+   "ohio_note": "No Ohio-specific activation found.",
+   "quote": {
+    "text": "dead on tools was born on the jobsite",
+    "url": "https://www.newsandpress.net/dead-on-tools-strikes-deal-with-darlington-raceway/",
+    "date_of_source": "2021-05-04",
+    "speaker": "Dead On Tools boilerplate in Darlington Raceway release",
+    "source_type": "local press (older than 24 months)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Sam Hunt Racing No. 24, Harrison Burton, NASCAR O'Reilly Series",
+     "location": "Daytona, Martinsville, Bristol, Charlotte, etc. (12 races)",
+     "dates": "2026 season; Daytona 2026-02-14",
+     "scale": "12-race primary",
+     "partner_or_agency": "Sam Hunt Racing",
+     "source_url": "https://www.si.com/onsi/racing-america/news/dead-on-tools-to-continue-support-of-burton-at-sam-hunt-racing",
+     "date_of_source": "2025-12-15",
+     "source_type": "trade press",
+     "proof_snippet": "will serve as a 12-race primary sponsor of the no. 24 toyota gr supra",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Official tool belt of Darlington Raceway; Dead On Tools 250 entitlement at Martinsville",
+     "location": "Darlington SC; Martinsville VA",
+     "dates": "2021",
+     "scale": "Track signage",
+     "partner_or_agency": "Darlington Raceway",
+     "source_url": "https://www.newsandpress.net/dead-on-tools-strikes-deal-with-darlington-raceway/",
+     "date_of_source": "2021-05-04",
+     "source_type": "local press",
+     "proof_snippet": "dead on tools was born on the jobsite",
+     "verification": "B"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "Sam Hunt Racing No. 24",
+    "Harrison Burton"
+   ],
+   "roles": [
+    {
+     "title": "Marketing Manager",
+     "team": "Marketing",
+     "name": "Brian Ranallo",
+     "source_url": "https://www.newsandpress.net/dead-on-tools-strikes-deal-with-darlington-raceway/",
+     "proof_snippet": "said brian ranallo, marketing manager for dead on tools",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Tradesperson audience is core (job site tools, tool belts); good fit for trade schools, union halls, job sites. Already a motorsports spender.",
+   "risks": [
+    {
+     "risk": "Primary on only 12 races; other primaries on Burton car (Jayski per search)",
+     "date": "2025-12-15",
+     "source_url": "https://www.si.com/onsi/racing-america/news/dead-on-tools-to-continue-support-of-burton-at-sam-hunt-racing",
+     "source_type": "trade press",
+     "proof_snippet": "will serve as a 12-race primary sponsor of the no. 24 toyota gr supra",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Continued NASCAR primary sponsorship; tool belt focus.",
+   "ladder_log": [
+    {
+     "url": "https://www.jayski.com/2025/12/15/dead-on-tools-sponsoring-harrison-burton-in-12-races-during-2026-season/",
+     "rung": "trade press",
+     "result": "403"
+    },
+    {
+     "url": "https://ourmotorsports.co/?p=1728",
+     "rung": "trade press",
+     "result": "fetched; 'Dead On Tools' find not verbatim (case/format)"
+    }
+   ],
+   "notes_unverified": "No dated 2024-10+ Dead On Tools own-words quote found; quote is 2021 boilerplate. HQ and ownership unverified. 2025 AM Racing primary deal seen in search summary only. Call count below 12 target."
+  }
+ ]
+}
