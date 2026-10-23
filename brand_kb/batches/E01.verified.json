@@ -1,0 +1,817 @@
+{
+ "results": [
+  {
+   "brand": "Carhartt",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "'Made Possible' / 'Making Football Possible' Buffalo Bills Highmark Stadium campaign: hero spot, 2-min Thurman Thomas spot, Buffalo billboard, rally towels naming 5,900 tradespeople for first 20,000 fans",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Made Possible platform expansion: Highmark Stadium spots; 'The Road' backstage concert crew spots; holiday spots",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Detroit Lions multi-year partnership: Ford Field on-site activations, fan experiences, presenting sponsor of community activations",
+     "verified": false,
+     "rung": "blocked",
+     "http": "403",
+     "date_found_on_page": false
+    },
+    {
+     "event": "'Tough Is Timeless' fall line-up campaign, cinematic brand film",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Duluth Trading",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Minnesota Twins 3-year partnership: presenting partner of Grounds Crew, outfitter, takeover game, plaza activations, Big Dam Van at games/tailgates",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "'For Folks Who Work Their Butts Off' underwear campaign: linear TV during March Madness, CTV, YouTube, search, social",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Big Dam Van mobile retail at Sturgis and a NASCAR race at Kansas Speedway; sponsorships, Spotify, podcasts",
+     "verified": false,
+     "rung": "blocked",
+     "http": "403",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Northern Tool",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Three-year Monster Jam partnership: official hardware retailer/tool partner, Monster Jam Garage, trucks visiting stores, Tools for the Trades Mini Build for high school students",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "One-day in-store Monster Jam truck event, Columbia SC, with two free event tickets for $100+ purchase",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Series of Monster Jam store events: San Antonio, Wichita, Miami area, Metairie, Hampton VA, Austin",
+     "verified": false,
+     "rung": "blocked",
+     "http": "404",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Timberland PRO",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": false
+   },
+   "activations": [
+    {
+     "event": "NASCAR Official Protective Footwear and Official Safety Toe Partner: at-track signage, digital content, race weekend activations, boots for NASCAR workers, 'First Turn, Last Lap, Repeat' campaign",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Entitlement partner of O'Reilly Auto Parts Series race at Phoenix Raceway",
+     "verified": false,
+     "rung": "blocked",
+     "http": "403",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Rocky Boots",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": false
+   },
+   "activations": [
+    {
+     "event": "11th Kingston Police Hockey Classic sponsor by Rocky public service division",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Columbus and Athens veterans Stand Down events (30 and 10 year partnerships); boots donated (in-kind, not counted as spend)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Official footwear of Whitetails Unlimited: Deer Camp Tour, giveaways, advertising; renewed",
+     "verified": false,
+     "rung": "blocked",
+     "http": "403",
+     "date_found_on_page": false
+    }
+   ]
+  }
+ ],
+ "batch": [
+  {
+   "brand": "Carhartt",
+   "parent": "Carhartt Inc.",
+   "domain": "carhartt.com",
+   "hq": "Dearborn, MI",
+   "ownership": "Private, family-owned (Hamilton Carhartt descendants)",
+   "category": "Workwear & work boots",
+   "competitors": [
+    "Wolverine",
+    "Red Wing",
+    "Timberland PRO",
+    "Ariat",
+    "Dickies",
+    "Duluth Trading"
+   ],
+   "ohio_note": "Midwest brand; Ohio flag Y from round 1; no Ohio-specific activation found this round.",
+   "quote": {
+    "text": "we're starting the conversation about work that is happening all around us",
+    "url": "https://www.modernretail.co/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/",
+    "date_of_source": "2026-08-27",
+    "speaker": "Norma Delaney, VP of Marketing and Creative, Carhartt",
+    "source_type": "trade press (Modern Retail)"
+   },
+   "activations": [
+    {
+     "type": "content",
+     "event_or_property": "'Made Possible' / 'Making Football Possible' Buffalo Bills Highmark Stadium campaign: hero spot, 2-min Thurman Thomas spot, Buffalo billboard, rally towels naming 5,900 tradespeople for first 20,000 fans",
+     "location": "Buffalo NY / national",
+     "dates": "2025 NFL season first phase; relaunch Aug 2026",
+     "scale": "5,900 tradespeople named; 20,000 towels; heavy Buffalo investment, national NFL-season flight",
+     "partner_or_agency": "not named",
+     "source_url": "https://www.chiefmarketer.com/carhartt-takes-new-angle-on-nfl-marketing/",
+     "date_of_source": "2026-08-14",
+     "source_type": "trade press",
+     "proof_snippet": "the first 20,000 fans at the first home pre-season game will receive a carhartt rally towel",
+     "verification": "A"
+    },
+    {
+     "type": "content",
+     "event_or_property": "Made Possible platform expansion: Highmark Stadium spots; 'The Road' backstage concert crew spots; holiday spots",
+     "location": "national",
+     "dates": "2025-2026",
+     "scale": "two-year initiative; platform to run for years",
+     "partner_or_agency": "not named",
+     "source_url": "https://www.modernretail.co/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/",
+     "date_of_source": "2026-08-27",
+     "source_type": "trade press",
+     "proof_snippet": "starting the conversation about work that is happening all around us",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Detroit Lions multi-year partnership: Ford Field on-site activations, fan experiences, presenting sponsor of community activations",
+     "location": "Detroit MI",
+     "dates": "announced 2025-09-10; multi-year",
+     "scale": "unknown",
+     "partner_or_agency": "Detroit Lions",
+     "source_url": "https://www.carhartt.com/carhartt-detroit-lions-partnership",
+     "date_of_source": "2025-09-10",
+     "source_type": "search result only (carhartt.com blocked 403)",
+     "proof_snippet": "",
+     "verification": "D"
+    },
+    {
+     "type": "content",
+     "event_or_property": "'Tough Is Timeless' fall line-up campaign, cinematic brand film",
+     "location": "US",
+     "dates": "Sept 2024",
+     "scale": "unknown",
+     "partner_or_agency": "Connelly Partners",
+     "source_url": "https://www.adsoftheworld.com/campaigns/tough-is-timeless",
+     "date_of_source": "2024-09",
+     "source_type": "industry awards listing",
+     "proof_snippet": "agency: connelly partners",
+     "verification": "B"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "Connelly Partners (creative for 'Tough Is Timeless'; AOR status not confirmed)",
+    "source_url": "https://www.adsoftheworld.com/campaigns/tough-is-timeless",
+    "proof_snippet": "agency: connelly partners",
+    "date_of_source": "2024-09"
+   },
+   "sponsored_properties": [
+    "Buffalo Bills (Highmark Stadium campaign, not a rights deal confirmed)",
+    "Detroit Lions (multi-year, Sept 2025, unverified)",
+    "CMA Music Festival (2014, old)"
+   ],
+   "roles": [
+    {
+     "title": "Vice President of Marketing (and Creative)",
+     "team": "Marketing",
+     "name": "Norma Delaney",
+     "source_url": "https://www.chiefmarketer.com/carhartt-takes-new-angle-on-nfl-marketing/",
+     "proof_snippet": "vice president of marketing at carhartt",
+     "verified_by_script": true
+    },
+    {
+     "title": "Director Brand Marketing",
+     "team": "Brand marketing",
+     "name": "Katelyn Donah",
+     "source_url": "https://www.adsoftheworld.com/campaigns/tough-is-timeless",
+     "proof_snippet": "director brand marketing: katelyn donah",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Strong: trades-first storytelling and a Buffalo/Detroit community-activation pattern; tradespeople-recognition framing matches screenings at trade schools, union halls and job sites. Pitch as presenting sponsor of a local community activation.",
+   "risks": [
+    {
+     "risk": "Marketing heavily committed to NFL/Made Possible platform through the 2026 season; sponsorship budget may be tied up",
+     "date": "2026-08-14",
+     "source_url": "https://www.chiefmarketer.com/carhartt-takes-new-angle-on-nfl-marketing/",
+     "source_type": "trade press",
+     "proof_snippet": "carhartt will be running campaigns nationwide throughout the nfl season",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Carhartt is moving to culturally relevant trades-recognition content (Made Possible) rather than logo-in-stadium sports sponsorship, and added a Detroit Lions presenting-sponsor role for community activations.",
+   "ladder_log": [
+    {
+     "url": "https://www.modernretail.co/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/",
+     "rung": "direct",
+     "result": "200 fetched, quote found"
+    },
+    {
+     "url": "https://www.chiefmarketer.com/carhartt-takes-new-angle-on-nfl-marketing/",
+     "rung": "direct",
+     "result": "200 fetched, snippet found"
+    },
+    {
+     "url": "https://www.carhartt.com/carhartt-detroit-lions-partnership",
+     "rung": "direct",
+     "result": "403 blocked; fell to search result (D)"
+    },
+    {
+     "url": "https://www.adsoftheworld.com/campaigns/tough-is-timeless",
+     "rung": "direct",
+     "result": "200, agency found"
+    },
+    {
+     "url": "https://printandpromomarketing.com/?p=10236",
+     "rung": "trade press",
+     "result": "200 but dated 2010 (UPP Entertainment); not used"
+    }
+   ],
+   "notes_unverified": "$300,000 Buffalo vocational donation excluded (donation). Lions details from search summary only. Mediabistro 'Campaign Activation Manager' posting blocked, unverified."
+  },
+  {
+   "brand": "Duluth Trading",
+   "parent": "Duluth Holdings Inc. (NASDAQ: DLTH)",
+   "domain": "duluthtrading.com",
+   "hq": "Mount Horeb, WI",
+   "ownership": "Public",
+   "category": "Workwear & work boots",
+   "competitors": [
+    "Carhartt",
+    "Dickies",
+    "Ariat",
+    "Filson",
+    "Wrangler"
+   ],
+   "ohio_note": "Ohio flag Y from round 1; retail stores in Ohio not verified this round.",
+   "quote": {
+    "text": "it's the dedication of the crews who arrive before sunrise, the traditions families share from generation to generation and the communities that rally behind their hometown team.",
+    "url": "https://www.webull.com/news/15379848327734272",
+    "date_of_source": "2026-08-10",
+    "speaker": "Garth Weber, SVP of Brand and Marketing, Duluth Trading",
+    "source_type": "wire (PR Newswire via Webull)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Minnesota Twins 3-year partnership: presenting partner of Grounds Crew, outfitter, takeover game, plaza activations, Big Dam Van at games/tailgates",
+     "location": "Target Field, Minneapolis / Twins territory",
+     "dates": "2026 season, 3 years (announced 2026-08-10)",
+     "scale": "10 retail locations in Twins territory",
+     "partner_or_agency": "Minnesota Twins",
+     "source_url": "https://www.webull.com/news/15379848327734272",
+     "date_of_source": "2026-08-10",
+     "source_type": "wire mirror",
+     "proof_snippet": "duluth's mobile big dam van pop-up will also be integrated into select games and tailgate activations",
+     "verification": "A"
+    },
+    {
+     "type": "content",
+     "event_or_property": "'For Folks Who Work Their Butts Off' underwear campaign: linear TV during March Madness, CTV, YouTube, search, social",
+     "location": "US",
+     "dates": "launched March 2026",
+     "scale": "Meta ROAS up to $100:$1 reported",
+     "partner_or_agency": "not named",
+     "source_url": "https://www.chiefmarketer.com/duluth-trading-launches-cheeky-underwear-marketing-campaign/",
+     "date_of_source": "2026-05-08",
+     "source_type": "trade press",
+     "proof_snippet": "duluth trading launched the campaign during the ncaa basketball tournament",
+     "verification": "A"
+    },
+    {
+     "type": "live_experiential",
+     "event_or_property": "Big Dam Van mobile retail at Sturgis and a NASCAR race at Kansas Speedway; sponsorships, Spotify, podcasts",
+     "location": "Sturgis; Kansas Speedway",
+     "dates": "2025",
+     "scale": "unknown",
+     "partner_or_agency": "",
+     "source_url": "https://www.roic.ai/quote/DLTH/transcripts/2025-year/3-quarter",
+     "date_of_source": "2025-12",
+     "source_type": "earnings transcript (search result only; page 403)",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "media_spend": {
+    "estimate": "Advertising expenses $35.4M for nine months of fiscal 2025 vs $43.2M prior year (10-Q, quarter ended 2025-11-02); not a full-year figure",
+    "source": "Duluth Holdings 10-Q via search result; sec.gov page blocked 403, unverified by script",
+    "url": "https://www.sec.gov/Archives/edgar/data/1649744/000119312525322052/dlth-20251102.htm",
+    "date": "2025-12",
+    "label": "ESTIMATE (D)"
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "Minnesota Twins",
+    "Pheasants Forever / Quail Forever (national sponsor, prior round)",
+    "NASCAR event appearance (Big Dam Van)"
+   ],
+   "roles": [
+    {
+     "title": "SVP of Brand and Marketing",
+     "team": "Brand and Marketing",
+     "name": "Garth Weber",
+     "source_url": "https://www.webull.com/news/15379848327734272",
+     "proof_snippet": "said garth weber, svp of brand and marketing at duluth trading",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Good: Twins Grounds Crew deal shows appetite for celebrating behind-the-scenes workers; Big Dam Van pop-up is a ready local-event asset for screenings and job-site stops.",
+   "risks": [
+    {
+     "risk": "Advertising spend cut year over year (nine-month 2025 down about 18%)",
+     "date": "2025-12",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1649744/000119312525322052/dlth-20251102.htm",
+     "source_type": "sec filing (search result)",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Full-funnel mix of TV, CTV, audio and sponsorships; first major team partnership (Twins) in 2026; humor-led performance creative with strong ROAS.",
+   "ladder_log": [
+    {
+     "url": "https://www.webull.com/news/15379848327734272",
+     "rung": "wire mirror",
+     "result": "200, snippets found"
+    },
+    {
+     "url": "https://www.chiefmarketer.com/duluth-trading-launches-cheeky-underwear-marketing-campaign/",
+     "rung": "trade press",
+     "result": "200, snippet found"
+    },
+    {
+     "url": "https://www.roic.ai/quote/DLTH/transcripts/2025-year/3-quarter",
+     "rung": "direct",
+     "result": "403 blocked"
+    },
+    {
+     "url": "https://www.sec.gov/Archives/edgar/data/1649744/000119312525322052/dlth-20251102.htm",
+     "rung": "sec filing",
+     "result": "403 blocked; figure from search result only"
+    }
+   ],
+   "notes_unverified": "Advertising figure and Sturgis/NASCAR van appearances from search summaries only."
+  },
+  {
+   "brand": "Northern Tool",
+   "parent": "Northern Tool + Equipment Co., Inc.",
+   "domain": "northerntool.com",
+   "hq": "Burnsville, MN",
+   "ownership": "Private, family-owned",
+   "category": "Home improvement & hardware retail",
+   "competitors": [
+    "Harbor Freight",
+    "Tractor Supply",
+    "Home Depot",
+    "Lowe's",
+    "Grainger"
+   ],
+   "ohio_note": "Ohio flag Y from round 1; Ohio store events not verified this round.",
+   "quote": {
+    "text": "Northern Tool + Equipment is a family-owned company serving both DIYers and trades professionals",
+    "url": "https://digital-release.wowktv.com/business/press-releases/cision/20260331CG22483/northern-tool-equipment-welcomes-monster-jam-truck-to-columbia-store-for-one-day-event",
+    "date_of_source": "2026-03-31",
+    "speaker": "Northern Tool + Equipment (press release boilerplate)",
+    "source_type": "wire mirror (PR Newswire via WOWK)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Three-year Monster Jam partnership: official hardware retailer/tool partner, Monster Jam Garage, trucks visiting stores, Tools for the Trades Mini Build for high school students",
+     "location": "National; Bryan High School TX; reveal Austin TX",
+     "dates": "announced 2024-09-18 (date from prior round); reveal 2025-06-07",
+     "scale": "3 years, retail/B2B/online integration",
+     "partner_or_agency": "Feld Entertainment / Monster Jam",
+     "source_url": "https://www.feldentertainment.com/northern-tool-equipment-announces-partnership-with-monster-jam",
+     "date_of_source": "2024-09-18",
+     "source_type": "brand partner newsroom (Feld)",
+     "proof_snippet": "monster jam trucks visiting northern tool stores across the country",
+     "verification": "B"
+    },
+    {
+     "type": "retail_event",
+     "event_or_property": "One-day in-store Monster Jam truck event, Columbia SC, with two free event tickets for $100+ purchase",
+     "location": "Columbia SC",
+     "dates": "2026-04-16, 2-6pm",
+     "scale": "single store",
+     "partner_or_agency": "Monster Jam",
+     "source_url": "https://digital-release.wowktv.com/business/press-releases/cision/20260331CG22483/northern-tool-equipment-welcomes-monster-jam-truck-to-columbia-store-for-one-day-event",
+     "date_of_source": "2026-03-31",
+     "source_type": "wire mirror",
+     "proof_snippet": "a legendary monster jam\u00ae truck will be stationed outside of northern tool + equipment",
+     "verification": "A"
+    },
+    {
+     "type": "retail_event",
+     "event_or_property": "Series of Monster Jam store events: San Antonio, Wichita, Miami area, Metairie, Hampton VA, Austin",
+     "location": "multiple US",
+     "dates": "2026-01-22 to 2026-06-04",
+     "scale": "7 stores",
+     "partner_or_agency": "Monster Jam",
+     "source_url": "https://www.easternprogress.com/northern-tool-equipment-welcomes-monster-jam-truck-to-wichita-store-for-one-day-event/article_156b1114-cbae-556d-a073-a07bfe05f0f0.html",
+     "date_of_source": "2026-02-03",
+     "source_type": "search result only",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "Monster Jam (3 years from 2024)"
+   ],
+   "roles": [
+    {
+     "title": "SVP and Chief Marketing Officer",
+     "team": "Marketing",
+     "name": "Frank Crowson",
+     "source_url": "https://digital-release.wowktv.com/business/press-releases/cision/20260331CG22483/northern-tool-equipment-welcomes-monster-jam-truck-to-columbia-store-for-one-day-event",
+     "proof_snippet": "said frank crowson, senior vice president and chief marketing officer of northern tool + equipment",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Strong: already runs store-lot events and a skilled-trades student build; a live screening with tools-for-trades tie-in fits the existing Tools for the Trades program.",
+   "risks": [
+    {
+     "risk": "Marketing budget appears anchored to Monster Jam through about 2027; may resist a second entertainment property",
+     "date": "2024-09-18",
+     "source_url": "https://www.feldentertainment.com/northern-tool-equipment-announces-partnership-with-monster-jam",
+     "source_type": "brand partner newsroom",
+     "proof_snippet": "three-year partnership that will include retail, business-to-business and online integration",
+     "verification": "B",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Retail-event driven entertainment partnership: Monster Jam trucks at stores with ticket giveaways, paired with trades-student education.",
+   "ladder_log": [
+    {
+     "url": "https://www.feldentertainment.com/northern-tool-equipment-announces-partnership-with-monster-jam",
+     "rung": "direct",
+     "result": "200, snippets found; page undated, date from prior round"
+    },
+    {
+     "url": "https://digital-release.wowktv.com/business/press-releases/cision/20260331CG22483/northern-tool-equipment-welcomes-monster-jam-truck-to-columbia-store-for-one-day-event",
+     "rung": "wire mirror",
+     "result": "200, snippets found"
+    },
+    {
+     "url": "https://www.easternprogress.com/northern-tool-equipment-welcomes-monster-jam-truck-to-wichita-store-for-one-day-event/article_156b1114-cbae-556d-a073-a07bfe05f0f0.html",
+     "rung": "trade press",
+     "result": "not opened; search result only"
+    }
+   ],
+   "notes_unverified": "Frank Crowson title also seen as chief commercial officer in a May 2026 release (search result only). Contract fee undisclosed."
+  },
+  {
+   "brand": "Timberland PRO",
+   "parent": "VF Corporation (Timberland)",
+   "domain": "timberlandpro.com",
+   "hq": "Stratham, NH",
+   "ownership": "Public parent (NYSE: VFC)",
+   "category": "Workwear & work boots",
+   "competitors": [
+    "Carhartt",
+    "Wolverine",
+    "Red Wing",
+    "Cat Footwear"
+   ],
+   "ohio_note": "Ohio flag Y from round 1; no Ohio-specific activation found.",
+   "quote": {
+    "text": "these workers share the same commitment to performance, reliability and excellence at their craft",
+    "url": "https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856",
+    "date_of_source": "2026-08-03",
+    "speaker": "Ryan Murphy, Head of Marketing, Timberland Americas",
+    "source_type": "trade press (FashionUnited)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "NASCAR Official Protective Footwear and Official Safety Toe Partner: at-track signage, digital content, race weekend activations, boots for NASCAR workers, 'First Turn, Last Lap, Repeat' campaign",
+     "location": "NASCAR tracks",
+     "dates": "announced 2026-07-30; multi-year",
+     "scale": "terms undisclosed",
+     "partner_or_agency": "NASCAR",
+     "source_url": "https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856",
+     "date_of_source": "2026-08-03",
+     "source_type": "trade press",
+     "proof_snippet": "at-track signage, digital content and race weekend activations",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Entitlement partner of O'Reilly Auto Parts Series race at Phoenix Raceway",
+     "location": "Phoenix AZ",
+     "dates": "2026-10-17",
+     "scale": "one race",
+     "partner_or_agency": "NASCAR",
+     "source_url": "https://www.jayski.com/2026/09/22/timberland-pro-named-entitlement-partner-of-oreilly-race-at-phoenix/",
+     "date_of_source": "2026-09-22",
+     "source_type": "search result only (jayski 403)",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "The Martin Agency (past Timberland PRO work, 2019 and 2022; current AOR unconfirmed)",
+    "source_url": "https://www.martinagency.com/news/news/timberland-pro-campaign-seeks-more-trade-workers-to-help-communities-rebuild-and-thrive",
+    "proof_snippet": "",
+    "date_of_source": "2019-08"
+   },
+   "sponsored_properties": [
+    "NASCAR (multi-year, from 2026-07-30)"
+   ],
+   "roles": [
+    {
+     "title": "Head of Marketing, Timberland Americas",
+     "team": "Marketing",
+     "name": "Ryan Murphy",
+     "source_url": "https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856",
+     "proof_snippet": "said ryan murphy, head of marketing, timberland americas",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Strong: deal explicitly leaves room for technical education and workforce development groups; fits trade-school screenings. Timing: recent NASCAR deal means local activation budgets may be forming.",
+   "risks": [
+    {
+     "risk": "Heavy NASCAR commitment may absorb 2026-27 sponsorship budget; VF Corp restructuring context not checked",
+     "date": "2026-08-03",
+     "source_url": "https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856",
+     "source_type": "trade press",
+     "proof_snippet": "financial terms were not disclosed",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Shift from trades-recruitment film campaigns (Your Calling Is Calling, 2022) to a major motorsports property celebrating behind-the-scenes workers.",
+   "ladder_log": [
+    {
+     "url": "https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856",
+     "rung": "trade press",
+     "result": "200, snippets found"
+    },
+    {
+     "url": "https://www.nascar.com/news-media/2026/07/30/nascar-and-timberland-pro-announce-multiyear-partnership/amp/",
+     "rung": "direct",
+     "result": "403 blocked"
+    },
+    {
+     "url": "https://www.jayski.com/2026/09/22/timberland-pro-named-entitlement-partner-of-oreilly-race-at-phoenix/",
+     "rung": "trade press",
+     "result": "403 blocked; search result only"
+    }
+   ],
+   "notes_unverified": "Phoenix entitlement and Martin Agency history from search summaries only. HQ/ownership from general knowledge, not page-verified."
+  },
+  {
+   "brand": "Rocky Boots",
+   "parent": "Rocky Brands, Inc. (NASDAQ: RCKY)",
+   "domain": "rockyboots.com",
+   "hq": "Nelsonville, OH",
+   "ownership": "Public",
+   "category": "Workwear & work boots",
+   "competitors": [
+    "Thorogood",
+    "Danner",
+    "Wolverine",
+    "Timberland PRO",
+    "Keen Utility"
+   ],
+   "ohio_note": "Ohio-headquartered (Nelsonville); Columbus and Athens veterans Stand Down partner for 30 and 10 years.",
+   "quote": {
+    "text": "we're proud to call ohio home, and we're honored to stand beside the organizations that make a difference in the lives of those who've served",
+    "url": "https://soldiersystems.net/2025/10/12/rocky-boots-reinforces-its-commitment-to-veterans/",
+    "date_of_source": "2025-10-12",
+    "speaker": "Sarah Williams, Marketing Manager, Rocky Boots military and public service division",
+    "source_type": "trade press (Soldier Systems, press release)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "11th Kingston Police Hockey Classic sponsor by Rocky public service division",
+     "location": "Rockland MA",
+     "dates": "2025-03-28 to 03-30",
+     "scale": "50 teams, 8 divisions, ~800 attendees",
+     "partner_or_agency": "Kingston Police Hockey Classic",
+     "source_url": "https://www.firerescue1.com/fire-products/apparel/footwear/rocky-boots-supports-the-kingston-police-hockey-classic",
+     "date_of_source": "2025-03-24",
+     "source_type": "trade press (press release)",
+     "proof_snippet": "rocky boots public service division partners with the kingston police hockey classic",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Columbus and Athens veterans Stand Down events (30 and 10 year partnerships); boots donated (in-kind, not counted as spend)",
+     "location": "Columbus and Athens OH",
+     "dates": "Oct 2025",
+     "scale": "thousands of veterans served per year",
+     "partner_or_agency": "Columbus Stand Down; Athens Stand Down",
+     "source_url": "https://soldiersystems.net/2025/10/12/rocky-boots-reinforces-its-commitment-to-veterans/",
+     "date_of_source": "2025-10-12",
+     "source_type": "trade press (press release)",
+     "proof_snippet": "each fall, rocky donates 600 pairs of boots to the columbus stand down",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Official footwear of Whitetails Unlimited: Deer Camp Tour, giveaways, advertising; renewed",
+     "location": "US",
+     "dates": "renewed 2025-02-20",
+     "scale": "national",
+     "partner_or_agency": "Whitetails Unlimited",
+     "source_url": "https://www.whitetailsunlimited.com/rocky-boots-continues-as-a-whitetails-unlimited-national-sponsor-2/",
+     "date_of_source": "2025-02-20",
+     "source_type": "search result only (403)",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "media_spend": {
+    "estimate": "Advertising expense approx. $16.6M in 2023 (company-wide Rocky Brands)",
+    "source": "Rocky Brands FY2023 10-K via search result; not opened",
+    "url": "https://www.sec.gov/Archives/edgar/data/895456/000143774924007987/Financial_Report.xlsx",
+    "date": "2024-03",
+    "label": "ESTIMATE (D, outdated, company-wide)"
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "Whitetails Unlimited",
+    "Kingston Police Hockey Classic",
+    "Columbus Stand Down",
+    "Athens Stand Down"
+   ],
+   "roles": [
+    {
+     "title": "VP and General Manager, Commercial Military and Public Service Division",
+     "team": "Public service",
+     "name": "Mark Dean",
+     "source_url": "https://www.firerescue1.com/fire-products/apparel/footwear/rocky-boots-supports-the-kingston-police-hockey-classic",
+     "proof_snippet": "vice president and general manager of rocky boots commercial military and public service division",
+     "verified_by_script": true
+    },
+    {
+     "title": "Marketing Manager, Military and Public Service Division",
+     "team": "Marketing",
+     "name": "Sarah Williams",
+     "source_url": "https://soldiersystems.net/2025/10/12/rocky-boots-reinforces-its-commitment-to-veterans/",
+     "proof_snippet": "said sarah williams, marketing manager for rocky",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Very strong: first-responder and veterans focus, Ohio base, history of sponsoring community events; Garrett Morgan rescue story fits fire stations and public-service audiences.",
+   "risks": [
+    {
+     "risk": "Public-service division marketing is small (single marketing manager named); sponsorships are modest regional events",
+     "date": "2025-10-12",
+     "source_url": "https://soldiersystems.net/2025/10/12/rocky-boots-reinforces-its-commitment-to-veterans/",
+     "source_type": "trade press",
+     "proof_snippet": "said sarah williams, marketing manager for rocky",
+     "verification": "B",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Community and first-responder event sponsorships plus outdoor-niche national sponsorships; framing as heritage and service.",
+   "ladder_log": [
+    {
+     "url": "https://www.firerescue1.com/fire-products/apparel/footwear/rocky-boots-supports-the-kingston-police-hockey-classic",
+     "rung": "trade press",
+     "result": "200, snippet found"
+    },
+    {
+     "url": "https://soldiersystems.net/2025/10/12/rocky-boots-reinforces-its-commitment-to-veterans/",
+     "rung": "trade press",
+     "result": "200, snippets found"
+    },
+    {
+     "url": "https://www.whitetailsunlimited.com/rocky-boots-continues-as-a-whitetails-unlimited-national-sponsor-2/",
+     "rung": "direct",
+     "result": "403 blocked"
+    },
+    {
+     "url": "https://www.sec.gov/Archives/edgar/data/895456/000143774924007987/Financial_Report.xlsx",
+     "rung": "sec filing",
+     "result": "search result only"
+    }
+   ],
+   "notes_unverified": "Ad expense from search result; no Rocky-specific agency or CMO found."
+  }
+ ]
+}
