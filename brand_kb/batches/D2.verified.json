@@ -1,0 +1,204 @@
+{
+ "results": [
+  {
+   "brand": "Mack Trucks",
+   "quote": {
+    "verified": false,
+    "rung": "none",
+    "note": "no quote supplied"
+   },
+   "activations": []
+  },
+  {
+   "brand": "Peterbilt",
+   "quote": {
+    "verified": false,
+    "rung": "none",
+    "note": "no quote supplied"
+   },
+   "activations": []
+  },
+  {
+   "brand": "Cornwell Tools",
+   "quote": {
+    "verified": false,
+    "rung": "none",
+    "note": "no quote supplied"
+   },
+   "activations": []
+  },
+  {
+   "brand": "Matco Tools",
+   "quote": {
+    "verified": false,
+    "rung": "none",
+    "note": "no quote supplied"
+   },
+   "activations": []
+  },
+  {
+   "brand": "Mac Tools",
+   "quote": {
+    "verified": false,
+    "rung": "none",
+    "note": "no quote supplied"
+   },
+   "activations": []
+  },
+  {
+   "brand": "Mahindra Tractors",
+   "quote": {
+    "verified": false,
+    "rung": "none",
+    "note": "no quote supplied"
+   },
+   "activations": []
+  },
+  {
+   "brand": "Mechanix Wear",
+   "quote": {
+    "verified": false,
+    "rung": "none",
+    "note": "no quote supplied"
+   },
+   "activations": []
+  },
+  {
+   "brand": "Berne Apparel",
+   "quote": {
+    "verified": false,
+    "rung": "none",
+    "note": "no quote supplied"
+   },
+   "activations": []
+  },
+  {
+   "brand": "Walls Workwear",
+   "quote": {
+    "verified": false,
+    "rung": "none",
+    "note": "no quote supplied"
+   },
+   "activations": []
+  }
+ ],
+ "batch": [
+  {
+   "brand": "Mack Trucks",
+   "parent": "Volvo Group",
+   "domain": "macktrucks.com",
+   "category": "Heavy trucks",
+   "why_candidate": "Direct competitor of seed Kenworth; official hauler of NASCAR",
+   "discovery_method": "M2",
+   "source_url": "https://www.macktrucks.com/mack-news/2026/mack-trucks-extends-partnership-as-official-hauler-of-nascar",
+   "date_of_source": "2026-02-10",
+   "proof_snippet": "Mack Trucks and NASCAR\u00ae today announced a multi-year extension",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Truckers and owner-operators"
+  },
+  {
+   "brand": "Peterbilt",
+   "parent": "PACCAR",
+   "domain": "peterbilt.com",
+   "category": "Heavy trucks",
+   "why_candidate": "Direct competitor of seed Kenworth (same PACCAR family); sponsors ATA Trucking U",
+   "discovery_method": "M2",
+   "source_url": "https://peterbilt.com/news-and-events/press-releases/peterbilt-sponsors-ata-s-trucking-u-for-second-consecutive-year-investing-in-trucking-leaders-of-tomorrow",
+   "date_of_source": "2024-10-08",
+   "proof_snippet": "As the exclusive OEM sponsor for the second consecutive year, Peterbilt",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Truckers and fleet drivers"
+  },
+  {
+   "brand": "Cornwell Tools",
+   "parent": "Cornwell Quality Tools",
+   "domain": "cornwelltools.com",
+   "category": "Mobile professional tools",
+   "why_candidate": "Direct competitor of seed Snap-on; NHRA U.S. Nationals title sponsor",
+   "discovery_method": "M2",
+   "source_url": "https://speedsport.com/drag-racing/cornwell-tools-named-u-s-nationals-title-sponsor/",
+   "date_of_source": "2024-11-05",
+   "proof_snippet": "Cornwell Quality Tools has been named the new title sponsor",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Auto technicians and tradespeople"
+  },
+  {
+   "brand": "Matco Tools",
+   "parent": "Danaher/Fortive (Matco)",
+   "domain": "matcotools.com",
+   "category": "Mobile professional tools",
+   "why_candidate": "Direct competitor of seed Snap-on; sponsors NHRA drivers",
+   "discovery_method": "M2",
+   "source_url": "https://wikipedia.com/wiki/Matco",
+   "date_of_source": "2026-03",
+   "proof_snippet": "Antron Brown",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Auto technicians and mechanics"
+  },
+  {
+   "brand": "Mac Tools",
+   "parent": "Stanley Black & Decker",
+   "domain": "mactools.com",
+   "category": "Mobile professional tools",
+   "why_candidate": "Direct competitor of seed Snap-on; motorsports sponsor (old, 2014)",
+   "discovery_method": "M2",
+   "source_url": "https://app.sponsorpitch.com/deals/mac-tools-sponsors-rab-racing",
+   "date_of_source": "2014",
+   "proof_snippet": "Mac Tools is a professional tool company located in Westerville, Ohio",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Mechanics and tradespeople"
+  },
+  {
+   "brand": "Mahindra Tractors",
+   "parent": "Mahindra & Mahindra",
+   "domain": "mahindratractor.com",
+   "category": "Tractors",
+   "why_candidate": "Direct competitor of seed Kubota and Tractor Supply seller; sponsors Texas FFA",
+   "discovery_method": "M2",
+   "source_url": "https://www.progressivecattle.com/news/industry-news/mahindra-usa-announces-corporate-sponsorship-of-the-texas-ffa",
+   "date_of_source": "2011-08-02",
+   "proof_snippet": "Mahindra USA announces corporate sponsorship of the Texas FFA",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Farmers and ranchers"
+  },
+  {
+   "brand": "Mechanix Wear",
+   "parent": "Mechanix Wear Inc",
+   "domain": "mechanix.com",
+   "category": "Work gloves",
+   "why_candidate": "Adjacent to seed 5.11 Tactical (tactical and trades gloves); NASCAR-linked",
+   "discovery_method": "M2",
+   "source_url": "https://www.apparelsearch.com/Definitions/Clothing_Companies/USA/m/mechanix_wear_united_states_clothing_company_definitions.htm",
+   "date_of_source": "undated",
+   "proof_snippet": "Mechanix Wear \"Original\" gloves were first used in NASCAR",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Mechanics, first responders, tradespeople"
+  },
+  {
+   "brand": "Berne Apparel",
+   "parent": "Berne Apparel",
+   "domain": "berneapparel.com",
+   "category": "Workwear",
+   "why_candidate": "Peer of seed Duluth Trading on same workwear roundup",
+   "discovery_method": "M2",
+   "source_url": "https://www.irreverentgent.com/brands-like-carhartt-alternatives/",
+   "date_of_source": "undated",
+   "proof_snippet": "Berne Walls Caterpillar Tough Duck Arborwear",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Tradespeople"
+  },
+  {
+   "brand": "Walls Workwear",
+   "parent": "Walls Industries",
+   "domain": "wallsworkwear.com",
+   "category": "Workwear",
+   "why_candidate": "Peer of seed Duluth Trading on same workwear roundup",
+   "discovery_method": "M2",
+   "source_url": "https://www.irreverentgent.com/brands-like-carhartt-alternatives/",
+   "date_of_source": "undated",
+   "proof_snippet": "Berne Walls Caterpillar Tough Duck Arborwear",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Tradespeople and outdoor workers"
+  }
+ ]
+}
