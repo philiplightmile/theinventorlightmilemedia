@@ -1,0 +1,795 @@
+[
+ {
+  "brand": "BRP Can-Am",
+  "parent": "BRP Inc.",
+  "domain": "can-am.brp.com",
+  "hq": "Valcourt, Quebec, Canada",
+  "ownership": "Public (TSX: DOO; Nasdaq: DOOO)",
+  "category": "Powersports, trailers, farm & ranch",
+  "competitors": [
+   "Polaris Ranger",
+   "Kawasaki Mule",
+   "Yamaha Viking",
+   "John Deere Gator",
+   "Kubota RTV",
+   "Honda Pioneer"
+  ],
+  "ohio_note": "2025 Can-Am utility demo schedule included Farm Science Review, London, OH, Sep 16-18 (source: potatogrower page).",
+  "quote": {
+   "text": "Synonymous with hard work, grit and determination, the Can-Am Defender lineup is trusted by farmers, ranchers and riders across the world.",
+   "url": "https://finviz.com/news/238594/can-am-unveils-the-industrys-most-affordable-hvac-equipped-side-by-sides-and-a-new-camouflage-outlander-electric",
+   "date_of_source": "2025-11-25",
+   "speaker": "Can-Am / BRP (PR Newswire release; no named speaker for this sentence)",
+   "source_type": "wire mirror"
+  },
+  "activations": [
+   {
+    "type": "live_experiential",
+    "event_or_property": "Can-Am 2025 Utility Demo Experience tour (Defender/Outlander, 45-minute demo rides, event-only rebates up to $1000)",
+    "location": "North America (10 stops)",
+    "dates": "2025 season (announced 2025-04-22)",
+    "scale": "10 stops",
+    "partner_or_agency": "Own-run; BRP product experts",
+    "source_url": "https://www.potatogrower.com/2025/04/canam-launches-10stop-utility-demo",
+    "date_of_source": "2025-04-22",
+    "source_type": "trade press (syndicated BRP release)",
+    "proof_snippet": "For the first time, Can-Am is hitting the road with a demo tour",
+    "verification": "B"
+   },
+   {
+    "type": "live_experiential",
+    "event_or_property": "Can-Am utility demo track at Farm Science Review",
+    "location": "London, OH",
+    "dates": "Sep 16-18, 2025",
+    "scale": "ag expo",
+    "partner_or_agency": "BRP",
+    "source_url": "https://www.potatogrower.com/2025/04/canam-launches-10stop-utility-demo",
+    "date_of_source": "2025-04-22",
+    "source_type": "trade press",
+    "proof_snippet": "Farm Science Review - London , OH - Sep 16-18",
+    "verification": "B"
+   },
+   {
+    "type": "live_experiential",
+    "event_or_property": "Can-Am Fall Farm Tour (test drive 2026 units) plus fall 2026 Maverick demo events",
+    "location": "US",
+    "dates": "fall 2026 (dates for farm tour not shown on page)",
+    "scale": "",
+    "partner_or_agency": "BRP",
+    "source_url": "https://can-am.brp.com/off-road/us/en/discover/events-races.html",
+    "date_of_source": "2026-10-23 (page retrieved; undated)",
+    "source_type": "brand site / event listing",
+    "proof_snippet": "Can-Am Fall Farm Tour",
+    "verification": "B"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "PBR 2026 World Finals, official and exclusive vehicle of the PBR",
+    "location": "Fort Worth/Arlington area (venue per search result: Dickies Arena, May 7-17 2026; not verbatim on page)",
+    "dates": "May 2026",
+    "scale": "",
+    "partner_or_agency": "PBR",
+    "source_url": "https://can-am.brp.com/off-road/us/en/discover/events-races.html",
+    "date_of_source": "2026-10-23 (page retrieved; undated)",
+    "source_type": "brand site / event listing",
+    "proof_snippet": "the official and exclusive vehicle of the PBR",
+    "verification": "B"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Farm Rescue three-year partnership (financial support, equipment, fundraising) - note: may be cause/charity; low weight",
+    "location": "US farm & ranch communities",
+    "dates": "3 years",
+    "scale": "",
+    "partner_or_agency": "Farm Rescue",
+    "source_url": "https://can-am.brp.com/off-road/us/en/discover/about-us/farm-rescue.html",
+    "date_of_source": "undated",
+    "source_type": "brand site",
+    "proof_snippet": "a three-year partnership with Farm Rescue",
+    "verification": "B"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Montreal Canadiens official partner from 2026-27 (not verified: page blocked 403; from search result only)",
+    "location": "Montreal",
+    "dates": "announced 2026-09",
+    "scale": "",
+    "partner_or_agency": "Montreal Canadiens",
+    "source_url": "https://retail-insider.com/retail-insider/2026/09/brp-becomes-official-partner-of-montreal-canadiens/",
+    "date_of_source": "2026-09",
+    "source_type": "trade press",
+    "proof_snippet": "",
+    "verification": "D"
+   },
+   {
+    "type": "job_posting",
+    "event_or_property": "BRP experiential/consumer engagement postings (Sea-Doo Experiential Marketing Specialist; Can-Am Consumer Engagement Specialist) seen in search results only; opened career pages returned 410",
+    "location": "Montreal/Sherbrooke QC",
+    "dates": "unknown",
+    "scale": "",
+    "partner_or_agency": "BRP",
+    "source_url": "https://www.espresso-jobs.com/emploi/210770/specialist-consumer-engagement-north-america-can-am-off-road-brp-montreal",
+    "date_of_source": "unknown",
+    "source_type": "job board (page expired)",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "media_spend": {
+   "estimate": "Under $100 million (digital, print, national TV; last year)",
+   "source": "MediaRadar advertiser profile",
+   "url": "https://advertisers.mediaradar.com/can-am-advertising-profile",
+   "date": "2026-10-23 (retrieved; page references Sept 2025 launch)",
+   "label": "ESTIMATE"
+  },
+  "agency_of_record": {
+   "name": "Anomaly (2017 AOR selection; current status unconfirmed, likely stale)",
+   "source_url": "https://strategyonline.ca/?p=118515",
+   "proof_snippet": "has selected anomaly as its new agency of record following a lengthy rfp process",
+   "date_of_source": "2017-05-05"
+  },
+  "sponsored_properties": [
+   "PBR (official vehicle)",
+   "Farm Rescue",
+   "Montreal Canadiens (from 2026-27, unverified)"
+  ],
+  "roles": [
+   {
+    "title": "Marketing Director, Can-Am Off-Road",
+    "team": "Can-Am Off-Road marketing",
+    "name": "Jeremi Doyon-Roch",
+    "source_url": "https://finviz.com/news/238594/can-am-unveils-the-industrys-most-affordable-hvac-equipped-side-by-sides-and-a-new-camouflage-outlander-electric",
+    "proof_snippet": "said Jeremi Doyon-Roch, marketing director at Can-Am Off-Road"
+   }
+  ],
+  "event_format_fit": "Strong: Can-Am already runs on-site demo days at farm shows and sells Defender as a worker vehicle; a screening/talkback could pair with a demo track at ag expos, fairs, job-site days. Pitch via Can-Am Off-Road marketing / BRP Experiences.",
+  "risks": [
+   {
+    "risk": "Past recall: ~34,400 2020-2021 Defender HD10 recalled (CVT air intake obstruction, fire risk) per search summary; CPSC page blocked 403; no 2025-26 recall found in search",
+    "date": "2021",
+    "source_url": "https://cpsc.gov/Recalls/2021/BRP-Recalls-Side-by-Side-Vehicles-Due-to-Fire-Hazard-Recall-Alert",
+    "source_type": "search result only",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "marketing_trend_2025_26": "Shift to owner-facing demo tours aimed at working buyers (ag/utility), plus league/team sponsorship in 2026 (PBR, Canadiens).",
+  "ladder_log": [
+   {
+    "url": "https://www.potatogrower.com/2025/04/canam-launches-10stop-utility-demo",
+    "rung": "direct",
+    "result": "200, verified"
+   },
+   {
+    "url": "https://finviz.com/news/238594/can-am-unveils-the-industrys-most-affordable-hvac-equipped-side-by-sides-and-a-new-camouflage-outlander-electric",
+    "rung": "wire mirror (PR Newswire via Finviz)",
+    "result": "200, quote verified"
+   },
+   {
+    "url": "https://can-am.brp.com/off-road/us/en/discover/events-races.html",
+    "rung": "direct",
+    "result": "200"
+   },
+   {
+    "url": "https://retail-insider.com/retail-insider/2026/09/brp-becomes-official-partner-of-montreal-canadiens/",
+    "rung": "direct",
+    "result": "403"
+   },
+   {
+    "url": "https://www.cpsc.gov/node/34246",
+    "rung": "direct",
+    "result": "403"
+   },
+   {
+    "url": "https://careers.brp.com/global/en/job/31957/Global-Retail-Experience-Retail-Marketing-Communication-Specialist",
+    "rung": "direct",
+    "result": "410"
+   }
+  ],
+  "notes_unverified": "Web search budget ran out mid-batch (Love's last two searches not run). Luke Bryan Farm Tour sponsorship found but is 2018 (excluded). Winmo 'less than $750k' figure ignored. Prior KB role names other than Doyon-Roch have no names."
+ },
+ {
+  "brand": "Roto-Rooter",
+  "parent": "Chemed Corporation",
+  "domain": "rotorooter.com",
+  "hq": "Cincinnati, OH (Chemed; per search result, not page-verified)",
+  "ownership": "Public parent (NYSE: CHE)",
+  "category": "Energy & home services",
+  "competitors": [
+   "Mr. Rooter",
+   "ARS/Rescue Rooter",
+   "Benjamin Franklin Plumbing"
+  ],
+  "ohio_note": "Chemed/Roto-Rooter Services Company based in Cincinnati, Ohio (search result; not verbatim-verified).",
+  "quote": {
+   "text": "From the job site to the racetrack, Roto-Rooter Racing connects NASCAR fans to a brand built on reliability, grit, and getting the job done right.",
+   "url": "https://www.rotorooter.com/about-us/",
+   "date_of_source": "undated (page retrieved 2026-10-23)",
+   "speaker": "Roto-Rooter (website)",
+   "source_type": "brand site"
+  },
+  "activations": [
+   {
+    "type": "sponsorship",
+    "event_or_property": "JR Motorsports NASCAR Xfinity/O'Reilly Series primary partner; 7 events/yr from 2026; Dale Earnhardt Jr. personal service agreement; Late Model associate",
+    "location": "NASCAR tracks",
+    "dates": "2026 onward (announced 2025-07-12)",
+    "scale": "7 races/yr; value undisclosed",
+    "partner_or_agency": "JR Motorsports",
+    "source_url": "https://speedwaydigest.com/?p=525790",
+    "date_of_source": "2025-07-12",
+    "source_type": "trade press (JRM release repost)",
+    "proof_snippet": "will return to the organization as a primary partner for seven NASCAR Xfinity Series events each year beginning in 2026",
+    "verification": "A"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Dale Earnhardt Jr. quote on JRM marketing platform",
+    "location": "NASCAR",
+    "dates": "2025-07-12",
+    "scale": "",
+    "partner_or_agency": "JR Motorsports",
+    "source_url": "https://speedwaydigest.com/?p=525790",
+    "date_of_source": "2025-07-12",
+    "source_type": "trade press",
+    "proof_snippet": "I feel like JR Motorsports offers an amazing marketing platform across the board",
+    "verification": "A"
+   },
+   {
+    "type": "content",
+    "event_or_property": "Roto-Rooter Racing section on corporate site",
+    "location": "Online",
+    "dates": "2026",
+    "scale": "",
+    "partner_or_agency": "",
+    "source_url": "https://www.rotorooter.com/about-us/",
+    "date_of_source": "undated (retrieved 2026-10-23)",
+    "source_type": "brand site",
+    "proof_snippet": "Roto-Rooter Racing connects NASCAR fans to a brand built on reliability",
+    "verification": "A"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Local franchise sponsorships: Fresno Grizzlies (2025), Monterey Bay FC (2025) - seen in search result; Fresno page text did not contain checkable phrase",
+    "location": "California",
+    "dates": "2025",
+    "scale": "",
+    "partner_or_agency": "franchise",
+    "source_url": "https://rotorooterca.com/news/roto-rooter-official-partner-of-the-fresno-grizzlies/",
+    "date_of_source": "2025",
+    "source_type": "franchise site",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "media_spend": {
+   "estimate": "$77.1 million Roto-Rooter segment advertising expense FY2025 (per third-party rendering of Chemed 10-K segment note; sec.gov returned 403 so not verified)",
+   "source": "Chemed Corp Form 10-K FY2025 (via search summary)",
+   "url": "https://www.sec.gov/Archives/edgar/data/19584/000156276226000020/che-20251231x10k.htm",
+   "date": "2026 (FY2025 10-K)",
+   "label": "ESTIMATE (unverified)"
+  },
+  "agency_of_record": {
+   "name": "",
+   "source_url": "",
+   "proof_snippet": "",
+   "date_of_source": ""
+  },
+  "sponsored_properties": [
+   "JR Motorsports (NASCAR)",
+   "Fresno Grizzlies (franchise)",
+   "Monterey Bay FC (franchise)"
+  ],
+  "roles": [
+   {
+    "title": "President of Roto-Rooter Group (responsible for marketing, national sales)",
+    "team": "Roto-Rooter Group",
+    "name": "Robert P. Goldschmidt",
+    "source_url": "https://rotorooter.com/media/corporate-office/management-bios",
+    "proof_snippet": "responsible for the overall business, including operations, marketing, information technology, national sales"
+   },
+   {
+    "title": "Vice President, Marketing (third-party directory only)",
+    "team": "Marketing",
+    "name": "Sally Bayer",
+    "source_url": "https://open.winmo.com/decision_makers/sally-bayer",
+    "proof_snippet": "Vice President"
+   }
+  ],
+  "event_format_fit": "Good: plumbers are skilled trades, brand already talks 'job site to racetrack' and recruits veterans/techs (shortage of licensed plumbers). Local franchise/branch co-sponsorship of screenings at trade schools and union halls is plausible.",
+  "risks": [
+   {
+    "risk": "Minnesota unnecessary-repair class action / homeowner suit (CBS Minnesota; coverage appears 2011-2012; no 2025-26 matter found)",
+    "date": "circa 2011-2012 (unconfirmed)",
+    "source_url": "https://www.cbsnews.com/minnesota/news/consumers-file-lawsuit-against-well-known-twin-cities-plumbing-company-roto-rooter/",
+    "source_type": "trade/local press",
+    "proof_snippet": "Consumers file lawsuit against plumbing company",
+    "verification": "C"
+   }
+  ],
+  "marketing_trend_2025_26": "Moving from local team deals to a centralized NASCAR platform (JRM + Earnhardt Jr.) with internet marketing growth cited in 10-K.",
+  "ladder_log": [
+   {
+    "url": "https://www.jayski.com/2025/07/12/roto-rooter-expands-multi-year-partnership-with-jr-motorsports/",
+    "rung": "direct",
+    "result": "403"
+   },
+   {
+    "url": "https://speedwaydigest.com/?p=525790",
+    "rung": "trade press mirror",
+    "result": "200, verified"
+   },
+   {
+    "url": "https://www.rotorooter.com/about-us/",
+    "rung": "direct",
+    "result": "200"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/19584/000156276226000020/che-20251231x10k.htm",
+    "rung": "sec filing",
+    "result": "403"
+   },
+   {
+    "url": "https://last10k.com/sec-filings/che/0001562762-26-000020.htm",
+    "rung": "sec filing mirror",
+    "result": "429"
+   },
+   {
+    "url": "https://rotorooter.com/media/corporate-office/management-bios",
+    "rung": "direct",
+    "result": "200"
+   }
+  ],
+  "notes_unverified": "ServiceTitan tech partnership (2025-09-04) is not marketing spend. A Jayski caption shows #7 Roto-Rooter Chevy on 2026-05-02 at Texas (search only). Sally Bayer title is a directory listing."
+ },
+ {
+  "brand": "Ace Hardware",
+  "parent": "Ace Hardware Corporation (retailer-owned cooperative)",
+  "domain": "acehardware.com",
+  "hq": "Oak Brook, IL",
+  "ownership": "Retailer-owned cooperative",
+  "category": "Home improvement & hardware retail",
+  "competitors": [
+   "Home Depot",
+   "Lowe's",
+   "True Value",
+   "Menards"
+  ],
+  "ohio_note": "Independent Ace stores operate in Ohio (general knowledge; not verified on a page).",
+  "quote": {
+   "text": "Ace's commitment to convenience, quality and service within their local communities aligns perfectly with the values of our league and the passion of our fans.",
+   "url": "https://mlb.com/news/press-release-ace-hardware-steps-up-to-the-plate-as-mlb-s-exclusive-hardware-home-improvement-partner",
+   "date_of_source": "2025-04-14",
+   "speaker": "Uzma Rawn Dowler, MLB CMO (about Ace; MLB's words, not Ace's)",
+   "source_type": "league release"
+  },
+  "activations": [
+   {
+    "type": "sponsorship",
+    "event_or_property": "Official hardware & home improvement retail partner of MLB, 3 years; Yard Superstars platform",
+    "location": "US national",
+    "dates": "announced 2025-04-14",
+    "scale": "30-team league deal; fee undisclosed",
+    "partner_or_agency": "MLB",
+    "source_url": "https://mlb.com/news/press-release-ace-hardware-steps-up-to-the-plate-as-mlb-s-exclusive-hardware-home-improvement-partner",
+    "date_of_source": "2025-04-14",
+    "source_type": "league newsroom",
+    "proof_snippet": "names Ace Hardware the official hardware and home improvement retail partner of MLB",
+    "verification": "A"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Official yard care sponsor of Groundhog Day 2026 (second year; Ace YardRx; Punxsutawney Phil as honorary seasonal forecaster)",
+    "location": "Punxsutawney, PA",
+    "dates": "2026-02-02",
+    "scale": "annual event",
+    "partner_or_agency": "Groundhog Day / Inner Circle",
+    "source_url": "https://hardwareretailing.com/ace-hardware-returns-as-official-yard-care-sponsor-for-groundhog-day-2026/",
+    "date_of_source": "2026-02-02",
+    "source_type": "trade press",
+    "proof_snippet": "official yard care sponsor of Groundhog Day",
+    "verification": "A"
+   },
+   {
+    "type": "job_posting",
+    "event_or_property": "Local Marketing Manager (Oak Brook) - regional/local marketing for retailers, vendor programs",
+    "location": "Oak Brook, IL",
+    "dates": "undated",
+    "scale": "",
+    "partner_or_agency": "Ace",
+    "source_url": "https://jobera.com/job/acehardware-local-marketing-manager-Marketin/",
+    "date_of_source": "undated",
+    "source_type": "job board",
+    "proof_snippet": "Local Marketing Manager",
+    "verification": "C"
+   }
+  ],
+  "media_spend": {
+   "estimate": "",
+   "source": "",
+   "url": "",
+   "date": "",
+   "label": ""
+  },
+  "agency_of_record": {
+   "name": "",
+   "source_url": "",
+   "proof_snippet": "",
+   "date_of_source": ""
+  },
+  "sponsored_properties": [
+   "MLB",
+   "Philadelphia Phillies (2025, per prior round)",
+   "Groundhog Day"
+  ],
+  "roles": [
+   {
+    "title": "Chief Marketing Officer",
+    "team": "Ace Hardware",
+    "name": "Kim Lefko",
+    "source_url": "https://mlb.com/news/press-release-ace-hardware-steps-up-to-the-plate-as-mlb-s-exclusive-hardware-home-improvement-partner",
+    "proof_snippet": "said Kim Lefko, chief marketing officer at Ace Hardware"
+   }
+  ],
+  "event_format_fit": "Good community/retail fit via independent store owners and local marketing; Ace leans on local-community positioning and big-property sponsorships (MLB, Groundhog Day). Pitch local-marketing/store-owner co-sponsorship for libraries, trade schools.",
+  "risks": [
+   {
+    "risk": "Antitrust class action Twomey v. Ace Hardware Corp (N.D. Ill.) alleging use of store sales data to raise prices; complaint filed 2026-05-07 per search summary; allegation only",
+    "date": "2026-05",
+    "source_url": "https://news.bloomberglaw.com/litigation/ace-hardware-accused-of-using-store-sales-data-to-jack-up-prices",
+    "source_type": "legal news",
+    "proof_snippet": "Ace Hardware accused of using store sales data to jack up prices",
+    "verification": "C"
+   },
+   {
+    "risk": "Data breach class action over 2023 cyberattack (filed April 2024); site-tracking suit March 2026 (search summary only)",
+    "date": "2024-04 / 2026-03",
+    "source_url": "https://cyberinsider.com/ace-hardware-faces-lawsuit-for-delaying-data-breach-notifications/",
+    "source_type": "search result only",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "marketing_trend_2025_26": "Shift toward national property sponsorship plus retail media (RedVest Media) and subscription yard-care (YardRx).",
+  "ladder_log": [
+   {
+    "url": "https://mlb.com/news/press-release-ace-hardware-steps-up-to-the-plate-as-mlb-s-exclusive-hardware-home-improvement-partner",
+    "rung": "league newsroom",
+    "result": "200, verified"
+   },
+   {
+    "url": "https://hardwareretailing.com/ace-hardware-returns-as-official-yard-care-sponsor-for-groundhog-day-2026/",
+    "rung": "trade press",
+    "result": "200, verified"
+   },
+   {
+    "url": "https://newsroom.acehardware.com/2026-02-02-Ace-Hardware-Returns-to-Groundhog-Day-as-Ace-YardRx-Enters-Its-Second-Year",
+    "rung": "brand newsroom",
+    "result": "200, verified"
+   },
+   {
+    "url": "https://www.acehardware.com/2025-annualreport/our-philanthropy",
+    "rung": "direct",
+    "result": "403"
+   },
+   {
+    "url": "https://www.mediapost.com/publications/article/417456/",
+    "rung": "trade press",
+    "result": "200 (dated 08/27/2026; Hjelm name not found, dropped)"
+   }
+  ],
+  "notes_unverified": "Prior-round role Molly Hjelm not found on opened MediaPost page; dropped. Ace foundation giving ignored per rules. Quote is MLB exec words about Ace; Ace's own words (Lefko, 2026-02 'ace yardrx gives people a simple plan and confidence heading into the season') are consumer-focused, not worker/safety."
+ },
+ {
+  "brand": "Michelin",
+  "parent": "Compagnie Generale des Etablissements Michelin (Michelin North America, Greenville SC)",
+  "domain": "michelinman.com",
+  "hq": "Clermont-Ferrand, France; North America HQ Greenville, SC (per job posting search result)",
+  "ownership": "Public (Euronext: ML)",
+  "category": "Auto, truck & mobility",
+  "competitors": [
+   "Goodyear",
+   "Bridgestone",
+   "Cooper",
+   "Continental"
+  ],
+  "ohio_note": "Not verified.",
+  "quote": {
+   "text": "This event honors the courage and sacrifice of our veterans-values that inspire us every day.",
+   "url": "https://virnow.com/michelin-official-tire-of-veterans-race-of-remembrance/",
+   "date_of_source": "2025-05-22",
+   "speaker": "Raymond Cotton, Michelin North America Motorsports Director",
+   "source_type": "partner site (race host VIR reposting Michelin release)"
+  },
+  "activations": [
+   {
+    "type": "sponsorship",
+    "event_or_property": "Official Tire Partner, 2025 CrowdStrike Veterans Race of Remembrance (Operation Motorsport; 12-hour race; Michelin tire engineers on site)",
+    "location": "VIRginia International Raceway",
+    "dates": "Nov 7-9, 2025 (announced 2025-05-22)",
+    "scale": "two 2-car veteran teams",
+    "partner_or_agency": "Operation Motorsport",
+    "source_url": "https://virnow.com/michelin-official-tire-of-veterans-race-of-remembrance/",
+    "date_of_source": "2025-05-22",
+    "source_type": "partner site",
+    "proof_snippet": "Michelin will supply its 200 treadwear tire for the two, two-car teams",
+    "verification": "A"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Official tire of IMSA through 2035; entitlement of Michelin Pilot Challenge, Endurance Cup, Michelin Raceway Road Atlanta; Win the Weekend docuseries",
+    "location": "US",
+    "dates": "announced 2025-10-10; through 2035",
+    "scale": "series-wide; 2.5M+ viewers/episode; spend undisclosed",
+    "partner_or_agency": "IMSA",
+    "source_url": "https://www.performanceracing.com/magazine/industry-news/10-10-2025/michelin-imsa-extend-partnership-supplier-agreement",
+    "date_of_source": "2025-10-10",
+    "source_type": "trade press",
+    "proof_snippet": "continue as the official tire of IMSA through the 2035 season",
+    "verification": "A"
+   },
+   {
+    "type": "live_experiential",
+    "event_or_property": "Michelin Connected Fleet at TMC Annual Meeting & Transportation Technology Exhibition",
+    "location": "Nashville (per search result)",
+    "dates": "Mar 16-19, 2026",
+    "scale": "trade show",
+    "partner_or_agency": "",
+    "source_url": "https://connectedfleet.michelin.com/en-us/events/tmc-event",
+    "date_of_source": "2026-03",
+    "source_type": "brand site / event listing",
+    "proof_snippet": "Meet Michelin Connected Fleet at TMC Annual Meeting",
+    "verification": "B"
+   },
+   {
+    "type": "live_experiential",
+    "event_or_property": "Michelin Connected Fleet at Heavy Duty Trucking Exchange (HDTX) 2025",
+    "location": "US",
+    "dates": "2025",
+    "scale": "trade show",
+    "partner_or_agency": "",
+    "source_url": "https://connectedfleet.michelin.com/en-us/events/hdtx-en-us",
+    "date_of_source": "2025",
+    "source_type": "brand site / event listing",
+    "proof_snippet": "Join Michelin Connected Fleet at the Heavy Duty Trucking Exchange",
+    "verification": "B"
+   }
+  ],
+  "media_spend": {
+   "estimate": "Under $100 million (digital, print, national TV; last year) for MNAI Michelin North America",
+   "source": "MediaRadar advertiser profile",
+   "url": "https://advertisers.mediaradar.com/mnai-michelin-north-america-advertising-profile",
+   "date": "2026-10-23 (retrieved)",
+   "label": "ESTIMATE"
+  },
+  "agency_of_record": {
+   "name": "Omnicom Media Group (global media account, replacing Havas; US creative AOR not found)",
+   "source_url": "https://www.mediapost.com/publications/article/398820/omnicom-media-group-wins-global-michelin-account.html",
+   "proof_snippet": "Omnicom Media Group Wins Global Michelin Account",
+   "date_of_source": "2024 (exact date not read)"
+  },
+  "sponsored_properties": [
+   "IMSA",
+   "Operation Motorsport Veterans Race of Remembrance",
+   "Michelin Raceway Road Atlanta"
+  ],
+  "roles": [
+   {
+    "title": "North America Motorsports Director",
+    "team": "Motorsports",
+    "name": "Raymond Cotton",
+    "source_url": "https://virnow.com/michelin-official-tire-of-veterans-race-of-remembrance/",
+    "proof_snippet": "Raymond Cotton, Michelin North America Motorsports Director"
+   },
+   {
+    "title": "President and CEO, Michelin North America",
+    "team": "Executive",
+    "name": "Matthew Cabe",
+    "source_url": "https://www.moderntiredealer.com/suppliers/article/55314688/mtd-exclusive-michelin-ceo-discusses-market-distribution",
+    "proof_snippet": "Matthew Cabe, CEO of Michelin North America"
+   }
+  ],
+  "event_format_fit": "Moderate-good: Michelin already funds veteran-focused and trades-adjacent events through motorsports team; commercial truck/fleet side attends trade shows. Approach via Motorsports Director for community/veteran-style presenting role.",
+  "risks": [
+   {
+    "risk": "NHTSA recall 25T008000: 6,888 Agilis CrossClimate C-metric tires, tread chunking",
+    "date": "2025-05-19",
+    "source_url": "https://www.motorverso.com/recalls/michelin-north-america-inc/25T008000/",
+    "source_type": "recall tracker",
+    "proof_snippet": "chunks of tread rubber may detach from the shoulder blocks",
+    "verification": "A"
+   },
+   {
+    "risk": "Michelin ended relationship with American Tire Distributors June 2025 (distribution disruption); phrase not verbatim-matched",
+    "date": "2025-06",
+    "source_url": "https://www.moderntiredealer.com/suppliers/article/55314688/mtd-exclusive-michelin-ceo-discusses-market-distribution",
+    "source_type": "trade press",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "marketing_trend_2025_26": "Long-term motorsport entitlements (IMSA to 2035) and veteran support; fleet-tech (Connected Fleet) event presence.",
+  "ladder_log": [
+   {
+    "url": "https://virnow.com/michelin-official-tire-of-veterans-race-of-remembrance/",
+    "rung": "partner site",
+    "result": "200, quote verified"
+   },
+   {
+    "url": "https://www.performanceracing.com/magazine/industry-news/10-10-2025/michelin-imsa-extend-partnership-supplier-agreement",
+    "rung": "trade press",
+    "result": "200, verified"
+   },
+   {
+    "url": "https://advertisers.mediaradar.com/mnai-michelin-north-america-advertising-profile",
+    "rung": "direct",
+    "result": "200"
+   },
+   {
+    "url": "https://www.tirereview.com/?p=226138",
+    "rung": "direct",
+    "result": "403"
+   },
+   {
+    "url": "https://www.aftermarketnews.com/nhtsa-investigates-michelin-truck-tire-failures/",
+    "rung": "direct",
+    "result": "200, date unclear; not used"
+   }
+  ],
+  "notes_unverified": "No 2025-26 truck tour found for Michelin NA. Prior NHTSA XZA investigation item not dated, left out. Domain/hq not page-verified."
+ },
+ {
+  "brand": "Love's Travel Stops",
+  "parent": "Love's Travel Stops & Country Stores (privately held)",
+  "domain": "loves.com",
+  "hq": "Oklahoma City, OK",
+  "ownership": "Private (family-owned)",
+  "category": "Auto, truck & mobility",
+  "competitors": [
+   "Pilot Flying J",
+   "TA/Petro",
+   "Buc-ee's",
+   "Casey's"
+  ],
+  "ohio_note": "Aug 19, 2026 Love's news item lists Ohio among states with renovated stores (loves.com/news).",
+  "quote": {
+   "text": "With existing and new locations, Love's continues its support of professional truck drivers by providing amenities and services that support them.",
+   "url": "https://www.loves.com/news/2026/february/loves-to-focus-on-growth-and-reinvestment-in-2026",
+   "date_of_source": "2026-02-05",
+   "speaker": "Love's Travel Stops (release)",
+   "source_type": "brand newsroom"
+  },
+  "activations": [
+   {
+    "type": "sponsorship",
+    "event_or_property": "Front Row Motorsports No. 34 Ford, Todd Gilliland: Love's livery into 2026 and beyond",
+    "location": "NASCAR Cup",
+    "dates": "2026 and beyond",
+    "scale": "multi-year; spend undisclosed",
+    "partner_or_agency": "Front Row Motorsports",
+    "source_url": "https://www.loves.com/en/about-us/loves-racing",
+    "date_of_source": "2026 (page undated; retrieved 2026-10-23)",
+    "source_type": "brand site",
+    "proof_snippet": "Todd Gilliland will enter the 2026 NASCAR Cup Series race after a stellar 2025 season",
+    "verification": "A"
+   },
+   {
+    "type": "agency",
+    "event_or_property": "Named TRG strategic agency of record (creative, media, brand strategy) from Jan 2026; first strategic agency",
+    "location": "US",
+    "dates": "2025-11-19",
+    "scale": "",
+    "partner_or_agency": "TRG; search consultant Joanne Davis Consulting",
+    "source_url": "https://www.loves.com/news/2025/november/loves-names-trg-as-strategic-creative-and-media-agency-of-record",
+    "date_of_source": "2025-11-19",
+    "source_type": "brand newsroom",
+    "proof_snippet": "named TRG as its strategic agency of record responsible for creative, media and brand strategy",
+    "verification": "A"
+   },
+   {
+    "type": "media_spend",
+    "event_or_property": "Love's Media Group retail media network launched Oct 2025; 20+ brand partnerships by Aug 2026; beverage campaign 23% unit lift",
+    "location": "662+ US stores",
+    "dates": "launched 2025-10; updates 2026-08, 2026-10",
+    "scale": "20+ brand partners",
+    "partner_or_agency": "Love's Media Group",
+    "source_url": "https://www.loves.com/news",
+    "date_of_source": "2026-10-12 (listing retrieved)",
+    "source_type": "brand newsroom",
+    "proof_snippet": "Love's Media Group surpasses 20 brand partnerships, expands team to support continued growth",
+    "verification": "A"
+   },
+   {
+    "type": "job_posting",
+    "event_or_property": "(none found) - CMO Patrick McLean hired May 2025 as first-ever CMO",
+    "location": "Oklahoma City",
+    "dates": "2025-05",
+    "scale": "",
+    "partner_or_agency": "",
+    "source_url": "https://www.loves.com/news/2025/november/loves-names-trg-as-strategic-creative-and-media-agency-of-record",
+    "date_of_source": "2025-11-19",
+    "source_type": "brand newsroom",
+    "proof_snippet": "in May, the company hired McLean as the company's first-ever CMO",
+    "verification": "A"
+   }
+  ],
+  "media_spend": {
+   "estimate": "",
+   "source": "",
+   "url": "",
+   "date": "",
+   "label": ""
+  },
+  "agency_of_record": {
+   "name": "TRG",
+   "source_url": "https://www.loves.com/news/2025/november/loves-names-trg-as-strategic-creative-and-media-agency-of-record",
+   "proof_snippet": "named TRG as its strategic agency of record responsible for creative, media and brand strategy",
+   "date_of_source": "2025-11-19"
+  },
+  "sponsored_properties": [
+   "Front Row Motorsports / NASCAR Cup No. 34",
+   "Oklahoma City Thunder (2019 jersey patch, old)"
+  ],
+  "roles": [
+   {
+    "title": "Chief Marketing Officer",
+    "team": "Marketing",
+    "name": "Patrick McLean",
+    "source_url": "https://www.loves.com/news/2025/november/loves-names-trg-as-strategic-creative-and-media-agency-of-record",
+    "proof_snippet": "Patrick McLean, chief marketing officer (CMO) at Love's"
+   },
+   {
+    "title": "President",
+    "team": "Executive",
+    "name": "Shane Wharton",
+    "source_url": "https://www.loves.com/news/2026/february/loves-to-focus-on-growth-and-reinvestment-in-2026",
+    "proof_snippet": "said Shane Wharton, president of Love's"
+   }
+  ],
+  "event_format_fit": "Strong for professional-driver and trade audiences: Love's markets to truck drivers, has a retail media network, and is newly building a marketing program under a first CMO and new AOR. Good timing for a pitch via CMO/TRG; screenings at travel stops or driver events.",
+  "risks": [
+   {
+    "risk": "Proposed class action over $20/week tobacco surcharge on health plan (W.D. Okla., Feb 2026, allegation only, paywalled; not re-checked, search budget exhausted)",
+    "date": "2026-02",
+    "source_url": "https://news.bloomberglaw.com/",
+    "source_type": "prior round",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "marketing_trend_2025_26": "Building marketing from scratch: first CMO (May 2025), first strategic AOR (Jan 2026), retail media network for professional drivers.",
+  "ladder_log": [
+   {
+    "url": "https://www.loves.com/news/2025/november/loves-names-trg-as-strategic-creative-and-media-agency-of-record",
+    "rung": "brand newsroom",
+    "result": "200, verified"
+   },
+   {
+    "url": "https://www.loves.com/news/2026/february/loves-to-focus-on-growth-and-reinvestment-in-2026",
+    "rung": "brand newsroom",
+    "result": "200, verified"
+   },
+   {
+    "url": "https://www.loves.com/en/about-us/loves-racing",
+    "rung": "brand site",
+    "result": "200, verified"
+   },
+   {
+    "url": "https://www.loves.com/news",
+    "rung": "brand newsroom",
+    "result": "200, verified"
+   },
+   {
+    "url": "https://www.nascar.com/news-media/2024/11/19/todd-gilliland-to-carry-loves-travel-stops-livery-in-2025-beyond/",
+    "rung": "direct",
+    "result": "403"
+   },
+   {
+    "url": "https://www.globenewswire.com/news-release/2025/10/07/3162635/0/en/Love-s-launches-Love-s-Media-Group.html",
+    "rung": "wire mirror",
+    "result": "403"
+   }
+  ],
+  "notes_unverified": "Last two Love's WebSearch calls (2026 NASCAR sponsor detail, litigation recheck) were refused for exhausted search budget. The job_posting-type entry is actually a CMO hire fact, not a posting."
+ }
+]

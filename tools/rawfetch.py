@@ -13,8 +13,13 @@ def norm(s):
 def strip(body):
     t=re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>"," ",body);t=re.sub(r"(?s)<[^>]+>"," ",t);return norm(html.unescape(t))
 def curl(url):
-    o=subprocess.run(["curl","-sL","--max-time","35","-A",UA,"-w","\n%{http_code}",url],capture_output=True,text=True)
-    b,_,c=o.stdout.rpartition("\n");return c.strip(),b
+    o=subprocess.run(["curl","-sL","--max-time","35","-A",UA,"-w","\n%{http_code}",url],capture_output=True)
+    raw=o.stdout;i=raw.rfind(b"\n");body,code=raw[:i],raw[i+1:].decode("ascii","ignore").strip()
+    if body[:5]==b"%PDF-":
+        try:
+            q=subprocess.run(["pdftotext","-q","-","-"],input=body,capture_output=True,timeout=60);return code,q.stdout.decode("utf-8","replace")
+        except Exception: return code,""
+    return code,body.decode("utf-8","replace")
 def fetch(url,ladder=True):
     """returns (rung, code, text)"""
     c,b=curl(url);t=strip(b)

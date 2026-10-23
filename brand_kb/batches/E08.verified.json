@@ -1,0 +1,1149 @@
+{
+ "results": [
+  {
+   "brand": "YETI",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "CrossFit Games official drinkware/cooler through 2027; presenting sponsor of inaugural Community Cup (grassroots affiliates)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Freeride World Tour 5-year renewal; title partner of YETI Xtreme Verbier, YETI Alaska Haines Pro, junior championships",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Official supplier, Team England, Glasgow 2026 Commonwealth Games (co-branded Rambler bottles)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "US Equestrian partnership (products to teams, champion awards, competitor gifts)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Events Marketing Specialist (community events, sponsored events, tradeshows), Austin; posting removed 2025-12-03",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "FY2025 marketing expense $145.4M (vs $141.5M FY2024) per 10-K as summarized by search; sec.gov blocked to rawfetch",
+     "verified": false,
+     "rung": "blocked",
+     "http": "403",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "True Value",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Official Home Improvement Partner of Notre Dame Athletics: marketing assets, in-store promos, signage, local store activation",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Official Hardware Partner, BIG EAST men's basketball tournament (courtside LED, stanchions, ribbon boards, on-court challenge)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Your Project, Your Way national brand platform with Nick Offerman (CTV, YouTube, paid social, influencers, audio, in-store)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Do it Best Managed Marketing Specialist / Consumer Marketing Specialist openings (Fort Wayne) supporting member retailers",
+     "verified": false,
+     "rung": "blocked",
+     "http": "404",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Scotts Miracle-Gro",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Columbus Crew stadium naming rights: ScottsMiracle-Gro Field; also official lawn care partner, Soccer in Schools presenting partner",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Scotts partnership with USMNT captain Tyler Adams and Every Kid Sports; Keep It Real sweepstakes for natural turf field refurbishments",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Full Bush Summer campaign: organic and paid social, digital banners, merch giveaways, influencer partnership",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Miracle-Gro x Martha Stewart / iHeartPodcasts live taping with branded signage",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Gro Like Martha campaign (OUTSIDE 24-mo window: published 2024-04-08, not 2025)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Advertising expense $152.3M FY2025 vs $141.0M (from prior round; sec.gov not re-fetched)",
+     "verified": false,
+     "rung": "blocked",
+     "http": "403",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "New Balance",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "New England Patriots/Gillette Stadium exclusive footwear & apparel partner; New Balance Athletics Center and practice fields naming",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "NYRR / TCS NYC Marathon partnership extension: official footwear & apparel sponsor (NOT title sponsor; TCS is title); track refurbishment from 2026, kids shoe event",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "TogetherFest presented by New Balance with Fleet Feet Columbus (free group runs, walks, hikes, youth program)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "2025 TCS NYC Marathon activations: Run House pop-up, Cheer Zone Mile 24, citywide OOH (newsmarket page blocked this round)",
+     "verified": false,
+     "rung": "blocked",
+     "http": "202",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Valvoline",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Mechanics Month (6th annual): celebration of mechanics, tied to future-mechanic training; theme The Future Is In Your Hands",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "FIFA World Cup 2026 Official Supporter and global campaign 'The Original Motor Oil. For the Driven' celebrating fans and mechanics; broadcast, DOOH, radio, social, experiences",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Instant Transfer Portal campaign with Ohio State football players as spokespeople, national platforms",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Hendrick Motorsports extension through 2029: primary on No. 24 (6 races/yr) and No. 5 (3 races), 2026 schemes unveiled",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Valvoline Inc. advertising expense $63.8M for nine months ended 2026-06-30 vs $53.7M (search summary of Q3 FY2026 deck; not fetched)",
+     "verified": false,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  }
+ ],
+ "batch": [
+  {
+   "brand": "YETI",
+   "parent": "YETI Holdings, Inc. (NYSE: YETI)",
+   "domain": "yeti.com",
+   "hq": "Austin, TX",
+   "ownership": "Public (NYSE: YETI)",
+   "category": "Outdoor & rugged gear (coolers, drinkware)",
+   "competitors": [
+    "Stanley",
+    "Hydro Flask",
+    "RTIC",
+    "Coleman"
+   ],
+   "ohio_note": "No Ohio-specific YETI activation found; search returned nothing for Ohio community events.",
+   "quote": {
+    "text": "YETI is built to support some of the toughest people and pursuits in the world",
+    "url": "https://athletechnews.com/crossfit-yeti-extend-partnership",
+    "date_of_source": "2025-05-01",
+    "speaker": "Bill Neff, head of marketing, YETI",
+    "source_type": "trade press (quoting YETI release)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "CrossFit Games official drinkware/cooler through 2027; presenting sponsor of inaugural Community Cup (grassroots affiliates)",
+     "location": "Global/US",
+     "dates": "through 2027; announced 2025-05-01",
+     "scale": "Community Cup; YETI donating product to affiliate owners (article says $30,000 in product, i.e. in-kind)",
+     "partner_or_agency": "CrossFit",
+     "source_url": "https://athletechnews.com/crossfit-yeti-extend-partnership",
+     "date_of_source": "2025-05-01",
+     "source_type": "trade press",
+     "proof_snippet": "YETI will continue as the official drinkware and cooler of the CrossFit Games",
+     "verification": "B"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Freeride World Tour 5-year renewal; title partner of YETI Xtreme Verbier, YETI Alaska Haines Pro, junior championships",
+     "location": "Global",
+     "dates": "announced 2025-11-10",
+     "scale": "five-year agreement",
+     "partner_or_agency": "Freeride World Tour",
+     "source_url": "https://www.freerideworldtour.com/news-videos/fwt-and-yeti-renew-multi-year-global-partnership",
+     "date_of_source": "2025-11-10",
+     "source_type": "partner site",
+     "proof_snippet": "rugged, high-performance outdoor gear",
+     "verification": "B"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Official supplier, Team England, Glasgow 2026 Commonwealth Games (co-branded Rambler bottles)",
+     "location": "England/Glasgow",
+     "dates": "announced 2026-07-21; Games 23 Jul-2 Aug 2026",
+     "scale": "all Team England athletes",
+     "partner_or_agency": "Commonwealth Games England",
+     "source_url": "https://teamengland.org/news/yeti-announced-as-official-supplier-for-team-england",
+     "date_of_source": "2026-07-21",
+     "source_type": "partner site",
+     "proof_snippet": "Team England is delighted to welcome YETI as an official supplier ahead of the Glasgow 2026 Commonwealth Games",
+     "verification": "B"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "US Equestrian partnership (products to teams, champion awards, competitor gifts)",
+     "location": "US",
+     "dates": "2025 (search result says June 2025; page date not confirmed)",
+     "scale": "national championships",
+     "partner_or_agency": "US Equestrian Federation",
+     "source_url": "https://usef.org/media/press-releases/us-equestrian-announces-yeti-partnership",
+     "date_of_source": "2025 (unconfirmed)",
+     "source_type": "partner site",
+     "proof_snippet": "This partnership represents an important milestone for YETI",
+     "verification": "B"
+    },
+    {
+     "type": "job_posting",
+     "event_or_property": "Events Marketing Specialist (community events, sponsored events, tradeshows), Austin; posting removed 2025-12-03",
+     "location": "Austin, TX",
+     "dates": "posting removed 2025-12-03",
+     "scale": "in-office role",
+     "partner_or_agency": "internal",
+     "source_url": "https://builtin.com/job/events-marketing-specialist/7597004",
+     "date_of_source": "2025-12-03",
+     "source_type": "job board",
+     "proof_snippet": "support for event management and execution for all community events",
+     "verification": "B"
+    },
+    {
+     "type": "media_spend",
+     "event_or_property": "FY2025 marketing expense $145.4M (vs $141.5M FY2024) per 10-K as summarized by search; sec.gov blocked to rawfetch",
+     "location": "corporate",
+     "dates": "FY ended 2026-01-03",
+     "scale": "$145.4M",
+     "partner_or_agency": "",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059226000013/yeti-20260103.htm",
+     "date_of_source": "2026",
+     "source_type": "sec filing (search summary)",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "media_spend": {
+    "estimate": "$145.4M marketing expense FY2025 (ESTIMATE; summary only, not fetched)",
+    "source": "YETI Holdings 10-K FY2025",
+    "url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059226000013/yeti-20260103.htm",
+    "date": "2026",
+    "label": "ESTIMATE"
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "CrossFit Games",
+    "Freeride World Tour",
+    "US Equestrian",
+    "Team England (Glasgow 2026)",
+    "World Surf League (renewed Mar 2026, search result only)",
+    "Natural Selection Tour"
+   ],
+   "roles": [
+    {
+     "title": "Head of Marketing",
+     "team": "Marketing",
+     "name": "Bill Neff",
+     "source_url": "https://athletechnews.com/crossfit-yeti-extend-partnership",
+     "proof_snippet": "said Bill Neff, head of marketing at YETI",
+     "verified_by_script": true
+    },
+    {
+     "title": "Senior Director of Community",
+     "team": "Community",
+     "name": "Joe Koehly",
+     "source_url": "https://usef.org/media/press-releases/us-equestrian-announces-yeti-partnership",
+     "proof_snippet": "senior director of community at YETI",
+     "verified_by_script": true
+    },
+    {
+     "title": "Sr. Manager, Events",
+     "team": "Events",
+     "name": null,
+     "source_url": "https://builtin.com/job/events-marketing-specialist/7597004",
+     "proof_snippet": "reports to the Sr. Manager, Events"
+    }
+   ],
+   "event_format_fit": "Strong brand fit for rugged/durable/trades ethos, community-event team exists (community marketing managers + events). Sponsorships are athletic/outdoor; local grassroots (Community Cup) is the closest analogue. Ask will likely be product in-kind plus local community-marketing budget.",
+   "risks": [
+    {
+     "risk": "2023 cooler magnet recall (about 1.9M units), older; no 2025-26 recall found",
+     "date": "2023",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059224000041/yeti-20240928.htm",
+     "source_type": "sec filing (search summary)",
+     "proof_snippet": "",
+     "verification": "D"
+    },
+    {
+     "risk": "Tariff margin pressure in FY2025 results (search summary of Feb 19 2026 release)",
+     "date": "2026-02-19",
+     "source_url": "https://finance.yahoo.com/news/yeti-reports-fourth-quarter-full-110100690.html",
+     "source_type": "wire mirror (search summary)",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Expanding global sports/outdoor partnerships (FWT 5-yr, CrossFit, WSL, Commonwealth Games) and community events team hiring.",
+   "ladder_log": [
+    {
+     "url": "https://www.yeti.com/press/yeti-film-tour.html",
+     "rung": "direct",
+     "result": "403"
+    },
+    {
+     "url": "https://investors.yeti.com/news-releases",
+     "rung": "direct",
+     "result": "403"
+    },
+    {
+     "url": "https://www.globenewswire.com/news-release/2026/2/19/3240867/0/en/YETI-Reports-Fourth-Quarter-and-Full-Year-2025-Results-Provides-Full-Year-2026-Outlook.html",
+     "rung": "wire mirror",
+     "result": "403"
+    },
+    {
+     "url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059226000013/yeti-20260103.htm",
+     "rung": "sec filing",
+     "result": "403"
+    },
+    {
+     "url": "https://athletechnews.com/crossfit-yeti-extend-partnership",
+     "rung": "trade press",
+     "result": "ok"
+    },
+    {
+     "url": "https://www.freerideworldtour.com/news-videos/fwt-and-yeti-renew-multi-year-global-partnership",
+     "rung": "partner site",
+     "result": "ok"
+    }
+   ],
+   "notes_unverified": "Marketing expense and tariff/recall risks from search summaries only. Prior-round Natural Selection Tour and 240M impressions claims not re-verified. No agency of record found. WSL renewal (Mar 2026) from search summary only."
+  },
+  {
+   "brand": "True Value",
+   "parent": "Do it Best Corp. (acquired True Value assets after Oct 2024 Chapter 11 sale)",
+   "domain": "truevalue.com",
+   "hq": "Fort Wayne, IN (Do it Best); legacy Chicago",
+   "ownership": "Member-owned cooperative (Do it Best Corp.)",
+   "category": "Home improvement & hardware retail",
+   "competitors": [
+    "Ace Hardware",
+    "Home Depot",
+    "Lowe's",
+    "Menards"
+   ],
+   "ohio_note": "Legacy Westlake (Cleveland-area) distribution center closed 2025 with 82 layoffs; search result says about 40 Ohio stores (not fetched). Independent store owners are the local activation channel.",
+   "quote": {
+    "text": "True Value has always stood for the confidence, know-how, and personal service people count on when caring for their homes",
+    "url": "https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/",
+    "date_of_source": "2026-08-03",
+    "speaker": "Allison Flatjord, Do it Best Group chief marketing officer",
+    "source_type": "trade press (quoting company release)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Official Home Improvement Partner of Notre Dame Athletics: marketing assets, in-store promos, signage, local store activation",
+     "location": "South Bend IN / national",
+     "dates": "announced 2026-08-03",
+     "scale": "fee undisclosed; retailer activation details to follow",
+     "partner_or_agency": "Notre Dame Athletics; Do it Best Group",
+     "source_url": "https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/",
+     "date_of_source": "2026-08-03",
+     "source_type": "trade press",
+     "proof_snippet": "The sponsorship will include marketing assets, in-store promotional opportunities, signage support",
+     "verification": "B"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Official Hardware Partner, BIG EAST men's basketball tournament (courtside LED, stanchions, ribbon boards, on-court challenge)",
+     "location": "Madison Square Garden, NYC",
+     "dates": "2026-03-11 to 03-14",
+     "scale": "national TV plus in-arena; fee undisclosed",
+     "partner_or_agency": "BIG EAST Conference",
+     "source_url": "https://thehardwareconnection.com/true-value-becomes-official-hardware-partner-of-big-east-conference",
+     "date_of_source": "2026-03-09",
+     "source_type": "trade press",
+     "proof_snippet": "courtside LED signage, basket stanchion displays, ribbon boards",
+     "verification": "B"
+    },
+    {
+     "type": "agency",
+     "event_or_property": "Your Project, Your Way national brand platform with Nick Offerman (CTV, YouTube, paid social, influencers, audio, in-store)",
+     "location": "national",
+     "dates": "launch Jan 7 2026",
+     "scale": "national multi-channel; budget undisclosed",
+     "partner_or_agency": "Laughlin Constable",
+     "source_url": "https://www.mediapost.com/publications/article/411927/nick-offerman-checks-out-true-value-for-diyers.html",
+     "date_of_source": "2026-01-14",
+     "source_type": "trade press",
+     "proof_snippet": "Laughlin Constable, the brand's creative and media agency",
+     "verification": "B"
+    },
+    {
+     "type": "job_posting",
+     "event_or_property": "Do it Best Managed Marketing Specialist / Consumer Marketing Specialist openings (Fort Wayne) supporting member retailers",
+     "location": "Fort Wayne, IN",
+     "dates": "Mar and May 2026 (search result only)",
+     "scale": "",
+     "partner_or_agency": "Do it Best",
+     "source_url": "https://www.marketingmonk.so/jobboard/jobs/managed-marketing-specialist-at-do-it-best-okyefj",
+     "date_of_source": "2026-03-12",
+     "source_type": "job board (search summary)",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "Laughlin Constable (creative and media agency)",
+    "source_url": "https://www.mediapost.com/publications/article/411927/nick-offerman-checks-out-true-value-for-diyers.html",
+    "proof_snippet": "Laughlin Constable, the brand's creative and media agency",
+    "date_of_source": "2026-01-14"
+   },
+   "sponsored_properties": [
+    "Notre Dame Athletics",
+    "BIG EAST Conference tournament"
+   ],
+   "roles": [
+    {
+     "title": "Chief Marketing Officer, Do it Best Group",
+     "team": "Marketing",
+     "name": "Allison Flatjord",
+     "source_url": "https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/",
+     "proof_snippet": "Allison Flatjord, Do it Best Group chief marketing officer",
+     "verified_by_script": true
+    },
+    {
+     "title": "President, True Value",
+     "team": "Executive",
+     "name": "Dent Johnson",
+     "source_url": "https://thehardwareconnection.com/true-value-becomes-official-hardware-partner-of-big-east-conference",
+     "proof_snippet": "President of True Value Dent Johnson said",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Excellent trades/hardware alignment (independent stores, pros, DIY). Brand is rebuilding and buying visibility via sports sponsorships with store-level activation; a local-store-presented screening fits the independent-retailer model. Contact path is Do it Best marketing, not legacy True Value.",
+   "risks": [
+    {
+     "risk": "Westlake OH distribution center closure, 82 layoffs after bankruptcy sale",
+     "date": "2025-02-12",
+     "source_url": "https://www.yahoo.com/news/true-value-distribution-center-westlake-003215282.html",
+     "source_type": "trade/local press",
+     "proof_snippet": "laying off 82 employees",
+     "verification": "B",
+     "verified_by_script": true,
+     "rung": "direct"
+    },
+    {
+     "risk": "Oct 2024 Chapter 11 and sale to Do it Best; brand in rebuild",
+     "date": "2024-10",
+     "source_url": null,
+     "source_type": "wire (search summary)",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Relaunching national brand after acquisition: celebrity spokesperson, college sports sponsorships (BIG EAST, Notre Dame), combined Fall/Spring Markets.",
+   "ladder_log": [
+    {
+     "url": "https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/",
+     "rung": "trade press",
+     "result": "ok"
+    },
+    {
+     "url": "https://thehardwareconnection.com/true-value-becomes-official-hardware-partner-of-big-east-conference",
+     "rung": "trade press",
+     "result": "ok"
+    },
+    {
+     "url": "https://www.mediapost.com/publications/article/411927/nick-offerman-checks-out-true-value-for-diyers.html",
+     "rung": "trade press",
+     "result": "ok"
+    },
+    {
+     "url": "https://www.yahoo.com/news/true-value-distribution-center-westlake-003215282.html",
+     "rung": "trade press",
+     "result": "ok"
+    }
+   ],
+   "notes_unverified": "Prior round called BIG EAST deal 'official home improvement partner'; sources say Official Hardware Partner. 40 Ohio stores and job postings from search summaries only. Media spend none found."
+  },
+  {
+   "brand": "Scotts Miracle-Gro",
+   "parent": "The Scotts Miracle-Gro Company (NYSE: SMG)",
+   "domain": "scottsmiraclegro.com",
+   "hq": "Marysville, OH",
+   "ownership": "Public (NYSE: SMG)",
+   "category": "Lawn & garden consumer products",
+   "competitors": [
+    "Spectrum Brands",
+    "Central Garden & Pet",
+    "Bonide",
+    "Home Depot/Lowe's private labels"
+   ],
+   "ohio_note": "Ohio HQ (Marysville). Stadium naming rights to ScottsMiracle-Gro Field (Columbus Crew) from 2026 season: a ready Columbus venue and local-community program ('Soccer in Schools' presenting partner).",
+   "quote": {
+    "text": "You couldn't find a more authentic partnership than what we have with the Crew",
+    "url": "https://www.columbuscrew.com/news/columbus-crew-and-scottsmiracle-gro-expand-long-standing-partnership-highlighted-by-stadium-naming-rights",
+    "date_of_source": "2025-11-25",
+    "speaker": "Nate Baxter, then president and COO",
+    "source_type": "brand-hosted team release"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Columbus Crew stadium naming rights: ScottsMiracle-Gro Field; also official lawn care partner, Soccer in Schools presenting partner",
+     "location": "Columbus, OH",
+     "dates": "announced 2025-11-25; effective 2026 season",
+     "scale": "multi-year; terms undisclosed",
+     "partner_or_agency": "Columbus Crew; Legends Global (search result)",
+     "source_url": "https://www.columbuscrew.com/news/columbus-crew-and-scottsmiracle-gro-expand-long-standing-partnership-highlighted-by-stadium-naming-rights",
+     "date_of_source": "2025-11-25",
+     "source_type": "partner site",
+     "proof_snippet": "ScottsMiracle-Gro Field in downtown Columbus, Ohio will serve as the home of the Crew",
+     "verification": "A"
+    },
+    {
+     "type": "ambassador",
+     "event_or_property": "Scotts partnership with USMNT captain Tyler Adams and Every Kid Sports; Keep It Real sweepstakes for natural turf field refurbishments",
+     "location": "US",
+     "dates": "2025-07-26",
+     "scale": "five nonprofit field refurbishments (grant-like component)",
+     "partner_or_agency": "Every Kid Sports",
+     "source_url": "https://csrwire.com/press-release/scottsmiracle-gro-believes-power-green-spaces-partners-us-mens-national/",
+     "date_of_source": "2025-07-26",
+     "source_type": "wire/CSR release",
+     "proof_snippet": "increasing youth access to natural turf sports fields",
+     "verification": "B"
+    },
+    {
+     "type": "content",
+     "event_or_property": "Full Bush Summer campaign: organic and paid social, digital banners, merch giveaways, influencer partnership",
+     "location": "national",
+     "dates": "summer 2025",
+     "scale": "",
+     "partner_or_agency": "The Martin Agency",
+     "source_url": "https://richmondbizsense.com/2025/08/12/the-pitch-advertising-and-marketing-news-for-8-12-25/",
+     "date_of_source": "2025-08-12",
+     "source_type": "trade/local press",
+     "proof_snippet": "Full Bush Summer",
+     "verification": "B"
+    },
+    {
+     "type": "live_experiential",
+     "event_or_property": "Miracle-Gro x Martha Stewart / iHeartPodcasts live taping with branded signage",
+     "location": "New York Botanical Garden, NYC",
+     "dates": "late May 2025",
+     "scale": "single event",
+     "partner_or_agency": "Martha Stewart; iHeartPodcasts",
+     "source_url": "https://bizbash.com/production-strategy/experiential-marketing-activations-sponsorships/media-gallery/22943783/cool-event-ideas-from-june-2025",
+     "date_of_source": "2025-06",
+     "source_type": "trade press",
+     "proof_snippet": "Miracle-Gro",
+     "verification": "C"
+    },
+    {
+     "type": "content",
+     "event_or_property": "Gro Like Martha campaign (OUTSIDE 24-mo window: published 2024-04-08, not 2025)",
+     "location": "national",
+     "dates": "April 2024",
+     "scale": "CTV, cable, Roku sponsorship, audio, social",
+     "partner_or_agency": "The Martin Agency (per 2025 coverage)",
+     "source_url": "https://www.marketingdive.com/news/miracle-gro-martha-stewart-gardening-campaign/712584/",
+     "date_of_source": "2024-04-08",
+     "source_type": "trade press",
+     "proof_snippet": "Published April 8, 2024",
+     "verification": "B"
+    },
+    {
+     "type": "media_spend",
+     "event_or_property": "Advertising expense $152.3M FY2025 vs $141.0M (from prior round; sec.gov not re-fetched)",
+     "location": "corporate",
+     "dates": "FY2025",
+     "scale": "$152.3M",
+     "partner_or_agency": "",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/825542/000082554225000022/smg-20250930.htm",
+     "date_of_source": "2025",
+     "source_type": "sec filing",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "media_spend": {
+    "estimate": "$152.3M advertising expense FY2025 (ESTIMATE, prior-round, unverified this round)",
+    "source": "Scotts Miracle-Gro 10-K FY2025",
+    "url": "https://www.sec.gov/Archives/edgar/data/825542/000082554225000022/smg-20250930.htm",
+    "date": "2025-11",
+    "label": "ESTIMATE"
+   },
+   "agency_of_record": {
+    "name": "The Martin Agency (creative AOR)",
+    "source_url": "https://richmondbizsense.com/2025/08/12/the-pitch-advertising-and-marketing-news-for-8-12-25/",
+    "proof_snippet": "Full Bush Summer",
+    "date_of_source": "2025-08-12"
+   },
+   "sponsored_properties": [
+    "Columbus Crew / ScottsMiracle-Gro Field",
+    "MLB (older)",
+    "USMNT's Tyler Adams / Every Kid Sports",
+    "America 250 activity (search result, June 2026)"
+   ],
+   "roles": [
+    {
+     "title": "President & COO (named CEO June 2026 per search)",
+     "team": "Executive",
+     "name": "Nate Baxter",
+     "source_url": "https://www.columbuscrew.com/news/columbus-crew-and-scottsmiracle-gro-expand-long-standing-partnership-highlighted-by-stadium-naming-rights",
+     "proof_snippet": "Nate Baxter",
+     "verified_by_script": true
+    },
+    {
+     "title": "SVP, Scotts brand lawns business",
+     "team": "Scotts brand",
+     "name": "John Sass",
+     "source_url": "https://www.columbuscrew.com/news/columbus-crew-and-scottsmiracle-gro-expand-long-standing-partnership-highlighted-by-stadium-naming-rights",
+     "proof_snippet": "John Sass, SVP of the company's Scotts brand lawns business",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Ohio-HQ brand with proven community/sports sponsorship appetite and a Columbus venue. Messaging is gardens/green space and youth rather than trades/safety, so fit is as community/civic sponsor; Marysville has a large manufacturing and supply workforce.",
+   "risks": [
+    {
+     "risk": "Hawthorne divested Apr 2026 with reported $101.8M loss on sale; $250M notes due Dec 2026 (third-party summary)",
+     "date": "2026-04",
+     "source_url": null,
+     "source_type": "search summary",
+     "proof_snippet": "",
+     "verification": "D"
+    },
+    {
+     "risk": "Shareholder class action tied to Aug 2023 guidance cut (status unverified)",
+     "date": "2024",
+     "source_url": null,
+     "source_type": "wire (search summary)",
+     "proof_snippet": "",
+     "verification": "D"
+    },
+    {
+     "risk": "CEO Jim Hagedorn departed June 2026; Nate Baxter CEO",
+     "date": "2026-06-29",
+     "source_url": null,
+     "source_type": "search summary",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Shift to sports/community sponsorship (Crew naming rights, USMNT), cultural social content via Martin Agency, America 250 tie-ins.",
+   "ladder_log": [
+    {
+     "url": "https://www.columbuscrew.com/news/columbus-crew-and-scottsmiracle-gro-expand-long-standing-partnership-highlighted-by-stadium-naming-rights",
+     "rung": "brand/partner site",
+     "result": "ok"
+    },
+    {
+     "url": "https://csrwire.com/press-release/scottsmiracle-gro-believes-power-green-spaces-partners-us-mens-national/",
+     "rung": "wire mirror (CSRwire)",
+     "result": "ok"
+    },
+    {
+     "url": "https://www.chartmill.com/news/external/41715/gnwcq-2026-6-11-scottsmiracle-gro-commits-1-million-to-support-white-house-south-lawn-restoration-following-ufc-freedom-250-event",
+     "rung": "wire mirror",
+     "result": "403"
+    },
+    {
+     "url": "https://www.thestadiumbusiness.com/?p=87063",
+     "rung": "trade press",
+     "result": "403"
+    },
+    {
+     "url": "https://richmondbizsense.com/2025/08/12/the-pitch-advertising-and-marketing-news-for-8-12-25/",
+     "rung": "trade press",
+     "result": "ok"
+    }
+   ],
+   "notes_unverified": "No worker/safety/heritage quote from Scotts found in window; quote is partnership-focused. White House $1M lawn pledge (June 2026) is a donation-like item, excluded. Hawthorne/CEO/lawsuit/ad spend from search summaries. Marketing job search found brand manager roles only."
+  },
+  {
+   "brand": "New Balance",
+   "parent": "New Balance Athletics, Inc.",
+   "domain": "newbalance.com",
+   "hq": "Boston, MA",
+   "ownership": "Private",
+   "category": "Athletic footwear & apparel",
+   "competitors": [
+    "Nike",
+    "Adidas",
+    "Brooks",
+    "Hoka",
+    "Asics",
+    "Saucony"
+   ],
+   "ohio_note": "Fleet Feet Columbus TogetherFest presented by New Balance, Alum Creek Beach, Lewis Center OH, June 20 2026 (2nd annual): local retail-partner community event.",
+   "quote": {
+    "text": "U.S. manufacturing has always been at the core of our company culture",
+    "url": "https://sgbonline.com/new-balance-opens-expanded-central-maine-factory/",
+    "date_of_source": "2025-09-22",
+    "speaker": "Joe Preston, president and CEO",
+    "source_type": "trade press (quoting company)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "New England Patriots/Gillette Stadium exclusive footwear & apparel partner; New Balance Athletics Center and practice fields naming",
+     "location": "Foxborough, MA",
+     "dates": "announced 2026-03-16",
+     "scale": "long-term; fee undisclosed",
+     "partner_or_agency": "New England Patriots",
+     "source_url": "https://nsga.org/news/new-balance-named-footwear-apparel-provider-of-patriots/",
+     "date_of_source": "2026-03-16",
+     "source_type": "trade association news",
+     "proof_snippet": "official and exclusive athletic footwear and apparel of the New England Patriots and Gillette Stadium",
+     "verification": "B"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "NYRR / TCS NYC Marathon partnership extension: official footwear & apparel sponsor (NOT title sponsor; TCS is title); track refurbishment from 2026, kids shoe event",
+     "location": "New York City",
+     "dates": "2025-10-30",
+     "scale": "multi-year; 200k kids in NYRR youth program",
+     "partner_or_agency": "New York Road Runners",
+     "source_url": "https://rrm.com/2025/news/new-york-road-runners-and-new-balance-announce-partnership-extension/",
+     "date_of_source": "2025-10-30",
+     "source_type": "trade press",
+     "proof_snippet": "official athletic footwear and apparel sponsor of New York Road Runners and the TCS New York City Marathon",
+     "verification": "B"
+    },
+    {
+     "type": "retail_event",
+     "event_or_property": "TogetherFest presented by New Balance with Fleet Feet Columbus (free group runs, walks, hikes, youth program)",
+     "location": "Lewis Center, OH",
+     "dates": "2026-06-20",
+     "scale": "free community event",
+     "partner_or_agency": "Fleet Feet Columbus",
+     "source_url": "https://www.endurancegrid.com/race/togetherfest-presented-by-new-balance-a-celebration-of-lewis-center-oh-184220",
+     "date_of_source": "2026-06-20",
+     "source_type": "event listing",
+     "proof_snippet": "happening Saturday, June 20th from 8 AM to 12 PM at Alum Creek Beach",
+     "verification": "B"
+    },
+    {
+     "type": "live_experiential",
+     "event_or_property": "2025 TCS NYC Marathon activations: Run House pop-up, Cheer Zone Mile 24, citywide OOH (newsmarket page blocked this round)",
+     "location": "New York City",
+     "dates": "Oct 2025",
+     "scale": "",
+     "partner_or_agency": "NYRR",
+     "source_url": "https://newbalance.newsmarket.com/latest-news/new-balance-celebrates-the-2025-tcs-new-york-city-marathon-with-activations-and-community-experience/s/39a6344a-5571-4e0a-959e-0ffc3944c50b",
+     "date_of_source": "2025-10-24",
+     "source_type": "brand newsroom",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "NYRR / TCS NYC Marathon",
+    "New England Patriots",
+    "Atalanta BC kit (2025/26)",
+    "Australian Open",
+    "WNBA (non-exclusive, search result)"
+   ],
+   "roles": [
+    {
+     "title": "President & CEO",
+     "team": "Executive",
+     "name": "Joe Preston",
+     "source_url": "https://sgbonline.com/new-balance-opens-expanded-central-maine-factory/",
+     "proof_snippet": "Joe Preston, New Balance president and CEO",
+     "verified_by_script": true
+    },
+    {
+     "title": "Chief Operating Officer",
+     "team": "Executive",
+     "name": "Dave Wheeler",
+     "source_url": "https://sgbonline.com/new-balance-opens-expanded-central-maine-factory/",
+     "proof_snippet": "Dave Wheeler, chief operating officer at New Balance",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Heritage-manufacturing angle (Made in USA, 1,200 US factory workers in ME/MA/NH) matches craftsmanship themes; grassroots activations run through retail partners like Fleet Feet. Big-ticket sponsorships are pro sports. A factory-town or Fleet Feet-hosted screening is plausible; Lawrence/Skowhegan are Northeast, not Ohio.",
+   "risks": [
+    {
+     "risk": "Reported lawsuit vs Decathlon over N logo (aggregator citing ambito.com; unverified)",
+     "date": "2026",
+     "source_url": null,
+     "source_type": "search summary",
+     "proof_snippet": "",
+     "verification": "D"
+    },
+    {
+     "risk": "Tariff/footwear cost pressure generic, not sourced",
+     "date": "2025-26",
+     "source_url": null,
+     "source_type": "inferred",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Deepening team/event sponsorships (Patriots, NYRR, Atalanta) plus community runs via specialty retail and Made in USA factory messaging.",
+   "ladder_log": [
+    {
+     "url": "https://sgbonline.com/new-balance-opens-expanded-central-maine-factory/",
+     "rung": "trade press",
+     "result": "ok"
+    },
+    {
+     "url": "https://rrm.com/2025/news/new-york-road-runners-and-new-balance-announce-partnership-extension/",
+     "rung": "trade press",
+     "result": "ok"
+    },
+    {
+     "url": "https://nsga.org/news/new-balance-named-footwear-apparel-provider-of-patriots/",
+     "rung": "trade press",
+     "result": "ok"
+    },
+    {
+     "url": "https://www.endurancegrid.com/race/togetherfest-presented-by-new-balance-a-celebration-of-lewis-center-oh-184220",
+     "rung": "event listing",
+     "result": "ok"
+    },
+    {
+     "url": "https://www.aol.com/summer-running-celebration-fleet-feet-100026100.html",
+     "rung": "trade press",
+     "result": "404"
+    },
+    {
+     "url": "https://newbalance.newsmarket.com/latest-news/new-balance-celebrates-the-2025-tcs-new-york-city-marathon-with-activations-and-community-experience/s/39a6344a-5571-4e0a-959e-0ffc3944c50b",
+     "rung": "brand newsroom",
+     "result": "202 empty"
+    }
+   ],
+   "notes_unverified": "Media spend not available (private). Decathlon suit unverified. No marketing job posting verified. Atalanta/WNBA from search summaries."
+  },
+  {
+   "brand": "Valvoline",
+   "parent": "Two entities: Valvoline Inc. (NYSE: VVV, retail Instant Oil Change/Take 5-style service centers, Lexington KY) and Valvoline Global Operations (lubricants, Aramco-owned, Lexington KY)",
+   "domain": "valvoline.com / valvolineglobal.com",
+   "hq": "Lexington, KY",
+   "ownership": "Valvoline Inc. public (NYSE: VVV); Valvoline Global Operations owned by Aramco (per search result, unverified)",
+   "category": "Auto lubricants and quick-lube service",
+   "competitors": [
+    "Pennzoil/Shell",
+    "Mobil 1",
+    "Jiffy Lube",
+    "Castrol",
+    "Take 5"
+   ],
+   "ohio_note": "Ohio State football players Carnell Tate and Luke Montgomery fronted Jan 2026 Instant Transfer Portal campaign; no Ohio-specific community sponsorship found.",
+   "quote": {
+    "text": "Valvoline Global is proud to honor the important contributions of mechanics worldwide",
+    "url": "https://www.prnewswire.com/in/news-releases/valvoline-global-operations-celebrates-contributions-of-mechanics-worldwide-in-annual-appreciation-initiative-302384691.html",
+    "date_of_source": "2025-02-25",
+    "speaker": "Jamal Muashsher, Valvoline Global",
+    "source_type": "wire release"
+   },
+   "activations": [
+    {
+     "type": "content",
+     "event_or_property": "Mechanics Month (6th annual): celebration of mechanics, tied to future-mechanic training; theme The Future Is In Your Hands",
+     "location": "Global",
+     "dates": "March 2025 (release 2025-02-25)",
+     "scale": "annual global campaign",
+     "partner_or_agency": "Valvoline Global Operations",
+     "source_url": "https://www.prnewswire.com/in/news-releases/valvoline-global-operations-celebrates-contributions-of-mechanics-worldwide-in-annual-appreciation-initiative-302384691.html",
+     "date_of_source": "2025-02-25",
+     "source_type": "wire release",
+     "proof_snippet": "the often-unsung heroes of the mobility industry and beyond",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "FIFA World Cup 2026 Official Supporter and global campaign 'The Original Motor Oil. For the Driven' celebrating fans and mechanics; broadcast, DOOH, radio, social, experiences",
+     "location": "Mexico, US, Canada and 6 more markets",
+     "dates": "2026-04-17 launch; through final Jul 19",
+     "scale": "global; sweepstakes to May 31",
+     "partner_or_agency": "We Are Laugh",
+     "source_url": "https://kyodonewsprwire.jp/release/202604177616",
+     "date_of_source": "2026-04-17",
+     "source_type": "wire mirror",
+     "proof_snippet": "the skilled hands that trust Valvoline to keep every fan moving",
+     "verification": "A"
+    },
+    {
+     "type": "agency",
+     "event_or_property": "Instant Transfer Portal campaign with Ohio State football players as spokespeople, national platforms",
+     "location": "national",
+     "dates": "January 2026",
+     "scale": "month-long promotion",
+     "partner_or_agency": "Betty (Quad agency)",
+     "source_url": "https://markets.chroniclejournal.com/chroniclejournal/article/bizwire-2026-1-6-valvoline-inc-launches-instant-transfer-portal-campaign-for-new-and-existing-customers-in-partnership-with-betty-agency",
+     "date_of_source": "2026-01-06",
+     "source_type": "wire mirror",
+     "proof_snippet": "in partnership with Betty",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Hendrick Motorsports extension through 2029: primary on No. 24 (6 races/yr) and No. 5 (3 races), 2026 schemes unveiled",
+     "location": "NASCAR Cup",
+     "dates": "2026-01-05 (schemes); extension announced Jun 2024",
+     "scale": "multi-year; spend undisclosed",
+     "partner_or_agency": "Hendrick Motorsports",
+     "source_url": "https://www.ovalinsider.com/nascar-news/nascar-2026-kyle-larson-william-byron-paint-schemes-unveiled-valvoline-1072566/",
+     "date_of_source": "2026-01-05",
+     "source_type": "trade press",
+     "proof_snippet": "Valvoline has a long history of sponsorship when it comes to NASCAR",
+     "verification": "B"
+    },
+    {
+     "type": "media_spend",
+     "event_or_property": "Valvoline Inc. advertising expense $63.8M for nine months ended 2026-06-30 vs $53.7M (search summary of Q3 FY2026 deck; not fetched)",
+     "location": "corporate",
+     "dates": "9M FY2026",
+     "scale": "$63.8M",
+     "partner_or_agency": "",
+     "source_url": "https://s204.q4cdn.com/563452206/files/doc_financials/2026/q3/VVV_3Q_FY2026_Earnings-Presentation-FINAL-8-4.pdf",
+     "date_of_source": "2026-08-04",
+     "source_type": "investor deck (search summary)",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "media_spend": {
+    "estimate": "$63.8M advertising, 9 months to 2026-06-30 (ESTIMATE, Valvoline Inc. only)",
+    "source": "Valvoline Inc. Q3 FY2026 earnings presentation",
+    "url": "https://s204.q4cdn.com/563452206/files/doc_financials/2026/q3/VVV_3Q_FY2026_Earnings-Presentation-FINAL-8-4.pdf",
+    "date": "2026-08-04",
+    "label": "ESTIMATE"
+   },
+   "agency_of_record": {
+    "name": "Betty (Quad) for Valvoline Inc. campaign; We Are Laugh for Global World Cup spot",
+    "source_url": "https://markets.chroniclejournal.com/chroniclejournal/article/bizwire-2026-1-6-valvoline-inc-launches-instant-transfer-portal-campaign-for-new-and-existing-customers-in-partnership-with-betty-agency",
+    "proof_snippet": "in partnership with Betty",
+    "date_of_source": "2026-01-06"
+   },
+   "sponsored_properties": [
+    "Hendrick Motorsports (NASCAR)",
+    "FIFA World Cup 2026 Official Supporter",
+    "Mechanics Month"
+   ],
+   "roles": [
+    {
+     "title": "Vice President of Marketing, Valvoline Inc.",
+     "team": "Marketing",
+     "name": "Jake Lestan",
+     "source_url": "https://markets.chroniclejournal.com/chroniclejournal/article/bizwire-2026-1-6-valvoline-inc-launches-instant-transfer-portal-campaign-for-new-and-existing-customers-in-partnership-with-betty-agency",
+     "proof_snippet": "Jake Lestan",
+     "verified_by_script": true
+    },
+    {
+     "title": "Chief Brand Officer, Valvoline Global",
+     "team": "Brand",
+     "name": "Michael Kirtman",
+     "source_url": "https://kyodonewsprwire.jp/release/202604177616",
+     "proof_snippet": "Michael Kirtman, Chief Brand Officer, Valvoline Global",
+     "verified_by_script": true
+    },
+    {
+     "title": "President and CEO, Valvoline Global Operations",
+     "team": "Executive",
+     "name": "Jamal Muashsher",
+     "source_url": "https://www.prnewswire.com/in/news-releases/valvoline-global-operations-celebrates-contributions-of-mechanics-worldwide-in-annual-appreciation-initiative-302384691.html",
+     "proof_snippet": "Jamal Muashsher",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Best trades fit of the batch: Mechanics Month already honors skilled tradespeople and mechanic shortage; sells to technicians, fleets, construction sites. Decide which entity: Valvoline Inc. (retail service centers, local markets) is the likelier local-screening buyer; Global runs Mechanics Month.",
+   "risks": [
+    {
+     "risk": "Net leverage 3.3x vs 2.5x target; Breeze store margin pressure; FTC-required store divestiture (search summary)",
+     "date": "2026-08",
+     "source_url": null,
+     "source_type": "search summary",
+     "proof_snippet": "",
+     "verification": "D"
+    },
+    {
+     "risk": "Entity ambiguity: Global (Aramco) vs Inc. marketing budgets are separate",
+     "date": "2026",
+     "source_url": null,
+     "source_type": "inferred",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Global: World Cup supporter plus mechanic-centered storytelling. Inc.: culturally timed promotions with college athletes and agency Betty.",
+   "ladder_log": [
+    {
+     "url": "https://www.businesswire.com/news/home/20260106352275/en/Valvoline-Inc.-Launches-Instant-Transfer-Portal-Campaign-for-New-and-Existing-Customers-in-Partnership-with-Betty-Agency",
+     "rung": "direct",
+     "result": "000"
+    },
+    {
+     "url": "https://www.aap.com.au/aapreleases/cision20260416ae33473/",
+     "rung": "wire mirror",
+     "result": "403"
+    },
+    {
+     "url": "https://www.tirereview.com/?p=223866",
+     "rung": "trade press",
+     "result": "403"
+    },
+    {
+     "url": "https://frontstretch.com/2024/06/26/valvoline-extends-with-hendrick-through-2029",
+     "rung": "trade press",
+     "result": "403"
+    },
+    {
+     "url": "https://kyodonewsprwire.jp/release/202604177616",
+     "rung": "wire mirror",
+     "result": "ok"
+    },
+    {
+     "url": "https://www.prnewswire.com/in/news-releases/valvoline-global-operations-celebrates-contributions-of-mechanics-worldwide-in-annual-appreciation-initiative-302384691.html",
+     "rung": "wire",
+     "result": "ok"
+    },
+    {
+     "url": "https://markets.chroniclejournal.com/chroniclejournal/article/bizwire-2026-1-6-valvoline-inc-launches-instant-transfer-portal-campaign-for-new-and-existing-customers-in-partnership-with-betty-agency",
+     "rung": "wire mirror",
+     "result": "ok"
+    }
+   ],
+   "notes_unverified": "Aramco ownership, advertising figures, leverage/FTC risk from search summaries. Hendrick extension date is June 2024 (outside window) though 2026 schemes are in window. No lawsuit/layoff found."
+  }
+ ]
+}

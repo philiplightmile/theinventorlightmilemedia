@@ -458,5 +458,165 @@
   },
   "status": "verified_lead",
   "rung": "direct"
+ },
+ {
+  "brand": "Cinch",
+  "method": "M1",
+  "file": "brand_kb/batches/D4.json",
+  "candidate": {
+   "brand": "Cinch",
+   "parent": "Cinch Jeans (Wrangler/VF Corp lineage: Cinch Jeans Inc.)",
+   "domain": "cinchjeans.com",
+   "category": "western workwear jeans and shirts",
+   "why_candidate": "Exclusive national PRCA sponsor; Cinch Series circuit program",
+   "discovery_method": "M1",
+   "source_url": "https://prorodeo.org/Documents/Portal/RodeoCommittees/RodeoApprovals/2026-PRCA-Committee-Sponsorship-application-updated-5-2.pdf",
+   "date_of_source": "2026-05-02",
+   "proof_snippet": "Cinch (Cinch Series \u2013 Circuit program)",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Rodeo, ranch and farm-country workwear buyers."
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Resistol Hats",
+  "method": "M1",
+  "file": "brand_kb/batches/D4.json",
+  "candidate": {
+   "brand": "Resistol Hats",
+   "parent": "Resistol / Hat Brands",
+   "domain": "resistol.com",
+   "category": "western hats",
+   "why_candidate": "Named national PRCA sponsor in 2026 sponsorship application",
+   "discovery_method": "M1",
+   "source_url": "https://prorodeo.org/Documents/Portal/RodeoCommittees/RodeoApprovals/2026-PRCA-Committee-Sponsorship-application-updated-5-2.pdf",
+   "date_of_source": "2026-05-02",
+   "proof_snippet": "Resistol Hats (western hats)",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Ranchers, farmers and rodeo families."
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Montana Silversmiths",
+  "method": "M1",
+  "file": "brand_kb/batches/D4.json",
+  "candidate": {
+   "brand": "Montana Silversmiths",
+   "parent": "Montana Silversmiths",
+   "domain": "montanasilversmiths.com",
+   "category": "western jewelry and belt buckles",
+   "why_candidate": "Named national PRCA sponsor in 2026 application",
+   "discovery_method": "M1",
+   "source_url": "https://prorodeo.org/Documents/Portal/RodeoCommittees/RodeoApprovals/2026-PRCA-Committee-Sponsorship-application-updated-5-2.pdf",
+   "date_of_source": "2026-05-02",
+   "proof_snippet": "Montana Silversmiths (silversmith)",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Rural and rodeo working-family audience."
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Ringers Western",
+  "method": "M1",
+  "file": "brand_kb/batches/D4.json",
+  "candidate": {
+   "brand": "Ringers Western",
+   "parent": "Ringers Western",
+   "domain": "ringerswestern.com",
+   "category": "western hats and workwear",
+   "why_candidate": "Official cowboy hat partner of PBR Australia, multi-year, March 2026",
+   "discovery_method": "M1",
+   "source_url": "https://www.pbraustralia.com.au/news/2026/03/pbr-australia-welcomes-ringers-western-as-official-cowboy-hat-partner/",
+   "date_of_source": "2026-03-01",
+   "proof_snippet": "ringers western as official cowboy hat partner",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Ranch, farm and outdoor workers; US-distributed workwear."
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "TYM Tractors",
+  "method": "M1",
+  "file": "brand_kb/batches/D4.json",
+  "candidate": {
+   "brand": "TYM Tractors",
+   "parent": "TYM North America",
+   "domain": "tymusa.com",
+   "category": "compact and utility tractors",
+   "why_candidate": "Primary partner on Ben Rhodes No. 99 Craftsman Truck Series for multiple races in 2026",
+   "discovery_method": "M1",
+   "source_url": "https://thorsport.com/news-tym2026rhodes",
+   "date_of_source": "2026-02-11",
+   "proof_snippet": "TYM will appear as the primary partner on Ben Rhodes' truck",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Farmers, ranchers and landowners buy compact tractors."
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Skeeter Boats",
+  "method": "M2",
+  "file": "brand_kb/batches/D5.json",
+  "candidate": {
+   "brand": "Skeeter Boats",
+   "parent": "White River Marine Group / Yamaha-affiliated",
+   "domain": "skeeterboats.com",
+   "category": "Fishing boats",
+   "why_candidate": "Named alongside Yamaha as Official Premier Boat Sponsor of all B.A.S.S. events (peer of Yamaha seed)",
+   "discovery_method": "M2",
+   "source_url": "https://www.bassmaster.com/latest-industry-news/news/yamaha-skeeter-boats-and-b-a-s-s-sign-multi-year-sponsorship-agreement",
+   "date_of_source": "2026-01-28",
+   "proof_snippet": "skeeter continues as an official premier boat sponsor of all b.a.s.s.-owned events",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Sells to rural/blue-collar anglers; B.A.S.S. events draw working-class outdoors audience."
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "AMSOIL",
+  "method": "M2",
+  "file": "brand_kb/batches/D5.json",
+  "candidate": {
+   "brand": "AMSOIL",
+   "parent": "AMSOIL Inc.",
+   "domain": "amsoil.com",
+   "category": "Synthetic lubricants",
+   "why_candidate": "Title partner of AMSOIL Championship Off-Road, which announced official partnership with Polaris (seed)",
+   "discovery_method": "M2",
+   "source_url": "https://champoffroad.com/polaris-and-amsoil-championship-off-road-partner-for-the-2025-season/",
+   "date_of_source": "2025-05-13",
+   "proof_snippet": "Polaris and AMSOIL Championship Off-Road today announce their official partnership for the 2025 season",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Sells oil to truckers, farmers, powersports and diesel owners."
+  },
+  "status": "verified_lead",
+  "rung": "direct"
+ },
+ {
+  "brand": "Dead On Tools",
+  "method": "M2",
+  "file": "brand_kb/batches/D5.json",
+  "candidate": {
+   "brand": "Dead On Tools",
+   "parent": "Dead On Tools",
+   "domain": "deadontools.com",
+   "category": "Hand tools",
+   "why_candidate": "12-race NASCAR primary sponsor for 2026; peer of tool-brand seeds (Stihl, Bobcat adjacent)",
+   "discovery_method": "M2",
+   "source_url": "https://www.si.com/onsi/racing-america/news/dead-on-tools-to-continue-support-of-burton-at-sam-hunt-racing",
+   "date_of_source": "2025-12-15",
+   "proof_snippet": "Dead On Tools is continuing its relationship with Harrison Burton, moving with the North Carolina-native to Sam Hunt Racing",
+   "consumer_facing": "yes",
+   "worker_audience_fit": "Pro-grade demolition and hand tools sold to tradespeople and DIYers."
+  },
+  "status": "verified_lead",
+  "rung": "direct"
  }
 ]
