@@ -1,12 +1,63 @@
 {
-  "version": "3.0",
-  "date": "2026-10-23",
-  "fit_score": {"commercial_activation": 30, "values_match_workers_safety": 20, "audience_event_fit": 15, "timing": 10, "buyer_role": 10, "low_risk": 10, "ohio": 5},
-  "evidence_multiplier": {"A": 1.0, "B": 1.0, "C": 0.5, "D": 0.2},
-  "evidence_confidence": "sum over fit components of (points earned x multiplier of the weakest evidence supporting that component) / sum of points earned",
-  "final_score": "fit_score x evidence_confidence",
-  "verify_first_rule": "fit_score >= 70 and evidence_confidence < 0.5",
-  "quote_rules": {"undated_page_discount": 0.75, "must_be_brands_own_words": true, "script_verified_only": true},
-  "activation_rules": {"counts": ["tours","pop-ups","branded trucks","sponsorship rights","branded content","ambassador with paid media","retail events","agency","experiential job postings"], "never_counts": ["grants","scholarships","foundation giving","donations","prizes"], "min_opened_pages_per_brand": 3, "min_dated_activation_urls": 1},
-  "known_issues_v2": "round 2 scores were rule-based on agent labels; round 3 replaces agent labels with script-verified proof snippets"
+ "version": "3.1",
+ "date": "2026-10-23",
+ "fit_score": {
+  "commercial_activation": 30,
+  "values_match_workers_safety": 20,
+  "audience_event_fit": 15,
+  "timing": 10,
+  "buyer_role": 10,
+  "low_risk": 10,
+  "ohio": 5
+ },
+ "evidence_multiplier": {
+  "A": 1.0,
+  "B": 1.0,
+  "C": 0.5,
+  "D": 0.2
+ },
+ "evidence_confidence": "sum over fit components of (points earned x multiplier of the weakest evidence supporting that component) / sum of points earned",
+ "final_score": "fit_score x evidence_confidence",
+ "verify_first_rule": "fit_score >= 70 and evidence_confidence < 0.5",
+ "quote_rules": {
+  "undated_page_discount": 0.75,
+  "must_be_brands_own_words": true,
+  "script_verified_only": true
+ },
+ "activation_rules": {
+  "counts": [
+   "tours",
+   "pop-ups",
+   "branded trucks",
+   "sponsorship rights",
+   "branded content",
+   "ambassador with paid media",
+   "retail events",
+   "agency",
+   "experiential job postings"
+  ],
+  "never_counts": [
+   "grants",
+   "scholarships",
+   "foundation giving",
+   "donations",
+   "prizes"
+  ],
+  "min_opened_pages_per_brand": 3,
+  "min_dated_activation_urls": 1
+ },
+ "known_issues_v2": "round 2 scores were rule-based on agent labels; round 3 replaces agent labels with script-verified proof snippets",
+ "rule_changes_3_1": [
+  "donation filter no longer matches the word 'foundation' (event names contain it); type and verbs only",
+  "activation window counts any deal active after 2024-10-23 (renewed or running through 2025-2029)",
+  "values points use the best script-verified quote across all rounds",
+  "'Craftsman' brand/series names stripped before keyword match",
+  "manual overrides allowed only with a changelog row"
+ ],
+ "recommended_for_4_0_not_applied": {
+  "risk": "raise to 15 and make reputational (scandal) flags a hard cap",
+  "audience_event_fit": "require evidence of a venue/partner relationship, not agent judgment",
+  "commercial_activation": "add scale tiers when public spend exists",
+  "new": "category_conflict penalty when a direct competitor holds exclusivity"
+ }
 }

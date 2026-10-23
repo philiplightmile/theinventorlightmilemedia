@@ -24,7 +24,7 @@ for b in brands:
     FAMS=[r"worker|employee|crew|lineworker|technician|driver|farmer|tradespe|trades|apprentic|jobsite|hands",r"safe|protect|rescue|first responder|firefight|emergency",r"craft|durab|quality|reliab|tough|hard.?work|grit|build",r"heritage|generation|legacy|tradition|century|american"]
     v_g="D";val=4;bestq=None
     for q in c.execute("select * from evidence where brand=? and field='values_quote' and quote_verified='yes'",(b,)):
-        fam=sum(bool(re.search(p,q["quote_text"].lower())) for p in FAMS);score=({0:5,1:10,2:15,3:20,4:20}[fam])
+        qt=re.sub(r"craftsman truck series|craftsman\b(?! ?ship)","",q["quote_text"].lower());fam=sum(bool(re.search(p,qt)) for p in FAMS);score=({0:5,1:10,2:15,3:20,4:20}[fam])
         und="NOT found" in (q["notes"] or "") or not re.search(r"202[4-9]",q["date_of_source"] or "")
         if und: score=round(score*W["quote_rules"]["undated_page_discount"])
         if bestq is None or score>bestq[0]: bestq=(score,q)

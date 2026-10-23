@@ -1,0 +1,180 @@
+id,brand,risk,date,source_url,verification,source_tag
+1,Wrangler,"None sourced; Kontoor acquired Helly Hansen 2025 (integration), Lee sale reported by textilwirtschaft snippet UNVERIFIED",,,D,r2 deep
+2,Duluth Trading,"Workforce reduction of ~3% (finviz headline, unopened, date unverified); sales pressure UNVERIFIED",,,D,r2 deep
+3,Rocky Boots,None sourced.,,,D,r2 deep
+4,Filson,None sourced.,,,D,r2 deep
+5,Snap-on,Organic sales decline Q3 2026 (UNVERIFIED).,,,D,r2 deep
+6,Carhartt,"Private company; no layoffs/recalls/litigation found in this pass (UNVERIFIED, absence of evidence)",,,D,r2 deep
+7,Wolverine,"Ongoing PFAS litigation: new federal suit filed 2025-12-04 by landfill owner (per 10-K/10-Q search summary; sec.gov); Feb 2026 dispute with Michigan over settlement scope (Law360 2026-02-23, paywalled); 2020 consent decree cap $69.5M. UNVERIFIED primary text, from search summary",,,D,r2 deep
+8,Wolverine,"Stock fell ~6.6% on Landman announcement day (Stock Titan, third-party)",,,D,r2 deep
+9,Wolverine,No layoffs/WARN found,,,D,r2 deep
+10,Red Wing Shoes,Vasque brand shut Oct 2024 (UNVERIFIED secondary),,,D,r2 deep
+11,Red Wing Shoes,"Historic 2012-13 steel-toe recall (UNVERIFIED, old)",,,D,r2 deep
+12,Red Wing Shoes,No layoffs found,,,D,r2 deep
+13,Timberland PRO,"VF Corp restructuring: ~400 job cuts reported (Fashion Dive/Retail Dive, 2025 inferred, date unconfirmed); Nov 2024 Martinsville VA DC layoffs of 242 (VF Outdoor); Dickies sold Nov 2025",,,D,r2 deep
+14,Ariat,"None found in this pass (UNVERIFIED, absence of evidence)",,,D,r2 deep
+15,Wrangler,"Kontoor running competitive process to divest Lee (search summary 2026, UNVERIFIED)",,,D,r2 deep
+16,Wrangler,No recalls/litigation found,,,D,r2 deep
+17,Duluth Trading,None found in checked sources (not exhaustively searched),,,D,r2 deep
+18,Rocky Boots,None found,,,D,r2 deep
+19,Filson,Not researched beyond searches; none surfaced,,,D,r2 deep
+20,Snap-on,Q3 2026 organic sales decline -2.8% (UNVERIFIED),,,D,r2 deep
+21,Klein Tools,"No recall, litigation, breach or layoff found in searches (2025-26). UNVERIFIED absence; searches did not return Klein-specific items.",,,D,r2 deep
+22,Makita,No Makita-specific recall/litigation/layoff found in 2025-26 search. UNVERIFIED absence.,,,D,r2 deep
+23,Bosch Power Tools,No Bosch Power Tools recall/litigation found in 2025-26 searches. UNVERIFIED absence.,,,D,r2 deep
+24,Hilti,No Hilti-specific recall/litigation/layoff found in 2025-26 searches. UNVERIFIED absence.,,,D,r2 deep
+25,Stihl,"Recall Mar 12, 2026: gas edgers/trimmers/pole pruners/kombimotors fuel tank vent fire hazard (ammonslaw.com page read). Earlier CPSC recall of ~2.3M units toolless fuel caps (fireengineering.com, date unconfirmed). Virginia Beach furlough ~30% (wtkr, date unconfirmed). Leadership churn: Keffer out, McGinnis named Oct 2026.",,,D,r2 deep
+26,YETI,"Tariff margin pressure (Q1 2025 call coverage, INFERRED); yeti.com blocked to fetch",,,D,r2 deep
+27,Bass Pro Shops,none found; not deeply checked,,,D,r2 deep
+28,Columbia Sportswear,Leadership change: co-presidents named 2025-11-12 (Business Wire via search),,,D,r2 deep
+29,Mossy Oak,none found,,,D,r2 deep
+30,ADT,Not researched; none found,,,D,r2 deep
+31,Menards,"Michigan WARN: 68 layoffs at Three Rivers MI site, effective 2026-05-13 (layofftracker.us aggregator, INFERRED)",,,D,r2 deep
+32,Menards,"EEOC suit over reporting failures, 2025 (WPR headline only, UNVERIFIED date/details)",,,D,r2 deep
+33,Menards,"NOTE: WPR NLRB class-waiver settlement article is dated 2016-04-28, not recent (checked)",,,D,r2 deep
+34,Ace Hardware,No 2025-26 recall/litigation/breach found in searches (UNVERIFIED absence),,,D,r2 deep
+35,True Value,"Post-merger consolidation: 5 distribution centers closed (search summary of Do it Best FY2025 results, INFERRED)",,,D,r2 deep
+36,True Value,Revenue figure discrepancy $4.7B vs $4.88B across sources,,,D,r2 deep
+37,Tractor Supply,"CCPA settlement $1.35M (Lexology via search, ~Sept 2025, INFERRED)",,,D,r2 deep
+38,Tractor Supply,"$5.1M California false advertising/pesticide penalties (search summary, undated)",,,D,r2 deep
+39,Tractor Supply,Q2 2026 miss and outlook cut (search summary 2026-07-23),,,D,r2 deep
+40,Northern Tool,None found in searches (UNVERIFIED absence),,,D,r2 deep
+41,Rural King,No recall/litigation/layoff found in searches this pass (UNVERIFIED absence).,,,D,r2 deep
+42,Ram Trucks,"Aug 2026 Stellantis rearview-camera software recall, 848,511 US vehicles incl. 2026 Ram 1500/2500, no injuries (VERIFIED 848,511 on fox2detroit.com)",,,D,r2 deep
+43,Jeep,"Aug 2026 radio-software rearview camera recall covering 2026 Jeep lineup, 848,511 US vehicles (VERIFIED fox2detroit.com)",,,D,r2 deep
+44,Jeep,"Nov 2025 4xe fire-risk recall ~320k (UNVERIFIED, pass 1)",,,D,r2 deep
+45,Nissan,May 2025 record loss and 15% global workforce cut (VERIFIED wlbt.com),,,D,r2 deep
+46,Nissan,2025 Smyrna/Canton buyouts and shift cut (VERIFIED manufacturingdive.com),,,D,r2 deep
+47,Goodyear,"Layoffs and plant closures 2026 (Findlay OH, Fayetteville NC; VERIFIED)",,,D,r2 deep
+48,Goodyear,No 2026 recall found,,,D,r2 deep
+49,Michelin,"NHTSA recall 25T008000: 6,888 Agilis CrossClimate C-metric tires, tread chunking, reported 2025-05-19 (VERIFIED https://www.motorverso.com/recalls/michelin-north-america-inc/25T008000/)",,,D,r2 deep
+50,Michelin,"NHTSA investigation of 2014 Michelin XZA 295/60R22.5 truck tires, Tire Review/AftermarketNews item; year per search summary 2025, page date unclear (UNVERIFIED https://www.aftermarketnews.com/nhtsa-investigates-michelin-truck-tire-failures/)",,,D,r2 deep
+51,Valvoline,No recall/litigation/layoff found in this pass (not exhaustively searched),,,D,r2 deep
+52,Pilot Flying J,"2013 rebate-fraud scandal; $84.9M class settlement, opt-out suits continued (VERIFIED search results, older, ccjdigital/ttnews). No 2025-26 incidents found.",,,D,r2 deep
+53,Love's Travel Stops,"Feb 2026 proposed class action over $20/week tobacco surcharge on health plan, W.D. Okla., allegation only (single paywalled source, bgov)",,,D,r2 deep
+54,Love's Travel Stops,$2.95M overtime settlement 2021 (older),,,D,r2 deep
+55,Kenworth,Chillicothe OH layoffs Aug 2024 reportedly 300-400 workers (UNVERIFIED snippet),,,D,r2 deep
+56,Kenworth,"March 2024 recall ~697 trucks air tank (older, snippet)",,,D,r2 deep
+57,Kenworth,PACCAR 2025 softer results due to tariffs/market (snippet),,,D,r2 deep
+58,Nationwide,"2012 data breach, $5.5M multistate AG settlement (old, bankinfosecurity)",,,D,r2 deep
+59,Nationwide,Federal suit Neuendorf v. Nationwide Insurance Co. of America filed 2026-10-15 W.D. Mo.; claims unknown (search/Justia),,,D,r2 deep
+60,Nationwide,No 2025-26 layoffs or recalls found (UNVERIFIED negative),,,D,r2 deep
+61,Liberty Mutual,"Everest ransomware claim of 100GB+ policyholder data, listed 2026-04-30; company reportedly investigating vendor incident (cybernews / galaxywarden, unconfirmed by company)",,,D,r2 deep
+62,Liberty Mutual,Class action Francis v. Liberty Mutual filed 2026-05-06 D. Mass. (search summary),,,D,r2 deep
+63,Liberty Mutual,Wiretap suit dismissed 2026-10-20 (Law360 summary),,,D,r2 deep
+64,Liberty Mutual,No layoffs found,,,D,r2 deep
+65,USAA,"Washington OIC fine about $140,000 for claims handling, reported Oct 2026 (insurancejournal 2026-10-20 / sacurrent, search summary)",,,D,r2 deep
+66,USAA,Layoffs of hundreds Jan 2026 (UNVERIFIED repost),,,D,r2 deep
+67,USAA,"$64.2M servicemember overcharge settlement (secondary site, UNVERIFIED)",,,D,r2 deep
+68,Travelers,"Routine litigation; Travelers Indemnity v. Selective filed 2026-10-20 (Justia, minor)",,,D,r2 deep
+69,Travelers,"Class settlements NJ PIP and New Mexico, 2026 hearings (claim handling)",,,D,r2 deep
+70,Travelers,Anecdotal Glassdoor layoff reviews Aug 2026 (UNVERIFIED),,,D,r2 deep
+71,Polaris,"CPSC recall 2025-10-30: about 5,130 2025-26 Ranger XP 1000 NorthStar / Crew units, fire hazard (search summary; cpsc.gov 403)",,,D,r2 deep
+72,Polaris,"Class action over recalled RZR fire risk, motion to dismiss denied (older)",,,D,r2 deep
+73,Polaris,"Osceola WI plant closure, 200 jobs (rurallifestyledealer)",,,D,r2 deep
+74,Polaris,Ongoing UTV injury lawsuit marketing (law-firm sites),,,D,r2 deep
+75,BRP Can-Am,No verified recalls/litigation researched beyond search; BRP recall history not checked (UNVERIFIED),,,D,r2 deep
+76,Yamaha,Not researched beyond search: no recalls/litigation verified (UNVERIFIED),,,D,r2 deep
+77,Kawasaki,"June 11 2026 recall of certain 2026 Teryx4 H2 / Teryx5 H2 (drive converter sheave) per Kawasaki corporate news listing - INFERRED from search snippet, page not opened",,,D,r2 deep
+78,Kubota,"CPSC recall 2025-05-01: ~49,640 RTV series for ball joint/crash hazard (search snippet; cpsc.gov blocked, UNVERIFIED page)",,,D,r2 deep
+79,Kubota,"CPSC recall 2025-02-20: MX5400DTC clutch cable, ~2,600 units (snippet, UNVERIFIED page)",,,D,r2 deep
+80,John Deere,"FTC right-to-repair suit filed 2025-01-15; settlement with FTC and 5 states announced ~2026-07-08/13 (iowafarmbureau.com 2026-07-13 opened, snippet only)",,,D,r2 deep
+81,John Deere,"Layoffs early 2025 incl. 112 at Waterloo IA per WARN notices (search snippet, UNVERIFIED)",,,D,r2 deep
+82,John Deere,Consumer class action settlement ~$99M reported April 2026 (UNVERIFIED),,,D,r2 deep
+83,Bobcat,"Caterpillar patent complaint and ITC Section 337 investigation of Doosan Bobcat imports (search summary, 2026, INFERRED)",,,D,r2 deep
+84,Bobcat,"Tariff exposure from Mexico production (Korean press, Aug 2025, INFERRED)",,,D,r2 deep
+85,Bobcat,"2023 union layoff claim at ND plants, denied by Bobcat (INFERRED)",,,D,r2 deep
+86,Case IH,"CNH layoffs: 175 at Benson MN, Feb 2025 (Star Tribune snippet)",,,D,r2 deep
+87,Case IH,"Racine WI layoffs and possible Mexico move criticized by Sen. Baldwin, date unclear (INFERRED)",,,D,r2 deep
+88,Leatherman,None found (single search),,,D,r2 deep
+89,Pelican,"Prop 65 settlements: BPA 2021 ($24,500), DEHP Aug 2024 ($5,000) (oag.ca.gov via search)",,,D,r2 deep
+90,Oakley,Not researched deeply,,,D,r2 deep
+91,5.11 Tactical,"Tactec plate carrier recall, CPSC 2022 (from pass1, cited https://www.cpsc.gov/Recalls/2022/5-11-Recalls-Tactec-Pla...)",,,D,r2 deep
+92,5.11 Tactical,No 2026 layoffs/recall found in web search 2026-10-22 (INFERRED),,,D,r2 deep
+93,Roto-Rooter,"Class action over unnecessary repairs, Hennepin County MN (CBS Minnesota, undated, from pass1)",,,D,r2 deep
+94,FirstEnergy,"HB6 bribery scandal, $230M fine (2021, pass1)",,,D,r2 deep
+95,FirstEnergy,Browns naming deal ended 2023,,,D,r2 deep
+96,FirstEnergy,"Layoffs ~350, 2025-03-27 (https://www.cleveland19.com/2025/03/27/firstenergy-announces-layoffs-5-states/)",,,D,r2 deep
+97,FirstEnergy,"2026 Warren OH lineman shock incident under investigation (WKBN via search, INFERRED)",,,D,r2 deep
+98,AEP Ohio,Not researched in depth,,,D,r2 deep
+99,OtterBox,"Warranty class-action investigation (kgglaw, Sept 2024, pass1)",,,D,r2 deep
+100,Motorola,Bullitt (Defy licensee) insolvency 2024 (UNVERIFIED),,,D,r2 deep
+101,Rocket Companies,Not researched beyond sponsorship; UNVERIFIED,,,D,r2 deep
+102,Giant Eagle,Not researched in depth; UNVERIFIED,,,D,r2 deep
+103,Scotts Miracle-Gro,Hawthorne hydroponics retrenchment and past layoffs (not re-sourced this pass; UNVERIFIED),,,D,r2 deep
+104,Scotts Miracle-Gro,Historical pesticide/bird-seed EPA settlement 2012 (older),,,D,r2 deep
+105,Speedway,Refinery incident/environmental litigation history (unsourced),,,D,r2 deep
+106,Speedway,Speedway sold to 7-Eleven 2021 (INFERRED),,,D,r2 deep
+107,LEGO,lego.com blocked (403) so no first-party risk check; no specific LEGO recall/litigation sourced this pass (UNVERIFIED),,,D,r2 deep
+108,New Balance,No specific recall/litigation/boycott sourced this pass (UNVERIFIED); tariff/footwear cost pressure generic INFERRED,,,D,r2 deep
+109,Target,"Oct 2025 ~1,800 corporate layoffs, flat/declining comps, DEI-rollback boycotts (kplctv 2025-10-24, VERIFIED page; boycott claim from search summaries)",,,D,r2 deep
+110,Carhartt,Marketing heavily committed to NFL/Made Possible platform through the 2026 season; sponsorship budget may be tied up,2026-08-14,https://www.chiefmarketer.com/carhartt-takes-new-angle-on-nfl-marketing/,A,E01
+111,Duluth Trading,Advertising spend cut year over year (nine-month 2025 down about 18%),2025-12,https://www.sec.gov/Archives/edgar/data/1649744/000119312525322052/dlth-20251102.htm,D,E01
+112,Northern Tool,Marketing budget appears anchored to Monster Jam through about 2027; may resist a second entertainment property,2024-09-18,https://www.feldentertainment.com/northern-tool-equipment-announces-partnership-with-monster-jam,A,E01
+113,Timberland PRO,Heavy NASCAR commitment may absorb 2026-27 sponsorship budget; VF Corp restructuring context not checked,2026-08-03,https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856,A,E01
+114,Rocky Boots,Public-service division marketing is small (single marketing manager named); sponsorships are modest regional events,2025-10-12,https://soldiersystems.net/2025/10/12/rocky-boots-reinforces-its-commitment-to-veterans/,A,E01
+115,FirstEnergy,HB 6 bribery scandal: $20 million settlement with Ohio to avoid prosecution (federal DPA 2021 $230M),2024-08-14,https://www.fox19.com/2024/08/14/first-energy-agrees-20m-settlement-with-ohio-ag-avoid-charges-hb-6-bribery-scandal,A,E02
+116,Snap-on,Technician customers cautious on big-ticket purchases; pivot to quick-payback products,2026-07-23,https://www.snapon.com/Snap-on-Files/Investors/2026-Q2/Q2-2026-Transcript.pdf,D,E03
+117,5.11 Tactical,"Tactec plate carrier recall (CPSC, originally 2021/22; law-firm blog Sept 2025)",2025-09,https://www.ammonslaw.com/blog/2025/september/allegedly-defective-tactec-plate-carriers-recalled-over-injury-risk-lawyers-lawsuits/,D,E03
+118,John Deere,FTC and five states right-to-repair antitrust settlement; 10-year obligation to give independent shops same diagnostic tools,2026-07-08,https://www.ktiv.com/2026/07/08/deere-reaches-settlement-with-ftc-right-to-repair-antitrust-lawsuit/,A,E05
+119,John Deere,~$99M consumer class-action repair settlement reported April 2026 (search summary only),2026-04,https://lasvegassun.com/news/2026/jul/08/john-deere-owners-will-get-the-right-to-repair-the/,D,E05
+120,Wrangler,"Kontoor selling Lee to Authentic Brands (up to $1B), portfolio refocus on Wrangler and Helly Hansen",2026-05-21,https://finance.yahoo.com/markets/stocks/articles/kontoor-brands-enters-definitive-agreement-105000208.html,A,E05
+121,Wrangler,Wrangler x Coors Banquet collabs (alcohol tie-in) excluded from activations per rules; brand safety adjacency,2026-05-28,https://www.businesswire.com/news/home/20260528785337/en/Jeans-Beer-Music-Coors-Banquet-and-Wrangler-Announce-Encore-With-Second-Apparel-Collection-for-Festival-Season,D,E05
+122,Red Wing Shoes,Prior-round Vasque shutdown and old steel-toe recall remain unverified; none re-sourced,,,D,E05
+123,Yamaha,Yamaha ending in-house SxS production in Newnan GA; workforce adjustments ~300 positions globally incl. ~200 full-time,2026-08-05,https://www.cyclenews.com/2026/08/article/yamaha-discontinuing-sxs-production-in-georgia/,A,E05
+124,Yamaha,"NHTSA recall 26V367, 4,173 XTZ690 motorcycles, turn signals",2026-06-05,https://vehiclesafetyrecalls.com/recall/26V367000,A,E05
+125,ADT,"DOJ SCRA settlement: $1.26M to 3,400 servicemembers plus $79,380 penalty",2026-04-14,https://www.justice.gov/index%2Ephp/crt/case/adt-llc-dba-adt-security-services,A,E05
+126,BRP Can-Am,"Past recall: ~34,400 2020-2021 Defender HD10 recalled (CVT air intake obstruction, fire risk) per search summary; CPSC page blocked 403; no 2025-26 recall found in search",2021,https://cpsc.gov/Recalls/2021/BRP-Recalls-Side-by-Side-Vehicles-Due-to-Fire-Hazard-Recall-Alert,D,E06
+127,Roto-Rooter,Minnesota unnecessary-repair class action / homeowner suit (CBS Minnesota; coverage appears 2011-2012; no 2025-26 matter found),circa 2011-2012 (unconfirmed),https://www.cbsnews.com/minnesota/news/consumers-file-lawsuit-against-well-known-twin-cities-plumbing-company-roto-rooter/,A,E06
+128,Ace Hardware,Antitrust class action Twomey v. Ace Hardware Corp (N.D. Ill.) alleging use of store sales data to raise prices; complaint filed 2026-05-07 per search summary; allegation only,2026-05,https://news.bloomberglaw.com/litigation/ace-hardware-accused-of-using-store-sales-data-to-jack-up-prices,A,E06
+129,Ace Hardware,Data breach class action over 2023 cyberattack (filed April 2024); site-tracking suit March 2026 (search summary only),2024-04 / 2026-03,https://cyberinsider.com/ace-hardware-faces-lawsuit-for-delaying-data-breach-notifications/,D,E06
+130,Michelin,"NHTSA recall 25T008000: 6,888 Agilis CrossClimate C-metric tires, tread chunking",2025-05-19,https://www.motorverso.com/recalls/michelin-north-america-inc/25T008000/,A,E06
+131,Michelin,Michelin ended relationship with American Tire Distributors June 2025 (distribution disruption); phrase not verbatim-matched,2025-06,https://www.moderntiredealer.com/suppliers/article/55314688/mtd-exclusive-michelin-ceo-discusses-market-distribution,D,E06
+132,Love's Travel Stops,"Proposed class action over $20/week tobacco surcharge on health plan (W.D. Okla., Feb 2026, allegation only, paywalled; not re-checked, search budget exhausted)",2026-02,https://news.bloomberglaw.com/,D,E06
+133,YETI,"2023 cooler magnet recall (about 1.9M units), older; no 2025-26 recall found",2023,https://www.sec.gov/Archives/edgar/data/1670592/000167059224000041/yeti-20240928.htm,D,E08
+134,YETI,Tariff margin pressure in FY2025 results (search summary of Feb 19 2026 release),2026-02-19,https://finance.yahoo.com/news/yeti-reports-fourth-quarter-full-110100690.html,D,E08
+135,True Value,"Westlake OH distribution center closure, 82 layoffs after bankruptcy sale",2025-02-12,https://www.yahoo.com/news/true-value-distribution-center-westlake-003215282.html,A,E08
+136,True Value,Oct 2024 Chapter 11 and sale to Do it Best; brand in rebuild,2024-10,,D,E08
+137,Scotts Miracle-Gro,Hawthorne divested Apr 2026 with reported $101.8M loss on sale; $250M notes due Dec 2026 (third-party summary),2026-04,,D,E08
+138,Scotts Miracle-Gro,Shareholder class action tied to Aug 2023 guidance cut (status unverified),2024,,D,E08
+139,Scotts Miracle-Gro,CEO Jim Hagedorn departed June 2026; Nate Baxter CEO,2026-06-29,,D,E08
+140,New Balance,Reported lawsuit vs Decathlon over N logo (aggregator citing ambito.com; unverified),2026,,D,E08
+141,New Balance,"Tariff/footwear cost pressure generic, not sourced",2025-26,,D,E08
+142,Valvoline,Net leverage 3.3x vs 2.5x target; Breeze store margin pressure; FTC-required store divestiture (search summary),2026-08,,D,E08
+143,Valvoline,Entity ambiguity: Global (Aramco) vs Inc. marketing budgets are separate,2026,,D,E08
+144,Tractor Supply,"Q2 2026 comparable store sales down 1.5%, operating income down 19.2%; results below expectations due to May conditions",2026-07-23,https://finance.yahoo.com/news/tractor-supply-company-reports-second-105500190.html,A,E04
+145,Tractor Supply,"CCPA settlement $1.35M and $5.1M California false advertising penalties (prior round, search summaries only)",2025,,D,E04
+146,Ram Trucks,"2026 Ram 1500 recall: 16,385 trucks, tire pressure sensors (NHTSA 26V623); owner letters Oct 27, 2026",2026-10,https://pickuptrucktalk.com/2026/10/2026-ram-1500-recall-16k-trucks-may-have-faulty-tire-pressure-sensors/,D,E04
+147,Ram Trucks,"Rearview camera software recall, about 239,131 Ram 1500 (26V-560)",2026,https://www.fox2detroit.com/news/chrysler-recalls-nearly-240k-ram-1500-trucks-rearview-camera-problem,D,E04
+148,Travelers,"Routine litigation and class settlements (NJ PIP, New Mexico) in claims handling (prior round, search only)",2026,,D,E04
+149,Travelers,Anecdotal Glassdoor layoff reviews Aug 2026 (unverified),2026-08,,D,E04
+150,Polaris,"Osceola, WI plant closure: WARN notice for 189 employees, effective 2026-07-27",2026-07,https://layofftracker.us/layoff-tracker/polaris-osceola-wi-jul-2026-layoffs/uD1YhN,A,E04
+151,Polaris,"Restructuring costs $9.2M Q1 2026, $7.5M Q2 2026; $2.0M class action expense Q2 2026 (search summary of 8-K)",2026,https://www.sec.gov/Archives/edgar/data/0000931015/000162828026049902/pii-q22026earningsrelease.htm,D,E04
+152,Polaris,"CPSC recall 2025-10-30, about 5,130 Ranger XP 1000 units, fire hazard (prior round; unverified)",2025-10-30,,D,E04
+153,Wolverine,"PFAS contamination legacy: Wolverine World Wide operated dumpsites in Belmont and Rockford that contaminated drinking water; ongoing litigation (prior round, 2025-12 suit per 10-K search summary, unverified)",ongoing,https://en.wikipedia.org/wiki/Wolverine_World_Wide,A,E04
+154,Wolverine,Wolverine brand revenue down about 2.5% in Q1 2026 (search summary of Seeking Alpha),2026-05-14,https://seekingalpha.com/pr/20514852,D,E04
+155,Liberty Mutual,Everest ransomware claim against Liberty Mutual; Liberty Mutual had not publicly responded,2026-05-04,https://www.teiss.co.uk/news/liberty-mutual-listed-on-ransomware-leak-site-as-everest-group-claims-108-gb-data-theft-17444,A,E07
+156,Liberty Mutual,Proposed class action over the data incident filed D. Mass. 2026-05-06 (allegations only),2026-05,https://www.stuevesiegel.com/what-investigations-Liberty-Mutual-data-breach,D,E07
+157,Nissan,"Nissan seeking to cut nearly 2,000 US factory positions and reduce US production about 25%",2025-01-29,https://ratchetandwrench.com/site-placement/latest-news/news/55264184/nissan-looking-to-eliminate-2000-us-factory-worker-positions,A,E07
+158,Nissan,FY2025 net loss of 533.1B yen reported May 2026 (search summary only),2026-05,https://english.news18a.com/m/news/english_255810.html,D,E07
+159,Bobcat,"Caterpillar ITC Section 337 investigation of Doosan Bobcat imports instituted 2026-06-26, with cross patent fight",2026-06-30,https://www.enr.com/articles/63248-international-trade-commission-opens-investigation-into-doosan-bobcat,A,E07
+160,Giant Eagle,"Kroger agreed to acquire Giant Eagle for $1.65B, expected close in 2027; limited store divestitures expected",2026-07-01,https://www.supermarketnews.com/mergers-acquisitions/kroger-to-acquire-giant-eagle-for-1-65b,A,E07
+161,Giant Eagle,GetGo business sold to Alimentation Couche-Tard in 2025,2026-07-01,https://www.wpxi.com/news/local/kroger-buy-pittsburgh-based-giant-eagle-165-billion/YLNTLQJA6BHONGSM3SVZ25WO3M/,A,E07
+162,Stihl,CEO and president Chris Keffer departed effective immediately; interim co-leadership,2026-02-05,https://www.stihlusa.com/en/support-events/about-stihl/press/stihl-inc-announces-leadership-transition,A,E07
+163,Stihl,Temporary furloughs for roughly 30% of Virginia Beach workforce (date not printed),unconfirmed,https://www.wtkr.com/news/stihl-inc-temporary-furloughs-roughly-30-of-vb-workforce,A,E07
+164,Mack Trucks,"April 2025 layoffs of up to 450 at Lehigh Valley and Hagerstown, blamed on tariffs and weak demand",2025-04-17,https://www.freightwaves.com/?p=533860,A,N01
+165,Mahindra Tractors (US),Exit from Mitsubishi Mahindra Agriculture JV; product lineup being replaced through 2026-27,2026-03-09,https://www.rurallifestyledealer.com/articles/12136-mahindra-to-launch-new-product-lines-as-it-exits-mitsubishi-jv,A,N01
+166,Mahindra Tractors (US),No Mahindra sponsor on Briscoe's 2025 JGR car; NASCAR spend appears to have ended,2025-01-08,https://www.si.com/onsi/racing-america/news/chase-briscoe-currently-no-plans-for-mahindra-to-sponsor-jgr-no-19-in-2025-01jh3p9qhggj,A,N01
+167,Mopar,Marketing concentrated in motorsports; corporate Stellantis decisions,2026-01-15,https://blog.stellantisnorthamerica.com/2026/01/15/kaulig-racing-announces-mopar-as-full-season-sponsor-of-daniel-dye/,D,N02
+168,Mechanix Wear,Newest PBR evidence is 2021; current status unconfirmed,2021-03-17,https://pbr.com/news/2021/03/mechanix-wear-becomes-official-work-glove-of-pbr,D,N02
+169,Keystone Cooperative,"Roughly $3B revenue co-op with member-focused marketing; regional (IN, MI, IL, OH)",2024-03-01,https://www.keystonecoop.com/news/keystone-news/keystone-cooperative-is-centered-on-serving-midwes,A,N02
+170,Farm Bureau Financial Services,"Sponsorship decisions likely local agent/state level, no central activation found",2026,https://www.fbfs.com/about-us/newsroom/newsweek-2026,D,N02
+171,Indiana Farm Bureau Insurance,"Syndicated pages show conflicting annual counts (fourth vs sixth), so event details need care",2026,https://www.infarmbureau.com/news/articles/ready-set-mow-indiana-farm-bureau-insurance-day-at-the-indiana-state-fair-is-july-30,D,N02
+172,Cornwell Tools,Marketing budget concentrated in NHRA/JFR multi-year deals through ~2027; may limit new spend,2024-11-05,https://www.draglist.com/2024/11/05/cornwell-named-title-sponsor-of-2025-u-s-nationals/amp/,A,N03
+173,Matco Tools,FY2025 SG&A roughly flat ($639M vs $630M) per aggregator summary; no ad figure,2026,https://www.sec.gov/Archives/edgar/data/1786842/000162828026007648/vnt-20251231.htm,D,N03
+174,Mac Tools,Brand sits inside Stanley Black & Decker; no divestiture reported in searches but not confirmed from SWK filings,2026,,D,N03
+175,GuideOne Insurance,"Combined ratio 101.3% in 2025; net income $23.5M, may limit discretionary marketing",2026,https://g1.guideone.com/hubfs/Annual%20Report/ANNUAL%20REPORT_GuideOne%202025_F.pdf,A,N03
+176,Cinch,Sponsorship money concentrated in rodeo; no worker/safety program found,2026-10-23,https://cinchjeans.com/pages/our-story,A,N04
+177,TYM Tractors,Primary sponsorship covers only select races; budget may be committed to NASCAR,2026-02-11,https://thorsport.com/news-tym2026rhodes,A,N04
+178,AMSOIL,MediaRadar shows decreased ad spend YoY,2026-10,https://advertisers.mediaradar.com/amsoil-advertising-profile,A,N04
+179,Dead On Tools,Primary on only 12 races; other primaries on Burton car (Jayski per search),2025-12-15,https://www.si.com/onsi/racing-america/news/dead-on-tools-to-continue-support-of-burton-at-sam-hunt-racing,A,N04

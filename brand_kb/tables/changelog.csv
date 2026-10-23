@@ -1,0 +1,23 @@
+id,date,change,reason,who
+1,2026-10-23,ingest round1,bootstrap from brand_prospects/ (round 1),orchestrator
+2,2026-10-23,ingest round2,bootstrap from brand_prospects_v2/ (round 2); all quotes re-verified by tools/rawfetch.py,orchestrator
+3,2026-10-23,created weights.json v3.0,round 3 bootstrap; separates fit from evidence confidence,orchestrator
+4,2026-10-23,created playbook.md and learnings.md from seed learnings,round 3 bootstrap,orchestrator
+5,2026-10-23,created outreach_results_template.csv,no outreach_results.csv exists in repo,orchestrator
+6,2026-10-23,re-verified round 2 quotes by script; 5 demoted to D,"script re-check failed for Hilti, Liberty Mutual, USAA, John Deere, New Balance",orchestrator
+7,2026-10-23,load E01,loaded script-verified enrichment batch,orchestrator
+8,2026-10-23,load E02,loaded script-verified enrichment batch,orchestrator
+9,2026-10-23,load E03,loaded script-verified enrichment batch,orchestrator
+10,2026-10-23,load E05,loaded script-verified enrichment batch,orchestrator
+11,2026-10-23,load E06,loaded script-verified enrichment batch,orchestrator
+12,2026-10-23,load E08,loaded script-verified enrichment batch,orchestrator
+13,2026-10-23,load E04,loaded script-verified enrichment batch,orchestrator
+14,2026-10-23,load E07,loaded script-verified enrichment batch,orchestrator
+15,2026-10-23,load N01,loaded script-verified enrichment batch,orchestrator
+16,2026-10-23,load N02,loaded script-verified enrichment batch,orchestrator
+17,2026-10-23,load N03,loaded script-verified enrichment batch,orchestrator
+18,2026-10-23,load N04,loaded script-verified enrichment batch,orchestrator
+19,2026-10-23,override FirstEnergy risk=3,"HB6 bribery settlement (Fox19 2024-08-14, verified) is Ohio's largest corruption case; reputational sensitivity for a local press-seeking sponsor; rule-based penalty undercounts it",orchestrator
+20,2026-10-23,override Mahindra Tractors (US) activation=0,discovery lead is 2011; NASCAR sponsorship ended; exiting Mitsubishi JV (E-batch N01 risks),orchestrator
+21,2026-10-23,override GuideOne Insurance activation=12,only activation is an undated Iowa State Fair sponsor listing; no in-window dated evidence,orchestrator
+22,2026-10-23,"score_r3: strip ""Craftsman"" (brand/series name) before keyword match",TYM Tractors quote about the Craftsman Truck Series was credited as a craftsmanship values match; false positive,orchestrator

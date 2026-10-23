@@ -1,0 +1,275 @@
+brand,parent,domain,hq,ownership,category,competitors,ohio_flag,existing_relationship_flag,status,first_seen_round,source_tag
+Carhartt,Carhartt Inc.,carhartt.com,"Dearborn, MI","Private, family-owned (Hamilton Carhartt descendants)",Workwear & work boots,"[""Wolverine"", ""Red Wing"", ""Timberland PRO"", ""Ariat"", ""Dickies"", ""Duluth Trading""]",Y,,enriched_r3,0,round1
+Milwaukee Tool,,,,,,,,,prior_report_35,0,round1
+Lowe's,,,,,,,,,prior_report_35,0,round1
+Honda,,,,,,,,,prior_report_35,0,round1
+Kidde,,,,,,,,,prior_report_35,0,round1
+Home Depot,,,,,,,,,prior_report_35,0,round1
+Toyota,,,,,,,,,prior_report_35,0,round1
+KeyBank,,,,,,,,,prior_report_35,0,round1
+Lincoln Electric,,,,,,,,,prior_report_35,0,round1
+DEWALT (Stanley Black & Decker),,,,,,,,,prior_report_35,0,round1
+Progressive,,,,,,,,,prior_report_35,0,round1
+P&G,,,,,,,,,prior_report_35,0,round1
+Verizon,,,,,,,,,prior_report_35,0,round1
+AT&T / FirstNet,,,,,,,,,prior_report_35,0,round1
+3M,,,,,,,,,prior_report_35,0,round1
+Sherwin-Williams,,,,,,,,,prior_report_35,0,round1
+First Alert (Resideo),,,,,,,,,prior_report_35,0,round1
+MSA Safety,,,,,,,,,prior_report_35,0,round1
+Mastercard,,,,,,,,,prior_report_35,0,round1
+Unilever,,,,,,,,,prior_report_35,0,round1
+Ford,,,,,,,,,prior_report_35,0,round1
+GM,,,,,,,,,prior_report_35,0,round1
+Capital One,,,,,,,,,prior_report_35,0,round1
+Allstate,,,,,,,,,prior_report_35,0,round1
+Amazon,,,,,,,,,prior_report_35,0,round1
+Apple,,,,,,,,,prior_report_35,0,round1
+L'Oreal,,,,,,,,,prior_report_35,0,round1
+Google Maps,,,,,,,,,prior_report_35,0,round1
+State Farm,,,,,,,,,prior_report_35,0,round1
+Volvo,,,,,,,,,prior_report_35,0,round1
+GEICO,,,,,,,,,prior_report_35,0,round1
+Dyson,,,,,,,,,prior_report_35,0,round1
+Waze,,,,,,,,,prior_report_35,0,round1
+Blueair,,,,,,,,,prior_report_35,0,round1
+Honeywell consumer,,,,,,,,,prior_report_35,0,round1
+Cintas,,,,,Workwear & apparel,,Y,,longlist_r1_unscreened,1,round1
+Dickies,,,,,Workwear & work boots,,,,screened_fail,1,round1
+Wrangler,"Kontoor Brands, Inc.",wrangler.com,"Greensboro, NC (Kontoor)",Public (NYSE: KTB),Workwear & work boots,"[""Carhartt"", ""Ariat"", ""Levi's"", ""Cinch"", ""Dickies""]",Y,,enriched_r3,1,round1
+Red Wing Shoes,Red Wing Shoe Company,redwingshoes.com,"Red Wing, MN","Private, family-owned",Workwear & work boots,"[""Carhartt"", ""Wolverine"", ""Timberland PRO"", ""Thorogood"", ""Danner""]",,,enriched_r3,1,round1
+Timberland PRO,VF Corporation (Timberland),timberlandpro.com,"Stratham, NH",Public parent (NYSE: VFC),Workwear & work boots,"[""Carhartt"", ""Wolverine"", ""Red Wing"", ""Cat Footwear""]",Y,,enriched_r3,1,round1
+Wolverine,"Wolverine World Wide, Inc.",wolverine.com,"Rockford, MI",Public (NYSE: WWW),Workwear & work boots,"[""Carhartt"", ""Red Wing"", ""Timberland PRO"", ""Cat Footwear"", ""Ariat""]",,,enriched_r3,1,round1
+UniFirst,,,,,Workwear & apparel,,,,longlist_r1_unscreened,1,round1
+Ariat,,,,,Workwear & work boots,"[""Justin Boots"", ""Wolverine"", ""Carhartt"", ""Cat"", ""Tony Lama"", ""Red Wing""]",,,screened_pass,1,round1
+Dr. Martens,,,,,Workwear & apparel,,,,longlist_r1_unscreened,1,round1
+Duluth Trading,Duluth Holdings Inc. (NASDAQ: DLTH),duluthtrading.com,"Mount Horeb, WI",Public,Workwear & work boots,"[""Carhartt"", ""Dickies"", ""Ariat"", ""Filson"", ""Wrangler""]",Y,,enriched_r3,1,round1
+Levi's,,,,,Workwear & apparel,,,,longlist_r1_unscreened,1,round1
+Snap-on,Snap-on Incorporated (NYSE: SNA),snapon.com,"Kenosha, WI",Public,Tools & equipment,"[""Matco"", ""Mac Tools"", ""Milwaukee"", ""Craftsman""]",Y,,enriched_r3,1,round1
+Klein Tools,"Klein Tools, Inc. (privately held, Klein family)",kleintools.com,"Lincolnshire, IL",private (family-owned),Tools & equipment,"[""Milwaukee Tool"", ""Fluke"", ""Knipex"", ""Ideal Industries"", ""Southwire""]",,,enriched_r3,1,round1
+Stanley Tools,,,,,Tools & hardware,,,,longlist_r1_unscreened,1,round1
+Craftsman,,,,,Tools & equipment,,,,screened_fail,1,round1
+Ridgid,,,,,Tools & hardware,,,,longlist_r1_unscreened,1,round1
+Husky,,,,,Tools & hardware,,,,longlist_r1_unscreened,1,round1
+Kobalt,,,,,Tools & hardware,,,,longlist_r1_unscreened,1,round1
+Makita,,,,,Tools & equipment,"[""DeWalt"", ""Milwaukee"", ""Bosch"", ""Hilti"", ""Ryobi/Ridgid (TTI)"", ""Ingersoll Rand (NASCAR power tools per prior pass, unverified)""]",,,screened_pass,1,round1
+Bosch Tools,,,,,Tools & hardware,,,,longlist_r1_unscreened,1,round1
+Hilti,,,,,Tools & equipment,"[""DeWalt"", ""Milwaukee"", ""Bosch"", ""Makita"", ""Fischer""]",Y,,screened_pass,1,round1
+Festool,,,,,Tools & hardware,,,,longlist_r1_unscreened,1,round1
+Scotts Miracle-Gro,The Scotts Miracle-Gro Company (NYSE: SMG),scottsmiraclegro.com,"Marysville, OH",Public (NYSE: SMG),Lawn & garden consumer products,"[""Spectrum Brands"", ""Central Garden & Pet"", ""Bonide"", ""Home Depot/Lowe's private labels""]",Y,,enriched_r3,1,round1
+Ohio Mattress / Sleep Number,,,,,Home safety & home improvement,,Y,,longlist_r1_unscreened,1,round1
+Rheem,,,,,Home safety & home improvement,,Y,,longlist_r1_unscreened,1,round1
+Google Nest,,,,,Home safety & home improvement,,,,longlist_r1_unscreened,1,round1
+Ring,,,,,Home safety & security,,,,screened_fail,1,round1
+SimpliSafe,,,,,Home safety & security,,,,screened_fail,1,round1
+ADT,ADT Inc.,adt.com,"Boca Raton, FL",Public (NYSE: ADT),Home safety & security,"[""Vivint"", ""SimpliSafe"", ""Ring""]",,,enriched_r3,1,round1
+Vivint,,,,,Home safety & security,,,,screened_fail,1,round1
+Lutron,,,,,Home safety & home improvement,,,,longlist_r1_unscreened,1,round1
+Moen,,,,,Home safety & home improvement,,,,longlist_r1_unscreened,1,round1
+Delta Faucet,,,,,Home safety & home improvement,,,,longlist_r1_unscreened,1,round1
+Wahl,,,,,"Hair, beauty, barbershop & salon",,,,excluded_standing_rules,1,round1
+Andis,,,,,"Hair, beauty, barbershop & salon",,,,excluded_standing_rules,1,round1
+Oster,,,,,"Hair, beauty, barbershop & salon",,,,excluded_standing_rules,1,round1
+Babyliss PRO,,,,,"Hair, beauty, barbershop & salon",,,,excluded_standing_rules,1,round1
+Cantu,,,,,"Hair, beauty, barbershop & salon",,,,excluded_standing_rules,1,round1
+SheaMoisture,,,,,"Hair, beauty, barbershop & salon",,,,excluded_standing_rules,1,round1
+Design Essentials,,,,,"Hair, beauty, barbershop & salon",,,,excluded_standing_rules,1,round1
+Mielle Organics,,,,,"Hair, beauty, barbershop & salon",,,,excluded_standing_rules,1,round1
+Carol's Daughter,,,,,"Hair, beauty, barbershop & salon",,,,excluded_standing_rules,1,round1
+Pattern Beauty,,,,,"Hair, beauty, barbershop & salon",,,,excluded_standing_rules,1,round1
+Camille Rose,,,,,"Hair, beauty, barbershop & salon",,,,excluded_standing_rules,1,round1
+eos Products,,,,,Personal care,,,,excluded_standing_rules,1,round1
+Dial,,,,,Personal care,,,,longlist_r1_unscreened,1,round1
+Old Spice,,,,,Personal care,,,,longlist_r1_unscreened,1,round1
+Dove Men+Care,,,,,Personal care,,,,longlist_r1_unscreened,1,round1
+Native,,,,,Personal care,,,,longlist_r1_unscreened,1,round1
+Harry's,,,,,Personal care,,,,longlist_r1_unscreened,1,round1
+Colgate-Palmolive,,,,,Personal care,,,,longlist_r1_unscreened,1,round1
+Crest,,,,,Personal care,,,,longlist_r1_unscreened,1,round1
+Tom's of Maine,,,,,Personal care,,,,longlist_r1_unscreened,1,round1
+Aveeno,,,,,Personal care,,,,longlist_r1_unscreened,1,round1
+Jergens,,,,,Personal care,,,,longlist_r1_unscreened,1,round1
+Nissan,"Nissan Motor Co., Ltd.",nissanusa.com,"Franklin, TN (Nissan Americas); Yokohama, Japan (parent)",Public (Tokyo: 7201),"Auto, truck and mobility","[""Toyota"", ""Honda"", ""Ford"", ""Chevrolet""]",,,enriched_r3,1,round1
+Hyundai,,,,,Auto & mobility,,,,longlist_r1_unscreened,1,round1
+Kia,,,,,Auto & mobility,,,,longlist_r1_unscreened,1,round1
+Subaru,,,,,Auto & mobility,,,,longlist_r1_unscreened,1,round1
+Jeep,,,,,"Auto, truck & mobility","[""Ford Bronco"", ""Toyota"", ""Ram""]",,,screened_pass,1,round1
+Ram Trucks,Stellantis N.V.,ramtrucks.com,"Auburn Hills, MI",Subsidiary of Stellantis N.V. (public),"Auto, truck & mobility","[""Ford (F-Series)"", ""Chevrolet/GMC"", ""Toyota""]",Y,,enriched_r3,1,round1
+Michelin,"Compagnie Generale des Etablissements Michelin (Michelin North America, Greenville SC)",michelinman.com,"Clermont-Ferrand, France; North America HQ Greenville, SC (per job posting search result)",Public (Euronext: ML),"Auto, truck & mobility","[""Goodyear"", ""Bridgestone"", ""Cooper"", ""Continental""]",,,enriched_r3,1,round1
+Goodyear,The Goodyear Tire & Rubber Company,goodyear.com,"Akron, OH",public (NASDAQ: GT),"Auto, truck & mobility","[""Bridgestone"", ""Michelin"", ""Cooper (Goodyear-owned)"", ""Firestone""]",Y,,enriched_r3,1,round1
+Bridgestone,,,,,"Auto, truck & mobility",,,,screened_fail,1,round1
+Firestone,,,,,Auto & mobility,,,,longlist_r1_unscreened,1,round1
+Pep Boys,,,,,Auto & mobility,,,,longlist_r1_unscreened,1,round1
+Nationwide,Nationwide Mutual Insurance Company,nationwide.com,"Columbus, OH",mutual (policyholder-owned),Consumer insurance,"[""State Farm"", ""Progressive"", ""Erie"", ""Farm Bureau Insurance"", ""Liberty Mutual""]",Y,,enriched_r3,1,round1
+Westfield Insurance,,,,,Consumer insurance,,Y,,screened_fail,1,round1
+Huntington Bank,,,,,Consumer insurance & banking,,Y,,longlist_r1_unscreened,1,round1
+Dollar Bank,,,,,Consumer insurance & banking,,Y,,longlist_r1_unscreened,1,round1
+Medical Mutual of Ohio,,,,,Consumer insurance & banking,,Y,,longlist_r1_unscreened,1,round1
+Anthem Ohio / Elevance,,,,,Consumer insurance & banking,,Y,,longlist_r1_unscreened,1,round1
+Liberty Mutual,Liberty Mutual Group,libertymutual.com,"Boston, MA",Mutual holding company (policyholder-owned),Insurance (personal and commercial; Risk Control workplace safety services),"[""Nationwide"", ""Travelers"", ""Progressive"", ""State Farm""]",,,enriched_r3,1,round1
+Farmers Insurance,,,,,Consumer insurance,,,,screened_fail,1,round1
+USAA,,,,,Consumer insurance,"[""Navy Federal"", ""Armed Forces Insurance"", ""GEICO military programs"", ""State Farm"", ""Liberty Mutual"", ""Nationwide""]",,,screened_pass,1,round1
+Travelers,"The Travelers Companies, Inc.",travelers.com,"New York, NY (principal operations Hartford, CT; One Tower Square, Hartford per Winmo)",Public (NYSE: TRV),Insurance (commercial and consumer),"[""Liberty Mutual"", ""Nationwide"", ""Chubb"", ""The Hartford"", ""Progressive""]",,,enriched_r3,1,round1
+Chubb,,,,,Consumer insurance & banking,,,,longlist_r1_unscreened,1,round1
+Smucker's,,,,,Ohio & Cleveland consumer,,Y,,screened_fail,1,round1
+Giant Eagle,"Giant Eagle, Inc. (pending acquisition by The Kroger Co.)",gianteagle.com,"Pittsburgh/Cranberry Township, PA","Private, family-owned; Kroger agreed 2026-07-01 to acquire, close expected 2027","Regional grocery, pharmacy; Ohio and Cleveland consumer","[""Heinen's"", ""Kroger"", ""Aldi"", ""Walmart""]",Y,,enriched_r3,1,round1
+Cleveland Kitchen,,,,,"Food, beverage & grocery",,Y,,longlist_r1_unscreened,1,round1
+Great Lakes Brewing,,,,,"Food, beverage & grocery",,Y,,excluded_standing_rules,1,round1
+Wendy's,,,,,"Food, beverage & grocery",,Y,,longlist_r1_unscreened,1,round1
+Jack Cleveland Casino,,,,,"Food, beverage & grocery",,Y,,excluded_standing_rules,1,round1
+Heinz,,,,,"Food, beverage & grocery",,,,longlist_r1_unscreened,1,round1
+Kroger,,,,,"Food, beverage & grocery",,,,longlist_r1_unscreened,1,round1
+Walmart,,,,,"Food, beverage & grocery",,,,longlist_r1_unscreened,1,round1
+Target,,,,,Other re-scores,"[""Walmart"", ""Amazon"", ""Costco"", ""Kohl's"", ""Lowe's/Home Depot (events)""]",,,screened_pass,1,round1
+Costco,,,,,"Food, beverage & grocery",,,,longlist_r1_unscreened,1,round1
+Bud Light / Anheuser-Busch,,,,,"Food, beverage & grocery",,,,excluded_standing_rules,1,round1
+Miller-Coors,,,,,"Food, beverage & grocery",,,,excluded_standing_rules,1,round1
+Jim Beam,,,,,"Food, beverage & grocery",,,,excluded_standing_rules,1,round1
+Hennessy,,,,,"Food, beverage & grocery",,,,excluded_standing_rules,1,round1
+Altria,,,,,"Food, beverage & grocery",,,,excluded_standing_rules,1,round1
+DraftKings,,,,,"Food, beverage & grocery",,,,excluded_standing_rules,1,round1
+FanDuel,,,,,"Food, beverage & grocery",,,,excluded_standing_rules,1,round1
+Caesars,,,,,"Food, beverage & grocery",,,,excluded_standing_rules,1,round1
+Marc's,,,,,Retail chains,,Y,,longlist_r1_unscreened,1,round1
+Dollar General,,,,,Other re-scores,,,,screened_fail,1,round1
+Dollar Tree,,,,,Retail chains,,,,longlist_r1_unscreened,1,round1
+Walgreens,,,,,Retail chains,,,,longlist_r1_unscreened,1,round1
+CVS,,,,,Retail chains,,,,longlist_r1_unscreened,1,round1
+Rite Aid,,,,,Retail chains,,,,longlist_r1_unscreened,1,round1
+Kohl's,,,,,Retail chains,,,,longlist_r1_unscreened,1,round1
+Macy's,,,,,Retail chains,,,,longlist_r1_unscreened,1,round1
+Best Buy,,,,,Retail chains,,,,longlist_r1_unscreened,1,round1
+Foot Locker,,,,,Retail chains,,,,longlist_r1_unscreened,1,round1
+Dick's Sporting Goods,,,,,Retail chains,,,,longlist_r1_unscreened,1,round1
+T-Mobile,,,,,Telecom & consumer tech,,,,longlist_r1_unscreened,1,round1
+Comcast / Xfinity,,,,,Telecom & consumer tech,,,,longlist_r1_unscreened,1,round1
+Spectrum / Charter,,,,,Telecom & consumer tech,,,,longlist_r1_unscreened,1,round1
+Cox,,,,,Telecom & consumer tech,,,,longlist_r1_unscreened,1,round1
+Samsung,,,,,Consumer tech for workers,,,,screened_fail,1,round1
+Microsoft,,,,,Telecom & consumer tech,,,,longlist_r1_unscreened,1,round1
+Dell,,,,,Telecom & consumer tech,,,,longlist_r1_unscreened,1,round1
+HP,,,,,Telecom & consumer tech,,,,longlist_r1_unscreened,1,round1
+Lenovo,,,,,Telecom & consumer tech,,,,longlist_r1_unscreened,1,round1
+Intel,,,,,Telecom & consumer tech,,,,longlist_r1_unscreened,1,round1
+Cricket Wireless,,,,,Telecom & consumer tech,,,,longlist_r1_unscreened,1,round1
+LEGO,,,,,Other re-scores,"[""Mattel"", ""Hasbro"", ""MEGA"", ""Disney"", ""K'NEX""]",,,screened_pass,1,round1
+Mattel,,,,,"Toys, education & maker",,,,longlist_r1_unscreened,1,round1
+Hasbro,,,,,"Toys, education & maker",,,,longlist_r1_unscreened,1,round1
+Crayola,,,,,"Toys, education & maker",,,,longlist_r1_unscreened,1,round1
+KidKraft,,,,,"Toys, education & maker",,,,longlist_r1_unscreened,1,round1
+Learning Resources,,,,,"Toys, education & maker",,,,longlist_r1_unscreened,1,round1
+Melissa & Doug,,,,,"Toys, education & maker",,,,longlist_r1_unscreened,1,round1
+Hot Wheels,,,,,"Toys, education & maker",,,,longlist_r1_unscreened,1,round1
+K'NEX,,,,,"Toys, education & maker",,,,longlist_r1_unscreened,1,round1
+Play-Doh,,,,,"Toys, education & maker",,,,longlist_r1_unscreened,1,round1
+Scholastic,,,,,"Toys, education & maker",,,,longlist_r1_unscreened,1,round1
+Adidas,,,,,Athletic & outdoor,,,,longlist_r1_unscreened,1,round1
+New Balance,"New Balance Athletics, Inc.",newbalance.com,"Boston, MA",Private,Athletic footwear & apparel,"[""Nike"", ""Adidas"", ""Brooks"", ""Hoka"", ""Asics"", ""Saucony""]",,,enriched_r3,1,round1
+Puma,,,,,Athletic & outdoor,,,,longlist_r1_unscreened,1,round1
+Reebok,,,,,Athletic & outdoor,,,,longlist_r1_unscreened,1,round1
+Champion,,,,,Athletic & outdoor,,,,longlist_r1_unscreened,1,round1
+Columbia Sportswear,,,,,Outdoor & rugged gear,"[""Carhartt"", ""Patagonia"", ""The North Face""]",,,screened_pass,1,round1
+The North Face,,,,,Athletic & outdoor,,,,longlist_r1_unscreened,1,round1
+Patagonia,,,,,Athletic & outdoor,,,,longlist_r1_unscreened,1,round1
+REI,,,,,Athletic & outdoor,,,,longlist_r1_unscreened,1,round1
+Yeti,,,,,Athletic & outdoor,,,,longlist_r1_unscreened,1,round1
+Coleman,,,,,Outdoor & rugged gear,,,,screened_fail,1,round1
+FirstEnergy,FirstEnergy Corp.,firstenergycorp.com,"Akron, OH",public (NYSE: FE),Energy & home services,"[""AEP Ohio"", ""Duke Energy Ohio"", ""AES Ohio""]",Y,,enriched_r3,1,round1
+AEP Ohio,,,,,Energy & home services,"[""FirstEnergy"", ""AES Ohio"", ""Duke Energy Ohio""]",Y,,screened_pass,1,round1
+Dominion Energy East Ohio,,,,,Consumer energy & home services,,Y,,longlist_r1_unscreened,1,round1
+Columbia Gas of Ohio,,,,,Consumer energy & home services,,Y,,longlist_r1_unscreened,1,round1
+Rocket Companies,,,,,Ohio & Cleveland consumer,"[""Huntington (Browns stadium naming)"", ""UWM"", ""Guaranteed Rate""]",Y,,screened_pass,1,round1
+Rocket Mortgage,,,,,Consumer energy & home services,,Y,,longlist_r1_unscreened,1,round1
+Duke Energy,,,,,Energy & home services,,,,screened_fail,1,round1
+Constellation,,,,,Consumer energy & home services,,,,longlist_r1_unscreened,1,round1
+NRG,,,,,Consumer energy & home services,,,,longlist_r1_unscreened,1,round1
+Direct Energy,,,,,Consumer energy & home services,,,,longlist_r1_unscreened,1,round1
+Sunrun,,,,,Energy & home services,,,,screened_fail,1,round1
+Sport Clips,,,,,,,,,excluded_standing_rules,1,round1
+Great Clips,,,,,,,,,excluded_standing_rules,1,round1
+Sport Clips Haircuts - extra from batch01,,,,,,,,,r1_screened,1,round1
+Sally Beauty,,,,,,,,,excluded_standing_rules,1,round1
+Ulta Beauty,,,,,,,,,excluded_standing_rules,1,round1
+Harbor Freight,,,,,Tools & equipment,,,,screened_fail,1,round1
+Ace Hardware,Ace Hardware Corporation (retailer-owned cooperative),acehardware.com,"Oak Brook, IL",Retailer-owned cooperative,Home improvement & hardware retail,"[""Home Depot"", ""Lowe's"", ""True Value"", ""Menards""]",Y,,enriched_r3,1,round1
+Fastenal,,,,,,,,,r1_screened,1,round1
+Generac,,,,,,,,,r1_screened,1,round1
+AutoZone,,,,,,,,,r1_screened,1,round1
+PNC,,,,,,,,,r1_screened,1,round1
+Fifth Third,,,,,,,,,r1_screened,1,round1
+Dominion Energy,,,,,,,,,r1_screened,1,round1
+LEGO Group,,,,,,,,,r1_screened,1,round1
+Justin Brands,,,,,Workwear & work boots,,,,screened_fail,2,round2
+Thorogood,,,,,Workwear & work boots,,,,screened_fail,2,round2
+Danner,,,,,Workwear & work boots,,,,screened_fail,2,round2
+KEEN Utility,,,,,Workwear & work boots,,,,screened_fail,2,round2
+Caterpillar Footwear,,,,,Workwear & work boots,,,,screened_fail,2,round2
+Rocky Boots,"Rocky Brands, Inc. (NASDAQ: RCKY)",rockyboots.com,"Nelsonville, OH",Public,Workwear & work boots,"[""Thorogood"", ""Danner"", ""Wolverine"", ""Timberland PRO"", ""Keen Utility""]",Y,,enriched_r3,2,round2
+Georgia Boot,,,,,Workwear & work boots,,,,screened_fail,2,round2
+Filson,,,,,Workwear & work boots,"[""Carhartt"", ""Duluth Trading"", ""Barbour"", ""Orvis""]",,,screened_pass,2,round2
+Ryobi,,,,,Tools & equipment,,,,screened_fail,2,round2
+Bosch Power Tools,Robert Bosch GmbH (Bosch North America),boschtools.com,"Gerlingen, Germany (US: Mount Prospect, IL)",Private (foundation-controlled),Tools & equipment,"[""DeWalt"", ""Milwaukee"", ""Makita"", ""Hilti"", ""Ryobi""]",,,enriched_r3,2,round2
+Estwing,,,,,Tools & equipment,,,,screened_fail,2,round2
+Channellock,,,,,Tools & equipment,,,,screened_fail,2,round2
+Stihl,"STIHL Group (Andreas Stihl AG & Co. KG, Waiblingen, Germany)",stihlusa.com,"Virginia Beach, VA (STIHL Inc.)","Private, family-owned (STIHL Group)",Tools and outdoor power equipment,"[""Husqvarna"", ""Echo"", ""Makita (outdoor)"", ""Milwaukee/Ryobi outdoor""]",Y,,enriched_r3,2,round2
+Husqvarna,,,,,Tools & equipment,,,,screened_fail,2,round2
+YETI,"YETI Holdings, Inc. (NYSE: YETI)",yeti.com,"Austin, TX",Public (NYSE: YETI),"Outdoor & rugged gear (coolers, drinkware)","[""Stanley"", ""Hydro Flask"", ""RTIC"", ""Coleman""]",,,enriched_r3,2,round2
+Bass Pro Shops,,,,,Outdoor & rugged gear,"[""Academy"", ""Dick's"", ""Sportsman's Warehouse""]",Y,,screened_pass,2,round2
+Mossy Oak,,,,,Outdoor & rugged gear,"[""Realtree""]",,,screened_pass,2,round2
+Cabela's,,,,,Outdoor & rugged gear,,,,screened_fail,2,round2
+Menards,,,,,Home improvement & hardware retail,"[""Home Depot"", ""Lowe's"", ""Ace Hardware"", ""Harbor Freight""]",Y,,screened_pass,2,round2
+True Value,Do it Best Corp. (acquired True Value assets after Oct 2024 Chapter 11 sale),truevalue.com,"Fort Wayne, IN (Do it Best); legacy Chicago",Member-owned cooperative (Do it Best Corp.),Home improvement & hardware retail,"[""Ace Hardware"", ""Home Depot"", ""Lowe's"", ""Menards""]",Y,,enriched_r3,2,round2
+Tractor Supply,"Tractor Supply Company (NASDAQ: TSCO), self-parented",tractorsupply.com,"Brentwood, TN",Public (NASDAQ: TSCO),Home improvement & hardware retail (rural lifestyle),"[""Northern Tool"", ""Harbor Freight"", ""Home Depot"", ""Lowe's"", ""Rural King""]",Y,,enriched_r3,2,round2
+Northern Tool,"Northern Tool + Equipment Co., Inc.",northerntool.com,"Burnsville, MN","Private, family-owned",Home improvement & hardware retail,"[""Harbor Freight"", ""Tractor Supply"", ""Home Depot"", ""Lowe's"", ""Grainger""]",Y,,enriched_r3,2,round2
+Rural King,,,,,Home improvement & hardware retail,"[""Tractor Supply"", ""Fleet Farm"", ""Blain's Farm & Fleet""]",Y,,screened_pass,2,round2
+Cooper Tire,,,,,"Auto, truck & mobility",,Y,,screened_fail,2,round2
+Valvoline,"Two entities: Valvoline Inc. (NYSE: VVV, retail Instant Oil Change/Take 5-style service centers, Lexington KY) and Valvoline Global Operations (lubricants, Aramco-owned, Lexington KY)",valvoline.com / valvolineglobal.com,"Lexington, KY","Valvoline Inc. public (NYSE: VVV); Valvoline Global Operations owned by Aramco (per search result, unverified)",Auto lubricants and quick-lube service,"[""Pennzoil/Shell"", ""Mobil 1"", ""Jiffy Lube"", ""Castrol"", ""Take 5""]",Y,,enriched_r3,2,round2
+U-Haul,,,,,"Auto, truck & mobility",,,,screened_fail,2,round2
+Pilot Flying J,Pilot Company,pilotflyingj.com,"Knoxville, TN",Private (Berkshire Hathaway holds a stake; not verified here),"Auto, truck & mobility","[""Love's"", ""TA/Petro"", ""Sapp Bros"", ""Buc-ee's""]",Y,,enriched_r3,2,round2
+Love's Travel Stops,Love's Travel Stops & Country Stores (privately held),loves.com,"Oklahoma City, OK",Private (family-owned),"Auto, truck & mobility","[""Pilot Flying J"", ""TA/Petro"", ""Buc-ee's"", ""Casey's""]",Y,,enriched_r3,2,round2
+Kenworth,PACCAR Inc,kenworth.com,"Kirkland, WA","Public parent (PACCAR, NASDAQ: PCAR)","Auto, truck & mobility","[""Peterbilt (PACCAR sibling)"", ""Freightliner"", ""Volvo"", ""Mack"", ""International""]",,,enriched_r3,2,round2
+Erie Insurance,,,,,Consumer insurance,,,,screened_fail,2,round2
+Grange Insurance,,,,,Consumer insurance,,Y,,screened_fail,2,round2
+Polaris,Polaris Inc.,polaris.com,"Medina, MN (press releases datelined Minneapolis)",Public (NYSE: PII),"Powersports, trailers, farm & ranch","[""Can-Am (BRP)"", ""John Deere Gator"", ""Honda"", ""Kawasaki""]",,,enriched_r3,2,round2
+BRP Can-Am,BRP Inc.,can-am.brp.com,"Valcourt, Quebec, Canada",Public (TSX: DOO; Nasdaq: DOOO),"Powersports, trailers, farm & ranch","[""Polaris Ranger"", ""Kawasaki Mule"", ""Yamaha Viking"", ""John Deere Gator"", ""Kubota RTV"", ""Honda Pioneer""]",,,enriched_r3,2,round2
+Harley-Davidson,,,,,"Powersports, trailers, farm & ranch",,,,screened_fail,2,round2
+Yamaha,"Yamaha Motor Co., Ltd. (Japan)",yamaha-motor.com,"Marietta, GA (Yamaha Motor Corp., USA)",Public (TSE: 7272) parent,"Powersports, trailers, farm & ranch","[""Polaris"", ""Can-Am"", ""Kawasaki"", ""Honda"", ""Kubota"", ""John Deere (now partner)""]",Y,,enriched_r3,2,round2
+Kawasaki,,,,,"Powersports, trailers, farm & ranch","[""Polaris"", ""Can-Am"", ""Yamaha"", ""Honda"", ""Kubota"", ""John Deere""]",Y,,screened_pass,2,round2
+Kubota,Kubota Corporation (Japan); US arm Kubota Tractor Corporation,kubotausa.com,"Grapevine, TX (US); Osaka, Japan (parent)",public parent (TYO: 6326),"Powersports, trailers, farm & ranch","[""John Deere"", ""Case/New Holland"", ""Mahindra"", ""Polaris/Can-Am/Kawasaki/Yamaha (UTV)""]",Y,,enriched_r3,2,round2
+John Deere,Deere & Company,deere.com,"Moline, IL",Public (NYSE: DE),"Powersports, trailers, farm & ranch","[""Kubota"", ""CNH (Case IH)"", ""Caterpillar"", ""AGCO""]",Y,,enriched_r3,2,round2
+Bobcat,Doosan Bobcat Inc. (Korea),bobcat.com,"West Fargo, ND (Bobcat Company / Doosan Bobcat North America)",Subsidiary of publicly listed Doosan Bobcat (KRX),Compact construction equipment,"[""Caterpillar"", ""Kubota"", ""John Deere"", ""Case Construction""]",,,enriched_r3,2,round2
+Case IH,,,,,"Powersports, trailers, farm & ranch","[""John Deere"", ""Kubota"", ""New Holland (sister CNH brand)""]",,,screened_pass,2,round2
+Ariens,,,,,"Powersports, trailers, farm & ranch",,,,screened_fail,2,round2
+Streamlight,,,,,First-responder-adjacent consumer,,,,screened_fail,2,round2
+Maglite,,,,,First-responder-adjacent consumer,,,,screened_fail,2,round2
+Leatherman,,,,,First-responder-adjacent consumer,"[""Gerber"", ""SOG"", ""Victorinox""]",,,screened_pass,2,round2
+Gerber,,,,,First-responder-adjacent consumer,,,,screened_fail,2,round2
+Pelican,,,,,First-responder-adjacent consumer,"[""YETI"", ""Otter Products"", ""Nanuk""]",,,screened_pass,2,round2
+Oakley,,,,,First-responder-adjacent consumer,"[""Wiley X"", ""Smith Optics"", ""Revision""]",,,screened_pass,2,round2
+5.11 Tactical,"Compass Diversified (from memory, unverified)",511tactical.com,"Costa Mesa, CA",Private equity-style holding (unverified),First-responder-adjacent consumer,"[""Under Armour Tactical"", ""Carhartt"", ""Blauer"", ""Propper"", ""Condor""]",,,enriched_r3,2,round2
+Under Armour,,,,,First-responder-adjacent consumer,,,,screened_fail,2,round2
+Roto-Rooter,Chemed Corporation,rotorooter.com,"Cincinnati, OH (Chemed; per search result, not page-verified)",Public parent (NYSE: CHE),Energy & home services,"[""Mr. Rooter"", ""ARS/Rescue Rooter"", ""Benjamin Franklin Plumbing""]",,,enriched_r3,2,round2
+Orkin,,,,,Energy & home services,,,,screened_fail,2,round2
+Frontdoor,,,,,Energy & home services,,,,screened_fail,2,round2
+OtterBox,,,,,Consumer tech for workers,"[""Spigen"", ""Pelican"", ""UAG"", ""Lifeproof""]",,,screened_pass,2,round2
+Motorola,,,,,Consumer tech for workers,"[""Samsung"", ""Apple"", ""Google Pixel"", ""Caterpillar/Bullitt rugged phones""]",Y,,screened_pass,2,round2
+CAT Phones,,,,,,,,,screened_fail,2,round2
+Speedway,,,,,Ohio & Cleveland consumer,"[""Sunoco (NASCAR official fuel)"", ""Pilot/Flying J"", ""Wawa"", ""Casey's"", ""Shell"", ""BP/GetGo (Giant Eagle)""]",Y,,screened_pass,2,round2
+SERVPRO,"SERVPRO Industries, LLC",servpro.com,"Gallatin, TN","Private (franchisor; 2,350+ franchises US/Canada)",Property restoration / cleanup services,"[""ServiceMaster Restore"", ""Paul Davis Restoration"", ""Rainbow International"", ""PuroClean"", ""BluSky Restoration""]",,,enriched_r3,3,N01
+Mack Trucks,Volvo Group,macktrucks.com,"Greensboro, NC",Subsidiary of AB Volvo (public),Heavy-duty trucks,"[""Peterbilt"", ""Kenworth"", ""Freightliner"", ""Volvo Trucks"", ""International""]",,,enriched_r3,3,N01
+Peterbilt,PACCAR Inc,peterbilt.com,"Denton, TX",Subsidiary of PACCAR (NASDAQ: PCAR),Heavy-duty trucks,"[""Kenworth"", ""Mack Trucks"", ""Freightliner"", ""Volvo Trucks"", ""International""]",,,enriched_r3,3,N01
+Mahindra Tractors (US),"Mahindra & Mahindra (Mahindra Ag North America, MAgNA)",mahindratractor.com,"Houston, TX","Subsidiary of Mahindra & Mahindra (India, listed)",Tractors and utility vehicles (ROXOR),"[""Kubota"", ""John Deere"", ""New Holland"", ""Kioti"", ""Massey Ferguson""]",,,enriched_r3,3,N01
+WARN Industries,Unconfirmed: LKQ Corporation acquired Warn's aftermarket business 2017; discovery lead said Allied Powers; dealer site uses 'The WARN Group',warn.com,"Clackamas, OR",Unconfirmed current owner (see parent),"Winches, hubs, off-road/recovery gear","[""Smittybilt"", ""Superwinch"", ""Ramsey Winch"", ""Mile Marker"", ""Rough Country""]",,,enriched_r3,3,N01
+Mopar,Stellantis,mopar.com,"Auburn Hills, MI",Brand of Stellantis N.V. (public),Auto parts / service,"[""ACDelco (GM)"", ""Motorcraft (Ford)"", ""AutoZone"", ""O'Reilly Auto Parts""]",,,enriched_r3,3,N02
+Mechanix Wear,Mechanix Wear Inc,mechanix.com,"Valencia, CA",Private equity (Gryphon Investors),Work gloves / protective apparel,"[""Ironclad"", ""Carhartt"", ""Wells Lamont"", ""Milwaukee Tool gloves""]",,,enriched_r3,3,N02
+Keystone Cooperative,Keystone Cooperative,keystonecoop.com,"Indianapolis, IN","Farmer-owned cooperative (merger of Co-Alliance and Ceres Solutions, Mar 2024)",Farm co-op / propane / fuel / agronomy,"[""Southern States"", ""Ag Alliance"", ""Heritage Cooperative"", ""Harvest Land"", ""Sunrise Cooperative""]",,,enriched_r3,3,N02
+Farm Bureau Financial Services,"Farm Bureau Financial Services (FBL Financial Group, Farm Bureau Property & Casualty)",fbfs.com,"West Des Moines, IA",Private; affiliated with state Farm Bureau federations,Insurance / financial services,"[""State Farm"", ""Nationwide"", ""Country Financial"", ""Allstate""]",,,enriched_r3,3,N02
+Indiana Farm Bureau Insurance,Indiana Farm Bureau,infarmbureau.com,"Indianapolis, IN",Affiliated with Indiana Farm Bureau Inc.,Insurance,"[""State Farm"", ""Erie Insurance"", ""Westfield"", ""Grange""]",,,enriched_r3,3,N02
+Cornwell Tools,Cornwell Quality Tools (family- and employee-owned),cornwelltools.com,"Wadsworth, Ohio",Private; family-run and employee-owned,Mobile professional tools (franchise tool trucks),"[""Snap-on"", ""Matco Tools"", ""Mac Tools""]",,,enriched_r3,3,N03
+Matco Tools,Vontier Corporation,matcotools.com,"Stow, Ohio",Wholly owned subsidiary of Vontier (NYSE: VNT),"Mobile professional tools (franchise tool trucks), diagnostics, toolboxes","[""Snap-on"", ""Cornwell Tools"", ""Mac Tools""]",,,enriched_r3,3,N03
+Mac Tools,Stanley Black & Decker,mactools.com,"Westerville, Ohio",Subsidiary of Stanley Black & Decker (NYSE: SWK),Mobile professional tools (franchise tool trucks),"[""Snap-on"", ""Matco Tools"", ""Cornwell Tools""]",,,enriched_r3,3,N03
+GuideOne Insurance,GuideOne (Bain Capital investment 2023; TMG partnership),guideone.com,"West Des Moines, Iowa",Mutual-origin; Bain Capital Insurance investment (search snippet) and The Mutual Group partnership,"Insurance (churches, nonprofits, schools, senior living)","[""Church Mutual"", ""Brotherhood Mutual"", ""Nationwide"", ""Travelers""]",,,enriched_r3,3,N03
+Cinch,"Miller International, Inc.",cinchjeans.com,"Denver, CO (per 2020s NRCHA release; unverified current)","Private; part of Miller International family (Cinch, Cruel Denim, Miller Ranch)","Western jeans, shirts, workwear","[""Wrangler"", ""Ariat"", ""Rock & Roll Denim"", ""Levi's""]",,,enriched_r3,3,N04
+TYM Tractors,TYM Corporation (South Korea); TYM North America,tymusa.com,Georgia (North America); Korea (global),Subsidiary of Korea-listed TYM Corp (unverified listing status),Compact and utility tractors,"[""Kubota"", ""Mahindra"", ""Kioti"", ""John Deere"", ""Massey Ferguson""]",,,enriched_r3,3,N04
+AMSOIL,AMSOIL Inc.,amsoil.com,"Superior, WI",Private,Synthetic lubricants,"[""Mobil 1"", ""Valvoline"", ""Royal Purple"", ""Castrol""]",,,enriched_r3,3,N04
+Dead On Tools,Dead On Tools (private),deadontools.com,Midwest US (per search summary; unverified city),Private,"Hand tools, tool belts, work gear","[""Estwing"", ""Milwaukee Tool"", ""Klein Tools"", ""Stanley""]",,,enriched_r3,3,N04

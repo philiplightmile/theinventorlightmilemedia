@@ -1,0 +1,402 @@
+id,brand,role_title,team,name,source_url,source_tag
+1,Wrangler,VP Global Marketing (Wrangler),,,,r2 deep
+2,Wrangler,Brand partnerships/sponsorship manager,,,,r2 deep
+3,Wrangler,Field/experiential marketing,,,,r2 deep
+4,Duluth Trading,SVP Brand and Marketing,,,,r2 deep
+5,Duluth Trading,Sponsorship/partnerships,,,,r2 deep
+6,Duluth Trading,Field/retail events (store marketing),,,,r2 deep
+7,Rocky Boots,VP/GM Commercial Military and Public Service Division,,,,r2 deep
+8,Rocky Boots,Brand marketing director,,,,r2 deep
+9,Rocky Boots,Public service channel/events manager,,,,r2 deep
+10,Filson,Head of Marketing,,,,r2 deep
+11,Filson,Brand partnerships/events,,,,r2 deep
+12,Filson,Retail store marketing,,,,r2 deep
+13,Snap-on,CMO/VP Marketing,,,,r2 deep
+14,Snap-on,Motorsports/sponsorship manager,,,,r2 deep
+15,Snap-on,Education/schools program manager,,,,r2 deep
+16,Snap-on,Franchisee/dealer network marketing,,,,r2 deep
+17,Carhartt,VP Marketing and Creative,,,,r2 deep
+18,Carhartt,Chief Brand Officer,,,,r2 deep
+19,Carhartt,"Community/trades partnerships (Join the Trades, SkillsUSA)",,,,r2 deep
+20,Carhartt,Local market marketing (Delaney said local market was a major focus),,,,r2 deep
+21,Carhartt,VP of marketing and creative,,Norma Delaney,https://www.modernretail.co/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/,r2 deep (name printed on page per agent; unscripted)
+22,Carhartt,"Chief Brand Officer (per search summary of press release, UNVERIFIED)",,Susan Hennike,https://www.carhartt.com/carhartt-launches-made-possible-campaign,r2 deep (name printed on page per agent; unscripted)
+23,Wolverine,Chief Marketing Officer,,,,r2 deep
+24,Wolverine,Brand marketing / partnerships,,,,r2 deep
+25,Wolverine,Entertainment & sports partnerships,,,,r2 deep
+26,Wolverine,Field/retail marketing,,,,r2 deep
+27,Wolverine,"Chief Marketing Officer, Wolverine",,Scott Schoessel,https://finviz.com/news/221248/wolverine-puts-boots-on-the-ground-in-landman-for-a-new-partnership-with-paramounts-blockbuster-hit,r2 deep (name printed on page per agent; unscripted)
+28,Red Wing Shoes,Chief Marketing Officer,,,,r2 deep
+29,Red Wing Shoes,Creative Director,,,,r2 deep
+30,Red Wing Shoes,Red Wing for Business / safety-channel marketing,,,,r2 deep
+31,Red Wing Shoes,Store/regional field marketing,,,,r2 deep
+32,Red Wing Shoes,Creative Director,,Aaron Seymour-Anderson,https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/,r2 deep (name printed on page per agent; unscripted)
+33,Red Wing Shoes,CEO,,Allison Gettings,https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/,r2 deep (name printed on page per agent; unscripted)
+34,Red Wing Shoes,"CMO as of 2023, may be stale",,Dave Schneider,https://www.mediapost.com/publications/article/388702/red-wing-unleashes-trades-made-campaign.html,r2 deep (name printed on page per agent; unscripted)
+35,Timberland PRO,"Head of Marketing, Timberland Americas",,,,r2 deep
+36,Timberland PRO,VP Marketing Americas,,,,r2 deep
+37,Timberland PRO,Sports/partnership marketing (NASCAR),,,,r2 deep
+38,Timberland PRO,Workforce/trades community programs,,,,r2 deep
+39,Timberland PRO,"Head of Marketing, Timberland Americas",,Ryan Murphy,https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856,r2 deep (name printed on page per agent; unscripted)
+40,Timberland PRO,"SVP and Chief Commercial Officer, NASCAR",,Craig Stimmel,https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856,r2 deep (name printed on page per agent; unscripted)
+41,Ariat,VP Marketing,,,,r2 deep
+42,Ariat,Sponsorship/Events Manager,,,,r2 deep
+43,Ariat,Brand Partnerships,,,,r2 deep
+44,Ariat,Work category marketing,,,,r2 deep
+45,Ariat,"Vice President of Sales, Ariat International (sales, not marketing)",,Sharon Carpenter,https://finviz.com/news/385298/academy-sports-outdoors-and-ariat-international-expand-partnership-with-200-new-in-store-shops-this-fall,r2 deep (name printed on page per agent; unscripted)
+46,Wrangler,Brand/sponsorship marketing at Kontoor/Wrangler,,,,r2 deep
+47,Wrangler,VP Licensing and Collaborations,,,,r2 deep
+48,Wrangler,Western/rodeo partnerships lead,,,,r2 deep
+49,Wrangler,Work/occupational channel marketing,,,,r2 deep
+50,Wrangler,"VP Licensing and Collaborations, Wrangler",,Steve Armus,https://finviz.com/news/391948/genesco-launches-wrangler-footwear-collection,r2 deep (name printed on page per agent; unscripted)
+51,Wrangler,"President, Genesco Brands Group (licensee)",,Rick Higgins,https://finviz.com/news/391948/genesco-launches-wrangler-footwear-collection,r2 deep (name printed on page per agent; unscripted)
+52,Duluth Trading,SVP Brand and Marketing,,,,r2 deep
+53,Duluth Trading,Brand partnerships / sponsorship manager,,,,r2 deep
+54,Duluth Trading,Big Dam Van field marketing,,,,r2 deep
+55,Duluth Trading,Retail community marketing,,,,r2 deep
+56,Duluth Trading,"SVP of Brand and Marketing, Duluth Trading",,Garth Weber,https://www.webull.com/news/15379848327734272,r2 deep (name printed on page per agent; unscripted)
+57,Rocky Boots,"Marketing Manager, Military and Public Service Division",,,,r2 deep
+58,Rocky Boots,VP/GM Commercial Military and Public Service,,,,r2 deep
+59,Rocky Boots,Brand marketing director,,,,r2 deep
+60,Rocky Boots,Fire/EMS channel manager,,,,r2 deep
+61,Rocky Boots,"Marketing Manager, Rocky Boots Military and Public Service Division",,Sarah Williams,https://soldiersystems.net/2025/10/12/rocky-boots-reinforces-its-commitment-to-veterans-through-annual-stand-down-events/,r2 deep (name printed on page per agent; unscripted)
+62,Rocky Boots,"VP and GM, commercial military and public service division",,Mark Dean,https://firerescue1.com/fire-products/apparel/footwear/rocky-boots-supports-the-kingston-police-hockey-classic,r2 deep (name printed on page per agent; unscripted)
+63,Filson,VP/Head of Marketing,,,,r2 deep
+64,Filson,Brand partnerships / events manager,,,,r2 deep
+65,Filson,Retail store events manager,,,,r2 deep
+66,Snap-on,CMO / VP Marketing,,,,r2 deep
+67,Snap-on,Motorsports/sponsorship manager,,,,r2 deep
+68,Snap-on,Education/workforce programs lead,,,,r2 deep
+69,Snap-on,Franchise (van) network marketing,,,,r2 deep
+70,Snap-on,Chairman and CEO,,Nick Pinchuk,https://www.snapon.com/EN/Our-Company/Upskilling-the-Workforce,r2 deep (name printed on page per agent; unscripted)
+71,Klein Tools,VP Sales,,,,r2 deep
+72,Klein Tools,Brand/Marketing Manager,,,,r2 deep
+73,Klein Tools,Trade/Channel Marketing (distributor promos),,,,r2 deep
+74,Klein Tools,Events/Trade Show Coordinator,,,,r2 deep
+75,Klein Tools,Vice President of Sales,,Todd Tatara,https://www.semashow.com/node/985457,r2 deep (name printed on page per agent; unscripted)
+76,Makita,Senior Communications Manager,,,,r2 deep
+77,Makita,Brand Marketing director,,,,r2 deep
+78,Makita,Field/Experiential Marketing Manager,,,,r2 deep
+79,Makita,Sponsorship/Motorsports Marketing,,,,r2 deep
+80,Makita,"Senior Communications Manager, Makita U.S.A.",,Wayne Hart,https://www.nbmcw.com/news/makita-showcases-groundbreaking-cordless-innovations-at-woc-2025.html,r2 deep (name printed on page per agent; unscripted)
+81,Bosch Power Tools,"Director Marketing, Bosch Power Tools North America",,,,r2 deep
+82,Bosch Power Tools,Sponsorship/Partnership Manager,,,,r2 deep
+83,Bosch Power Tools,Field Marketing / Trade Marketing Manager,,,,r2 deep
+84,Bosch Power Tools,Corporate Communications,,,,r2 deep
+85,Bosch Power Tools,"President and CEO, Bosch Power Tools North America",,John Paul Marcantonio,https://www.bosch-presse.de/pressportal/us/en/press-release-29952.html,r2 deep (name printed on page per agent; unscripted)
+86,Bosch Power Tools,"Power Tools Manager, Media Touchpoint (press contact)",,Jordan Keller,https://www.bosch-presse.de/pressportal/us/en/press-release-29952.html,r2 deep (name printed on page per agent; unscripted)
+87,Bosch Power Tools,"Director of Product Management, Bosch Power Tools NA",,Philipp Gosau,https://www.bosch-presse.de/pressportal/us/en/press-release-27648.html,r2 deep (name printed on page per agent; unscripted)
+88,Hilti,"Head of Marketing, Hilti North America",,,,r2 deep
+89,Hilti,Brand/Content Marketing Manager,,,,r2 deep
+90,Hilti,Field Marketing / Event Manager,,,,r2 deep
+91,Hilti,Corporate Communications (Plano TX),,,,r2 deep
+92,Hilti,"Region Head and CEO, Hilti North America",,Mike McGowan,https://www.hilti.com/content/hilti/W1/US/en/company/news/press-releases/2025-Pro-Tool-innovation.html,r2 deep (name printed on page per agent; unscripted)
+93,Hilti,quoted in Oct 2025 Nuron release (title not confirmed),,Thomas Hillbrand,https://www.theautochannel.com/news/2025/10/21/1594021-hilti-s-all-new-lineup-over-60-heavy-duty-cordless.html,r2 deep (name printed on page per agent; unscripted)
+94,Stihl,Event/Sponsorship Manager (TIMBERSPORTS),,,,r2 deep
+95,Stihl,Marketing Director,,,,r2 deep
+96,Stihl,Community/Government Relations,,,,r2 deep
+97,Stihl,Dealer marketing,,,,r2 deep
+98,Stihl,"President, STIHL Inc.",,Sean McGinnis,https://virginiabusiness.com/stihl-mcginnis-caterpillar-vet-new-president/,r2 deep (name printed on page per agent; unscripted)
+99,Stihl,"USA Team Manager, STIHL TIMBERSPORTS",,Adam Wolff,https://www.stihlusa.com/en/support-events/about-stihl/press/2026-stihl-timbersports-opens-at-jackalope-va-beach,r2 deep (name printed on page per agent; unscripted)
+100,Stihl,Executive Vice President (furlough release),,Stephanie Friess,https://www.wtkr.com/news/stihl-inc-temporary-furloughs-roughly-30-of-vb-workforce,r2 deep (name printed on page per agent; unscripted)
+101,Stihl,"former President/CEO, departed",,Chris Keffer,https://www.rurallifestyledealer.com/articles/12082-stihl-inc-announced-departure-of-ceo-and-president-chris-keffer,r2 deep (name printed on page per agent; unscripted)
+102,YETI,Director Sponsorships/Partnerships,,,,r2 deep
+103,YETI,Corporate Sales / Pro-channel lead,,,,r2 deep
+104,YETI,Brand/Field Marketing,,,,r2 deep
+105,Bass Pro Shops,VP Marketing,,,,r2 deep
+106,Bass Pro Shops,Sponsorship manager,,,,r2 deep
+107,Bass Pro Shops,Community/store marketing,,,,r2 deep
+108,Columbia Sportswear,CMO,,,,r2 deep
+109,Columbia Sportswear,VP Brand Marketing,,,,r2 deep
+110,Columbia Sportswear,Director Experiential,,,,r2 deep
+111,Mossy Oak,Marketing Director,,,,r2 deep
+112,Mossy Oak,Events Manager,,,,r2 deep
+113,Mossy Oak,Licensing/Marketing Services,,,,r2 deep
+114,ADT,CMO,,,,r2 deep
+115,ADT,VP Sponsorships,,,,r2 deep
+116,ADT,Head of Brand Partnerships,,,,r2 deep
+117,ADT,Community Relations (ADT Safe Places),,,,r2 deep
+118,Menards,Motorsports/sponsorship marketing,,,,r2 deep
+119,Menards,Local store manager (community),,,,r2 deep
+120,Menards,Pro/contractor desk marketing,,,,r2 deep
+121,Menards,Menards spokesperson (March 2025 email re WV store),,Jeff Abbott,https://www.newsandsentinel.com/news/business/2025/03/mid-ohio-valley-foundations-retail-little-signs-of-progress-on-promised-menards-location/,r2 deep (name printed on page per agent; unscripted)
+122,Ace Hardware,Chief Marketing Officer,,,,r2 deep
+123,Ace Hardware,Sponsorship/partnerships,,,,r2 deep
+124,Ace Hardware,RedVest Media head,,,,r2 deep
+125,Ace Hardware,Independent store owners (local community marketing),,,,r2 deep
+126,Ace Hardware,Ace Handyman Services marketing,,,,r2 deep
+127,Ace Hardware,"Chief Marketing Officer, Ace Hardware",,Kim Lefko,https://mlb.com/news/press-release-ace-hardware-steps-up-to-the-plate-as-mlb-s-exclusive-hardware-home-improvement-partner,r2 deep (name printed on page per agent; unscripted)
+128,Ace Hardware,Head of RedVest Media (search summary only),,Molly Hjelm,https://www.mediapost.com/publications/article/417456/,r2 deep (name printed on page per agent; unscripted)
+129,True Value,Do it Best Group CMO,,,,r2 deep
+130,True Value,EVP marketing and ecommerce,,,,r2 deep
+131,True Value,Independent True Value store owners (local activation),,,,r2 deep
+132,True Value,"Chief Marketing Officer, Do it Best Group",,Allison Flatjord,https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/,r2 deep (name printed on page per agent; unscripted)
+133,True Value,"Deputy Athletics Director, Notre Dame (counterparty)",,Jim Fraleigh,https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/,r2 deep (name printed on page per agent; unscripted)
+134,Tractor Supply,Chief Marketing Officer,,,,r2 deep
+135,Tractor Supply,Sponsorship/partnerships,,,,r2 deep
+136,Tractor Supply,Field/community marketing,,,,r2 deep
+137,Tractor Supply,Store manager local events,,,,r2 deep
+138,Tractor Supply,"CMO, Tractor Supply",,Kimberley Gardiner,https://www.modernretail.co/marketing/tractor-supply-taps-real-customers-for-ads-to-stand-out-from-ai-generated-content/,r2 deep (name printed on page per agent; unscripted)
+139,Tractor Supply,President and CEO,,Harry (Hal) Lawton,https://www.modernretail.co/marketing/tractor-supply-taps-real-customers-for-ads-to-stand-out-from-ai-generated-content/,r2 deep (name printed on page per agent; unscripted)
+140,Northern Tool,SVP/Chief Marketing Officer (title shown as chief commercial officer in one later release),,,,r2 deep
+141,Northern Tool,Partnerships,,,,r2 deep
+142,Northern Tool,Store/field marketing,,,,r2 deep
+143,Northern Tool,SVP and Chief Marketing Officer,,Frank Crowson,https://www.feldentertainment.com/northern-tool-equipment-announces-partnership-with-monster-jam/,r2 deep (name printed on page per agent; unscripted)
+144,Northern Tool,CEO,,Suresh Krishna,https://www.techedmagazine.com/tools-for-the-trades/,r2 deep (name printed on page per agent; unscripted)
+145,Northern Tool,"VP Global Partnerships, Feld (counterparty)",,Dave Muye,https://www.feldentertainment.com/northern-tool-equipment-announces-partnership-with-monster-jam/,r2 deep (name printed on page per agent; unscripted)
+146,Rural King,Marketing/sponsorship director,,,,r2 deep
+147,Rural King,Community relations / store events,,,,r2 deep
+148,Rural King,Regional store operations (Ohio),,,,r2 deep
+149,Rural King,Owner and Chairman,,Alex Melvin,https://www.news-gazette.com/business/agriculture/rural-king-to-invest-75-million-in-new-mattoon-campus/article_c4fe3d5c-c933-457c-9723-4a14f6ca5160.html,r2 deep (name printed on page per agent; unscripted)
+150,Ram Trucks,Ram brand head of marketing / American Brands,,,,r2 deep
+151,Ram Trucks,Stellantis NA sponsorship/experiential,,,,r2 deep
+152,Ram Trucks,Regional dealer marketing groups,,,,r2 deep
+153,Ram Trucks,"Head of American Brands, SRT Performance, NA marketing and retail strategy",,Tim Kuniskis,https://www.carpro.com/blog/2026-ram-1500-america250-special-edition-pickups,r2 deep (name printed on page per agent; unscripted)
+154,Ram Trucks,"Global CMO, Stellantis",,Olivier Francois,https://finviz.com/news/80686/ram-brand-launches-never-stop-being-american-marketing-campaign-new-brand-ethos-nothing-stops-ram,r2 deep (name printed on page per agent; unscripted)
+155,Jeep,Jeep brand CEO/CMO,,,,r2 deep
+156,Jeep,Head of experiential/events,,,,r2 deep
+157,Jeep,Regional marketing,,,,r2 deep
+158,Jeep,Jeep brand CEO (appointed Feb 2025),,Bob Broderdorf,https://www.media.stellantis.com/uk-en/jeep/press/jeep-brand-appoints-bob-broderdorf-to-chief-executive-officer,r2 deep (name printed on page per agent; unscripted)
+159,Nissan,VP Marketing,,,,r2 deep
+160,Nissan,Multicultural marketing lead,,,,r2 deep
+161,Nissan,Regional/field marketing,,,,r2 deep
+162,Nissan,Canton MS and Smyrna TN plant community relations,,,,r2 deep
+163,Nissan,"SVP & Group Director of Multicultural, 5WPR (agency)",,Ashley Barton,https://martechedge.com/news/5wpr-selected-as-nissan-uss-multicultural-communications-agency-of-record,r2 deep (name printed on page per agent; unscripted)
+164,Nissan,Nissan Americas (quoted in Frontier release),,David Johnson,https://theshopmag.com/news/nissan-250th-anniversary-edition-frontier-pickup/?amp=1,r2 deep (name printed on page per agent; unscripted)
+165,Goodyear,CMO,,,,r2 deep
+166,Goodyear,Director of Blimp/brand experiences,,,,r2 deep
+167,Goodyear,Commercial tire marketing (Highway Hero program),,,,r2 deep
+168,Goodyear,Akron community relations,,,,r2 deep
+169,Goodyear,"CEO (quoted, pass 1 abcnews4)",,Mark Stewart,https://abcnews4.com/news/offbeat/goodyear-blimp-celebrating-100-years-with-tour-across-us-flight-giveaway-airspace-aircraft-events-olympics-super-bowl-songs-movies-television-shows-military-world-war-ii-history-anniversary,r2 deep (name printed on page per agent; unscripted)
+170,Michelin,Director of Motorsports/Sponsorships,,,,r2 deep
+171,Michelin,Brand/marketing communications,,,,r2 deep
+172,Michelin,Michelin North America commercial truck tire field marketing,,,,r2 deep
+173,Valvoline,Sponsorship/motorsports marketing,,,,r2 deep
+174,Valvoline,Brand marketing,,,,r2 deep
+175,Valvoline,Field/local market marketing for retail service centers,,,,r2 deep
+176,Valvoline,Area/market managers (Oilympics),,,,r2 deep
+177,Pilot Flying J,Chief Experience Officer (driver programs),,,,r2 deep
+178,Pilot Flying J,SVP Transportation and Midstream Assets,,,,r2 deep
+179,Pilot Flying J,Marketing/brand partnerships,,,,r2 deep
+180,Pilot Flying J,Community/local market,,,,r2 deep
+181,Love's Travel Stops,Sponsorship/racing marketing,,,,r2 deep
+182,Love's Travel Stops,Brand marketing,,,,r2 deep
+183,Love's Travel Stops,Community giving,,,,r2 deep
+184,Love's Travel Stops,Love's Media Group partnerships,,,,r2 deep
+185,Love's Travel Stops,Truck Care field,,,,r2 deep
+186,Kenworth,Assistant GM Sales & Marketing,,,,r2 deep
+187,Kenworth,Marketing/brand director,,,,r2 deep
+188,Kenworth,Dealer/customer experience,,,,r2 deep
+189,Kenworth,PACCAR corporate communications,,,,r2 deep
+190,Nationwide,Agribusiness marketing / Grain Bin Safety Week program lead (president of agribusiness is public face),,,,r2 deep
+191,Nationwide,Sponsorship and community marketing (Columbus),,,,r2 deep
+192,Nationwide,Brand marketing,,,,r2 deep
+193,Nationwide,Agent/field engagement,,,,r2 deep
+194,Nationwide,"President of Agribusiness, Nationwide",,Brad Liggett,https://news.nationwide.com/more-grain-more-risk-nominate-first-responders-for-lifesaving-grain-rescue-tools/,r2 deep (name printed on page per agent; unscripted)
+195,Liberty Mutual,Sponsorship and partnerships marketing,,,,r2 deep
+196,Liberty Mutual,Brand/CMO,,,,r2 deep
+197,Liberty Mutual,"Risk Control Services (workplace safety, buyer for worker-safety content)",,,,r2 deep
+198,Liberty Mutual,Local market / agency channel marketing,,,,r2 deep
+199,Liberty Mutual,"Senior Vice President and General Manager, Risk Control",,Dorothy Doyle,https://www.libertymutualgroup.com/about-lm/news/articles/us-companies-spend-50.87b-year-top-ten-causes-serious-workplace-injuries-according-2025-liberty-mutual-workplace-safety-index,r2 deep (name printed on page per agent; unscripted)
+200,USAA,VP and head of brand marketing,,,,r2 deep
+201,USAA,Sponsorship/partnership marketing,,,,r2 deep
+202,USAA,Military community engagement,,,,r2 deep
+203,USAA,Field/experiential,,,,r2 deep
+204,USAA,Vice President and head of brand marketing,,Jen Escobar,https://usaa-newsroom.prgloo.com/news/usaa-and-the-valero-texas-open-join-forces-to-honor-military-heroes,r2 deep (name printed on page per agent; unscripted)
+205,USAA,Chief Financial Officer,,Brett Seybold,https://newsroom.usaa360.com/news/u-s-vets,r2 deep (name printed on page per agent; unscripted)
+206,Travelers,Chief Marketing Officer / brand marketing,,,,r2 deep
+207,Travelers,Sponsorship marketing,,,,r2 deep
+208,Travelers,Business Insurance risk control / workers comp marketing,,,,r2 deep
+209,Travelers,Corporate communications,,,,r2 deep
+210,Travelers,"SVP, Business Insurance Claim",,Rich Ives,https://investor.travelers.com/newsroom/press-releases/news-details/2025/Travelers-Releases-2025-Injury-Impact-Report/default.aspx,r2 deep (name printed on page per agent; unscripted)
+211,Polaris,Polaris Off Road brand/sponsorship marketing,,,,r2 deep
+212,Polaris,Polaris Government and Defense business development (fire and rescue),,,,r2 deep
+213,Polaris,Dealer/regional field marketing,,,,r2 deep
+214,Polaris,"Business Development, Polaris Government and Defense",,Tony Stanley,https://www.firerescue1.com/fire-products/fire-apparatus/polaris-government-and-defense-expands-fire-and-rescue-capabilities,r2 deep (name printed on page per agent; unscripted)
+215,BRP Can-Am,"Marketing Director, Can-Am Off-Road",,,,r2 deep
+216,BRP Can-Am,Experiential / events manager (BRP Experiences),,,,r2 deep
+217,BRP Can-Am,Agriculture & business program lead,,,,r2 deep
+218,BRP Can-Am,Regional/dealer marketing,,,,r2 deep
+219,BRP Can-Am,"Marketing Director, Can-Am Off-Road",,Jeremi Doyon-Roch,https://finviz.com/news/238594/can-am-unveils-the-industrys-most-affordable-hvac-equipped-side-by-sides-and-a-new-camouflage-outlander-electric,r2 deep (name printed on page per agent; unscripted)
+220,Yamaha,"President/Marketing, Yamaha Motorsports",,,,r2 deep
+221,Yamaha,Sports/Motorsports marketing manager,,,,r2 deep
+222,Yamaha,Field marketing / dealer events,,,,r2 deep
+223,Yamaha,Community/outdoor access programs,,,,r2 deep
+224,Yamaha,Yamaha Motorsports President,,Dean Burnett,https://www.cyclenews.com/2026/10/article/yamaha-motor-and-john-deere-announce-collaboration-on-future-side-by-side-vehicles/,r2 deep (name printed on page per agent; unscripted)
+225,Kawasaki,"Senior Director, Global and Domestic Marketing",,,,r2 deep
+226,Kawasaki,Sponsorship/partnership manager,,,,r2 deep
+227,Kawasaki,Field/event marketing,,,,r2 deep
+228,Kawasaki,Product marketing (Mule/Teryx),,,,r2 deep
+229,Kawasaki,"Senior Director, Global and Domestic Marketing, Kawasaki Motors Corp., U.S.A.",,Bob O'Brien,https://www.cyclenews.com/2026/02/article/kawasaki-monster-energy-become-official-sponsors-of-morgan-wallens-still-the-problem-tour/,r2 deep (name printed on page per agent; unscripted)
+230,Kubota,"Associate Director, Marketing and Advertising",,,,r2 deep
+231,Kubota,"President, Kubota Tractor Corp (signs partnerships)",,,,r2 deep
+232,Kubota,Sponsorship/partnership manager,,,,r2 deep
+233,Kubota,Dealer/field marketing,,,,r2 deep
+234,Kubota,"Associate Director for Marketing and Advertising, Kubota Tractor Corporation",,Theresa Duncan,https://www.kubotausa.com/kubota-renews-support-of-ara-national-championship-named-title-sponsor-of-olympus-rally,r2 deep (name printed on page per agent; unscripted)
+235,Kubota,"President, Kubota Tractor Corporation",,Alex Woods,https://www.kubotausa.com/kubota-shifts-into-high-gear-with-multi-year-nascar-partnership,r2 deep (name printed on page per agent; unscripted)
+236,John Deere,"VP, Turf and Compact Utility BU",,,,r2 deep
+237,John Deere,Brand/sponsorship marketing director,,,,r2 deep
+238,John Deere,Corporate communications,,,,r2 deep
+239,John Deere,"Dealer (Ag-Pro, JD Equipment) event/marketing managers in Ohio",,,,r2 deep
+240,John Deere,"Vice President, John Deere Turf and Compact Utility business unit",,Jon Chase,https://www.cyclenews.com/2026/10/article/yamaha-motor-and-john-deere-announce-collaboration-on-future-side-by-side-vehicles/,r2 deep (name printed on page per agent; unscripted)
+241,Bobcat,Brand Marketing Manager,,,,r2 deep
+242,Bobcat,Experiential/Events Manager,,,,r2 deep
+243,Bobcat,Dealer/Field Marketing,,,,r2 deep
+244,Bobcat,Community/Workforce (Work Worth Doing) lead,,,,r2 deep
+245,Case IH,Brand marketing lead,,,,r2 deep
+246,Case IH,Sponsorship manager,,,,r2 deep
+247,Case IH,Regional/field marketing,,,,r2 deep
+248,Leatherman,Brand/Marketing Director,,,,r2 deep
+249,Leatherman,Director of Sales (Pro/Serve),,,,r2 deep
+250,Leatherman,Corporate gifting lead,,,,r2 deep
+251,Pelican,VP Marketing,,,,r2 deep
+252,Pelican,Brand/Partnership Manager,,,,r2 deep
+253,Pelican,Public safety/government channel marketing,,,,r2 deep
+254,Oakley,OSI Marketing Manager,,,,r2 deep
+255,Oakley,Community/partnership manager,,,,r2 deep
+256,5.11 Tactical,VP Professional Sales,,,,r2 deep
+257,5.11 Tactical,Brand/Community marketing,,,,r2 deep
+258,5.11 Tactical,Sponsorship/partnerships manager,,,,r2 deep
+259,5.11 Tactical,"VP Professional Sales, 5.11 (quoted in release)",,Will Ayres,https://soldiersystems.net/?p=266470,r2 deep (name printed on page per agent; unscripted)
+260,Roto-Rooter,CMO/VP Marketing (Chemed Roto-Rooter),,,,r2 deep
+261,Roto-Rooter,Brand/Sponsorship manager,,,,r2 deep
+262,Roto-Rooter,Franchise owners (local market),,,,r2 deep
+263,Roto-Rooter,"JRM co-owner, services agreement",,Dale Earnhardt Jr.,https://www.jayski.com/2025/07/12/roto-rooter-expands-multi-year-partnership-with-jr-motorsports/,r2 deep (name printed on page per agent; unscripted)
+264,FirstEnergy,Community relations,,,,r2 deep
+265,FirstEnergy,Brand marketing,,,,r2 deep
+266,FirstEnergy,Safety/training leadership,,,,r2 deep
+267,FirstEnergy,"President, FirstEnergy Utilities",,Wade Smith,https://www.miningstockeducation.com/2025/04/firstenergy-recognizes-frontline-crews-on-lineworker-appreciation-day/,r2 deep (name printed on page per agent; unscripted)
+268,AEP Ohio,Community/corporate communications,,,,r2 deep
+269,AEP Ohio,Brand marketing,,,,r2 deep
+270,AEP Ohio,Safety and training,,,,r2 deep
+271,AEP Ohio,AEP Ohio president and COO (2022 release),,Marc Reitter,https://www.aep.com/news/stories/view/8479,r2 deep (name printed on page per agent; unscripted)
+272,OtterBox,CMO/VP Marketing,,,,r2 deep
+273,OtterBox,Partnerships/brand manager,,,,r2 deep
+274,Motorola,Head of Brand/Sports Marketing,,,,r2 deep
+275,Motorola,Field/Experiential marketing,,,,r2 deep
+276,Motorola,Motorola Solutions: public-safety community/events marketing (different entity),,,,r2 deep
+277,Rocket Companies,CMO,,,,r2 deep
+278,Rocket Companies,VP Sponsorships/Partnerships,,,,r2 deep
+279,Rocket Companies,Rock Entertainment Group partnerships (Cavs),,,,r2 deep
+280,Rocket Companies,"CEO, Rock Entertainment Group (not Rocket)",,Nic Barlage,https://www.news5cleveland.com/sports/basketball/cavaliers/rocket-mortgage-fieldhouse-becomes-rocket-arena-in-new-rebranding,r2 deep (name printed on page per agent; unscripted)
+281,Giant Eagle,Marketing/Sponsorship lead,,,,r2 deep
+282,Giant Eagle,Community giving & partnerships (senior director),,,,r2 deep
+283,Giant Eagle,GetGo brand marketing,,,,r2 deep
+284,Giant Eagle,"Senior Director of Community Giving, Partnerships and Sustainability",,Dan Magrish,https://www.fmi.org/get-involved/community-uplift/nominees/view/101-million-meals,r2 deep (name printed on page per agent; unscripted)
+285,Scotts Miracle-Gro,CMO,,,,r2 deep
+286,Scotts Miracle-Gro,VP Marketing U.S. Consumer,,,,r2 deep
+287,Scotts Miracle-Gro,Brand Director Miracle-Gro,,,,r2 deep
+288,Scotts Miracle-Gro,Community/Corporate Responsibility lead,,,,r2 deep
+289,Speedway,Marathon Fuel marketing/sponsorship lead,,,,r2 deep
+290,Speedway,Speedway brand marketing,,,,r2 deep
+291,Speedway,"Community relations / refinery public affairs (Canton, Findlay)",,,,r2 deep
+292,Speedway,"Assistant Chief, Canton Fire Department (recipient, not buyer)",,Rick Morabito,https://www.marathonpetroleum.com/Newsroom/Company-News/National-First-Responders-Day-Investing-in-public-safety/,r2 deep (name printed on page per agent; unscripted)
+293,LEGO,VP Marketing North America,,,,r2 deep
+294,LEGO,Director Experiential/Brand Experience,,,,r2 deep
+295,LEGO,Community Engagement Lead,,,,r2 deep
+296,LEGO,Partnerships/Sponsorship lead,,,,r2 deep
+297,New Balance,Community/Grassroots Marketing Manager,,,,r2 deep
+298,New Balance,Sponsorship & Events Manager,,,,r2 deep
+299,New Balance,Brand/Experiential Marketing Director,,,,r2 deep
+300,New Balance,Made in USA / Manufacturing communications,,,,r2 deep
+301,New Balance,Local Fleet Feet/retail partner event leads,,,,r2 deep
+302,New Balance,President and CEO,,Joe Preston,https://sgbonline.com/new-balance-opens-expanded-central-maine-factory/,r2 deep (name printed on page per agent; unscripted)
+303,Target,Experiential Marketing Lead,,,,r2 deep
+304,Target,Community/Corporate Responsibility,,,,r2 deep
+305,Target,"Local market/store community giving (Twin Cities), store team leads",,,,r2 deep
+306,Target,Brand marketing,,,,r2 deep
+307,Target,"CEO from Feb 1, 2026",,Michael Fiddelke,https://www.kplctv.com/2025/10/24/target-is-eliminating-1800-corporate-jobs-it-looks-reclaim-its-lost-luster/,r2 deep (name printed on page per agent; unscripted)
+308,Carhartt,Vice President of Marketing (and Creative),Marketing,Norma Delaney,https://www.chiefmarketer.com/carhartt-takes-new-angle-on-nfl-marketing/,E01 name script-verified
+309,Carhartt,Director Brand Marketing,Brand marketing,Katelyn Donah,https://www.adsoftheworld.com/campaigns/tough-is-timeless,E01 name script-verified
+310,Duluth Trading,SVP of Brand and Marketing,Brand and Marketing,Garth Weber,https://www.webull.com/news/15379848327734272,E01 name script-verified
+311,Northern Tool,SVP and Chief Marketing Officer,Marketing,Frank Crowson,https://digital-release.wowktv.com/business/press-releases/cision/20260331CG22483/northern-tool-equipment-welcomes-monster-jam-truck-to-columbia-store-for-one-day-event,E01 name script-verified
+312,Timberland PRO,"Head of Marketing, Timberland Americas",Marketing,Ryan Murphy,https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856,E01 name script-verified
+313,Rocky Boots,"VP and General Manager, Commercial Military and Public Service Division",Public service,Mark Dean,https://www.firerescue1.com/fire-products/apparel/footwear/rocky-boots-supports-the-kingston-police-hockey-classic,E01 name script-verified
+314,Rocky Boots,"Marketing Manager, Military and Public Service Division",Marketing,Sarah Williams,https://soldiersystems.net/2025/10/12/rocky-boots-reinforces-its-commitment-to-veterans/,E01 name script-verified
+315,Klein Tools,Vice President of Sales,Sales,Todd Tatara,https://www.semashow.com/node/985457,E02 name script-verified
+316,Goodyear,SVP and Global Chief Marketing Officer,Marketing,Will Roland,https://www.adweek.com/agencies/wheels-up-goodyear-names-publicis-groupe-integrated-global-aor/,E02 name script-verified
+317,Nationwide,CEO,Executive,Kirt Walker,https://www.prnewswire.com/news-releases/nationwide-joins-columbus-crew-ownership-group-302810835.html,E02 name script-verified
+318,FirstEnergy,Ohio President,Ohio operations,Torrence Hinton,https://www.firstenergycorp.com/community/corporate_programs/marathon.html,E02 name script-verified
+319,Kubota,"Associate Director, Marketing and Advertising",Marketing,Theresa Duncan,https://www.kubotausa.com/kubota-renews-support-of-ara-national-championship-named-title-sponsor-of-olympus-rally,E02 name script-verified
+320,Kubota,President,Executive,Alex Woods,https://www.kubotausa.com/kubota-shifts-into-high-gear-with-multi-year-nascar-partnership,E02 name script-verified
+321,Pilot Flying J,"Senior Vice President, Chief Experience Officer","Brand strategy, creative, integrated marketing",Kari Irons,https://pilotcompany.com/pilot-leadership/kari-irons,E03 name script-verified
+322,5.11 Tactical,"Community Activation Manager (2024 posting, archived)","Ambassador, brand events",,https://www.influencermarketingsociety.com/jobs/319404582-community-activation-manager-at-5-11-tactical,E03 name NOT script-verified: dropped
+323,Kenworth,"Assistant General Manager, Sales and Marketing",Sales and marketing,Kevin Haygood,https://www.kenworth.com/about-us/news/kenworth-introduces-limited-edition-touramerica-paint-scheme-donates-t680-to-freedom-250-museum-tour,E03 name script-verified
+324,John Deere,"Vice President, John Deere Turf and Compact Utility business unit",Turf & Compact Utility BU,Jon Chase,https://www.cyclenews.com/2026/10/article/yamaha-motor-and-john-deere-announce-collaboration-on-future-side-by-side-vehicles/,E05 name script-verified
+325,John Deere,"Chairman and CEO, Deere & Company",Executive,John C. May,https://www.kwqc.com/2025/06/02/john-deere-extends-sponsorship-john-deere-classic,E05 name script-verified
+326,John Deere,"Manager, dealer advertising",Marketing (name not printed; initial only on MediaRadar),,https://advertisers.mediaradar.com/john-deere-advertising-profile,E05 name NOT script-verified: dropped
+327,John Deere,Dealer event/marketing managers in Ohio (Ag-Pro),Dealer,,https://agprocompanies.com/blog/2026-ag-pro-expo,E05 name NOT script-verified: dropped
+328,Wrangler,"Vice President of Global Marketing, Kontoor Brands",Marketing,Holly Wheeler,https://www.kontoorbrands.com/news-media/press-release/236/wrangler-celebrates-its-deep-roots-in-country-music-with,E05 name script-verified
+329,Wrangler,"President, Genesco Brands Group (licensee)",Licensee,Rick Higgins,https://finviz.com/news/391948/genesco-launches-wrangler-footwear-collection,E05 name script-verified
+330,Red Wing Shoes,Chief Marketing Officer,Marketing,Dave Schneider,https://finance.yahoo.com/small-business/articles/red-wing-launches-big-boots-140000103.html,E05 name script-verified
+331,Red Wing Shoes,Associate Creative Director,Creative,Ani Djaferian,https://finance.yahoo.com/small-business/articles/red-wing-launches-big-boots-140000103.html,E05 name script-verified
+332,Red Wing Shoes,Creative Director,Creative,Aaron Seymour-Anderson,https://www.glossy.co/fashion/red-wings-newest-campaign-critiques-drop-culture-and-ai/,E05 name script-verified
+333,Yamaha,Experiential Marketing Manager,Marketing,Jennifer Davie,https://www.vurbmoto.com/yamaha-announces-the-2026-blu-cru-invitational-series/,E05 name script-verified
+334,Yamaha,"President, Yamaha Motorsports USA",Motorsports,Dean Burnett,https://www.cyclenews.com/2026/08/article/yamaha-discontinuing-sxs-production-in-georgia/,E05 name script-verified
+335,ADT,Chief Marketing & Communications Officer,Marketing/Comms,Kim Miller,https://news.adt.com/corporate-news/adt-helps-bring-communities-together-for-national-night-out-2026,E05 name script-verified
+336,ADT,Chief Marketing Officer (2023),Marketing,Delu Jackson,https://www.sportico.com/business/sponsorship/2023/marlins-jersey-patch-mlb-adt-1234717616/,E05 name script-verified
+337,ADT,Chief Financial Officer,Finance,Jeff Likosar,https://news.adt.com/adt-safe-places/adt-celebrates-national-night-out-with-communities-across-the-country,E05 name script-verified
+338,BRP Can-Am,"Marketing Director, Can-Am Off-Road",Can-Am Off-Road marketing,Jeremi Doyon-Roch,https://finviz.com/news/238594/can-am-unveils-the-industrys-most-affordable-hvac-equipped-side-by-sides-and-a-new-camouflage-outlander-electric,E06 name script-verified
+339,Roto-Rooter,"President of Roto-Rooter Group (responsible for marketing, national sales)",Roto-Rooter Group,Robert P. Goldschmidt,https://rotorooter.com/media/corporate-office/management-bios,E06 name script-verified
+340,Roto-Rooter,"Vice President, Marketing (third-party directory only)",Marketing,Sally Bayer,https://open.winmo.com/decision_makers/sally-bayer,E06 name script-verified
+341,Ace Hardware,Chief Marketing Officer,Ace Hardware,Kim Lefko,https://mlb.com/news/press-release-ace-hardware-steps-up-to-the-plate-as-mlb-s-exclusive-hardware-home-improvement-partner,E06 name script-verified
+342,Michelin,North America Motorsports Director,Motorsports,Raymond Cotton,https://virnow.com/michelin-official-tire-of-veterans-race-of-remembrance/,E06 name script-verified
+343,Michelin,"President and CEO, Michelin North America",Executive,Matthew Cabe,https://www.moderntiredealer.com/suppliers/article/55314688/mtd-exclusive-michelin-ceo-discusses-market-distribution,E06 name script-verified
+344,Love's Travel Stops,Chief Marketing Officer,Marketing,Patrick McLean,https://www.loves.com/news/2025/november/loves-names-trg-as-strategic-creative-and-media-agency-of-record,E06 name script-verified
+345,Love's Travel Stops,President,Executive,Shane Wharton,https://www.loves.com/news/2026/february/loves-to-focus-on-growth-and-reinvestment-in-2026,E06 name script-verified
+346,YETI,Head of Marketing,Marketing,Bill Neff,https://athletechnews.com/crossfit-yeti-extend-partnership,E08 name script-verified
+347,YETI,Senior Director of Community,Community,Joe Koehly,https://usef.org/media/press-releases/us-equestrian-announces-yeti-partnership,E08 name script-verified
+348,YETI,"Sr. Manager, Events",Events,,https://builtin.com/job/events-marketing-specialist/7597004,E08 name NOT script-verified: dropped
+349,True Value,"Chief Marketing Officer, Do it Best Group",Marketing,Allison Flatjord,https://hardwareretailing.com/notre-dame-athletics-names-true-value-official-home-improvement-partner/,E08 name script-verified
+350,True Value,"President, True Value",Executive,Dent Johnson,https://thehardwareconnection.com/true-value-becomes-official-hardware-partner-of-big-east-conference,E08 name script-verified
+351,Scotts Miracle-Gro,President & COO (named CEO June 2026 per search),Executive,Nate Baxter,https://www.columbuscrew.com/news/columbus-crew-and-scottsmiracle-gro-expand-long-standing-partnership-highlighted-by-stadium-naming-rights,E08 name script-verified
+352,Scotts Miracle-Gro,"SVP, Scotts brand lawns business",Scotts brand,John Sass,https://www.columbuscrew.com/news/columbus-crew-and-scottsmiracle-gro-expand-long-standing-partnership-highlighted-by-stadium-naming-rights,E08 name script-verified
+353,New Balance,President & CEO,Executive,Joe Preston,https://sgbonline.com/new-balance-opens-expanded-central-maine-factory/,E08 name script-verified
+354,New Balance,Chief Operating Officer,Executive,Dave Wheeler,https://sgbonline.com/new-balance-opens-expanded-central-maine-factory/,E08 name script-verified
+355,Valvoline,"Vice President of Marketing, Valvoline Inc.",Marketing,Jake Lestan,https://markets.chroniclejournal.com/chroniclejournal/article/bizwire-2026-1-6-valvoline-inc-launches-instant-transfer-portal-campaign-for-new-and-existing-customers-in-partnership-with-betty-agency,E08 name script-verified
+356,Valvoline,"Chief Brand Officer, Valvoline Global",Brand,Michael Kirtman,https://kyodonewsprwire.jp/release/202604177616,E08 name script-verified
+357,Valvoline,"President and CEO, Valvoline Global Operations",Executive,Jamal Muashsher,https://www.prnewswire.com/in/news-releases/valvoline-global-operations-celebrates-contributions-of-mechanics-worldwide-in-annual-appreciation-initiative-302384691.html,E08 name script-verified
+358,Tractor Supply,"SVP, Chief Marketing Officer and Pet Health",Marketing,Neil Tenzer,https://finance.yahoo.com/small-business/articles/tractor-supply-deepens-investment-america-132400208.html,E04 name script-verified
+359,Tractor Supply,"CMO (as of 2026-04-30; conflicts with Tenzer title five months later, leadership change likely)",Marketing,Kimberley Gardiner,https://www.modernretail.co/marketing/tractor-supply-taps-real-customers-for-ads-to-stand-out-from-ai-generated-content/,E04 name script-verified
+360,Tractor Supply,President and Chief Executive Officer,Executive,Hal Lawton,https://www.agrimarketing.com/s/154482,E04 name script-verified
+361,Ram Trucks,"Head of American Brands, SRT Performance, NA marketing and retail strategy",Stellantis NA marketing,Tim Kuniskis,https://www.carpro.com/blog/2026-ram-1500-america250-special-edition-pickups,E04 name script-verified
+362,Ram Trucks,"Global Chief Marketing Officer, Stellantis",Marketing,Olivier Francois,https://finviz.com/news/80686/ram-brand-launches-never-stop-being-american-marketing-campaign-new-brand-ethos-nothing-stops-ram,E04 name script-verified
+363,Ram Trucks,Senior Vice President of Ram Product,Product / Ram Professional,Matt Huber,https://www.worktruckonline.com/10256103/ram-officially-unveils-2027-promaster-city-at-work-truck-week-2026,E04 name script-verified
+364,Travelers,"Assistant Vice President, Workers Compensation, Risk Control",Business Insurance risk control,Chris Hayes,https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Injury-Impact-Report-Highlights-Longer-Recovery-Times-Amid-Declining-Injury-Rates/default.aspx,E04 name script-verified
+365,Travelers,"Senior Vice President, Business Insurance Claim",Claim,Rich Ives,https://investor.travelers.com/newsroom/press-releases/news-details/2025/Travelers-Releases-2025-Injury-Impact-Report/default.aspx,E04 name script-verified
+366,Polaris,"Business Development, Polaris Government and Defense",Fire and rescue,Tony Stanley,https://www.firerescue1.com/fire-products/fire-apparatus/polaris-government-and-defense-expands-fire-and-rescue-capabilities,E04 name script-verified
+367,Polaris,Director of Polaris RZR Racing,Off Road racing marketing,Alex Scheuerell,https://champoffroad.com/polaris-and-amsoil-championship-off-road-partner-for-the-2025-season/,E04 name script-verified
+368,Wolverine,"Chief Marketing Officer, Wolverine",Marketing,Scott Schoessel,https://finviz.com/news/221248/wolverine-puts-boots-on-the-ground-in-landman-for-a-new-partnership-with-paramounts-blockbuster-hit,E04 name script-verified
+369,Wolverine,"Senior Director of Marketing, Wolverine",Brand marketing,Lauren King,https://www.prnewswire.com/news-releases/wolverine-boots-and-country-superstar-jordan-davis-team-up-to-support-american-tradespeople-302448677.html,E04 name script-verified
+370,Liberty Mutual,"Senior Vice President and General Manager, Risk Control",Risk Control (workplace safety),Dorothy Doyle,https://www.libertymutualgroup.com/about-lm/news/articles/us-companies-spend-50.87b-year-top-ten-causes-serious-workplace-injuries-according-2025-liberty-mutual-workplace-safety-index,E07 name script-verified
+371,Liberty Mutual,"Chief Marketing Officer, U.S. Retail Markets",Brand/marketing,Jenna Lebel,https://www.insurancejournal.com/news/national/2026/07/24/878751.htm,E07 name script-verified
+372,Nissan,"Chairman, Nissan Americas",Executive,Christian Meunier,https://theshopmag.com/news/nissan-250th-anniversary-edition-frontier-pickup/?amp=1,E07 name script-verified
+373,Nissan,"Regional SVP, Manufacturing, Supply Chain Management and Purchasing, Nissan Americas",Manufacturing,David Johnson,https://theshopmag.com/news/nissan-250th-anniversary-edition-frontier-pickup/?amp=1,E07 name script-verified
+374,Nissan,Chief Marketing Officer (per Heisman House 2025 coverage),Marketing,Allyson Witherspoon,https://www.mediapost.com/publications/article/408564/nissan-takes-heisman-house-on-road-trip.html,E07 name script-verified
+375,Bobcat,"President, Doosan Bobcat North America",Executive,Mike Ballweber,https://constructionmagazine.news/CN/article/A473BE17-bobcat-unveils-next-evolution-compact-loaders-to-empower-operators,E07 name script-verified
+376,Bobcat,"Senior Director, North America Construction Equipment",Product,Scott Johnson,https://constructionmagazine.news/CN/article/A473BE17-bobcat-unveils-next-evolution-compact-loaders-to-empower-operators,E07 name script-verified
+377,Giant Eagle,Chief Executive Officer,Executive,Bill Artman,https://www.supermarketnews.com/mergers-acquisitions/kroger-to-acquire-giant-eagle-for-1-65b,E07 name script-verified
+378,Giant Eagle,"Senior Director of Community Giving, Partnerships and Sustainability",Community,,https://www.fmi.org/get-involved/community-uplift/nominees/view/101-million-meals,E07 name NOT script-verified: dropped
+379,Stihl,"Vice President of Marketing, STIHL Inc.",Marketing,Eric Bjorling,https://www.stihlusa.com/en/support-events/about-stihl/press/may25-madeforamerica25,E07 name script-verified
+380,Stihl,"Director of Public Relations and Business Events, STIHL Inc.",PR / events,Lindsy Hooper,https://www.stihlusa.com/en/support-events/about-stihl/press/sept25-teamrubicon25,E07 name script-verified
+381,Stihl,"USA Team Manager, STIHL TIMBERSPORTS",Events,Adam Wolff,https://www.stihlusa.com/en/support-events/about-stihl/press/stihl-timbersports-crowns-2026-us-champions,E07 name script-verified
+382,Stihl,"President, STIHL Inc. (effective 2026-10-01)",Executive,Sean McGinnis,https://www.stihlusa.com/en/support-events/about-stihl/press/stihl-inc-names-sean-mcginnis-president,E07 name script-verified
+383,SERVPRO,Chief Marketing Officer,Marketing,Rob Rajkowski,https://servpro.com/news-press-releases/240603-servpro-chief-marketing-officer,N01 name script-verified
+384,Mack Trucks,"President, Mack Trucks North America",Executive,Jonathan Randall,https://www.macktrucks.com/mack-news/2026/mack-trucks-extends-partnership-as-official-hauler-of-nascar,N01 name script-verified
+385,Peterbilt,"Assistant General Manager, Sales and Marketing",Marketing,Erik Johnson,https://www.peterbilt.com/news-and-events/press-releases/peterbilt-unveils-freedom-250-special-edition-model-589,N01 name script-verified
+386,Peterbilt,Director of Dealer Network Development,Dealer network,Danny Landholm,https://www.peterbilt.com/news-and-events/press-releases/peterbilt-celebrates-first-master-technician-graduate,N01 name script-verified
+387,Mahindra Tractors (US),President and CEO,Executive,Viren Popli,https://www.farmershotline.com/story/mahindra-aem-celebrate-manufacturing-in-houston,N01 name script-verified
+388,Mopar,"Senior Vice President, Mopar North America",Mopar,Darren Bradshaw,https://speedwaydigest.com/?p=722231,N02 name script-verified
+389,Mechanix Wear,CEO,"Executive (leads sales, marketing, ops)",Jesse Spungin,https://performanceracing.com/magazine/industry-news/02-17-2023/mechanix-wear-names-jesse-spungin-ceo,N02 name script-verified
+390,Keystone Cooperative,Assistant VP of Propane,Propane / safety,Mike Hayden,https://keystonecoop.com/news/keystone-news/keystone’s-unwavering-commitment-to-your-safety-at,N02 name script-verified
+391,Cornwell Tools,President and CEO,Executive,Bob Studenic,https://www.draglist.com/2024/11/05/cornwell-named-title-sponsor-of-2025-u-s-nationals/amp/,N03 name script-verified
+392,Matco Tools,"President, Matco Tools",Executive,Mike Dwyer,https://dragillustrated.com/reigning-nhra-top-fuel-world-champion-antron-brown-extends-partnership-with-matco-tools-continuing-one-of-the-longest-primary-partnerships-in-motorsports/,N03 name script-verified
+393,Matco Tools,Sales Vice President,Sales,Laurie Reinbolt,https://markets.financialcontent.com/talkmarkets/article/bizwire-2025-10-27-matco-tools-launches-the-eagle-experience-mobile-toolbox-and-diagnostic-tour,N03 name script-verified
+394,Mac Tools,"President, Mac Tools",Executive,Phil Cox,https://www.nhra.com/news/2026/kalitta-motorsports-mac-tools-announce-multiyear-partnership-extension,N03 name script-verified
+395,Mac Tools,"VP Channel Marketing, Stanley Black & Decker",Marketing,Rob Ronan,https://www.vehicleservicepros.com/distribution/article/55001092/mac-distributors-are-driven-to-succeed-in-2024,N03 name script-verified
+396,GuideOne Insurance,President and CEO,Executive,Bernard Hengesbaugh,https://g1.guideone.com/hubfs/Annual%20Report/ANNUAL%20REPORT_GuideOne%202025_F.pdf,N03 name script-verified
+397,Cinch,Marketing Manager,Cinch/Miller International,Jessica Wahlert,https://teamropingjournal.com/news/cinch-leads-the-way-as-national-team-ropings-presenting-sponsor/,N04 name script-verified
+398,TYM Tractors,"Marketing Leader, North America",Marketing,Richard Mancinelli,https://thorsport.com/news-tym2026rhodes,N04 name script-verified
+399,TYM Tractors,"Director of Marketing, Product Strategy, and Sales Planning",Marketing,Keith Wainwright,https://ohioagconnection.com/news/tym-launches-series-5-compact-tractors,N04 name script-verified
+400,AMSOIL,Marketing Manager,Marketing,Sara Oettinger,https://corracing.com/?p=4871,N04 name script-verified
+401,Dead On Tools,Marketing Manager,Marketing,Brian Ranallo,https://www.newsandpress.net/dead-on-tools-strikes-deal-with-darlington-raceway/,N04 name script-verified

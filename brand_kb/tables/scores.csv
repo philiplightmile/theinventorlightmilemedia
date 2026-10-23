@@ -1,0 +1,122 @@
+id,brand,round,fit_score,evidence_confidence,final_score,weights_version,notes
+1,Duluth Trading,2,92,,,r2-rules,30+20+15+8+8+10+1=92
+2,Northern Tool,2,92,,,r2-rules,30+20+15+8+8+10+1=92
+3,Kubota,2,91,,,r2-rules,30+20+15+8+8+7+3=91
+4,Timberland PRO,2,90,,,r2-rules,30+20+15+8+8+8+1=90
+5,Snap-on,2,87,,,r2-rules,30+15+15+8+8+10+1=87
+6,Bosch Power Tools,2,87,,,r2-rules,30+20+15+8+8+5+1=87
+7,Pilot Flying J,2,87,,,r2-rules,30+20+15+6+5+8+3=87
+8,5.11 Tactical,2,87,,,r2-rules,30+20+15+8+8+5+1=87
+9,Kenworth,2,84,,,r2-rules,30+20+15+8+5+5+1=84
+10,Rocky Boots,2,83,,,r2-rules,24+20+15+3+8+10+3=83
+11,Tractor Supply,2,83,,,r2-rules,30+14+12+8+8+8+3=83
+12,Ram Trucks,2,82,,,r2-rules,30+14+12+8+8+7+3=82
+13,Goodyear,2,82,,,r2-rules,30+20+15+3+8+5+1=82
+14,Travelers,2,82,,,r2-rules,30+20+9+8+8+6+1=82
+15,Nationwide,2,81,,,r2-rules,24+20+15+8+8+1+5=81
+16,FirstEnergy,2,81,,,r2-rules,24+20+15+3+8+6+5=81
+17,Carhartt,2,80,,,r2-rules,30+20+15+3+8+3+1=80
+18,Polaris,2,80,,,r2-rules,30+20+15+3+8+3+1=80
+19,Wolverine,2,79,,,r2-rules,30+14+12+8+8+6+1=79
+20,John Deere,2,79,,,r2-rules,24+20+15+3+8+6+3=79
+21,Wrangler,2,78,,,r2-rules,30+14+12+8+8+5+1=78
+22,Klein Tools,2,78,,,r2-rules,30+20+15+3+8+1+1=78
+23,Red Wing Shoes,2,77,,,r2-rules,30+10+15+8+8+5+1=77
+24,Yamaha,2,77,,,r2-rules,30+14+12+6+8+6+1=77
+25,ADT,2,76,,,r2-rules,30+14+12+8+5+6+1=76
+26,BRP Can-Am,2,75,,,r2-rules,30+14+9+8+8+5+1=75
+27,Roto-Rooter,2,75,,,r2-rules,24+10+12+8+8+8+5=75
+28,Ace Hardware,2,74,,,r2-rules,30+14+9+8+8+2+3=74
+29,Michelin,2,74,,,r2-rules,30+7+12+8+5+7+5=74
+30,Love's Travel Stops,2,74,,,r2-rules,24+14+12+8+5+8+3=74
+31,Liberty Mutual,2,73,,,r2-rules,18+20+15+8+8+3+1=73
+32,Nissan,2,72,,,r2-rules,24+14+12+3+8+10+1=72
+33,Bobcat,2,72,,,r2-rules,24+14+12+8+5+8+1=72
+34,Giant Eagle,2,72,,,r2-rules,30+10+9+6+8+6+3=72
+35,Stihl,2,71,,,r2-rules,30+10+12+3+8+7+1=71
+36,YETI,2,70,,,r2-rules,30+8+8+8+5+10+1=70
+37,True Value,2,70,,,r2-rules,30+8+5+8+8+10+1=70
+38,Scotts Miracle-Gro,2,70,,,r2-rules,30+7+9+8+5+6+5=70
+39,New Balance,2,69,,,r2-rules,24+14+12+8+8+2+1=69
+40,Valvoline,2,68,,,r2-rules,30+7+12+8+5+3+3=68
+41,Kawasaki,2,68,,,r2-rules,30+7+12+3+8+7+1=68
+42,AEP Ohio,2,68,,,r2-rules,12+20+15+6+8+6+1=68
+43,Speedway,2,68,,,r2-rules,24+7+12+8+8+8+1=68
+44,Jeep,2,66,,,r2-rules,30+4+8+8+8+7+1=66
+45,Rural King,2,65,,,r2-rules,30+8+5+8+8+3+3=65
+46,Makita,2,64,,,r2-rules,30+7+12+3+8+3+1=64
+47,USAA,2,64,,,r2-rules,30+8+8+3+8+6+1=64
+48,OtterBox,2,64,,,r2-rules,30+4+8+6+5+10+1=64
+49,Filson,2,63,,,r2-rules,24+10+9+8+5+6+1=63
+50,Oakley,2,62,,,r2-rules,18+14+12+6+5+6+1=62
+51,Rocket Companies,2,62,,,r2-rules,30+4+5+8+8+6+1=62
+52,Ariat,2,61,,,r2-rules,30+4+5+3+8+10+1=61
+53,Mossy Oak,2,61,,,r2-rules,30+4+5+6+5+10+1=61
+54,Motorola,2,60,,,r2-rules,24+4+8+8+5+10+1=60
+55,Target,2,60,,,r2-rules,30+8+5+3+8+5+1=60
+56,Hilti,2,58,,,r2-rules,18+10+15+3+8+3+1=58
+57,LEGO,2,58,,,r2-rules,30+4+5+8+5+5+1=58
+58,Bass Pro Shops,2,57,,,r2-rules,24+4+5+6+5+10+3=57
+59,Pelican,2,57,,,r2-rules,12+10+15+6+5+8+1=57
+60,Leatherman,2,55,,,r2-rules,12+7+12+8+5+10+1=55
+61,Case IH,2,54,,,r2-rules,24+8+5+3+5+8+1=54
+62,Menards,2,53,,,r2-rules,24+4+5+3+8+6+3=53
+63,Columbia Sportswear,2,52,,,r2-rules,18+4+8+6+5+10+1=52
+64,Carhartt,3,81,0.448,36.3,3.0,activation=30D values=5A audience=15D timing=9D buyer=9A risk=10A ohio=3C
+65,Wrangler,3,82,0.866,71.0,3.0,activation=30A values=15A audience=9C timing=6A buyer=9A risk=10C ohio=3C
+66,Red Wing Shoes,3,70,0.827,57.9,3.0,activation=30A values=5A audience=12C timing=6A buyer=9A risk=7D ohio=1C
+67,Timberland PRO,3,80,0.925,74.0,3.0,activation=30A values=15A audience=9C timing=4A buyer=9A risk=10A ohio=3C
+68,Wolverine,3,78,0.853,66.5,3.0,activation=30A values=10A audience=14C timing=6A buyer=9A risk=8C ohio=1C
+69,Duluth Trading,3,82,0.829,68.0,3.0,activation=30A values=15A audience=9C timing=6A buyer=9A risk=10D ohio=3C
+70,Snap-on,3,68,0.788,53.6,3.0,activation=30A values=8A audience=5C timing=9A buyer=3D risk=10D ohio=3C
+71,Klein Tools,3,75,0.88,66.0,3.0,activation=30A values=15A audience=9C timing=6A buyer=9A risk=5D ohio=1C
+72,Scotts Miracle-Gro,3,80,0.832,66.6,3.0,activation=30A values=10A audience=9C timing=9A buyer=9A risk=8D ohio=5C
+73,ADT,3,76,0.914,69.5,3.0,activation=30A values=10A audience=12C timing=6A buyer=9A risk=8A ohio=1C
+74,Nissan,3,81,0.901,73.0,3.0,activation=30A values=20A audience=5C timing=6A buyer=9A risk=10C ohio=1C
+75,Ram Trucks,3,75,0.872,65.4,3.0,activation=30A values=15A audience=5C timing=6A buyer=9A risk=7D ohio=3C
+76,Michelin,3,69,0.877,60.5,3.0,activation=30A values=4A audience=9C timing=9A buyer=9A risk=7C ohio=1C
+77,Goodyear,3,75,0.88,66.0,3.0,activation=30A values=15A audience=5C timing=6A buyer=9A risk=5D ohio=5C
+78,Nationwide,3,77,0.838,64.5,3.0,activation=30A values=10A audience=12C timing=6A buyer=9A risk=5D ohio=5C
+79,Liberty Mutual,3,78,0.904,70.5,3.0,activation=30A values=15A audience=9C timing=9A buyer=9A risk=5C ohio=1C
+80,Travelers,3,79,0.844,66.7,3.0,activation=30A values=15A audience=14C timing=4A buyer=9A risk=6D ohio=1C
+81,Giant Eagle,3,75,0.9,67.5,3.0,activation=30A values=5A audience=12C timing=6A buyer=9A risk=10A ohio=3C
+82,New Balance,3,67,0.86,57.6,3.0,activation=30A values=5A audience=5C timing=9A buyer=9A risk=8D ohio=1C
+83,FirstEnergy,3,85,0.918,78.0,3.0,activation=30A values=20A audience=9C timing=9A buyer=9A risk=3A ohio=5C
+84,Ace Hardware,3,75,0.867,65.0,3.0,activation=30A values=10A audience=12C timing=6A buyer=9A risk=5C ohio=3C
+85,Rocky Boots,3,90,0.906,81.5,3.0,activation=30A values=15A audience=12C timing=9A buyer=9A risk=10A ohio=5C
+86,Bosch Power Tools,3,68,0.862,58.6,3.0,activation=30A values=15A audience=5C timing=9A buyer=3D risk=5D ohio=1C
+87,Stihl,3,70,0.914,64.0,3.0,activation=30A values=5A audience=9C timing=6A buyer=9A risk=8A ohio=3C
+88,YETI,3,75,0.859,64.4,3.0,activation=30A values=10A audience=9C timing=9A buyer=9A risk=7D ohio=1C
+89,True Value,3,64,0.875,56.0,3.0,activation=30A values=5A audience=5C timing=4A buyer=9A risk=8C ohio=3C
+90,Tractor Supply,3,81,0.858,69.5,3.0,activation=30A values=10A audience=12C timing=9A buyer=9A risk=8C ohio=3C
+91,Northern Tool,3,78,0.949,74.0,3.0,activation=30A values=15A audience=5C timing=6A buyer=9A risk=10A ohio=3C
+92,Valvoline,3,71,0.831,59.0,3.0,activation=30A values=5A audience=5C timing=9A buyer=9A risk=10D ohio=3C
+93,Pilot Flying J,3,65,0.877,57.0,3.0,activation=22A values=15A audience=5C timing=6A buyer=9A risk=5D ohio=3C
+94,Love's Travel Stops,3,74,0.859,63.6,3.0,activation=30A values=10A audience=5C timing=9A buyer=9A risk=8D ohio=3C
+95,Kenworth,3,66,0.894,59.0,3.0,activation=30A values=10A audience=5C timing=6A buyer=9A risk=5D ohio=1C
+96,Polaris,3,71,0.873,62.0,3.0,activation=30A values=10A audience=14C timing=4A buyer=9A risk=3C ohio=1C
+97,BRP Can-Am,3,80,0.849,67.9,3.0,activation=30A values=15A audience=12C timing=6A buyer=9A risk=7D ohio=1C
+98,Yamaha,3,61,0.934,57.0,3.0,activation=30A values=5A audience=5C timing=4A buyer=9A risk=5A ohio=3C
+99,Kubota,3,71,0.887,63.0,3.0,activation=30A values=10A audience=5C timing=9A buyer=9A risk=5D ohio=3C
+100,John Deere,3,76,0.849,64.5,3.0,activation=30A values=5A audience=12C timing=9A buyer=9A risk=8C ohio=3C
+101,Bobcat,3,80,0.938,75.0,3.0,activation=30A values=15A audience=9C timing=6A buyer=9A risk=10A ohio=1C
+102,5.11 Tactical,3,72,0.79,56.9,3.0,activation=30A values=10A audience=12C timing=6A buyer=6C risk=7D ohio=1C
+103,Roto-Rooter,3,82,0.884,72.5,3.0,activation=30A values=10A audience=14C timing=6A buyer=9A risk=8A ohio=5C
+104,SERVPRO,3,73,0.877,64.0,3.0,activation=30A values=10A audience=9C timing=9A buyer=9A risk=5D ohio=1C
+105,Mack Trucks,3,71,0.93,66.0,3.0,activation=30A values=10A audience=9C timing=4A buyer=9A risk=8A ohio=1C
+106,Peterbilt,3,75,0.847,63.5,3.0,activation=30A values=10A audience=14C timing=6A buyer=9A risk=5D ohio=1C
+107,Mahindra Tractors (US),3,45,0.889,40.0,3.0,activation=0A values=10A audience=9C timing=6A buyer=9A risk=10A ohio=1C
+108,WARN Industries,3,64,0.822,52.6,3.0,activation=30A values=10A audience=9C timing=6A buyer=3D risk=5D ohio=1C
+109,Mopar,3,75,0.827,62.0,3.0,activation=30A values=10A audience=9C timing=6A buyer=9A risk=10D ohio=1C
+110,Mechanix Wear,3,70,0.814,57.0,3.0,activation=30A values=5A audience=9C timing=6A buyer=9A risk=10D ohio=1C
+111,Keystone Cooperative,3,78,0.936,73.0,3.0,activation=30A values=10A audience=9C timing=9A buyer=9A risk=10A ohio=1C
+112,Farm Bureau Financial Services,3,72,0.765,55.1,3.0,activation=30A values=10A audience=12C timing=6A buyer=3D risk=10D ohio=1C
+113,Indiana Farm Bureau Insurance,3,63,0.756,47.6,3.0,activation=30A values=4A audience=9C timing=6A buyer=3D risk=10D ohio=1C
+114,Cornwell Tools,3,92,0.897,82.5,3.0,activation=30A values=15A audience=14C timing=9A buyer=9A risk=10A ohio=5C
+115,Matco Tools,3,75,0.827,62.0,3.0,activation=30A values=10A audience=5C timing=6A buyer=9A risk=10D ohio=5C
+116,Mac Tools,3,72,0.819,59.0,3.0,activation=30A values=4A audience=5C timing=9A buyer=9A risk=10D ohio=5C
+117,GuideOne Insurance,3,58,0.888,51.5,3.0,activation=12A values=8A audience=12C timing=6A buyer=9A risk=10A ohio=1C
+118,Cinch,3,73,0.89,65.0,3.0,activation=30A values=4A audience=15C timing=4A buyer=9A risk=10A ohio=1C
+119,TYM Tractors,3,75,0.9,67.5,3.0,activation=30A values=5A audience=14C timing=6A buyer=9A risk=10A ohio=1C
+120,AMSOIL,3,73,0.911,66.5,3.0,activation=30A values=5A audience=12C timing=6A buyer=9A risk=10A ohio=1C
+121,Dead On Tools,3,78,0.904,70.5,3.0,activation=30A values=8A audience=14C timing=6A buyer=9A risk=10A ohio=1C
