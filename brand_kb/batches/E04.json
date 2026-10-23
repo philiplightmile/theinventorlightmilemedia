@@ -1,0 +1,914 @@
+[
+ {
+  "brand": "Tractor Supply",
+  "parent": "Tractor Supply Company (NASDAQ: TSCO), self-parented",
+  "domain": "tractorsupply.com",
+  "hq": "Brentwood, TN",
+  "ownership": "Public (NASDAQ: TSCO)",
+  "category": "Home improvement & hardware retail (rural lifestyle)",
+  "competitors": [
+   "Northern Tool",
+   "Harbor Freight",
+   "Home Depot",
+   "Lowe's",
+   "Rural King"
+  ],
+  "ohio_note": "No Ohio-specific sponsorship verified. Ohio State Fair sponsorship not confirmed; 2026 fair release names 18 expanded state/regional events but search did not tie Ohio to them. National store fleet (2,400+ stores in 49 states per Modern Retail 2026-04-30).",
+  "quote": {
+   "text": "State and county fairs are part of life out here. They bring together family, community, hard work, and agriculture",
+   "url": "https://finance.yahoo.com/small-business/articles/tractor-supply-deepens-investment-america-132400208.html",
+   "date_of_source": "2026-09-24",
+   "speaker": "Neil Tenzer, SVP, Chief Marketing Officer and Pet Health, Tractor Supply",
+   "source_type": "wire mirror (Business Wire via Yahoo Finance)"
+  },
+  "activations": [
+   {
+    "type": "sponsorship",
+    "event_or_property": "2026 state and county fairs program (1,000+ fairs; expanded presence at 18 state/regional events)",
+    "location": "National",
+    "dates": "2026 season; release 2026-09-24",
+    "scale": "1,000+ fairs; approx 75% of nation's state and county fairs",
+    "partner_or_agency": "Fairs, 4-H, FFA",
+    "source_url": "https://finance.yahoo.com/small-business/articles/tractor-supply-deepens-investment-america-132400208.html",
+    "date_of_source": "2026-09-24",
+    "source_type": "wire mirror",
+    "proof_snippet": "supporting them through local sponsorships, in-store activations and product donations",
+    "verification": "A"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Washington State Fair: sponsor of Tractor Supply Arena at Agriplex, fair farm and ag education programming; integrated Puyallup Rodeo partnership",
+    "location": "Puyallup, WA",
+    "dates": "2026-09-04 to 09-27",
+    "scale": "state-fair scale; fee undisclosed",
+    "partner_or_agency": "Washington State Fair",
+    "source_url": "https://finance.yahoo.com/small-business/articles/tractor-supply-deepens-investment-america-132400208.html",
+    "date_of_source": "2026-09-24",
+    "source_type": "wire mirror",
+    "proof_snippet": "Tractor Supply is the sponsor of the Tractor Supply Arena at Agriplex",
+    "verification": "A"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Presenting sponsor, Wrangler National Finals Rodeo (multi-year PRCA deal); in-arena presence, on-site activations, athlete store appearances",
+    "location": "Las Vegas / PRCA rodeos nationwide",
+    "dates": "announced 2026-03-12; NFR starts 2026-12-03 (date per search summary)",
+    "scale": "national; fee undisclosed",
+    "partner_or_agency": "PRCA",
+    "source_url": "https://investor.wedbush.com/wedbush/article/bizwire-2026-3-12-tractor-supply-steps-onto-rodeos-biggest-stage-as-presenting-sponsor-of-the-wrangler-national-finals-rodeo",
+    "date_of_source": "2026-03-12",
+    "source_type": "wire mirror (investor page)",
+    "proof_snippet": "will connect with rodeo fans through media, in-arena presence",
+    "verification": "A"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Title sponsor, USDA Great American Farmers Market (booth, FFA/4-H students, giveaways)",
+    "location": "National Mall, Washington DC",
+    "dates": "2025-08-03 to 08-08",
+    "scale": "6-day event; fee undisclosed",
+    "partner_or_agency": "USDA",
+    "source_url": "https://www.agrimarketing.com/s/154482",
+    "date_of_source": "2025-08-04",
+    "source_type": "trade press (Agri-Marketing reprinting company release)",
+    "proof_snippet": "title sponsor of the U.S. Department",
+    "verification": "A"
+   },
+   {
+    "type": "content",
+    "event_or_property": "Spring 2026 campaign featuring real customers (welder filmed at Diamond D Ranch), third use of real customers in a major campaign",
+    "location": "National; shoot in Jacksonville FL",
+    "dates": "spring 2026",
+    "scale": "undisclosed",
+    "partner_or_agency": "in-house per article; media agency Eightysix on TV spots per iSpot",
+    "source_url": "https://www.modernretail.co/marketing/tractor-supply-taps-real-customers-for-ads-to-stand-out-from-ai-generated-content/",
+    "date_of_source": "2026-04-30",
+    "source_type": "trade press",
+    "proof_snippet": "this year's spring campaign is the third time Tractor Supply has used real customers",
+    "verification": "A"
+   }
+  ],
+  "media_spend": {
+   "estimate": "Advertising expense approx $107.7M FY2025 ($95.2M FY2024)",
+   "source": "Tractor Supply FY2025 10-K (seen only via search summary; sec.gov 403 to rawfetch)",
+   "url": "https://www.sec.gov/Archives/edgar/data/916365/000091636526000014/tsco-20251227.htm",
+   "date": "2026-02-19 (10-K filing)",
+   "label": "ESTIMATE (verification D)"
+  },
+  "agency_of_record": {
+   "name": "Eightysix (media agency on TV spots per iSpot; not confirmed as formal AOR; Barkley was creative AOR per a ~2022 Winmo item, unverified)",
+   "source_url": "https://www.ispot.tv/ad/Bpz1/tractor-supply-co-field-and-stream",
+   "proof_snippet": "add actor agency agency eightysix",
+   "date_of_source": "2025-09-16"
+  },
+  "sponsored_properties": [
+   "PRCA / Wrangler NFR",
+   "Professional Bull Riders (since 2021)",
+   "USDA Great American Farmers Market",
+   "State and county fairs (1,000+)",
+   "Washington State Fair",
+   "CMA Fest Spotlight Stage (June 2026, search summary)",
+   "COJO Championship Event (2025, prior round)"
+  ],
+  "roles": [
+   {
+    "title": "SVP, Chief Marketing Officer and Pet Health",
+    "team": "Marketing",
+    "name": "Neil Tenzer",
+    "source_url": "https://finance.yahoo.com/small-business/articles/tractor-supply-deepens-investment-america-132400208.html",
+    "proof_snippet": "Neil Tenzer, senior vice president, chief marketing officer and pet health at Tractor Supply"
+   },
+   {
+    "title": "CMO (as of 2026-04-30; conflicts with Tenzer title five months later, leadership change likely)",
+    "team": "Marketing",
+    "name": "Kimberley Gardiner",
+    "source_url": "https://www.modernretail.co/marketing/tractor-supply-taps-real-customers-for-ads-to-stand-out-from-ai-generated-content/",
+    "proof_snippet": "CMO Kimberley Gardiner told Modern Retail"
+   },
+   {
+    "title": "President and Chief Executive Officer",
+    "team": "Executive",
+    "name": "Hal Lawton",
+    "source_url": "https://www.agrimarketing.com/s/154482",
+    "proof_snippet": "Hal Lawton, president and chief executive officer of Tractor Supply"
+   }
+  ],
+  "event_format_fit": "Strong. Tractor Supply already funds in-store activations and local sponsorships at 1,000+ fairs and runs a skilled-trade-friendly brand (welding, trades). Fairs and 4-H/FFA venues match the screening venues list; a regional or store-level presenting sponsorship fits its local-first model. Caveat: its sponsorship focus is agriculture and rodeo, not safety or fire.",
+  "risks": [
+   {
+    "risk": "Q2 2026 comparable store sales down 1.5%, operating income down 19.2%; results below expectations due to May conditions",
+    "date": "2026-07-23",
+    "source_url": "https://finance.yahoo.com/news/tractor-supply-company-reports-second-105500190.html",
+    "source_type": "wire mirror",
+    "proof_snippet": "unusually adverse conditions in May",
+    "verification": "A"
+   },
+   {
+    "risk": "CCPA settlement $1.35M and $5.1M California false advertising penalties (prior round, search summaries only)",
+    "date": "2025",
+    "source_url": "",
+    "source_type": "search summary",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "marketing_trend_2025_26": "Authenticity push: real customers and real team members in ads since 2022, explicit pullback from AI-looking creative (Modern Retail 2026-04-30). Growing western sports portfolio (PRCA, PBR) and record fair investment, plus Instacart partnership and commerce media. Local, in-person presence is central.",
+  "ladder_log": [
+   {
+    "url": "https://corporate.tractorsupply.com/newsroom/news-releases/news-releases-details/2025/The-COJO-Championship-Event-Announces-Tractor-Supply-Company-As-Its-2025-Presenting-Sponsor/default.aspx",
+    "rung": "brand newsroom",
+    "result": "403 Cloudflare"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20250801214660/en/Tractor-Supply-Celebrates-Sponsorship-of-the-U.S.-Department-of-Agricultures-Great-American-Farmers-Market",
+    "rung": "direct",
+    "result": "blocked; used agrimarketing reprint (rung 7 trade press)"
+   },
+   {
+    "url": "https://finance.yahoo.com/small-business/articles/tractor-supply-deepens-investment-america-132400208.html",
+    "rung": "wire mirror",
+    "result": "200, quote and snippets verbatim"
+   },
+   {
+    "url": "https://investor.wedbush.com/wedbush/article/bizwire-2026-3-12-tractor-supply-steps-onto-rodeos-biggest-stage-as-presenting-sponsor-of-the-wrangler-national-finals-rodeo",
+    "rung": "wire mirror (investor page)",
+    "result": "200, verbatim"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/916365/000091636526000014/tsco-20251227.htm",
+    "rung": "sec filing",
+    "result": "403; ad expense from search summary only"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20260602536298/en/Tractor-Supply-Celebrates-Country-Musics-Rising-Stars-at-CMA-Fest",
+    "rung": "direct",
+    "result": "blocked"
+   }
+  ],
+  "notes_unverified": "CMA Fest Spotlight Stage sponsorship (June 2026) and Starlink/4-H alliance seen only in search summaries. 10-K advertising figure unverified by rawfetch. No event-marketing job posting found. Agency of record unconfirmed. Foundation, 4-H/FFA scholarships and donations ignored per rules. Prior-round Cody Johnson COJO and PBR rows not re-verified (businesswire/corporate site blocked)."
+ },
+ {
+  "brand": "Ram Trucks",
+  "parent": "Stellantis N.V.",
+  "domain": "ramtrucks.com",
+  "hq": "Auburn Hills, MI",
+  "ownership": "Subsidiary of Stellantis N.V. (public)",
+  "category": "Auto, truck & mobility",
+  "competitors": [
+   "Ford (F-Series)",
+   "Chevrolet/GMC",
+   "Toyota"
+  ],
+  "ohio_note": "Stellantis plans nearly $400M to bring a new midsize Ram truck to Toledo Assembly Complex (Ohio), launch anticipated 2028 (Yahoo Finance, Oct 2025). Ohio is a Ram production state going forward.",
+  "quote": {
+   "text": "For 250 years, this country has met every challenge head-on with the flag flying high",
+   "url": "https://www.carpro.com/blog/2026-ram-1500-america250-special-edition-pickups",
+   "date_of_source": "2026-03-31",
+   "speaker": "Tim Kuniskis, head of American Brands, SRT Performance, NA marketing and retail strategy (Stellantis)",
+   "source_type": "trade press quoting Ram release"
+  },
+  "activations": [
+   {
+    "type": "sponsorship",
+    "event_or_property": "Exclusive truck sponsor of America250; Ram provides trucks that move official America250 events",
+    "location": "US national",
+    "dates": "announced 2025-06-14; yearlong through 2026",
+    "scale": "national; fee undisclosed",
+    "partner_or_agency": "America250; Stellantis",
+    "source_url": "https://finviz.com/news/80686/ram-brand-launches-never-stop-being-american-marketing-campaign-new-brand-ethos-nothing-stops-ram",
+    "date_of_source": "2025-06-14",
+    "source_type": "wire mirror (PR Newswire via Finviz)",
+    "proof_snippet": "providing trucks that move America250 official events",
+    "verification": "A"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Official truck sponsor, Macy's Thanksgiving Day Parade (11th consecutive year; wrapped Ram 1500/2500/3500 float haulers)",
+    "location": "New York, NY",
+    "dates": "2025-11-27 parade; release 2025-12-03",
+    "scale": "national broadcast; 76 trucks/vans per Ram (search summary)",
+    "partner_or_agency": "Macy's",
+    "source_url": "https://www.cbtnews.com/ram-celebrates-11-years-as-official-truck-sponsor-of-macys-thanksgiving-day-parade/",
+    "date_of_source": "2025-12-03",
+    "source_type": "trade press",
+    "proof_snippet": "11th consecutive year Ram brand has reliably supported",
+    "verification": "A"
+   },
+   {
+    "type": "retail_event",
+    "event_or_property": "Ram 1500 America250 special editions (Big Horn, Laramie, Rebel) tied to Stellantis America250 partnership",
+    "location": "US",
+    "dates": "announced 2026-03-27 (per search); carpro 2026-03-31",
+    "scale": "limited quantities",
+    "partner_or_agency": "America250",
+    "source_url": "https://www.carpro.com/blog/2026-ram-1500-america250-special-edition-pickups",
+    "date_of_source": "2026-03-31",
+    "source_type": "trade press",
+    "proof_snippet": "official partnership with America250",
+    "verification": "A"
+   },
+   {
+    "type": "live_experiential",
+    "event_or_property": "Ram Professional reveals 2027 ProMaster City at Work Truck Week 2026",
+    "location": "Indianapolis, IN",
+    "dates": "2026-03-10 to 03-13",
+    "scale": "trade show",
+    "partner_or_agency": "NTEA Work Truck Week",
+    "source_url": "https://www.worktruckonline.com/10256103/ram-officially-unveils-2027-promaster-city-at-work-truck-week-2026",
+    "date_of_source": "2026-03-11",
+    "source_type": "trade press",
+    "proof_snippet": "left a hole in the Ram Professional lineup",
+    "verification": "B"
+   },
+   {
+    "type": "content",
+    "event_or_property": "'Never Stop Being American' campaign and 'Nothing Stops Ram' tagline (Dana White narration, Kenny Wayne Shepherd)",
+    "location": "National TV",
+    "dates": "launched 2025-06-14 (Flag Day)",
+    "scale": "national",
+    "partner_or_agency": "unknown",
+    "source_url": "https://finviz.com/news/80686/ram-brand-launches-never-stop-being-american-marketing-campaign-new-brand-ethos-nothing-stops-ram",
+    "date_of_source": "2025-06-14",
+    "source_type": "wire mirror",
+    "proof_snippet": "never stop being an american",
+    "verification": "A"
+   }
+  ],
+  "media_spend": {
+   "estimate": "Over $100 million on advertising in digital, print and national TV in the last year (undated MediaRadar profile; page shows creative last ran 10/1/2026)",
+   "source": "MediaRadar Ram Trucks advertiser profile",
+   "url": "https://advertisers.mediaradar.com/ram-trucks-advertising-profile",
+   "date": "2026-10 (profile current as of ~2026-10-01)",
+   "label": "ESTIMATE"
+  },
+  "agency_of_record": {
+   "name": "",
+   "source_url": "",
+   "proof_snippet": "",
+   "date_of_source": ""
+  },
+  "sponsored_properties": [
+   "America250 (exclusive truck sponsor)",
+   "Macy's Thanksgiving Day Parade",
+   "NASCAR Craftsman Truck Series return 2026",
+   "College Football Playoff (prior round)",
+   "Work Truck Week presence"
+  ],
+  "roles": [
+   {
+    "title": "Head of American Brands, SRT Performance, NA marketing and retail strategy",
+    "team": "Stellantis NA marketing",
+    "name": "Tim Kuniskis",
+    "source_url": "https://www.carpro.com/blog/2026-ram-1500-america250-special-edition-pickups",
+    "proof_snippet": "said Tim Kuniskis, head of American Brands, SRT Performance, NA marketing and retail strategy"
+   },
+   {
+    "title": "Global Chief Marketing Officer, Stellantis",
+    "team": "Marketing",
+    "name": "Olivier Francois",
+    "source_url": "https://finviz.com/news/80686/ram-brand-launches-never-stop-being-american-marketing-campaign-new-brand-ethos-nothing-stops-ram",
+    "proof_snippet": "global chief marketing officer, Stellantis"
+   },
+   {
+    "title": "Senior Vice President of Ram Product",
+    "team": "Product / Ram Professional",
+    "name": "Matt Huber",
+    "source_url": "https://www.worktruckonline.com/10256103/ram-officially-unveils-2027-promaster-city-at-work-truck-week-2026",
+    "proof_snippet": "Matt Huber, senior vice president of Ram product"
+   }
+  ],
+  "event_format_fit": "Moderate. Ram already pays for patriotic, civic and workhorse-themed properties (America250, Macy's) and supplies fleets to events, so a heritage short about a Black Cleveland inventor and 1916 rescue fits the America250 frame and Ram's 'serve' messaging (Built to Serve first-responder editions, prior round). Ram sponsors national properties, not small local screenings; best approach is regional dealer groups or an America250 tie-in.",
+  "risks": [
+   {
+    "risk": "2026 Ram 1500 recall: 16,385 trucks, tire pressure sensors (NHTSA 26V623); owner letters Oct 27, 2026",
+    "date": "2026-10",
+    "source_url": "https://pickuptrucktalk.com/2026/10/2026-ram-1500-recall-16k-trucks-may-have-faulty-tire-pressure-sensors/",
+    "source_type": "trade press (403 to rawfetch)",
+    "proof_snippet": "",
+    "verification": "D"
+   },
+   {
+    "risk": "Rearview camera software recall, about 239,131 Ram 1500 (26V-560)",
+    "date": "2026",
+    "source_url": "https://www.fox2detroit.com/news/chrysler-recalls-nearly-240k-ram-1500-trucks-rearview-camera-problem",
+    "source_type": "news",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "marketing_trend_2025_26": "Heavy patriotic positioning (America250, 'Never Stop Being American'), return of HEMI V8 and NASCAR trucks in 2026, return to Super Bowl advertising, and a pro/work segment push (Ram Professional, ProMaster City).",
+  "ladder_log": [
+   {
+    "url": "https://media.stellantisnorthamerica.com/text.do?id=26802",
+    "rung": "brand newsroom",
+    "result": "blocked (141 chars)"
+   },
+   {
+    "url": "https://finviz.com/news/80686/ram-brand-launches-never-stop-being-american-marketing-campaign-new-brand-ethos-nothing-stops-ram",
+    "rung": "wire mirror",
+    "result": "200, verbatim"
+   },
+   {
+    "url": "https://www.carpro.com/blog/2026-ram-1500-america250-special-edition-pickups",
+    "rung": "trade press",
+    "result": "200, quote verbatim"
+   },
+   {
+    "url": "https://www.cbtnews.com/ram-celebrates-11-years-as-official-truck-sponsor-of-macys-thanksgiving-day-parade/",
+    "rung": "trade press",
+    "result": "200, verbatim"
+   },
+   {
+    "url": "https://moparinsiders.com/chrysler-dodge-jeep-and-ram-drive-america250-with-patriotic-partnership/",
+    "rung": "trade press",
+    "result": "403"
+   },
+   {
+    "url": "https://pickuptrucktalk.com/2025/10/new-ram-midsize-truck-production-to-ohio-new-jeeps-for-illinois-record-13-billion-invested-in-u-s/",
+    "rung": "trade press",
+    "result": "403; used finance.yahoo.com/news/stellantis-targets-us-expansion-13bn-103243214.html instead"
+   }
+  ],
+  "notes_unverified": "Ohio Toledo midsize truck source: https://finance.yahoo.com/news/stellantis-targets-us-expansion-13bn-103243214.html, snippet 'move assembly of a new midsize truck to the Toledo Assembly Complex' (article date ~Oct 2025, not read). Macy's fleet numbers and Work Truck Week press conference from search summaries. No agency of record found. No Ram first-responder or tradesperson tour found in 2025-26 search. Macy's snippet checked; MediaRadar figure undated."
+ },
+ {
+  "brand": "Travelers",
+  "parent": "The Travelers Companies, Inc.",
+  "domain": "travelers.com",
+  "hq": "New York, NY (principal operations Hartford, CT; One Tower Square, Hartford per Winmo)",
+  "ownership": "Public (NYSE: TRV)",
+  "category": "Insurance (commercial and consumer)",
+  "competitors": [
+   "Liberty Mutual",
+   "Nationwide",
+   "Chubb",
+   "The Hartford",
+   "Progressive"
+  ],
+  "ohio_note": "No Ohio-specific marketing or event found. Travelers Risk Control hires safety specialists nationally (careers.travelers.com); no Ohio sponsorship verified.",
+  "quote": {
+   "text": "Getting ahead of the risks isn't just good safety practice; it's one of the most meaningful things an employer can do to protect and support their people.",
+   "url": "https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Injury-Impact-Report-Highlights-Longer-Recovery-Times-Amid-Declining-Injury-Rates/default.aspx",
+   "date_of_source": "2026-05-01",
+   "speaker": "Chris Hayes, AVP, Workers Compensation, Risk Control, Travelers",
+   "source_type": "brand newsroom (investor site)"
+  },
+  "activations": [
+   {
+    "type": "sponsorship",
+    "event_or_property": "Title sponsor, Travelers Championship (20th consecutive year in 2026), PGA Tour Signature Event",
+    "location": "TPC River Highlands, Cromwell CT",
+    "dates": "2026-06-25 to 06-28",
+    "scale": "PGA Tour Signature Event; more than $5M to charity (per search)",
+    "partner_or_agency": "PGA Tour",
+    "source_url": "https://amp.insurancejournal.com/news/east/2026/06/22/874790.htm",
+    "date_of_source": "2026-06-22",
+    "source_type": "trade press",
+    "proof_snippet": "the 20th consecutive tournament with the company serving as title sponsor",
+    "verification": "A"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Title sponsor, Travelers Championship (19th consecutive year in 2025)",
+    "location": "Cromwell CT",
+    "dates": "2025-06",
+    "scale": "PGA Tour Signature Event",
+    "partner_or_agency": "PGA Tour",
+    "source_url": "https://amp.insurancejournal.com/news/east/2025/06/19/828115.htm",
+    "date_of_source": "2025-06-19",
+    "source_type": "trade press",
+    "proof_snippet": "19th consecutive year as title sponsor",
+    "verification": "A"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Travelers Championship named to new PGA Tour Championship Series beginning 2028",
+    "location": "Cromwell CT",
+    "dates": "announced 2026-07-27; begins 2028",
+    "scale": "multi-year",
+    "partner_or_agency": "PGA Tour",
+    "source_url": "https://www.cbia.com/news/member-news/travelers-championship-part-of-elite-pga-tour-tier",
+    "date_of_source": "2026-07-27",
+    "source_type": "trade press (CBIA)",
+    "proof_snippet": "will be part of the new PGA Tour Championship Series beginning in 2028",
+    "verification": "B"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Health care workers and first responders admission program at 2026 Championship (partner Servpro; Travelers' own role not stated on page)",
+    "location": "Cromwell CT",
+    "dates": "2026-06-24 to 06-28",
+    "scale": "one-day grounds access tickets",
+    "partner_or_agency": "Servpro, GOVX",
+    "source_url": "https://travelerschampionship.com/health-care-worker-first-responder-admission-program/",
+    "date_of_source": "2026-06-18",
+    "source_type": "event listing",
+    "proof_snippet": "we are happy to partner with Servpro to provide health care workers and first responders",
+    "verification": "C"
+   },
+   {
+    "type": "content",
+    "event_or_property": "2026 Injury Impact Report: analysis of 1.2M workers compensation claims, safety guidance for employers",
+    "location": "US national",
+    "dates": "2026-05-01",
+    "scale": "national release",
+    "partner_or_agency": "none",
+    "source_url": "https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Injury-Impact-Report-Highlights-Longer-Recovery-Times-Amid-Declining-Injury-Rates/default.aspx",
+    "date_of_source": "2026-05-01",
+    "source_type": "brand newsroom",
+    "proof_snippet": "the majority of workplace accidents can be prevented",
+    "verification": "A"
+   }
+  ],
+  "media_spend": {
+   "estimate": "Travelers Indemnity spent under $100 million on advertising in digital, print and national TV in the last year (undated; Winmo separately lists less than $750k)",
+   "source": "MediaRadar Travelers Indemnity advertiser profile",
+   "url": "https://advertisers.mediaradar.com/travelers-indemnity-advertising-profile",
+   "date": "2026 (undated)",
+   "label": "ESTIMATE"
+  },
+  "agency_of_record": {
+   "name": "",
+   "source_url": "",
+   "proof_snippet": "",
+   "date_of_source": ""
+  },
+  "sponsored_properties": [
+   "Travelers Championship (PGA Tour), title sponsor since 2007",
+   "Hole 15.5 Charity Challenge (prior round)"
+  ],
+  "roles": [
+   {
+    "title": "Assistant Vice President, Workers Compensation, Risk Control",
+    "team": "Business Insurance risk control",
+    "name": "Chris Hayes",
+    "source_url": "https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Injury-Impact-Report-Highlights-Longer-Recovery-Times-Amid-Declining-Injury-Rates/default.aspx",
+    "proof_snippet": "said Chris Hayes, assistant vice president of workers compensation, risk control, at Travelers"
+   },
+   {
+    "title": "Senior Vice President, Business Insurance Claim",
+    "team": "Claim",
+    "name": "Rich Ives",
+    "source_url": "https://investor.travelers.com/newsroom/press-releases/news-details/2025/Travelers-Releases-2025-Injury-Impact-Report/default.aspx",
+    "proof_snippet": "said Rich Ives, senior vice president of business insurance claim at Travelers"
+   }
+  ],
+  "event_format_fit": "Strong on mission, moderate on mechanism. Workers comp and risk control messaging (preventing workplace injuries, protecting workers) maps directly to a safety-hood film at safety stand-downs, trade schools and union halls, and Travelers' largest spend is event sponsorship (golf). A local Business Insurance or risk-control team is the likelier buyer than the national brand team.",
+  "risks": [
+   {
+    "risk": "Routine litigation and class settlements (NJ PIP, New Mexico) in claims handling (prior round, search only)",
+    "date": "2026",
+    "source_url": "",
+    "source_type": "search summary",
+    "proof_snippet": "",
+    "verification": "D"
+   },
+   {
+    "risk": "Anecdotal Glassdoor layoff reviews Aug 2026 (unverified)",
+    "date": "2026-08",
+    "source_url": "",
+    "source_type": "search summary",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "marketing_trend_2025_26": "Anchored on one marquee sponsorship (Travelers Championship, now elevated to the 2028 Championship Series), content marketing from claims data (annual Injury Impact Report, risk control resources), and community/first-responder goodwill programs.",
+  "ladder_log": [
+   {
+    "url": "https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Injury-Impact-Report-Highlights-Longer-Recovery-Times-Amid-Declining-Injury-Rates/default.aspx",
+    "rung": "brand newsroom",
+    "result": "200, quote verbatim"
+   },
+   {
+    "url": "https://amp.insurancejournal.com/news/east/2026/06/22/874790.htm",
+    "rung": "trade press",
+    "result": "200, verbatim"
+   },
+   {
+    "url": "https://travelerschampionship.com/health-care-worker-first-responder-admission-program/",
+    "rung": "event listing",
+    "result": "200, verbatim"
+   },
+   {
+    "url": "https://www.cbia.com/news/member-news/travelers-championship-part-of-elite-pga-tour-tier",
+    "rung": "trade press",
+    "result": "200, verbatim"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm",
+    "rung": "sec filing",
+    "result": "403; advertising line not found in search summary"
+   },
+   {
+    "url": "https://www.eagletribune.com/region/travelers-announces-the-start-of-the-2026-travelers-championship/article_e1004e5d-d707-5356-bf9e-a57fe722ff23.html",
+    "rung": "trade press",
+    "result": "404"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20260603018411/en/Travelers-and-the-National-Trust-for-Historic-Preservation-Bring-National-Resilience-Initiative-to-Connecticut",
+    "rung": "direct",
+    "result": "blocked"
+   }
+  ],
+  "notes_unverified": "Prior-round claim of title sponsorship 'extended through 2030' NOT confirmed in rereads; do not use. Dates for 2026 Championship vary across sources (Jun 22-28 / Jun 25-28 / Jun 24-29). Admission program is Servpro-led; Travelers role unconfirmed. No AOR confirmed (a Fallon Minneapolis umbrella spot exists but is undated). No event-marketing job posting found. Philanthropy (Team Rubicon, charity totals) ignored per rules."
+ },
+ {
+  "brand": "Polaris",
+  "parent": "Polaris Inc.",
+  "domain": "polaris.com",
+  "hq": "Medina, MN (press releases datelined Minneapolis)",
+  "ownership": "Public (NYSE: PII)",
+  "category": "Powersports, trailers, farm & ranch",
+  "competitors": [
+   "Can-Am (BRP)",
+   "John Deere Gator",
+   "Honda",
+   "Kawasaki"
+  ],
+  "ohio_note": "No Ohio-specific marketing found; none verified.",
+  "quote": {
+   "text": "it is imperative that fire and emergency teams respond with confidence, and that means having the right equipment to get the job done efficiently and effectively",
+   "url": "https://www.firerescue1.com/fire-products/fire-apparatus/polaris-government-and-defense-expands-fire-and-rescue-capabilities",
+   "date_of_source": "2025-04-09",
+   "speaker": "Tony Stanley, Business Development, Polaris Government and Defense",
+   "source_type": "trade press carrying brand press release"
+  },
+  "activations": [
+   {
+    "type": "live_experiential",
+    "event_or_property": "Polaris Government and Defense fire and rescue lineup with new QTAC firefighting skids at FDIC International",
+    "location": "Indianapolis, IN (city unverified in page)",
+    "dates": "2025-04",
+    "scale": "trade show; 2 new skids",
+    "partner_or_agency": "QTAC / MTECH",
+    "source_url": "https://www.firerescue1.com/fire-products/fire-apparatus/polaris-government-and-defense-expands-fire-and-rescue-capabilities",
+    "date_of_source": "2025-04-09",
+    "source_type": "trade press",
+    "proof_snippet": "featuring QTAC skids making FDIC International debut",
+    "verification": "A"
+   },
+   {
+    "type": "live_experiential",
+    "event_or_property": "Polaris Government and Defense at FDIC International 2026, Booth 3775: high-capacity firefighting skid, Rescue-X enclosed rescue skid",
+    "location": "Indianapolis, IN",
+    "dates": "2026-04-20 to 04-25",
+    "scale": "trade show",
+    "partner_or_agency": "none",
+    "source_url": "https://military.polaris.com/en-us/news/polaris-government-and-defense-expands-public-safety-lineup-with-high-capacity-firefighting-and-enclosed-rescue-solutions/",
+    "date_of_source": "2026-04",
+    "source_type": "brand newsroom (403 to rawfetch; search summary only)",
+    "proof_snippet": "",
+    "verification": "D"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Partner, AMSOIL Championship Off-Road 2025 season",
+    "location": "US (series)",
+    "dates": "2025 season; announced 2025-05-13",
+    "scale": "series",
+    "partner_or_agency": "AMSOIL Championship Off-Road",
+    "source_url": "https://champoffroad.com/polaris-and-amsoil-championship-off-road-partner-for-the-2025-season/",
+    "date_of_source": "2025-05-13",
+    "source_type": "partner site",
+    "proof_snippet": "today announce their official partnership for the 2025 season",
+    "verification": "A"
+   },
+   {
+    "type": "ambassador",
+    "event_or_property": "Multi-year partnership with creator Cleetus McFarland incl. events and content (dealer demo and co-marketing)",
+    "location": "US",
+    "dates": "announced 2026-04-07",
+    "scale": "multi-year; terms undisclosed",
+    "partner_or_agency": "Cleetus McFarland",
+    "source_url": "https://www.polaris.com/en-us/news/community/polaris-teams-up-with-cleetus-mcfarland-and-motorsports-community",
+    "date_of_source": "2026-04-07",
+    "source_type": "brand newsroom (403 to rawfetch; search summary only)",
+    "proof_snippet": "",
+    "verification": "D"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "2025 Rodeo Tour athlete lineup and PRCA pickup men sponsorship (16 rodeos incl. NFR)",
+    "location": "US rodeos",
+    "dates": "2025",
+    "scale": "multi-year PRCA",
+    "partner_or_agency": "PRCA",
+    "source_url": "https://www.polaris.com/en-ca/news/community/polaris-announces-2025-rodeo-tour-athlete-lineup-and-sponsorship-of-pickup-men/",
+    "date_of_source": "2025",
+    "source_type": "brand newsroom (403)",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "media_spend": {
+   "estimate": "Advertising expense $85.7M in 2025 ($85.5M 2024, $94.1M 2023) per FY2025 10-K (search summary only; sec.gov 403)",
+   "source": "Polaris FY2025 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/931015/000162828026008033/pii-20251231.htm",
+   "date": "2026-02 (10-K)",
+   "label": "ESTIMATE (verification D)"
+  },
+  "agency_of_record": {
+   "name": "",
+   "source_url": "",
+   "proof_snippet": "",
+   "date_of_source": ""
+  },
+  "sponsored_properties": [
+   "PRCA pickup men / Rodeo Tour",
+   "AMSOIL Championship Off-Road",
+   "BFGoodrich Mint 400 (2025)",
+   "Cleetus McFarland",
+   "FDIC International (exhibitor)"
+  ],
+  "roles": [
+   {
+    "title": "Business Development, Polaris Government and Defense",
+    "team": "Fire and rescue",
+    "name": "Tony Stanley",
+    "source_url": "https://www.firerescue1.com/fire-products/fire-apparatus/polaris-government-and-defense-expands-fire-and-rescue-capabilities",
+    "proof_snippet": "said tony stanley, business development, polaris government and defense"
+   },
+   {
+    "title": "Director of Polaris RZR Racing",
+    "team": "Off Road racing marketing",
+    "name": "Alex Scheuerell",
+    "source_url": "https://champoffroad.com/polaris-and-amsoil-championship-off-road-partner-for-the-2025-season/",
+    "proof_snippet": "Alex Scheuerell, director of Polaris RZR Racing"
+   }
+  ],
+  "event_format_fit": "Moderate. Polaris Government and Defense sells Ranger fire/rescue UTVs directly to departments and exhibits at FDIC, so fire stations and first-responder stand-downs match that business unit. Consumer marketing is motorsports, rodeo and creators, less aligned with heritage film. Best contact route is Government and Defense, not consumer Off Road marketing.",
+  "risks": [
+   {
+    "risk": "Osceola, WI plant closure: WARN notice for 189 employees, effective 2026-07-27",
+    "date": "2026-07",
+    "source_url": "https://layofftracker.us/layoff-tracker/polaris-osceola-wi-jul-2026-layoffs/uD1YhN",
+    "source_type": "third-party tracker",
+    "proof_snippet": "filed a warn notice reporting 189 affected employees",
+    "verification": "B"
+   },
+   {
+    "risk": "Restructuring costs $9.2M Q1 2026, $7.5M Q2 2026; $2.0M class action expense Q2 2026 (search summary of 8-K)",
+    "date": "2026",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/0000931015/000162828026049902/pii-q22026earningsrelease.htm",
+    "source_type": "sec filing (403)",
+    "proof_snippet": "",
+    "verification": "D"
+   },
+   {
+    "risk": "CPSC recall 2025-10-30, about 5,130 Ranger XP 1000 units, fire hazard (prior round; unverified)",
+    "date": "2025-10-30",
+    "source_url": "",
+    "source_type": "search summary",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "marketing_trend_2025_26": "Creator and motorsport partnerships (Cleetus McFarland, AMSOIL Championship Off-Road), rodeo, and a growing government/first responder push with Ranger fire and rescue skids; corporate restructuring and sale of Indian Motorcycle may constrain discretionary spend.",
+  "ladder_log": [
+   {
+    "url": "https://www.firerescue1.com/fire-products/fire-apparatus/polaris-government-and-defense-expands-fire-and-rescue-capabilities",
+    "rung": "trade press",
+    "result": "200, quote verbatim"
+   },
+   {
+    "url": "https://champoffroad.com/polaris-and-amsoil-championship-off-road-partner-for-the-2025-season/",
+    "rung": "partner site",
+    "result": "200, verbatim"
+   },
+   {
+    "url": "https://www.polaris.com/en-ca/news/community/polaris-teams-up-with-cleetus-mcfarland-and-motorsports-community/",
+    "rung": "brand newsroom",
+    "result": "403"
+   },
+   {
+    "url": "https://military.polaris.com/en-us/news/polaris-government-and-defense-expands-public-safety-lineup-with-high-capacity-firefighting-and-enclosed-rescue-solutions/",
+    "rung": "brand newsroom",
+    "result": "403"
+   },
+   {
+    "url": "https://www.fireengineering.com/?p=715954",
+    "rung": "trade press",
+    "result": "403"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/931015/000162828026008033/pii-20251231.htm",
+    "rung": "sec filing",
+    "result": "403"
+   },
+   {
+    "url": "https://layofftracker.us/layoff-tracker/polaris-osceola-wi-jul-2026-layoffs/uD1YhN",
+    "rung": "trade press",
+    "result": "200, verbatim"
+   }
+  ],
+  "notes_unverified": "2026 FDIC, Cleetus, rodeo and 10-K figures are from search summaries only (sources 403). Prior-round BFGoodrich Mint 400 not re-read. No agency of record found (an Adweek item on McKinney + Silver is undated and old). No Polaris job posting for event marketing found. Indian Motorcycle sale announced Oct 2025 per search summary."
+ },
+ {
+  "brand": "Wolverine",
+  "parent": "Wolverine World Wide, Inc.",
+  "domain": "wolverine.com",
+  "hq": "Rockford, MI",
+  "ownership": "Public (NYSE: WWW)",
+  "category": "Workwear & work boots",
+  "competitors": [
+   "Carhartt",
+   "Red Wing",
+   "Timberland PRO",
+   "Cat Footwear",
+   "Ariat"
+  ],
+  "ohio_note": "No Ohio-specific activation found; the Trades Tour used a VIP experience at Jordan Davis shows 'in their area' (national).",
+  "quote": {
+   "text": "Wolverine has always stood for the people who power progress with their hands and minds",
+   "url": "https://finviz.com/news/221248/wolverine-puts-boots-on-the-ground-in-landman-for-a-new-partnership-with-paramounts-blockbuster-hit",
+   "date_of_source": "2025-11-06",
+   "speaker": "Scott Schoessel, Chief Marketing Officer, Wolverine",
+   "source_type": "wire mirror (PR Newswire via Finviz)"
+  },
+  "activations": [
+   {
+    "type": "content",
+    "event_or_property": "Exclusive work boot partner of Paramount+ 'Landman' S2: 'Out Do Every Day' brand spot with real tradespeople, product placement, retail programs, influencer activations",
+    "location": "National",
+    "dates": "announced 2025-11-06; S2 premiere 2025-11-16",
+    "scale": "terms undisclosed",
+    "partner_or_agency": "Paramount+, Taylor Sheridan's Landman; agency not found",
+    "source_url": "https://finviz.com/news/221248/wolverine-puts-boots-on-the-ground-in-landman-for-a-new-partnership-with-paramounts-blockbuster-hit",
+    "date_of_source": "2025-11-06",
+    "source_type": "wire mirror",
+    "proof_snippet": "exclusive work boot partner",
+    "verification": "A"
+   },
+   {
+    "type": "ambassador",
+    "event_or_property": "Wolverine x Jordan Davis Trades Tour: 8 trades businesses with VIP experience at 'Ain't Enough Road' tour shows and tour promotion (cash grants ignored as non-commercial)",
+    "location": "US tour stops",
+    "dates": "launched 2025-05-07; shows fall 2025",
+    "scale": "co-branded tour tie-in",
+    "partner_or_agency": "Jordan Davis",
+    "source_url": "https://www.prnewswire.com/news-releases/wolverine-boots-and-country-superstar-jordan-davis-team-up-to-support-american-tradespeople-302448677.html",
+    "date_of_source": "2025-05-07",
+    "source_type": "wire (PR Newswire)",
+    "proof_snippet": "VIP experience at a Jordan Davis show in their area",
+    "verification": "A"
+   },
+   {
+    "type": "ambassador",
+    "event_or_property": "Trades Tour program page: Wolverine-sponsored business status",
+    "location": "US",
+    "dates": "2025",
+    "scale": "8 businesses",
+    "partner_or_agency": "Jordan Davis",
+    "source_url": "https://www.wolverine.com/US/en/trades-tour/",
+    "date_of_source": "2025 (page, undated)",
+    "source_type": "brand site",
+    "proof_snippet": "become a Wolverine-sponsored business through honoring their dedication to the trades",
+    "verification": "B"
+   },
+   {
+    "type": "retail_event",
+    "event_or_property": "Wolverine + Landman work wear collection on wolverine.com ('Boots built for the patch')",
+    "location": "National e-commerce",
+    "dates": "fall 2025",
+    "scale": "34 products at crawl",
+    "partner_or_agency": "Paramount+",
+    "source_url": "https://www.wolverine.com/US/en/landman/",
+    "date_of_source": "2025-11 (page undated)",
+    "source_type": "brand site",
+    "proof_snippet": "Boots built for the patch",
+    "verification": "B"
+   }
+  ],
+  "media_spend": {
+   "estimate": "",
+   "source": "",
+   "url": "",
+   "date": "",
+   "label": ""
+  },
+  "agency_of_record": {
+   "name": "",
+   "source_url": "",
+   "proof_snippet": "",
+   "date_of_source": ""
+  },
+  "sponsored_properties": [
+   "Paramount+ Landman (exclusive work boot partner)",
+   "Jordan Davis Ain't Enough Road tour / Trades Tour"
+  ],
+  "roles": [
+   {
+    "title": "Chief Marketing Officer, Wolverine",
+    "team": "Marketing",
+    "name": "Scott Schoessel",
+    "source_url": "https://finviz.com/news/221248/wolverine-puts-boots-on-the-ground-in-landman-for-a-new-partnership-with-paramounts-blockbuster-hit",
+    "proof_snippet": "said Scott Schoessel, chief marketing officer at Wolverine"
+   },
+   {
+    "title": "Senior Director of Marketing, Wolverine",
+    "team": "Brand marketing",
+    "name": "Lauren King",
+    "source_url": "https://www.prnewswire.com/news-releases/wolverine-boots-and-country-superstar-jordan-davis-team-up-to-support-american-tradespeople-302448677.html",
+    "proof_snippet": "senior director of marketing for Wolverine"
+   }
+  ],
+  "event_format_fit": "Very strong. Wolverine's identity is 'the people who power progress with their hands' and it has already paid for a tour built around skilled trades businesses and a trades-driven TV partnership. A heritage short on Garrett Morgan screened at trade schools, union halls and job sites matches its stated 'real tradespeople' creative direction. Caveat: PFAS history may add reputational scrutiny for a safety-themed sponsor.",
+  "risks": [
+   {
+    "risk": "PFAS contamination legacy: Wolverine World Wide operated dumpsites in Belmont and Rockford that contaminated drinking water; ongoing litigation (prior round, 2025-12 suit per 10-K search summary, unverified)",
+    "date": "ongoing",
+    "source_url": "https://en.wikipedia.org/wiki/Wolverine_World_Wide",
+    "source_type": "reference",
+    "proof_snippet": "contaminated the drinking water of hundreds of residents",
+    "verification": "B"
+   },
+   {
+    "risk": "Wolverine brand revenue down about 2.5% in Q1 2026 (search summary of Seeking Alpha)",
+    "date": "2026-05-14",
+    "source_url": "https://seekingalpha.com/pr/20514852",
+    "source_type": "wire mirror (403)",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "marketing_trend_2025_26": "Entertainment-led work boot marketing (Landman, Jordan Davis) with 'real tradespeople' creative and trades small-business programs; parent says progress at Wolverine in Q2 2026 (search summary).",
+  "ladder_log": [
+   {
+    "url": "https://finviz.com/news/221248/wolverine-puts-boots-on-the-ground-in-landman-for-a-new-partnership-with-paramounts-blockbuster-hit",
+    "rung": "wire mirror",
+    "result": "200, verbatim"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/wolverine-boots-and-country-superstar-jordan-davis-team-up-to-support-american-tradespeople-302448677.html",
+    "rung": "wire",
+    "result": "200, verbatim"
+   },
+   {
+    "url": "https://www.wolverine.com/US/en/trades-tour/",
+    "rung": "brand site",
+    "result": "200, verbatim"
+   },
+   {
+    "url": "https://www.stocktitan.net/news/WWW/wolverine-puts-boots-on-the-ground-in-landman-for-a-new-partnership-1y9qdybrnras.html",
+    "rung": "trade press",
+    "result": "403"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20260514660422/en",
+    "rung": "wire",
+    "result": "blocked"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/110471/000162828026011956/www-20260226.htm",
+    "rung": "sec filing",
+    "result": "403"
+   },
+   {
+    "url": "https://wolverineworldwide.gcs-web.com/node/28636",
+    "rung": "brand newsroom",
+    "result": "403"
+   }
+  ],
+  "notes_unverified": "No 2026 Wolverine-brand activation found (WebSearch budget ran out mid-batch, so 2026 Wolverine, ad-spend and agency searches were not completed). No media spend or agency of record. Trades Tour cash sponsorship ($7,500 plus gear) ignored as grants. PFAS 2025-12 federal suit and Feb 2026 Michigan dispute not re-verified. Landman S3 plans unknown."
+ }
+]

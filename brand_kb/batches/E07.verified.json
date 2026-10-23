@@ -1,0 +1,989 @@
+{
+ "results": [
+  {
+   "brand": "Liberty Mutual",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Liberty Mutual Music City Bowl (title sponsor, 2025 edition and beyond)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "New York Liberty WNBA multiyear jersey sponsor plus Barclays Center branding and co-created content",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Liberty Biberty character campaign (TV, streaming, social, media integrations, creator collaborations)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "MediaRadar advertiser profile: Liberty Mutual Insurance",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "GS&P named Liberty Mutual's creative agency of record (Limu Emu & Doug)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Nissan",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Nissan Heisman House road-trip campaign (Heisman Trophy sponsorship)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Digital graffiti projection-mapped vehicle activation at college football tailgates",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "5WPR appointed communications agency of record for multicultural consumers, including experiential events",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "MediaRadar profile: Nissan (brand)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Bobcat",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Official Equipment Partner, inaugural MoonPay X Games League summer season (crews building BMX dirt courses)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "'Work Worth Doing' community heroes initiative with brand ambassadors Chip Gaines, Josh Duhamel, Justin Moore, Ryan Nyquist",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "McCann Toronto named agency of record for brand and creative strategy",
+     "verified": false,
+     "rung": "blocked",
+     "http": "403",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Bobcat North Dakota Open title sponsorship (62nd tournament)",
+     "verified": false,
+     "rung": "blocked",
+     "http": "403",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Giant Eagle",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "'Giant Buggy' motorized shopping cart city tour and Cavaliers Fan Fest at Gateway Plaza (3-8 p.m.)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Grocery TV in-store retail media (Leap network) scale-up to nearly 200 stores",
+     "verified": false,
+     "rung": "blocked",
+     "http": "403",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Stihl",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "'Made for America' ad campaign: 60s and 30s broadcast spots with smokejumpers, wildfire firefighters, ranchers, construction workers",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "STIHL TIMBERSPORTS 2026 season opener (North American Trophy, Women's Cup, Hot Saw Showdown)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "STIHL TIMBERSPORTS U.S. Championships",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Equip Expo 2025 booth and outdoor demo area with activations",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "'Timber! Chop it like it's hot' five-episode TIMBERSPORTS docuseries",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  }
+ ],
+ "batch": [
+  {
+   "brand": "Liberty Mutual",
+   "parent": "Liberty Mutual Group",
+   "domain": "libertymutual.com",
+   "hq": "Boston, MA",
+   "ownership": "Mutual holding company (policyholder-owned)",
+   "category": "Insurance (personal and commercial; Risk Control workplace safety services)",
+   "competitors": [
+    "Nationwide",
+    "Travelers",
+    "Progressive",
+    "State Farm"
+   ],
+   "ohio_note": "Large Ohio presence not verified this round; Ohio flag not set in prior rounds.",
+   "quote": {
+    "text": "underscoring our commitment to protecting workers and supporting safer, more resilient businesses",
+    "url": "https://www.libertymutualgroup.com/about-lm/news/articles/us-companies-spend-50.87b-year-top-ten-causes-serious-workplace-injuries-according-2025-liberty-mutual-workplace-safety-index",
+    "date_of_source": "2025-07-15",
+    "speaker": "Dorothy Doyle, SVP and GM, Risk Control, Liberty Mutual",
+    "source_type": "brand newsroom"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Liberty Mutual Music City Bowl (title sponsor, 2025 edition and beyond)",
+     "location": "Nashville, TN (Nissan Stadium)",
+     "dates": "Announced 2025-10-21; game 2025-12-30",
+     "scale": "national bowl broadcast",
+     "partner_or_agency": "Music City Bowl, Inc.",
+     "source_url": "https://agencychecklists.com/2025/10/24/liberty-mutual-insurance-signs-as-title-sponsor-of-music-city-bowl-77895/",
+     "date_of_source": "2025-10-24",
+     "source_type": "trade press (release repost)",
+     "proof_snippet": "new title sponsor of its annual college football bowl game played in nashville",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "New York Liberty WNBA multiyear jersey sponsor plus Barclays Center branding and co-created content",
+     "location": "Brooklyn, NY",
+     "dates": "from 2025 season",
+     "scale": "jersey logo, seatbacks, court signage, digital content",
+     "partner_or_agency": "New York Liberty",
+     "source_url": "https://www.insurancebusinessmag.com/us/news/breaking-news/liberty-mutual-insurance-partners-with-new-york-liberty-534218.aspx",
+     "date_of_source": "2025-05-02",
+     "source_type": "trade press",
+     "proof_snippet": "multiyear partnership with new york liberty",
+     "verification": "A"
+    },
+    {
+     "type": "content",
+     "event_or_property": "Liberty Biberty character campaign (TV, streaming, social, media integrations, creator collaborations)",
+     "location": "US national",
+     "dates": "launched 2026-07-24",
+     "scale": "first new brand character in 8 years",
+     "partner_or_agency": "Bandits & Friends; Jim Henson's Creature Shop",
+     "source_url": "https://www.insurancejournal.com/news/national/2026/07/24/878751.htm",
+     "date_of_source": "2026-07-24",
+     "source_type": "trade press",
+     "proof_snippet": "rolled out across television, streaming, social media, media integrations and creator collaborations",
+     "verification": "A"
+    },
+    {
+     "type": "media_spend",
+     "event_or_property": "MediaRadar advertiser profile: Liberty Mutual Insurance",
+     "location": "US",
+     "dates": "trailing year (profile shows ads through 10/2026)",
+     "scale": "over $100 million digital/print/national TV",
+     "partner_or_agency": "MediaRadar",
+     "source_url": "https://advertisers.mediaradar.com/liberty-mutual-insurance-advertising-profile",
+     "date_of_source": "2026-10",
+     "source_type": "named third-party estimate",
+     "proof_snippet": "they spent over $100 million on advertising in digital, print, and national tv in the last year",
+     "verification": "A"
+    },
+    {
+     "type": "agency",
+     "event_or_property": "GS&P named Liberty Mutual's creative agency of record (Limu Emu & Doug)",
+     "location": "US",
+     "dates": "2019 release",
+     "scale": "national",
+     "partner_or_agency": "Goodby Silverstein & Partners",
+     "source_url": "https://www.libertymutualgroup.com/about-lm/news/news-release-archive/articles/introducing-limu-emu-and-doug",
+     "date_of_source": "2019",
+     "source_type": "brand newsroom",
+     "proof_snippet": "liberty mutual's creative agency of record",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "Over $100 million (digital, print, national TV, trailing year) - ESTIMATE",
+    "source": "MediaRadar advertiser profile",
+    "url": "https://advertisers.mediaradar.com/liberty-mutual-insurance-advertising-profile",
+    "date": "2026-10",
+    "label": "ESTIMATE"
+   },
+   "agency_of_record": {
+    "name": "Goodby Silverstein & Partners (creative); Bandits & Friends on Liberty Biberty 2026",
+    "source_url": "https://www.libertymutualgroup.com/about-lm/news/news-release-archive/articles/introducing-limu-emu-and-doug",
+    "proof_snippet": "liberty mutual's creative agency of record",
+    "date_of_source": "2019 (GS&P); 2026-07-24 (Bandits & Friends)"
+   },
+   "sponsored_properties": [
+    "Liberty Mutual Music City Bowl",
+    "New York Liberty (WNBA)",
+    "Liberty Mutual Safety Innovation Award in Construction (with CPWR; per search summary, 2025 edition unconfirmed)"
+   ],
+   "roles": [
+    {
+     "title": "Senior Vice President and General Manager, Risk Control",
+     "team": "Risk Control (workplace safety)",
+     "name": "Dorothy Doyle",
+     "source_url": "https://www.libertymutualgroup.com/about-lm/news/articles/us-companies-spend-50.87b-year-top-ten-causes-serious-workplace-injuries-according-2025-liberty-mutual-workplace-safety-index",
+     "proof_snippet": "senior vice president and general manager, risk control, dorothy doyle",
+     "verified_by_script": true
+    },
+    {
+     "title": "Chief Marketing Officer, U.S. Retail Markets",
+     "team": "Brand/marketing",
+     "name": "Jenna Lebel",
+     "source_url": "https://www.insurancejournal.com/news/national/2026/07/24/878751.htm",
+     "proof_snippet": "jenna lebel, liberty mutual's chief marketing officer, u.s. retail markets",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Best fit is the Risk Control / workplace-safety side (Workplace Safety Index, construction Safety Innovation Award with CPWR) rather than the consumer brand, which spends on big-league and bowl sponsorships. A local trades/safety stand-down screening aligns with the worker-safety positioning; consumer marketing is character-led and national.",
+   "risks": [
+    {
+     "risk": "Everest ransomware claim against Liberty Mutual; Liberty Mutual had not publicly responded",
+     "date": "2026-05-04",
+     "source_url": "https://www.teiss.co.uk/news/liberty-mutual-listed-on-ransomware-leak-site-as-everest-group-claims-108-gb-data-theft-17444",
+     "source_type": "trade press",
+     "proof_snippet": "liberty mutual has not publicly responded to the claims",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    },
+    {
+     "risk": "Proposed class action over the data incident filed D. Mass. 2026-05-06 (allegations only)",
+     "date": "2026-05",
+     "source_url": "https://www.stuevesiegel.com/what-investigations-Liberty-Mutual-data-breach",
+     "source_type": "law-firm page",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Shift to sports-rights sponsorships (WNBA jersey patch 2025, title bowl sponsorship Oct 2025) plus character-led creative (Limu Emu & Doug, Liberty Biberty 2026); safety content lives in Risk Control research.",
+   "ladder_log": [
+    {
+     "url": "libertymutualgroup.com safety index",
+     "rung": "brand newsroom",
+     "result": "200 verbatim"
+    },
+    {
+     "url": "insurancenewsnet.com Everest lawsuit",
+     "rung": "direct",
+     "result": "blocked; used teiss.co.uk trade press"
+    },
+    {
+     "url": "bankinfosecurity/scamicide/themuse/icims",
+     "rung": "direct",
+     "result": "blocked/no match"
+    },
+    {
+     "url": "ihire.com sponsorship activation job",
+     "rung": "job listing",
+     "result": "200 but no match for experiential text; job claims left unverified"
+    }
+   ],
+   "notes_unverified": "Job postings (Senior Marketing Specialist, Sponsorship Activation Program Manager) seen in search summaries only; page text not verified. Safety Innovation Award 2025 edition unconfirmed. WebSearch budget was exhausted mid-batch (shared limit), so later brands relied on direct page fetches."
+  },
+  {
+   "brand": "Nissan",
+   "parent": "Nissan Motor Co., Ltd.",
+   "domain": "nissanusa.com",
+   "hq": "Franklin, TN (Nissan Americas); Yokohama, Japan (parent)",
+   "ownership": "Public (Tokyo: 7201)",
+   "category": "Auto, truck and mobility",
+   "competitors": [
+    "Toyota",
+    "Honda",
+    "Ford",
+    "Chevrolet"
+   ],
+   "ohio_note": "No Ohio-specific activation found. US plants are Smyrna and Decherd TN and Canton MS.",
+   "quote": {
+    "text": "this special edition honors the workers, communities and enduring spirit that drive our industry and our country forward",
+    "url": "https://theshopmag.com/news/nissan-250th-anniversary-edition-frontier-pickup/?amp=1",
+    "date_of_source": "2026-07-01",
+    "speaker": "Christian Meunier, chairman, Nissan Americas",
+    "source_type": "trade press (quoting Nissan release)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Nissan Heisman House road-trip campaign (Heisman Trophy sponsorship)",
+     "location": "US national TV (ESPN, ABC, CBS, NBC, FOX)",
+     "dates": "launched 2025-08-28",
+     "scale": "five spots, national college football season",
+     "partner_or_agency": "Nissan United / TBWA\\Chiat\\Day per search summary",
+     "source_url": "https://www.mediapost.com/publications/article/408564/nissan-takes-heisman-house-on-road-trip.html",
+     "date_of_source": "2025-08-28",
+     "source_type": "trade press",
+     "proof_snippet": "this year's heisman house hijinks will take place entirely on the road",
+     "verification": "A"
+    },
+    {
+     "type": "live_experiential",
+     "event_or_property": "Digital graffiti projection-mapped vehicle activation at college football tailgates",
+     "location": "Dallas and multiple US cities",
+     "dates": "2025 (case study released 2025-07-21)",
+     "scale": "multi-city",
+     "partner_or_agency": "Interactive Dallas",
+     "source_url": "https://markets.financialcontent.com/dailytimesleader/article/getnews-2025-7-21-nissan-drives-fan-engagement-with-interactive-dallas-digital-graffiti-activation",
+     "date_of_source": "2025-07-21",
+     "source_type": "wire/partner PR",
+     "proof_snippet": "multi-city college football campaign",
+     "verification": "A"
+    },
+    {
+     "type": "agency",
+     "event_or_property": "5WPR appointed communications agency of record for multicultural consumers, including experiential events",
+     "location": "US",
+     "dates": "2025-05-02",
+     "scale": "national",
+     "partner_or_agency": "5WPR",
+     "source_url": "https://martechedge.com/news/5wpr-selected-as-nissan-uss-multicultural-communications-agency-of-record",
+     "date_of_source": "2025-05-02",
+     "source_type": "trade press (PR Newswire repost)",
+     "proof_snippet": "a variety of experiential marketing efforts",
+     "verification": "A"
+    },
+    {
+     "type": "media_spend",
+     "event_or_property": "MediaRadar profile: Nissan (brand)",
+     "location": "US",
+     "dates": "trailing year",
+     "scale": "under $100 million digital/print/national TV",
+     "partner_or_agency": "MediaRadar",
+     "source_url": "https://advertisers.mediaradar.com/nissan-advertising-profile",
+     "date_of_source": "2026-10",
+     "source_type": "named third-party estimate",
+     "proof_snippet": "they spent under $100 million on advertising in digital, print, and national tv in the last year",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "Under $100 million (digital, print, national TV, trailing year) - ESTIMATE",
+    "source": "MediaRadar",
+    "url": "https://advertisers.mediaradar.com/nissan-advertising-profile",
+    "date": "2026-10",
+    "label": "ESTIMATE"
+   },
+   "agency_of_record": {
+    "name": "5WPR (multicultural communications AOR)",
+    "source_url": "https://martechedge.com/news/5wpr-selected-as-nissan-uss-multicultural-communications-agency-of-record",
+    "proof_snippet": "communications agency of record for nissan u.s.'s strategic initiatives targeting multicultural consumers",
+    "date_of_source": "2025-05-02"
+   },
+   "sponsored_properties": [
+    "Heisman Trophy / Nissan Heisman House",
+    "Interactive college football tailgate activations",
+    "Nissan Stadium (Nashville) naming not verified this round"
+   ],
+   "roles": [
+    {
+     "title": "Chairman, Nissan Americas",
+     "team": "Executive",
+     "name": "Christian Meunier",
+     "source_url": "https://theshopmag.com/news/nissan-250th-anniversary-edition-frontier-pickup/?amp=1",
+     "proof_snippet": "said christian meunier, chairman, nissan americas",
+     "verified_by_script": true
+    },
+    {
+     "title": "Regional SVP, Manufacturing, Supply Chain Management and Purchasing, Nissan Americas",
+     "team": "Manufacturing",
+     "name": "David Johnson",
+     "source_url": "https://theshopmag.com/news/nissan-250th-anniversary-edition-frontier-pickup/?amp=1",
+     "proof_snippet": "said david johnson, regional senior vice president, manufacturing, supply chain management and purchasing, nissan americas",
+     "verified_by_script": true
+    },
+    {
+     "title": "Chief Marketing Officer (per Heisman House 2025 coverage)",
+     "team": "Marketing",
+     "name": "Allyson Witherspoon",
+     "source_url": "https://www.mediapost.com/publications/article/408564/nissan-takes-heisman-house-on-road-trip.html",
+     "proof_snippet": "allyson witherspoon, chief marketing officer",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Brand voice about American workers and truck manufacturing (Frontier 250th Anniversary Edition) fits a worker-heritage screening, and the Frontier is a work-truck tie-in. Marketing is national and sports-led; a local screening would be a small-scale ask and likely go through regional/field marketing or the 5WPR experiential team. Restructuring is a headwind.",
+   "risks": [
+    {
+     "risk": "Nissan seeking to cut nearly 2,000 US factory positions and reduce US production about 25%",
+     "date": "2025-01-29",
+     "source_url": "https://ratchetandwrench.com/site-placement/latest-news/news/55264184/nissan-looking-to-eliminate-2000-us-factory-worker-positions",
+     "source_type": "trade press",
+     "proof_snippet": "nissan is looking to eliminate nearly 2,000 u.s. factory worker positions",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    },
+    {
+     "risk": "FY2025 net loss of 533.1B yen reported May 2026 (search summary only)",
+     "date": "2026-05",
+     "source_url": "https://english.news18a.com/m/news/english_255810.html",
+     "source_type": "trade press",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Heisman House moved on the road in 2025 and returned in 2026 as 'Tell Them a Heisman Sent You'; heritage/America 250 messaging on Frontier; multicultural experiential via 5WPR; cost-cutting backdrop.",
+   "ladder_log": [
+    {
+     "url": "theshopmag.com Frontier 250th",
+     "rung": "trade press",
+     "result": "verbatim"
+    },
+    {
+     "url": "mediapost.com 2025 Heisman House",
+     "rung": "trade press",
+     "result": "verbatim"
+    },
+    {
+     "url": "mediapost 2024 Heisman House (2024-08-27)",
+     "rung": "trade press",
+     "result": "found but predates the 24-month window; not used"
+    }
+   ],
+   "notes_unverified": "Heisman 2026 'Tell Them a Heisman Sent You' (shots.net, 2026-09-01) seen but not snippet-checked. TBWA\\Chiat\\Day / Nissan United credit from search summary only. Nissan FY2025 loss from search summary only."
+  },
+  {
+   "brand": "Bobcat",
+   "parent": "Doosan Bobcat Inc. (Korea)",
+   "domain": "bobcat.com",
+   "hq": "West Fargo, ND (Bobcat Company / Doosan Bobcat North America)",
+   "ownership": "Subsidiary of publicly listed Doosan Bobcat (KRX)",
+   "category": "Compact construction equipment",
+   "competitors": [
+    "Caterpillar",
+    "Kubota",
+    "John Deere",
+    "Case Construction"
+   ],
+   "ohio_note": "No Ohio-specific activation found; sold through dealers incl. Ohio (dealer locator not checked).",
+   "quote": {
+    "text": "pairing the power and durability our customers expect with intelligence and simplicity",
+    "url": "https://constructionmagazine.news/CN/article/A473BE17-bobcat-unveils-next-evolution-compact-loaders-to-empower-operators",
+    "date_of_source": "2026-04",
+    "speaker": "Mike Ballweber, president, Doosan Bobcat North America",
+    "source_type": "trade press (quoting Bobcat CONEXPO 2026 release)"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Official Equipment Partner, inaugural MoonPay X Games League summer season (crews building BMX dirt courses)",
+     "location": "Sacramento CA; Chiba Japan; New Orleans LA",
+     "dates": "2026-06-26 to 2026-07-26",
+     "scale": "3 events, global broadcast",
+     "partner_or_agency": "X Games League",
+     "source_url": "https://www.webull.ca/news-detail/15310673780679680",
+     "date_of_source": "2026-07-29",
+     "source_type": "wire mirror (PR Newswire via Webull)",
+     "proof_snippet": "helping transform vision into reality",
+     "verification": "A"
+    },
+    {
+     "type": "ambassador",
+     "event_or_property": "'Work Worth Doing' community heroes initiative with brand ambassadors Chip Gaines, Josh Duhamel, Justin Moore, Ryan Nyquist",
+     "location": "US",
+     "dates": "from 2025-05-21 through the year",
+     "scale": "ambassador surprise visits",
+     "partner_or_agency": "brand ambassadors",
+     "source_url": "https://www.miningstockeducation.com/2025/05/bobcat-recognizes-community-heroes-through-its-work-worth-doing-initiative/",
+     "date_of_source": "2025-05-21",
+     "source_type": "wire mirror (PR Newswire repost)",
+     "proof_snippet": "enlisted its brand ambassadors",
+     "verification": "A"
+    },
+    {
+     "type": "agency",
+     "event_or_property": "McCann Toronto named agency of record for brand and creative strategy",
+     "location": "North America",
+     "dates": "appointed 2025-07-14; first campaign planned by March 2026",
+     "scale": "brand-level",
+     "partner_or_agency": "McCann Toronto",
+     "source_url": "https://lbbonline.com/news/Bobcat-Appoints-McCann-Toronto-AOR",
+     "date_of_source": "2025-07-14",
+     "source_type": "trade press",
+     "proof_snippet": "",
+     "verification": "D"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Bobcat North Dakota Open title sponsorship (62nd tournament)",
+     "location": "North Dakota",
+     "dates": "annual; 2026 edition ended Aug 22 per search summary",
+     "scale": "regional golf",
+     "partner_or_agency": "none",
+     "source_url": "https://www.constructionequipmentguide.com/bobcat-nd-open-celebrates-62nd-tournament/72126",
+     "date_of_source": "unknown",
+     "source_type": "trade press",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "McCann Toronto (brand and creative strategy)",
+    "source_url": "https://lbbonline.com/news/Bobcat-Appoints-McCann-Toronto-AOR",
+    "proof_snippet": "",
+    "date_of_source": "2025-07-14 (search result, page blocked 403)"
+   },
+   "sponsored_properties": [
+    "MoonPay X Games League (Official Equipment Partner, 2026)",
+    "Bobcat North Dakota Open",
+    "Dealer-level NASCAR race presenting (Bobcat of St. Louis, not corporate)"
+   ],
+   "roles": [
+    {
+     "title": "President, Doosan Bobcat North America",
+     "team": "Executive",
+     "name": "Mike Ballweber",
+     "source_url": "https://constructionmagazine.news/CN/article/A473BE17-bobcat-unveils-next-evolution-compact-loaders-to-empower-operators",
+     "proof_snippet": "said mike ballweber , president, doosan bobcat north america, inc.",
+     "verified_by_script": true
+    },
+    {
+     "title": "Senior Director, North America Construction Equipment",
+     "team": "Product",
+     "name": "Scott Johnson",
+     "source_url": "https://constructionmagazine.news/CN/article/A473BE17-bobcat-unveils-next-evolution-compact-loaders-to-empower-operators",
+     "proof_snippet": "said scott johnson , bobcat's senior director of north america construction equipment",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Strong fit: jobsite and operator-focused brand with a workforce-shortage message (retirement of 41 percent of the US construction workforce by 2031), ambassador-driven 'Work Worth Doing' recognition program, and X Games crew-builder positioning that spotlights the people who build. Local trade-school and jobsite screenings fit the heritage-of-craft angle.",
+   "risks": [
+    {
+     "risk": "Caterpillar ITC Section 337 investigation of Doosan Bobcat imports instituted 2026-06-26, with cross patent fight",
+     "date": "2026-06-30",
+     "source_url": "https://www.enr.com/articles/63248-international-trade-commission-opens-investigation-into-doosan-bobcat",
+     "source_type": "trade press",
+     "proof_snippet": "voted to institute an investigation",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "New agency of record (McCann, 2025) with first campaign targeted March 2026; ambassador and community-hero content; X Games equipment partnership 2026; CONEXPO 2026 launch tied to operator experience.",
+   "ladder_log": [
+    {
+     "url": "constructionequipmentguide.com ND Open",
+     "rung": "direct",
+     "result": "403 blocked; claim kept at D"
+    },
+    {
+     "url": "lbbonline.com McCann AOR",
+     "rung": "direct",
+     "result": "403 blocked; claim kept at D"
+    },
+    {
+     "url": "webull.ca PR Newswire mirror",
+     "rung": "wire mirror",
+     "result": "verbatim"
+    },
+    {
+     "url": "enr.com ITC",
+     "rung": "trade press",
+     "result": "verbatim"
+    }
+   ],
+   "notes_unverified": "Winmo lists $16,598 media spend (search summary, not used; implausible). ND Open edition date and McCann campaign launch unconfirmed. Work Worth Doing also includes a $10-per-photo NRPA donation drive (donation, ignored)."
+  },
+  {
+   "brand": "Giant Eagle",
+   "parent": "Giant Eagle, Inc. (pending acquisition by The Kroger Co.)",
+   "domain": "gianteagle.com",
+   "hq": "Pittsburgh/Cranberry Township, PA",
+   "ownership": "Private, family-owned; Kroger agreed 2026-07-01 to acquire, close expected 2027",
+   "category": "Regional grocery, pharmacy; Ohio and Cleveland consumer",
+   "competitors": [
+    "Heinen's",
+    "Kroger",
+    "Aldi",
+    "Walmart"
+   ],
+   "ohio_note": "Ohio flag Y. Major Cleveland/Northeast Ohio footprint; Cavaliers 'Giant Buggy' tour in Cleveland.",
+   "quote": {
+    "text": "today's announcement marks an exciting next chapter for our team members, customers, vendors and community partners",
+    "url": "https://www.supermarketnews.com/mergers-acquisitions/kroger-to-acquire-giant-eagle-for-1-65b",
+    "date_of_source": "2026-07-01",
+    "speaker": "Bill Artman, CEO, Giant Eagle",
+    "source_type": "trade press (quoting joint release)"
+   },
+   "activations": [
+    {
+     "type": "live_experiential",
+     "event_or_property": "'Giant Buggy' motorized shopping cart city tour and Cavaliers Fan Fest at Gateway Plaza (3-8 p.m.)",
+     "location": "Cleveland, OH",
+     "dates": "Friday and Saturday before Cavs-Knicks home playoff game, May 2026 (2026 East finals per NBA coverage; page date not printed)",
+     "scale": "multi-stop city tour plus fan fest",
+     "partner_or_agency": "Cleveland Cavaliers",
+     "source_url": "https://www.news5cleveland.com/news/local-news/cleveland-metro/giant-motorized-shopping-cart-rolls-through-cleveland-to-hype-cavs-playoff-run",
+     "date_of_source": "2026-05",
+     "source_type": "local TV news",
+     "proof_snippet": "the giant eagle \"giant buggy\" is coming to town as part of a playoff push for the cleveland cavaliers",
+     "verification": "B"
+    },
+    {
+     "type": "media_spend",
+     "event_or_property": "Grocery TV in-store retail media (Leap network) scale-up to nearly 200 stores",
+     "location": "OH, PA, WV, MD, IN",
+     "dates": "2025-02",
+     "scale": "nearly 200 stores",
+     "partner_or_agency": "Grocery TV",
+     "source_url": "https://www.retailtouchpoints.com/features/news-briefs/giant-eagle-to-scale-up-retail-media-network-across-nearly-200-stores",
+     "date_of_source": "2025-02-06",
+     "source_type": "trade press",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "Cleveland Cavaliers (Giant Buggy fan activation; formal sponsorship status unconfirmed)"
+   ],
+   "roles": [
+    {
+     "title": "Chief Executive Officer",
+     "team": "Executive",
+     "name": "Bill Artman",
+     "source_url": "https://www.supermarketnews.com/mergers-acquisitions/kroger-to-acquire-giant-eagle-for-1-65b",
+     "proof_snippet": "said bill artman, ceo at giant eagle",
+     "verified_by_script": true
+    },
+    {
+     "title": "Senior Director of Community Giving, Partnerships and Sustainability",
+     "team": "Community",
+     "name": "Dan Magrish",
+     "source_url": "https://www.fmi.org/get-involved/community-uplift/nominees/view/101-million-meals",
+     "proof_snippet": ""
+    }
+   ],
+   "event_format_fit": "Strong local fit for Northeast Ohio (libraries, fairs, union halls; UFCW-represented workforce in places) and an existing record of local fan-experience stunts. However, the pending Kroger acquisition (close 2027) may freeze or centralize new sponsorship decisions; Giant Eagle will keep its name and run as a Kroger division per CEO.",
+   "risks": [
+    {
+     "risk": "Kroger agreed to acquire Giant Eagle for $1.65B, expected close in 2027; limited store divestitures expected",
+     "date": "2026-07-01",
+     "source_url": "https://www.supermarketnews.com/mergers-acquisitions/kroger-to-acquire-giant-eagle-for-1-65b",
+     "source_type": "trade press",
+     "proof_snippet": "the transaction is expected to close in 2027",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    },
+    {
+     "risk": "GetGo business sold to Alimentation Couche-Tard in 2025",
+     "date": "2026-07-01",
+     "source_url": "https://www.wpxi.com/news/local/kroger-buy-pittsburgh-based-giant-eagle-165-billion/YLNTLQJA6BHONGSM3SVZ25WO3M/",
+     "source_type": "local TV news",
+     "proof_snippet": "last year, giant eagle sold its getgo business to alimentation couche-tard inc",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Retail media network build-out (Leap, Grocery TV 2025), Cleveland sports fan stunts, GetGo divested 2025, and acquisition by Kroger announced July 2026.",
+   "ladder_log": [
+    {
+     "url": "news5cleveland Giant Buggy",
+     "rung": "direct",
+     "result": "200; no printed date, year inferred from NBA 2026 East finals"
+    },
+    {
+     "url": "supermarketnews Kroger deal",
+     "rung": "trade press",
+     "result": "verbatim"
+    },
+    {
+     "url": "fmi.org community uplift",
+     "rung": "partner site",
+     "result": "200, undated; not used as claim"
+    }
+   ],
+   "notes_unverified": "WebSearch budget ran out before agency of record, event-marketing job postings, and Steelers/Browns/Pirates partnerships could be searched. Magrish name is from prior round page, snippet not re-verified. Buggy tour year inferred."
+  },
+  {
+   "brand": "Stihl",
+   "parent": "STIHL Group (Andreas Stihl AG & Co. KG, Waiblingen, Germany)",
+   "domain": "stihlusa.com",
+   "hq": "Virginia Beach, VA (STIHL Inc.)",
+   "ownership": "Private, family-owned (STIHL Group)",
+   "category": "Tools and outdoor power equipment",
+   "competitors": [
+    "Husqvarna",
+    "Echo",
+    "Makita (outdoor)",
+    "Milwaukee/Ryobi outdoor"
+   ],
+   "ohio_note": "Ohio flag Y from prior rounds; no Ohio activation found this round.",
+   "quote": {
+    "text": "since day one, STIHL has built tools for those who dedicate their lives to the land - not for recognition, but out of purpose",
+    "url": "https://www.stihlusa.com/en/support-events/about-stihl/press/may25-madeforamerica25",
+    "date_of_source": "2025-05-28",
+    "speaker": "Eric Bjorling, vice president of marketing, STIHL Inc.",
+    "source_type": "brand newsroom"
+   },
+   "activations": [
+    {
+     "type": "content",
+     "event_or_property": "'Made for America' ad campaign: 60s and 30s broadcast spots with smokejumpers, wildfire firefighters, ranchers, construction workers",
+     "location": "US national",
+     "dates": "launched 2025-05-28",
+     "scale": "broadcast plus campaign materials",
+     "partner_or_agency": "not named",
+     "source_url": "https://www.stihlusa.com/en/support-events/about-stihl/press/may25-madeforamerica25",
+     "date_of_source": "2025-05-28",
+     "source_type": "brand newsroom",
+     "proof_snippet": "the made for america campaign launches with 60- and 30-second broadcast spots",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "STIHL TIMBERSPORTS 2026 season opener (North American Trophy, Women's Cup, Hot Saw Showdown)",
+     "location": "Jackalope Festival, Virginia Beach, VA",
+     "dates": "2026-05-29 to 2026-05-31",
+     "scale": "thousands of fans",
+     "partner_or_agency": "Jackalope Festival",
+     "source_url": "https://www.stihlusa.com/en/support-events/about-stihl/press/stihl-timbersports-2026-season-kickoff",
+     "date_of_source": "2026-05-11",
+     "source_type": "brand newsroom",
+     "proof_snippet": "the season opens may 29-31 at the jackalope festival in virginia beach",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "STIHL TIMBERSPORTS U.S. Championships",
+     "location": "German Fest, Milwaukee, WI",
+     "dates": "July 2026 (release 2026-07-28)",
+     "scale": "three days of competition",
+     "partner_or_agency": "German Fest",
+     "source_url": "https://www.stihlusa.com/en/support-events/about-stihl/press/stihl-timbersports-crowns-2026-us-champions",
+     "date_of_source": "2026-07-28",
+     "source_type": "brand newsroom",
+     "proof_snippet": "german fest in milwaukee this weekend with three days of elite competition",
+     "verification": "A"
+    },
+    {
+     "type": "live_experiential",
+     "event_or_property": "Equip Expo 2025 booth and outdoor demo area with activations",
+     "location": "Louisville, KY (Kentucky Exposition Center)",
+     "dates": "2025-10-22 to 2025-10-24",
+     "scale": "trade show",
+     "partner_or_agency": "none",
+     "source_url": "https://www.stihlusa.com/en/support-events/about-stihl/press/oct25-equipexpopreevent",
+     "date_of_source": "2025-10-14",
+     "source_type": "brand newsroom",
+     "proof_snippet": "from bold activations to exclusive product previews",
+     "verification": "A"
+    },
+    {
+     "type": "content",
+     "event_or_property": "'Timber! Chop it like it's hot' five-episode TIMBERSPORTS docuseries",
+     "location": "stihlusa.com",
+     "dates": "released 2026-01-13",
+     "scale": "5 episodes",
+     "partner_or_agency": "director Michael McKinnis",
+     "source_url": "https://www.stihlusa.com/en/support-events/about-stihl/press/timbersports-docuseries",
+     "date_of_source": "2026-01-13",
+     "source_type": "brand newsroom",
+     "proof_snippet": "a five-episode docuseries that pulls back the curtain on the high-energy world of stihl timbersports",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "STIHL TIMBERSPORTS (owned series)",
+    "Jackalope Festival",
+    "German Fest Milwaukee",
+    "Equip Expo"
+   ],
+   "roles": [
+    {
+     "title": "Vice President of Marketing, STIHL Inc.",
+     "team": "Marketing",
+     "name": "Eric Bjorling",
+     "source_url": "https://www.stihlusa.com/en/support-events/about-stihl/press/may25-madeforamerica25",
+     "proof_snippet": "says eric bjorling, vice president of marketing for stihl inc.",
+     "verified_by_script": true
+    },
+    {
+     "title": "Director of Public Relations and Business Events, STIHL Inc.",
+     "team": "PR / events",
+     "name": "Lindsy Hooper",
+     "source_url": "https://www.stihlusa.com/en/support-events/about-stihl/press/sept25-teamrubicon25",
+     "proof_snippet": "said lindsy hooper, director of public relations and business events for stihl inc.",
+     "verified_by_script": true
+    },
+    {
+     "title": "USA Team Manager, STIHL TIMBERSPORTS",
+     "team": "Events",
+     "name": "Adam Wolff",
+     "source_url": "https://www.stihlusa.com/en/support-events/about-stihl/press/stihl-timbersports-crowns-2026-us-champions",
+     "proof_snippet": "said adam wolff, usa team manager",
+     "verified_by_script": true
+    },
+    {
+     "title": "President, STIHL Inc. (effective 2026-10-01)",
+     "team": "Executive",
+     "name": "Sean McGinnis",
+     "source_url": "https://www.stihlusa.com/en/support-events/about-stihl/press/stihl-inc-names-sean-mcginnis-president",
+     "proof_snippet": "appointment of sean mcginnis as president, effective october 1, 2026",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Excellent thematic fit: Made for America campaign explicitly honors firefighters, smokejumpers, and construction workers; owns an events property (TIMBERSPORTS) with a PR-and-business-events team, and the 100th anniversary (2026) supports a heritage angle. Leadership turnover (CEO left Feb 2026, new president Oct 2026) and a furlough are timing risks.",
+   "risks": [
+    {
+     "risk": "CEO and president Chris Keffer departed effective immediately; interim co-leadership",
+     "date": "2026-02-05",
+     "source_url": "https://www.stihlusa.com/en/support-events/about-stihl/press/stihl-inc-announces-leadership-transition",
+     "source_type": "brand newsroom",
+     "proof_snippet": "chris keffer, stihl inc. president and ceo has departed the company",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    },
+    {
+     "risk": "Temporary furloughs for roughly 30% of Virginia Beach workforce (date not printed)",
+     "date": "unconfirmed",
+     "source_url": "https://www.wtkr.com/news/stihl-inc-temporary-furloughs-roughly-30-of-vb-workforce",
+     "source_type": "local TV news",
+     "proof_snippet": "due to softening market conditions",
+     "verification": "B",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Made for America tribute campaign (May 2025), TIMBERSPORTS growth with women's cup and docuseries, 100th anniversary year (2026), AllPro battery launch.",
+   "ladder_log": [
+    {
+     "url": "stihlusa.com press pages",
+     "rung": "brand newsroom",
+     "result": "direct 200, verbatim"
+    },
+    {
+     "url": "wtkr.com furlough",
+     "rung": "direct",
+     "result": "200; date not in text"
+    },
+    {
+     "url": "rurallifestyledealer.com Keffer",
+     "rung": "trade press",
+     "result": "200"
+    }
+   ],
+   "notes_unverified": "Team Rubicon partnership (Aug 2025) is a $65K equipment plus $10K donation, treated as giving and excluded. Recall of Mar 2026 not re-verified. No agency of record or ad-spend figure found."
+  }
+ ]
+}
