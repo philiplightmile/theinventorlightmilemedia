@@ -1,0 +1,751 @@
+{
+ "results": [
+  {
+   "brand": "Mopar",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Kaulig Racing / Daniel Dye No. 10 Ram 1500, NASCAR Craftsman Truck Series",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Kaulig/Mopar Dye sponsorship (syndicated copy)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Mopar display at SEMA Show 2025",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  },
+  {
+   "brand": "Mechanix Wear",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "NASCAR Pit Crew Challenge presented by Mechanix Wear",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Mechanix Wear Most Valuable Pit Crew Award ($100,000), NASCAR renewal",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Official Work Glove of the PBR (multi-year)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Keystone Cooperative",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Keystone Cooperative Day, Indiana State Fair (second year)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Keystone Cooperative Day, Indiana State Fair (first year)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    },
+    {
+     "event": "Co-op safety presence, Indiana State Fair (90+ propane tanks, safety team)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": true
+    }
+   ]
+  },
+  {
+   "brand": "Farm Bureau Financial Services",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": true
+   },
+   "activations": [
+    {
+     "event": "Platte County Fair award sponsorships (aerospace, rate of gain, market doe)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Iowa State Fair Purple Ribbon sponsor tier",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  },
+  {
+   "brand": "Indiana Farm Bureau Insurance",
+   "quote": {
+    "verified": true,
+    "rung": "direct",
+    "http": "200",
+    "date_found_on_page": false
+   },
+   "activations": [
+    {
+     "event": "Indiana Farm Bureau Insurance Day and Ready, Set, Mow! sweepstakes (sixth annual)",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    },
+    {
+     "event": "Indianapolis Colts corporate sponsor, practice facility naming rights",
+     "verified": true,
+     "rung": "direct",
+     "http": "200",
+     "date_found_on_page": false
+    }
+   ]
+  }
+ ],
+ "batch": [
+  {
+   "brand": "Mopar",
+   "parent": "Stellantis",
+   "domain": "mopar.com",
+   "hq": "Auburn Hills, MI",
+   "ownership": "Brand of Stellantis N.V. (public)",
+   "category": "Auto parts / service",
+   "competitors": [
+    "ACDelco (GM)",
+    "Motorcraft (Ford)",
+    "AutoZone",
+    "O'Reilly Auto Parts"
+   ],
+   "ohio_note": "Stellantis builds Jeep in Toledo, OH (not verified this round); no Ohio-specific Mopar activation found.",
+   "quote": {
+    "text": "promote the durability, innovation and raw power of Ram trucks as they compete for victories each week",
+    "url": "https://blog.stellantisnorthamerica.com/2026/01/15/kaulig-racing-announces-mopar-as-full-season-sponsor-of-daniel-dye/",
+    "date_of_source": "2026-01-15",
+    "speaker": "Stellantis / Kaulig Racing release",
+    "source_type": "brand newsroom"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Kaulig Racing / Daniel Dye No. 10 Ram 1500, NASCAR Craftsman Truck Series",
+     "location": "NASCAR tracks",
+     "dates": "2026 season",
+     "scale": "full-season primary sponsor",
+     "partner_or_agency": "Kaulig Racing",
+     "source_url": "https://blog.stellantisnorthamerica.com/2026/01/15/kaulig-racing-announces-mopar-as-full-season-sponsor-of-daniel-dye/",
+     "date_of_source": "2026-01-15",
+     "source_type": "brand newsroom",
+     "proof_snippet": "will be the primary sponsor for each of Daniel Dye's races",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Kaulig/Mopar Dye sponsorship (syndicated copy)",
+     "location": "NASCAR",
+     "dates": "2026",
+     "scale": "full season",
+     "partner_or_agency": "Kaulig Racing",
+     "source_url": "https://speedwaydigest.com/?p=722231",
+     "date_of_source": "2026-01-15",
+     "source_type": "trade press",
+     "proof_snippet": "will be the primary sponsor for each of Daniel Dye's races",
+     "verification": "A"
+    },
+    {
+     "type": "live_experiential",
+     "event_or_property": "Mopar display at SEMA Show 2025",
+     "location": "Las Vegas Convention Center South Hall",
+     "dates": "Nov 4-7, 2025",
+     "scale": "customized vehicles and hundreds of parts",
+     "partner_or_agency": "",
+     "source_url": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27122",
+     "date_of_source": "2025-10-16",
+     "source_type": "brand newsroom",
+     "proof_snippet": "display area in the South Hall of the Las Vegas Convention Center",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "Ad Age profile exists but figure not seen; MediaRadar lists FCA US under $100M measured; no Mopar-specific figure",
+    "url": "https://adage.com/stellantis",
+    "date": "2025-10-14",
+    "label": "ESTIMATE (none usable)"
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "Kaulig Racing Daniel Dye No. 10 (2026)",
+    "SEMA Show",
+    "Team Peugeot TotalEnergies WEC (2026, search snippet only)"
+   ],
+   "roles": [
+    {
+     "title": "Senior Vice President, Mopar North America",
+     "team": "Mopar",
+     "name": "Darren Bradshaw",
+     "source_url": "https://speedwaydigest.com/?p=722231",
+     "proof_snippet": "said Darren Bradshaw, senior vice president of Mopar North America",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Truck/DIY mechanic audience; trade-school auto programs and job-site tie-ins plausible, but Mopar marketing is racing and SEMA centered. Needs Stellantis dealer/regional route.",
+   "risks": [
+    {
+     "risk": "Marketing concentrated in motorsports; corporate Stellantis decisions",
+     "date": "2026-01-15",
+     "source_url": "https://blog.stellantisnorthamerica.com/2026/01/15/kaulig-racing-announces-mopar-as-full-season-sponsor-of-daniel-dye/",
+     "source_type": "brand newsroom",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Return to NASCAR with Ram factory backing; SEMA concept builds; Mopar 90th anniversary in 2027.",
+   "ladder_log": [
+    {
+     "url": "https://blog.stellantisnorthamerica.com/2026/01/15/kaulig-racing-announces-mopar-as-full-season-sponsor-of-daniel-dye/",
+     "rung": "direct",
+     "result": "200, verified"
+    },
+    {
+     "url": "https://www.jayski.com/2026/01/15/kaulig-racing-announces-mopar-as-full-season-sponsor-of-daniel-dye/",
+     "rung": "direct",
+     "result": "403"
+    },
+    {
+     "url": "https://moparinsiders.com/mopar-roars-back-to-nascar-with-kaulig-racing-and-daniel-dye/",
+     "rung": "direct",
+     "result": "403"
+    },
+    {
+     "url": "https://speedwaydigest.com/?p=722231",
+     "rung": "trade press",
+     "result": "200 verified"
+    },
+    {
+     "url": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27122",
+     "rung": "brand newsroom",
+     "result": "200 verified"
+    }
+   ],
+   "notes_unverified": "Peugeot WEC and America250 items seen only in search results. SI.com page loads (si.com/onsi/racing-america/...) but not verified for snippet."
+  },
+  {
+   "brand": "Mechanix Wear",
+   "parent": "Mechanix Wear Inc",
+   "domain": "mechanix.com",
+   "hq": "Valencia, CA",
+   "ownership": "Private equity (Gryphon Investors)",
+   "category": "Work gloves / protective apparel",
+   "competitors": [
+    "Ironclad",
+    "Carhartt",
+    "Wells Lamont",
+    "Milwaukee Tool gloves"
+   ],
+   "ohio_note": "No Ohio-specific activity found.",
+   "quote": {
+    "text": "it's a celebration of the unsung heroes of NASCAR",
+    "url": "https://www.mechanix.com/us-en/blog-categories/news/the-nascar-pit-crew-challenge-presented-by-mechanix-wear-2025.html",
+    "date_of_source": "2025-05-21",
+    "speaker": "Mechanix Wear (brand blog)",
+    "source_type": "brand newsroom"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "NASCAR Pit Crew Challenge presented by Mechanix Wear",
+     "location": "North Wilkesboro Speedway, NC",
+     "dates": "May 16, 2025",
+     "scale": "38 crews, $100,000 prize",
+     "partner_or_agency": "NASCAR",
+     "source_url": "https://www.mechanix.com/us-en/blog-categories/news/the-nascar-pit-crew-challenge-presented-by-mechanix-wear-2025.html",
+     "date_of_source": "2025-05-21",
+     "source_type": "brand newsroom",
+     "proof_snippet": "outpaced 37 other crews to secure the $100,000 prize",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Mechanix Wear Most Valuable Pit Crew Award ($100,000), NASCAR renewal",
+     "location": "NASCAR",
+     "dates": "ongoing, renewed Mar 2024",
+     "scale": "$100,000 award",
+     "partner_or_agency": "NASCAR",
+     "source_url": "https://b2b.mechanix.com/blog-categories/news/blog-mechanixwear-and-nascar.html",
+     "date_of_source": "2024-03-26",
+     "source_type": "brand newsroom",
+     "proof_snippet": "Mechanix Wear will continue the Most Valuable Pit Crew Award program",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Official Work Glove of the PBR (multi-year)",
+     "location": "PBR events",
+     "dates": "from Mar 2021",
+     "scale": "multi-year, content series",
+     "partner_or_agency": "PBR",
+     "source_url": "https://pbr.com/news/2021/03/mechanix-wear-becomes-official-work-glove-of-pbr",
+     "date_of_source": "2021-03-17",
+     "source_type": "partner site",
+     "proof_snippet": "official work glove of the PBR",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "NASCAR (Official Glove since 2002)",
+    "NASCAR Pit Crew Challenge",
+    "PBR",
+    "BTCC Team Dynamics (older)"
+   ],
+   "roles": [
+    {
+     "title": "CEO",
+     "team": "Executive (leads sales, marketing, ops)",
+     "name": "Jesse Spungin",
+     "source_url": "https://performanceracing.com/magazine/industry-news/02-17-2023/mechanix-wear-names-jesse-spungin-ceo",
+     "proof_snippet": "Jesse Spungin has been promoted from president and chief operating officer",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Strong product fit (trades, mechanics, first responders) and proven appetite for sponsorship of working-crew events (pit crews, PBR work glove). Best pitch: pit-crew/skilled-trades hook.",
+   "risks": [
+    {
+     "risk": "Newest PBR evidence is 2021; current status unconfirmed",
+     "date": "2021-03-17",
+     "source_url": "https://pbr.com/news/2021/03/mechanix-wear-becomes-official-work-glove-of-pbr",
+     "source_type": "partner site",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Acquired OTEX (Mar 2026, third Gryphon-era acquisition); pit-crew hero marketing through NASCAR.",
+   "ladder_log": [
+    {
+     "url": "https://www.jayski.com/2024/03/26/mechanix-wear-extends-partnership-with-nascar/",
+     "rung": "direct",
+     "result": "403"
+    },
+    {
+     "url": "https://www.nascar.com/news-media/2023/05/17/mechanix-wear-named-presenting-sponsor-of-nascar-pit-crew-challenge/amp/",
+     "rung": "direct",
+     "result": "403 Cloudflare"
+    },
+    {
+     "url": "https://www.hendrickmotorsports.com/news/articles/prev/1762801980",
+     "rung": "direct",
+     "result": "403"
+    },
+    {
+     "url": "https://www.businesswire.com/news/home/20220104005727/en/Mechanix-Wear-Partners-with-LineDrive-to-Accelerate-Industrial-Sales-Growth-in-the-United-States",
+     "rung": "wire mirror",
+     "result": "blocked"
+    },
+    {
+     "url": "https://www.gryphon-inv.com/news/mechanix-wear-names-jesse-spungin-as-ceo/",
+     "rung": "direct",
+     "result": "429"
+    },
+    {
+     "url": "https://pulse2.com/mechanix-wear-ppe-manufacturer-acquires-otex-to-expand-tech-enabled-safety-solutions/amp/",
+     "rung": "trade press",
+     "result": "200, OTEX acquisition Mar 16 2026"
+    }
+   ],
+   "notes_unverified": "2025 MVP Pit Crew winner (Hendrick No. 9, Nov 2025) seen in search result only. No 2025-26 PBR renewal found."
+  },
+  {
+   "brand": "Keystone Cooperative",
+   "parent": "Keystone Cooperative",
+   "domain": "keystonecoop.com",
+   "hq": "Indianapolis, IN",
+   "ownership": "Farmer-owned cooperative (merger of Co-Alliance and Ceres Solutions, Mar 2024)",
+   "category": "Farm co-op / propane / fuel / agronomy",
+   "competitors": [
+    "Southern States",
+    "Ag Alliance",
+    "Heritage Cooperative",
+    "Harvest Land",
+    "Sunrise Cooperative"
+   ],
+   "ohio_note": "Serves farmer-owners in Ohio per its own release.",
+   "quote": {
+    "text": "our daily goal is for every employee to return home each evening in the same say they showed up to work that morning",
+    "url": "https://keystonecoop.com/news/keystone-news/keystone\u2019s-unwavering-commitment-to-your-safety-at",
+    "date_of_source": "2024-08-12",
+    "speaker": "Keystone Cooperative (company blog)",
+    "source_type": "brand newsroom"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Keystone Cooperative Day, Indiana State Fair (second year)",
+     "location": "Indianapolis, IN",
+     "dates": "Aug 14, 2026",
+     "scale": "single-day sponsor; backtags for 3,500 exhibitors; fair ~855,000 attendees 2025",
+     "partner_or_agency": "Indiana State Fair",
+     "source_url": "https://www.keystonecoop.com/news/keystone-news/keystone-cooperative-celebrates-4-h-youth-and-indi",
+     "date_of_source": "2026-08-05",
+     "source_type": "brand newsroom",
+     "proof_snippet": "supplies the backtags and stall cards for 3,500 livestock exhibitors",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Keystone Cooperative Day, Indiana State Fair (first year)",
+     "location": "Indianapolis, IN",
+     "dates": "Aug 8, 2025",
+     "scale": "single-day sponsor; propane-for-a-year giveaway",
+     "partner_or_agency": "Indiana State Fair",
+     "source_url": "https://www.keystonecoop.com/news/keystone-news/keystone-announces-keystone-cooperative-day-at-the",
+     "date_of_source": "2025-07-14",
+     "source_type": "brand newsroom",
+     "proof_snippet": "proud single-day sponsor",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Co-op safety presence, Indiana State Fair (90+ propane tanks, safety team)",
+     "location": "Indianapolis, IN",
+     "dates": "Aug 2024",
+     "scale": "90+ tanks",
+     "partner_or_agency": "Indiana State Fair",
+     "source_url": "https://keystonecoop.com/news/keystone-news/keystone\u2019s-unwavering-commitment-to-your-safety-at",
+     "date_of_source": "2024-08-12",
+     "source_type": "brand newsroom",
+     "proof_snippet": "return home each evening",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "Indiana State Fair single-day sponsor (2025, 2026)",
+    "Indiana Pork / 4-H backtags"
+   ],
+   "roles": [
+    {
+     "title": "Assistant VP of Propane",
+     "team": "Propane / safety",
+     "name": "Mike Hayden",
+     "source_url": "https://keystonecoop.com/news/keystone-news/keystone\u2019s-unwavering-commitment-to-your-safety-at",
+     "proof_snippet": "Mike Hayden",
+     "verified_by_script": true
+    }
+   ],
+   "event_format_fit": "Safety-culture language and propane/fuel hazards match a rescue/safety screening; fair-day sponsor shows appetite for named single-day sponsorship. Rural/farm audience, Indiana-centered with Ohio members.",
+   "risks": [
+    {
+     "risk": "Roughly $3B revenue co-op with member-focused marketing; regional (IN, MI, IL, OH)",
+     "date": "2024-03-01",
+     "source_url": "https://www.keystonecoop.com/news/keystone-news/keystone-cooperative-is-centered-on-serving-midwes",
+     "source_type": "brand newsroom",
+     "proof_snippet": "serves the interests of 20,000 farmer-owners across Indiana, Michigan, Illinois, and Ohio",
+     "verification": "A",
+     "verified_by_script": true,
+     "rung": "direct"
+    }
+   ],
+   "marketing_trend_2025_26": "Expanded Indiana State Fair presence year over year (300 to 600 pork burger vouchers); 'Propane with Purpose' school lunch debt initiative (charity, excluded).",
+   "ladder_log": [
+    {
+     "url": "https://www.keystonecoop.com/news/keystone-news/keystone-cooperative-celebrates-4-h-youth-and-indi",
+     "rung": "direct",
+     "result": "200"
+    },
+    {
+     "url": "https://www.keystonecoop.com/news/keystone-news/keystone-announces-keystone-cooperative-day-at-the",
+     "rung": "direct",
+     "result": "200"
+    },
+    {
+     "url": "https://keystonecoop.com/news/keystone-news/keystone\u2019s-unwavering-commitment-to-your-safety-at",
+     "rung": "direct",
+     "result": "200"
+    },
+    {
+     "url": "https://hoosieragtoday.com/?p=143838",
+     "rung": "trade press",
+     "result": "200 merger, Ohio included"
+    }
+   ],
+   "notes_unverified": "Hobart, IN HQ not confirmed; search says Indianapolis. Revenue $3B expected at merger; $ marketing spend unknown."
+  },
+  {
+   "brand": "Farm Bureau Financial Services",
+   "parent": "Farm Bureau Financial Services (FBL Financial Group, Farm Bureau Property & Casualty)",
+   "domain": "fbfs.com",
+   "hq": "West Des Moines, IA",
+   "ownership": "Private; affiliated with state Farm Bureau federations",
+   "category": "Insurance / financial services",
+   "competitors": [
+    "State Farm",
+    "Nationwide",
+    "Country Financial",
+    "Allstate"
+   ],
+   "ohio_note": "Operates in 14 western and Midwestern states; Ohio not confirmed.",
+   "quote": {
+    "text": "longstanding commitment to protecting livelihoods and futures",
+    "url": "https://www.fbfs.com/about-us/newsroom/newsweek-2026",
+    "date_of_source": "2026-06-26",
+    "speaker": "Farm Bureau Financial Services release",
+    "source_type": "brand newsroom"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Platte County Fair award sponsorships (aerospace, rate of gain, market doe)",
+     "location": "Platte County, NE",
+     "dates": "2026",
+     "scale": "several class sponsorships",
+     "partner_or_agency": "Nebraska Extension",
+     "source_url": "https://extension.unl.edu/statewide/platte/platte-county-fair-2026/2026-fair-award-recognition-sponsors",
+     "date_of_source": "2026",
+     "source_type": "partner site",
+     "proof_snippet": "Champion rate of gain pen of 3 heifer - Farm Bureau Financial Services",
+     "verification": "B"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Iowa State Fair Purple Ribbon sponsor tier",
+     "location": "Des Moines, IA",
+     "dates": "2026-27 list",
+     "scale": "Purple Ribbon tier",
+     "partner_or_agency": "Iowa State Fair",
+     "source_url": "https://www.iowastatefair.org/sponsors",
+     "date_of_source": "2026",
+     "source_type": "partner site",
+     "proof_snippet": "Purple Ribbon Sponsors",
+     "verification": "B"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "Iowa State Fair (Purple Ribbon)",
+    "County fairs (NE)",
+    "Local racing driver sponsorship (2024 MyRacePass, unverified)"
+   ],
+   "roles": [],
+   "event_format_fit": "Farm and rural families; agent-driven local sponsorship model fits county fair and community screening sponsorship at agent level.",
+   "risks": [
+    {
+     "risk": "Sponsorship decisions likely local agent/state level, no central activation found",
+     "date": "2026",
+     "source_url": "https://www.fbfs.com/about-us/newsroom/newsweek-2026",
+     "source_type": "brand newsroom",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Patriotism/community positioning (Newsweek 2026 list).",
+   "ladder_log": [
+    {
+     "url": "https://www.fbfs.com/about-us/newsroom/newsweek-2026",
+     "rung": "direct",
+     "result": "200 verified"
+    },
+    {
+     "url": "https://www.iowastatefair.org/sponsors",
+     "rung": "direct",
+     "result": "200 verified"
+    },
+    {
+     "url": "https://extension.unl.edu/statewide/platte/platte-county-fair-2026/2026-fair-award-recognition-sponsors",
+     "rung": "direct",
+     "result": "200 verified"
+    },
+    {
+     "url": "https://myracepass.com/drivers/107038/news/2024/article/160261/sponsor-highlight-farm-bureau-financial-services",
+     "rung": "trade press",
+     "result": "no matching text"
+    }
+   ],
+   "notes_unverified": "Platte County list is a county fair page, small spend. Iowa State Fair page text lists 'Erie Home' near FBFS; tier assignment is by list order, treat as B."
+  },
+  {
+   "brand": "Indiana Farm Bureau Insurance",
+   "parent": "Indiana Farm Bureau",
+   "domain": "infarmbureau.com",
+   "hq": "Indianapolis, IN",
+   "ownership": "Affiliated with Indiana Farm Bureau Inc.",
+   "category": "Insurance",
+   "competitors": [
+    "State Farm",
+    "Erie Insurance",
+    "Westfield",
+    "Grange"
+   ],
+   "ohio_note": "Indiana only; Ohio served by separate Farm Bureau entity.",
+   "quote": {
+    "text": "Indiana Farm Bureau Insurance is proud to be a corporate sponsor of the Indianapolis Colts",
+    "url": "https://www.infarmbureau.com/inside-story/articles/indiana-farm-bureau-insurance-s-partnership-with-the-colts",
+    "date_of_source": "2023",
+    "speaker": "Indiana Farm Bureau Insurance (company blog)",
+    "source_type": "brand newsroom"
+   },
+   "activations": [
+    {
+     "type": "sponsorship",
+     "event_or_property": "Indiana Farm Bureau Insurance Day and Ready, Set, Mow! sweepstakes (sixth annual)",
+     "location": "Indiana State Fair, Indianapolis",
+     "dates": "Aug 8, 2026",
+     "scale": "24 mower winners",
+     "partner_or_agency": "Indiana State Fair",
+     "source_url": "https://www.infarmbureau.com/news/articles/ready-set-mow-indiana-farm-bureau-insurance-day-at-the-indiana-state-fair-is-july-30",
+     "date_of_source": "2026",
+     "source_type": "brand newsroom",
+     "proof_snippet": "celebrating its sixth annual Indiana Farm Bureau Insurance Day at the Indiana State Fair",
+     "verification": "A"
+    },
+    {
+     "type": "sponsorship",
+     "event_or_property": "Indianapolis Colts corporate sponsor, practice facility naming rights",
+     "location": "Indianapolis, IN",
+     "dates": "since 2007",
+     "scale": "naming rights",
+     "partner_or_agency": "Indianapolis Colts",
+     "source_url": "https://www.infarmbureau.com/inside-story/articles/indiana-farm-bureau-insurance-s-partnership-with-the-colts",
+     "date_of_source": "2023",
+     "source_type": "brand newsroom",
+     "proof_snippet": "became the naming rights sponsor of the Indianapolis Colts practice facility",
+     "verification": "A"
+    }
+   ],
+   "media_spend": {
+    "estimate": "",
+    "source": "",
+    "url": "",
+    "date": "",
+    "label": ""
+   },
+   "agency_of_record": {
+    "name": "",
+    "source_url": "",
+    "proof_snippet": "",
+    "date_of_source": ""
+   },
+   "sponsored_properties": [
+    "Indianapolis Colts",
+    "Indiana State Fair Insurance Day",
+    "Indy 500/500 Festival (page seen, unverified)"
+   ],
+   "roles": [],
+   "event_format_fit": "Strong: named Insurance Day and Colts naming rights show appetite for presenting-level sponsorship; 'Indiana Football Center' hosts first-responder/community events; agency network for local screenings.",
+   "risks": [
+    {
+     "risk": "Syndicated pages show conflicting annual counts (fourth vs sixth), so event details need care",
+     "date": "2026",
+     "source_url": "https://www.infarmbureau.com/news/articles/ready-set-mow-indiana-farm-bureau-insurance-day-at-the-indiana-state-fair-is-july-30",
+     "source_type": "brand newsroom",
+     "proof_snippet": "",
+     "verification": "D"
+    }
+   ],
+   "marketing_trend_2025_26": "Annual state fair giveaway tie-ins; Colts patch and facility.",
+   "ladder_log": [
+    {
+     "url": "https://www.infarmbureau.com/news/articles/ready-set-mow-indiana-farm-bureau-insurance-day-at-the-indiana-state-fair-is-july-30",
+     "rung": "direct",
+     "result": "200 verified"
+    },
+    {
+     "url": "https://www.infarmbureau.com/inside-story/articles/indiana-farm-bureau-insurance-s-partnership-with-the-colts",
+     "rung": "direct",
+     "result": "200 verified"
+    },
+    {
+     "url": "https://www.infarmbureau.com/inside-story/articles/complete-2026-guide-to-county-fair-dates-in-indiana",
+     "rung": "direct",
+     "result": "200"
+    }
+   ],
+   "notes_unverified": "Colts article date unknown (mentions Anthony Richardson, ~2023). Quote is pre-cutoff."
+  }
+ ]
+}

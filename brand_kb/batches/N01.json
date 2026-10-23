@@ -1,0 +1,666 @@
+[
+ {
+  "brand": "SERVPRO",
+  "parent": "SERVPRO Industries, LLC",
+  "domain": "servpro.com",
+  "hq": "Gallatin, TN",
+  "ownership": "Private (franchisor; 2,350+ franchises US/Canada)",
+  "category": "Property restoration / cleanup services",
+  "competitors": [
+   "ServiceMaster Restore",
+   "Paul Davis Restoration",
+   "Rainbow International",
+   "PuroClean",
+   "BluSky Restoration"
+  ],
+  "ohio_note": "Firefighter Challenge League Northeast Regional Classic was held in Akron, OH, July 23-25, 2026 (first in 20 years); SERVPRO is FCL national title sponsor but Spectrum article does not name SERVPRO.",
+  "quote": {
+   "text": "Firefighters embody strength, resilience, and a commitment to serving and protecting communities",
+   "url": "https://www.servpro.com/news-press-releases/252310-servpro-extends-national-title-sponsorship-of-firefighter-challenge-league-through-2029",
+   "date_of_source": "2025-10-23",
+   "speaker": "Brett Ponton, CEO, SERVPRO Industries, LLC",
+   "source_type": "brand newsroom"
+  },
+  "activations": [
+   {
+    "type": "sponsorship",
+    "event_or_property": "Firefighter Challenge League national title sponsorship (extended through 2029 season)",
+    "location": "National, 8 events/yr",
+    "dates": "2025-10-23 announcement; through 2029",
+    "scale": "8 free public events a year; thousands of firefighter competitors",
+    "partner_or_agency": "Firefighter Challenge League (CEO Russell Jackson)",
+    "source_url": "https://www.servpro.com/news-press-releases/252310-servpro-extends-national-title-sponsorship-of-firefighter-challenge-league-through-2029",
+    "date_of_source": "2025-10-23",
+    "source_type": "brand newsroom",
+    "proof_snippet": "three-year extension of its national title sponsorship",
+    "verification": "A"
+   },
+   {
+    "type": "live_experiential",
+    "event_or_property": "SERVPRO FCL Northeast Regional Classic",
+    "location": "Akron, OH",
+    "dates": "2026-07-23 to 07-25",
+    "scale": "100+ firefighters from 18 states, 3 countries (News 5)",
+    "partner_or_agency": "FCL",
+    "source_url": "https://spectrumnews1.com/oh/columbus/news/2026/07/23/firefighter--challenge--akron--fcl",
+    "date_of_source": "2026-07-24",
+    "source_type": "trade press / local news",
+    "proof_snippet": "Akron hosts the Northeast Regional Firefighter Challenge for the first time in 20 years",
+    "verification": "B"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "FCL event schedule: events free to public",
+    "location": "US",
+    "dates": "2026 season",
+    "scale": "Season opener, 5 regional classics, US Nationals, World Championship",
+    "partner_or_agency": "FCL",
+    "source_url": "https://firefighterchallenge.com/event-schedule-ii/",
+    "date_of_source": "2026",
+    "source_type": "event listing",
+    "proof_snippet": "our events are free of charge to the public",
+    "verification": "A"
+   },
+   {
+    "type": "agency",
+    "event_or_property": "'Unexpected' national ad campaign (TV, radio, streaming, digital, social; includes first-responder feature)",
+    "location": "National",
+    "dates": "launched 2025-07-08",
+    "scale": "omnichannel",
+    "partner_or_agency": "BUNTIN",
+    "source_url": "https://markets.financialcontent.com/concordmonitor/article/gnwcq-2025-7-8-servpro-launches-unexpected-campaign-to-spotlight-franchise-heroes-and-brand-promise",
+    "date_of_source": "2025-07-08",
+    "source_type": "wire mirror",
+    "proof_snippet": "newest national advertising campaign",
+    "verification": "A"
+   }
+  ],
+  "media_spend": {
+   "estimate": "",
+   "source": "",
+   "url": "",
+   "date": "",
+   "label": ""
+  },
+  "agency_of_record": {
+   "name": "BUNTIN (Nashville)",
+   "source_url": "https://markets.financialcontent.com/concordmonitor/article/gnwcq-2025-7-8-servpro-launches-unexpected-campaign-to-spotlight-franchise-heroes-and-brand-promise",
+   "proof_snippet": "has been SERVPRO Industries, LLC's agency of record for more than 20 years",
+   "date_of_source": "2025-07-08"
+  },
+  "sponsored_properties": [
+   "Firefighter Challenge League (national title sponsor)",
+   "PGA brand ambassador program (per SERVPRO site nav 'pga'; unverified detail)"
+  ],
+  "roles": [
+   {
+    "title": "Chief Marketing Officer",
+    "team": "Marketing",
+    "name": "Rob Rajkowski",
+    "source_url": "https://servpro.com/news-press-releases/240603-servpro-chief-marketing-officer",
+    "proof_snippet": "SERVPRO Welcomes New Chief Marketing Officer Rob Rajkowski"
+   }
+  ],
+  "event_format_fit": "Strong: first-responder/fire-station audiences already core; FCL events free and public; fire-rescue theme matches Morgan 1916 tunnel rescue.",
+  "risks": [],
+  "marketing_trend_2025_26": "Shift from event-driven to expertise-driven messaging ('Unexpected'), plus long-term first-responder title sponsorship through 2029.",
+  "ladder_log": [
+   {
+    "url": "https://www.servpro.com/news-press-releases/252310-servpro-extends-national-title-sponsorship-of-firefighter-challenge-league-through-2029",
+    "rung": "direct",
+    "result": "200"
+   },
+   {
+    "url": "https://markets.financialcontent.com/concordmonitor/article/gnwcq-2025-7-8-servpro-launches-unexpected-campaign-to-spotlight-franchise-heroes-and-brand-promise",
+    "rung": "wire mirror",
+    "result": "200"
+   },
+   {
+    "url": "https://spectrumnews1.com/oh/columbus/news/2026/07/23/firefighter--challenge--akron--fcl",
+    "rung": "trade press",
+    "result": "200"
+   },
+   {
+    "url": "https://firefighterchallenge.com/west-event-page/",
+    "rung": "direct",
+    "result": "404"
+   },
+   {
+    "url": "https://www.aol.com/articles/firefighter-challenge-championship-series-coming-152251966.html",
+    "rung": "trade press",
+    "result": "404"
+   }
+  ],
+  "notes_unverified": "Original Feb 2024 title sponsorship date (search result only). 2026 Akron SERVPRO branding not stated in page. Rob Rajkowski page servpro.com/leadership 404. No media spend figure found."
+ },
+ {
+  "brand": "Mack Trucks",
+  "parent": "Volvo Group",
+  "domain": "macktrucks.com",
+  "hq": "Greensboro, NC",
+  "ownership": "Subsidiary of AB Volvo (public)",
+  "category": "Heavy-duty trucks",
+  "competitors": [
+   "Peterbilt",
+   "Kenworth",
+   "Freightliner",
+   "Volvo Trucks",
+   "International"
+  ],
+  "ohio_note": "No Ohio plant or dealer verified; Lehigh Valley Operations is in Pennsylvania.",
+  "quote": {
+   "text": "this partnership extension reinforces our shared commitment to performance, reliability and excellence",
+   "url": "https://www.macktrucks.com/mack-news/2026/mack-trucks-extends-partnership-as-official-hauler-of-nascar",
+   "date_of_source": "2026-02-10",
+   "speaker": "Jonathan Randall, president, Mack Trucks North America",
+   "source_type": "brand newsroom"
+  },
+  "activations": [
+   {
+    "type": "sponsorship",
+    "event_or_property": "Official Hauler of NASCAR (multi-year extension, 11 new Mack Pioneer trucks)",
+    "location": "Daytona and 36-race US schedule",
+    "dates": "announced 2026-02-10",
+    "scale": "17-truck fleet (11 Pioneer + 6 Anthem)",
+    "partner_or_agency": "NASCAR",
+    "source_url": "https://www.macktrucks.com/mack-news/2026/mack-trucks-extends-partnership-as-official-hauler-of-nascar",
+    "date_of_source": "2026-02-10",
+    "source_type": "brand newsroom",
+    "proof_snippet": "continuing the designation of Mack as the",
+    "verification": "A"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Official Hauler of PBR (multi-year; co-branded wrapped Pioneers, fan zone activation)",
+    "location": "Austin TX launch; PBR Teams and Unleash the Beast tours",
+    "dates": "announced 2026-08-20",
+    "scale": "2 wrapped trucks, dealer activation program, rider signings",
+    "partner_or_agency": "PBR / TKO Group",
+    "source_url": "https://www.macktrucks.com/mack-news/2026/mack-trucks-named-official-partner-of-pbr",
+    "date_of_source": "2026-08-20",
+    "source_type": "brand newsroom",
+    "proof_snippet": "dedicated concourse and fan zone activation space",
+    "verification": "A"
+   },
+   {
+    "type": "content",
+    "event_or_property": "Annual customer-truck calendar contest (2026 edition, public voting)",
+    "location": "US",
+    "dates": "Spring 2026",
+    "scale": "2025 contest reportedly 432,000 votes",
+    "partner_or_agency": "",
+    "source_url": "https://www.trucknews.com/transportation/mack-trucks-opens-2026-calendar-contest-for-working-bulldogs/1003195474",
+    "date_of_source": "2025/2026",
+    "source_type": "trade press (blocked 403, seen in search result only)",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "media_spend": {
+   "estimate": "",
+   "source": "",
+   "url": "",
+   "date": "",
+   "label": ""
+  },
+  "agency_of_record": {
+   "name": "",
+   "source_url": "",
+   "proof_snippet": "",
+   "date_of_source": ""
+  },
+  "sponsored_properties": [
+   "NASCAR (official hauler)",
+   "PBR (official hauler)"
+  ],
+  "roles": [
+   {
+    "title": "President, Mack Trucks North America",
+    "team": "Executive",
+    "name": "Jonathan Randall",
+    "source_url": "https://www.macktrucks.com/mack-news/2026/mack-trucks-extends-partnership-as-official-hauler-of-nascar",
+    "proof_snippet": "said Jonathan Randall, president of Mack Trucks North America"
+   }
+  ],
+  "event_format_fit": "Moderate-good: tradespeople (haulers, vocational drivers) fit; brand now activating with wrapped trucks at live events via dealers, which could host a screening. Heavy-sport focus, not safety-centric.",
+  "risks": [
+   {
+    "risk": "April 2025 layoffs of up to 450 at Lehigh Valley and Hagerstown, blamed on tariffs and weak demand",
+    "date": "2025-04-17",
+    "source_url": "https://www.freightwaves.com/?p=533860",
+    "source_type": "trade press",
+    "proof_snippet": "it will lay off up to 450 workers from factories in Pennsylvania and Maryland",
+    "verification": "A"
+   }
+  ],
+  "marketing_trend_2025_26": "Leaning into sports-property 'official hauler' deals (NASCAR renewal, first western sport with PBR) and dealer-activated wrapped trucks.",
+  "ladder_log": [
+   {
+    "url": "https://www.macktrucks.com/mack-news/2026/mack-trucks-extends-partnership-as-official-hauler-of-nascar",
+    "rung": "direct",
+    "result": "200"
+   },
+   {
+    "url": "https://www.macktrucks.com/mack-news/2026/mack-trucks-named-official-partner-of-pbr",
+    "rung": "direct",
+    "result": "200"
+   },
+   {
+    "url": "https://www.freightwaves.com/?p=533860",
+    "rung": "trade press",
+    "result": "200"
+   },
+   {
+    "url": "https://www.trucknews.com/transportation/mack-trucks-opens-2026-calendar-contest-for-working-bulldogs/1003195474",
+    "rung": "trade press",
+    "result": "403"
+   },
+   {
+    "url": "https://www.overdriveonline.com/pride-polish/article/14894876/zac-brown-band-partners-with-mack-trucks-anthem",
+    "rung": "trade press",
+    "result": "403"
+   },
+   {
+    "url": "https://penncapital-star.com/campaigns-elections/trump-campaigns-with-mackenzie-at-mack-trucks-plant-affected-by-tariff-layoffs/",
+    "rung": "trade press",
+    "result": "403"
+   }
+  ],
+  "notes_unverified": "Zac Brown Band tour truck is a 2018 activation (Overdrive page shows a 2026 'updated' stamp); excluded. June 2026 Trump visit to Macungie plant seen in search result only (political). No agency or media spend found. No current event-marketing job posting found."
+ },
+ {
+  "brand": "Peterbilt",
+  "parent": "PACCAR Inc",
+  "domain": "peterbilt.com",
+  "hq": "Denton, TX",
+  "ownership": "Subsidiary of PACCAR (NASDAQ: PCAR)",
+  "category": "Heavy-duty trucks",
+  "competitors": [
+   "Kenworth",
+   "Mack Trucks",
+   "Freightliner",
+   "Volvo Trucks",
+   "International"
+  ],
+  "ohio_note": "Ohio Peterbilt (independent dealer) opened a new 82,000 sq ft Etna dealership near Columbus with a July 29, 2026 grand opening featuring Diesel Brothers stars; planned ~150 employees.",
+  "quote": {
+   "text": "a tribute to the resilience and greatness of our nation and to the hardworking men and women who keep America moving every day",
+   "url": "https://www.peterbilt.com/news-and-events/press-releases/peterbilt-unveils-freedom-250-special-edition-model-589",
+   "date_of_source": "2026-05-21",
+   "speaker": "Erik Johnson, assistant general manager, sales and marketing, Peterbilt",
+   "source_type": "brand newsroom"
+  },
+  "activations": [
+   {
+    "type": "content",
+    "event_or_property": "Freedom 250 Special Edition Model 589 (250 units) plus Freedom 250 merchandise",
+    "location": "US dealers",
+    "dates": "orders through end of 2026; merch pre-sale June 2026",
+    "scale": "250 units",
+    "partner_or_agency": "",
+    "source_url": "https://www.peterbilt.com/news-and-events/press-releases/peterbilt-unveils-freedom-250-special-edition-model-589",
+    "date_of_source": "2026-05-21",
+    "source_type": "brand newsroom",
+    "proof_snippet": "exclusive Freedom 250 merchandise collection",
+    "verification": "A"
+   },
+   {
+    "type": "live_experiential",
+    "event_or_property": "Ohio Peterbilt Etna grand opening with Diesel Brothers' Heavy D and Diesel Dave (dealer-run)",
+    "location": "Etna (Columbus), OH",
+    "dates": "2026-07-29",
+    "scale": "community invited; meet-and-greet contest",
+    "partner_or_agency": "Ohio Peterbilt (dealer)",
+    "source_url": "https://www.thetrucker.com/trucking-news/the-nation/ohio-peterbilt-announces-grand-opening-celebration-featuring-diesel-brothers-stars",
+    "date_of_source": "2026-05-06",
+    "source_type": "trade press",
+    "proof_snippet": "the community is invited to join the festivities",
+    "verification": "A"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "ATA Trucking U exclusive OEM sponsor (2nd year)",
+    "location": "ATA Management Conference, Nashville",
+    "dates": "2024-10-12 to 10-15",
+    "scale": "24 students",
+    "partner_or_agency": "American Trucking Associations",
+    "source_url": "https://peterbilt.com/news-and-events/press-releases/peterbilt-sponsors-ata-s-trucking-u-for-second-consecutive-year-investing-in-trucking-leaders-of-tomorrow",
+    "date_of_source": "2024-10-08",
+    "source_type": "brand newsroom",
+    "proof_snippet": "As the exclusive OEM sponsor for the second consecutive year",
+    "verification": "B"
+   },
+   {
+    "type": "content",
+    "event_or_property": "First Peterbilt Master Technician designation (technician career program)",
+    "location": "Dealer network",
+    "dates": "2026-02-23",
+    "scale": "inaugural designee from Ohio Peterbilt",
+    "partner_or_agency": "",
+    "source_url": "https://www.peterbilt.com/news-and-events/press-releases/peterbilt-celebrates-first-master-technician-graduate",
+    "date_of_source": "2026-02-23",
+    "source_type": "brand newsroom",
+    "proof_snippet": "Peterbilt Celebrates First Master Technician Graduate",
+    "verification": "B"
+   }
+  ],
+  "media_spend": {
+   "estimate": "",
+   "source": "",
+   "url": "",
+   "date": "",
+   "label": ""
+  },
+  "agency_of_record": {
+   "name": "",
+   "source_url": "",
+   "proof_snippet": "",
+   "date_of_source": ""
+  },
+  "sponsored_properties": [
+   "ATA Trucking U (as of 2024)"
+  ],
+  "roles": [
+   {
+    "title": "Assistant General Manager, Sales and Marketing",
+    "team": "Marketing",
+    "name": "Erik Johnson",
+    "source_url": "https://www.peterbilt.com/news-and-events/press-releases/peterbilt-unveils-freedom-250-special-edition-model-589",
+    "proof_snippet": "said Erik Johnson, Peterbilt Assistant General Manager Sales and Marketing"
+   },
+   {
+    "title": "Director of Dealer Network Development",
+    "team": "Dealer network",
+    "name": "Danny Landholm",
+    "source_url": "https://www.peterbilt.com/news-and-events/press-releases/peterbilt-celebrates-first-master-technician-graduate",
+    "proof_snippet": "said Danny Landholm, Peterbilt director of dealer network development"
+   }
+  ],
+  "event_format_fit": "Good: craftsmanship/pride-of-ownership language, America 250 tie-in, dealer-hosted community events (Ohio Peterbilt) and technician-career messaging suit trade school/union hall screenings via dealers.",
+  "risks": [],
+  "marketing_trend_2025_26": "America 250 patriotic limited edition and merch; dealer-level celebrity events; technician career-path content.",
+  "ladder_log": [
+   {
+    "url": "https://www.peterbilt.com/news-and-events/press-releases/peterbilt-unveils-freedom-250-special-edition-model-589",
+    "rung": "direct",
+    "result": "200"
+   },
+   {
+    "url": "https://peterbilt.com/news-and-events/press-releases/peterbilt-sponsors-ata-s-trucking-u-for-second-consecutive-year-investing-in-trucking-leaders-of-tomorrow",
+    "rung": "direct",
+    "result": "200"
+   },
+   {
+    "url": "https://www.peterbilt.com/news-and-events/press-releases/peterbilt-celebrates-first-master-technician-graduate",
+    "rung": "direct",
+    "result": "200"
+   },
+   {
+    "url": "https://www.thetrucker.com/trucking-news/the-nation/ohio-peterbilt-announces-grand-opening-celebration-featuring-diesel-brothers-stars",
+    "rung": "trade press",
+    "result": "200"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/ohio-peterbilt-announces-grand-opening-celebration-with-special-guests-heavy-d-and-diesel-dave-302763242.html",
+    "rung": "wire mirror",
+    "result": "200 but nav text only in fetch"
+   }
+  ],
+  "notes_unverified": "MediaRadar est. PACCAR <$100M digital+print seen only in search snippet (not opened); PACCAR FY2025 10-K lists no ad line in search excerpt. Trucking U lead is dated 2024-10-08, before the 24-month window. Ohio Peterbilt is a dealer, not Peterbilt Motors."
+ },
+ {
+  "brand": "Mahindra Tractors (US)",
+  "parent": "Mahindra & Mahindra (Mahindra Ag North America, MAgNA)",
+  "domain": "mahindratractor.com",
+  "hq": "Houston, TX",
+  "ownership": "Subsidiary of Mahindra & Mahindra (India, listed)",
+  "category": "Tractors and utility vehicles (ROXOR)",
+  "competitors": [
+   "Kubota",
+   "John Deere",
+   "New Holland",
+   "Kioti",
+   "Massey Ferguson"
+  ],
+  "ohio_note": "None verified. MAgNA assembles in Houston, TX and Pontiac, MI.",
+  "quote": {
+   "text": "This event provided a chance to celebrate manufacturing, our U.S. heritage and connect with students to explore career opportunities in agriculture and manufacturing",
+   "url": "https://www.farmershotline.com/story/mahindra-aem-celebrate-manufacturing-in-houston",
+   "date_of_source": "2025-09",
+   "speaker": "Viren Popli, president and CEO, Mahindra Ag North America",
+   "source_type": "trade press"
+  },
+  "activations": [
+   {
+    "type": "live_experiential",
+    "event_or_property": "Hosted AEM Manufacturing Express bus tour stop (students, educators, employees, dealers)",
+    "location": "Houston, TX",
+    "dates": "first week of September 2025",
+    "scale": "opened facilities to local students and educators",
+    "partner_or_agency": "AEM",
+    "source_url": "https://www.farmershotline.com/story/mahindra-aem-celebrate-manufacturing-in-houston",
+    "date_of_source": "2025-09",
+    "source_type": "trade press",
+    "proof_snippet": "opened its facilities to local students and educators",
+    "verification": "B"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Stewart-Haas Racing No. 14 NASCAR anchor partner (2022-2024, 18 races in 2024)",
+    "location": "NASCAR Cup",
+    "dates": "2022-2024",
+    "scale": "15 races 2022, 16 in 2023, 18 in 2024 (per search)",
+    "partner_or_agency": "Stewart-Haas Racing",
+    "source_url": "https://www.mahindra.com/news-room/press-release/en/mahindra-partners-with-stewart-haas-racing",
+    "date_of_source": "2021-12",
+    "source_type": "brand newsroom",
+    "proof_snippet": "Chase Briscoe and Tony Stewart are relatable men of great character",
+    "verification": "C"
+   },
+   {
+    "type": "sponsorship",
+    "event_or_property": "Tony Stewart Racing NHRA Top Fuel primary sponsor for two races",
+    "location": "NHRA",
+    "dates": "2024",
+    "scale": "2 races primary",
+    "partner_or_agency": "Tony Stewart Racing",
+    "source_url": "https://competitionplus.com/mahindra-ag-partnering-with-tony-stewarts-top-fuel-dragster-in-2024/",
+    "date_of_source": "2024",
+    "source_type": "trade press (search result only)",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "media_spend": {
+   "estimate": "",
+   "source": "",
+   "url": "",
+   "date": "",
+   "label": ""
+  },
+  "agency_of_record": {
+   "name": "",
+   "source_url": "",
+   "proof_snippet": "",
+   "date_of_source": ""
+  },
+  "sponsored_properties": [
+   "None confirmed active in 2026 (SHR NASCAR ended; Briscoe said no plans Jan 2025)"
+  ],
+  "roles": [
+   {
+    "title": "President and CEO",
+    "team": "Executive",
+    "name": "Viren Popli",
+    "source_url": "https://www.farmershotline.com/story/mahindra-aem-celebrate-manufacturing-in-houston",
+    "proof_snippet": "said Viren Popli, president and CEO of MAgNA"
+   }
+  ],
+  "event_format_fit": "Moderate: manufacturing-workforce and student/career framing (AEM tour) fits trade-school screenings; rural/FFA audience. Brand in transition, so budget uncertain.",
+  "risks": [
+   {
+    "risk": "Exit from Mitsubishi Mahindra Agriculture JV; product lineup being replaced through 2026-27",
+    "date": "2026-03-09",
+    "source_url": "https://www.rurallifestyledealer.com/articles/12136-mahindra-to-launch-new-product-lines-as-it-exits-mitsubishi-jv",
+    "source_type": "trade press",
+    "proof_snippet": "Mahindra and Mitsubishi will be concluding their joint venture",
+    "verification": "A"
+   },
+   {
+    "risk": "No Mahindra sponsor on Briscoe's 2025 JGR car; NASCAR spend appears to have ended",
+    "date": "2025-01-08",
+    "source_url": "https://www.si.com/onsi/racing-america/news/chase-briscoe-currently-no-plans-for-mahindra-to-sponsor-jgr-no-19-in-2025-01jh3p9qhggj",
+    "source_type": "trade press",
+    "proof_snippet": "currently no plans to have Mahindra on the car unfortunately",
+    "verification": "A"
+   }
+  ],
+  "marketing_trend_2025_26": "Pivot from motorsports to U.S.-manufacturing-heritage and workforce messaging and new product rollout.",
+  "ladder_log": [
+   {
+    "url": "https://www.farmershotline.com/story/mahindra-aem-celebrate-manufacturing-in-houston",
+    "rung": "trade press",
+    "result": "200"
+   },
+   {
+    "url": "https://www.rurallifestyledealer.com/articles/12136-mahindra-to-launch-new-product-lines-as-it-exits-mitsubishi-jv",
+    "rung": "trade press",
+    "result": "200"
+   },
+   {
+    "url": "https://www.mahindra.com/news-room/press-release/en/mahindra-partners-with-stewart-haas-racing",
+    "rung": "direct",
+    "result": "200"
+   },
+   {
+    "url": "https://www.si.com/onsi/racing-america/news/chase-briscoe-currently-no-plans-for-mahindra-to-sponsor-jgr-no-19-in-2025-01jh3p9qhggj",
+    "rung": "trade press",
+    "result": "200"
+   },
+   {
+    "url": "https://racingamerica.com/news/nascar/mahindra-returns-as-anchor-partner-of-chase-briscoe-stewart-haas-no-14-in-2024",
+    "rung": "trade press",
+    "result": "blocked/empty"
+   },
+   {
+    "url": "https://www.progressivecattle.com/news/industry-news/mahindra-usa-announces-corporate-sponsorship-of-the-texas-ffa",
+    "rung": "trade press",
+    "result": "2011 lead, out of window"
+   }
+  ],
+  "notes_unverified": "Discovery lead (Texas FFA sponsorship) is from 2011, out of window; no current FFA deal found. Popli quote page date not printed in fetched text; Sept 2025 from search summary. SHR press release date not printed (Dec 2021 inferred). NHRA 2024 item search-only."
+ },
+ {
+  "brand": "WARN Industries",
+  "parent": "Unconfirmed: LKQ Corporation acquired Warn's aftermarket business 2017; discovery lead said Allied Powers; dealer site uses 'The WARN Group'",
+  "domain": "warn.com",
+  "hq": "Clackamas, OR",
+  "ownership": "Unconfirmed current owner (see parent)",
+  "category": "Winches, hubs, off-road/recovery gear",
+  "competitors": [
+   "Smittybilt",
+   "Superwinch",
+   "Ramsey Winch",
+   "Mile Marker",
+   "Rough Country"
+  ],
+  "ohio_note": "None. TSPORT 200 race was at Lucas Oil Indianapolis Raceway Park, IN.",
+  "quote": {
+   "text": "a leader in durable, innovative, and trusted off-road products since 1948",
+   "url": "https://speedwaydigest.com/?p=882086",
+   "date_of_source": "2026-04-13",
+   "speaker": "WARN/Lucas Oil IRP press release",
+   "source_type": "trade press"
+  },
+  "activations": [
+   {
+    "type": "sponsorship",
+    "event_or_property": "Presenting sponsor, TSPORT 200 presented by WARN, NASCAR Craftsman Truck Series",
+    "location": "Lucas Oil Indianapolis Raceway Park, IN",
+    "dates": "2026-07-24 (announced 2026-04-13)",
+    "scale": "200-lap, 137.2-mile NASCAR doubleheader weekend",
+    "partner_or_agency": "TSPORT / Lucas Oil IRP",
+    "source_url": "https://speedwaydigest.com/?p=882086",
+    "date_of_source": "2026-04-13",
+    "source_type": "trade press",
+    "proof_snippet": "Warn Industries joins as presenting sponsor for TSPORT 200 in 2026",
+    "verification": "A"
+   },
+   {
+    "type": "retail_event",
+    "event_or_property": "WARN Group dealer 'Let's Go Racing' giveaway: grand prize trip to TSPORT 200 with WARN event booth",
+    "location": "US and Canada dealers",
+    "dates": "2026-04-13 to 06-26",
+    "scale": "2 grand winners plus guests",
+    "partner_or_agency": "WARN Group dealers (WDs)",
+    "source_url": "https://warn.brandecation.com/lets-go-racing",
+    "date_of_source": "2026-04",
+    "source_type": "partner site",
+    "proof_snippet": "vip tickets to the main event TSPORT 200 NASCAR Craftsman Truck Series",
+    "verification": "A"
+   },
+   {
+    "type": "job_posting",
+    "event_or_property": "Marketing intern (10-week, hybrid)",
+    "location": "Clackamas, OR",
+    "dates": "posted 2026-02-04",
+    "scale": "1 intern",
+    "partner_or_agency": "",
+    "source_url": "https://www.marketingmonk.so/jobboard/jobs/marketing-intern-at-warn-industries-inc-g3otoc",
+    "date_of_source": "2026-02-04",
+    "source_type": "job board (search result only)",
+    "proof_snippet": "",
+    "verification": "D"
+   }
+  ],
+  "media_spend": {
+   "estimate": "",
+   "source": "",
+   "url": "",
+   "date": "",
+   "label": ""
+  },
+  "agency_of_record": {
+   "name": "",
+   "source_url": "",
+   "proof_snippet": "",
+   "date_of_source": ""
+  },
+  "sponsored_properties": [
+   "TSPORT 200 (NASCAR Craftsman Truck, 2026)",
+   "Easter Jeep Safari media run (historic, 2011-2022 coverage only)"
+  ],
+  "roles": [],
+  "event_format_fit": "Moderate: durable-gear, mechanics, rescue/recovery heritage; off-road enthusiast audience, shop and dealer channel. Fit with fire stations/rescue via recovery tools is plausible but unproven.",
+  "risks": [],
+  "marketing_trend_2025_26": "First-time presenting sponsorship of a NASCAR truck race plus dealer incentive trip promotion tied to it.",
+  "ladder_log": [
+   {
+    "url": "https://speedwaydigest.com/?p=882086",
+    "rung": "trade press",
+    "result": "200"
+   },
+   {
+    "url": "https://warn.brandecation.com/lets-go-racing",
+    "rung": "partner site",
+    "result": "200"
+   },
+   {
+    "url": "https://www.warn.com/history",
+    "rung": "direct",
+    "result": "200 nav text only"
+   },
+   {
+    "url": "https://lasvegassun.com/news/2026/jul/24/nascar-craftsman-truck-tsport-200-presented-by-war/",
+    "rung": "trade press",
+    "result": "410"
+   },
+   {
+    "url": "https://raceirp.com/nascar/",
+    "rung": "event listing",
+    "result": "429"
+   }
+  ],
+  "notes_unverified": "Ownership unresolved: LKQ 2017 acquisition is from search results; no source found for Allied Powers. Marketing intern posting search-only. Speaker for quote not named. No named marketing executive verified."
+ }
+]
