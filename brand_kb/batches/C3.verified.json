@@ -1,0 +1,216 @@
+[
+ {
+  "brand": "Roto-Rooter",
+  "contacts": [
+   {
+    "name": "Sally Bayer",
+    "title": "Vice President of Marketing, Roto-Rooter Services Company",
+    "team": "Marketing",
+    "why_appropriate": "Leads brand strategy, direct/digital marketing and PR for Roto-Rooter; owns brand marketing incl. NASCAR program",
+    "channel": "named_person",
+    "source_url": "https://rotorooter.com/media/corporate-office/management-bios",
+    "date_of_source": "2026-10-25 (current official page)",
+    "proof_snippet": "Sally Bayer is Vice President of Marketing for Roto-Rooter Services Company",
+    "currency_note": "Now confirmed on Roto-Rooter's own site (KB had only a winmo directory source).",
+    "script": {
+     "page": true,
+     "proof": true,
+     "name": true,
+     "email": null,
+     "flags": []
+    }
+   },
+   {
+    "name": "Robert P. Goldschmidt",
+    "title": "President of Roto-Rooter Group (responsible for operations, marketing, national sales)",
+    "team": "Roto-Rooter Group",
+    "why_appropriate": "Page states he is responsible for marketing; fallback escalation",
+    "channel": "named_person",
+    "source_url": "https://rotorooter.com/media/corporate-office/management-bios",
+    "date_of_source": "2026-10-25",
+    "proof_snippet": "Robert is responsible for the overall business, including operations, marketing",
+    "currency_note": "Still on bios page. 2025-26 NASCAR releases quote Thad Reinhard as President of Roto-Rooter Corporation (seen only in search summary, not fetched), so Goldschmidt's title may be dated.",
+    "script": {
+     "page": true,
+     "proof": true,
+     "name": true,
+     "email": null,
+     "flags": []
+    }
+   }
+  ],
+  "sponsorship_request_path": {
+   "url": "https://www.rotorooter.com/contact-us/",
+   "type": "form",
+   "proof_snippet": "general inquiries & company questions"
+  },
+  "skipped": [
+   {
+    "role_or_name": "Dale Earnhardt Jr.",
+    "why": "JRM co-owner/paid spokesperson, not a brand marketing contact"
+   },
+   {
+    "role_or_name": "Thad Reinhard",
+    "why": "President; not fetched/verified, no marketing ownership shown"
+   },
+   {
+    "role_or_name": "jayski.com NASCAR release",
+    "why": "403 blocked"
+   }
+  ],
+  "status": "ok",
+  "notes": "No published sponsorship inbox; general inquiries form only. Franchise/local branches make local giving decisions."
+ },
+ {
+  "brand": "Wrangler",
+  "contacts": [
+   {
+    "name": "Holly Wheeler",
+    "title": "Vice President of Global Marketing at Kontoor Brands",
+    "team": "Marketing",
+    "why_appropriate": "Marketing leader quoted on Wrangler country-music/rodeo sponsorships",
+    "channel": "named_person",
+    "source_url": "https://www.kontoorbrands.com/news-media/press-release/236/wrangler-celebrates-its-deep-roots-in-country-music-with",
+    "date_of_source": "2026-06-22",
+    "proof_snippet": "said Holly Wheeler, Vice President of Global Marketing at Kontoor Brands",
+    "currency_note": "Current as of June 2026 release.",
+    "script": {
+     "page": true,
+     "proof": true,
+     "name": true,
+     "email": null,
+     "flags": []
+    }
+   }
+  ],
+  "sponsorship_request_path": {
+   "url": "",
+   "type": "none",
+   "proof_snippet": ""
+  },
+  "skipped": [
+   {
+    "role_or_name": "Rick Higgins / Steve Armus",
+    "why": "Genesco licensee / licensing, not sponsorship"
+   },
+   {
+    "role_or_name": "kontoorbrands.com/contact-us",
+    "why": "404"
+   }
+  ],
+  "status": "ok",
+  "notes": "No sponsorship request page or printed inbox found."
+ },
+ {
+  "brand": "Liberty Mutual",
+  "contacts": [
+   {
+    "name": "Jenna Lebel",
+    "title": "Chief Marketing Officer, U.S. Retail Markets",
+    "team": "Brand/marketing",
+    "why_appropriate": "Brand marketing leader quoted on July 2026 campaign",
+    "channel": "named_person",
+    "source_url": "https://www.insurancejournal.com/news/national/2026/07/24/878751.htm",
+    "date_of_source": "2026-07-24",
+    "proof_snippet": "said Jenna Lebel, Liberty Mutual's Chief Marketing Officer, U.S. Retail Markets",
+    "currency_note": "Current as of July 2026.",
+    "script": {
+     "page": true,
+     "proof": true,
+     "name": true,
+     "email": null,
+     "flags": []
+    }
+   },
+   {
+    "name": "Dorothy Doyle",
+    "title": "Senior Vice President and General Manager, Risk Control",
+    "team": "Risk Control (workplace safety)",
+    "why_appropriate": "Owns workplace-safety programs; fit for safety film",
+    "channel": "named_person",
+    "source_url": "https://www.libertymutualgroup.com/about-lm/news/articles/us-companies-spend-50.87b-year-top-ten-causes-serious-workplace-injuries-according-2025-liberty-mutual-workplace-safety-index",
+    "date_of_source": "2025",
+    "proof_snippet": "said Liberty Mutual senior vice president and general manager, Risk Control, Dorothy Doyle",
+    "currency_note": "Re-verified on page; 2025 index release, not re-dated to 2026.",
+    "script": {
+     "page": true,
+     "proof": true,
+     "name": true,
+     "email": null,
+     "flags": []
+    }
+   }
+  ],
+  "sponsorship_request_path": {
+   "url": "https://www.libertymutualgroup.com/about-lm/giving-back/liberty-mutual-foundation",
+   "type": "portal",
+   "proof_snippet": "apply for a grant"
+  },
+  "skipped": [
+   {
+    "role_or_name": "Foundation grants",
+    "why": "Nonprofit grants only, not brand sponsorship"
+   }
+  ],
+  "status": "ok",
+  "notes": "Foundation apply-for-grant is for nonprofits; no commercial sponsorship inbox found."
+ },
+ {
+  "brand": "Dead On Tools",
+  "contacts": [
+   {
+    "name": "Joseph Ardell",
+    "title": "Marketing Manager, Dead On Tools",
+    "team": "Marketing",
+    "why_appropriate": "Current marketing manager quoted on 2026 NASCAR sponsorship",
+    "channel": "named_person",
+    "source_url": "https://www.si.com/onsi/racing-america/news/dead-on-tools-to-continue-support-of-burton-at-sam-hunt-racing",
+    "date_of_source": "2025-12-15",
+    "proof_snippet": "said Joseph Ardell, marketing manager for Dead On Tools",
+    "currency_note": "Supersedes Brian Ranallo (KB, older Darlington release); Ardell is the Dec 2025 quoted marketing manager.",
+    "script": {
+     "page": true,
+     "proof": true,
+     "name": true,
+     "email": null,
+     "flags": []
+    }
+   },
+   {
+    "name": "Brian Ranallo",
+    "title": "Marketing Manager, Dead On Tools",
+    "team": "Marketing",
+    "why_appropriate": "Previously quoted marketing manager",
+    "channel": "named_person",
+    "source_url": "https://www.newsandpress.net/dead-on-tools-strikes-deal-with-darlington-raceway/",
+    "date_of_source": "older (pre-2025)",
+    "proof_snippet": "said Brian Ranallo, marketing manager for Dead On Tools",
+    "currency_note": "Likely replaced by Ardell; use only as fallback.",
+    "script": {
+     "page": true,
+     "proof": true,
+     "name": true,
+     "email": null,
+     "flags": []
+    }
+   }
+  ],
+  "sponsorship_request_path": {
+   "url": "https://deadontools.com/pages/contact-us",
+   "type": "form",
+   "proof_snippet": "give us a shout!"
+  },
+  "skipped": [
+   {
+    "role_or_name": "deadontools.com/pages/contact",
+    "why": "404; no email printed"
+   },
+   {
+    "role_or_name": "sponsorpitch profile",
+    "why": "third party, login-gated"
+   }
+  ],
+  "status": "ok",
+  "notes": "Company owner per footer: Pull'r Holding Company, LLC. No printed email; site contact page is the channel."
+ }
+]
