@@ -12,3 +12,8 @@
 4. Browser checks (no browser tool in this sandbox): Carhartt Detroit Lions deal, Snap-on tour, Polaris 2026 items, SEC filings for ad-spend figures.
 5. Outreach results: provide outreach_results.csv (template at brand_kb/outreach_results_template.csv) so first-line features can be analyzed.
 6. Pick one brand per category from exclusivity_map.md before any email goes out.
+
+## Contacts (added 2026-10-25)
+- Contacts for the top 12 are in contacts.md and contacts.csv (names and titles script-verified; zero emails printed anywhere we could fetch).
+- To get emails via Lusha: about 24 credits for the 12 recommended people (1 lookup + 1 email reveal each); 3 credits remain. Decision needed: top up, or spend the 3 on the three strongest fits.
+- Recheck needed in a browser: Allyson Witherspoon (Nissan CMO, Aug 2025 source) and Amanda Mertens Campbell (FirstEnergy, 2023 source).
