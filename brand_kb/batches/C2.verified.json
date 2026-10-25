@@ -1,0 +1,163 @@
+[
+ {
+  "brand": "Timberland PRO (VF Corporation)",
+  "contacts": [
+   {
+    "name": "Ryan Murphy",
+    "title": "Head of Marketing, Timberland Americas",
+    "team": "Marketing",
+    "why_appropriate": "Marketing leader for the trades-focused brand; no narrower sponsorship role printed",
+    "channel": "named_person",
+    "source_url": "https://fashionunited.com/news/fashion/timberland-pro-signs-multi-year-nascar-partnership/2026080373856",
+    "date_of_source": "2026-08",
+    "proof_snippet": "said Ryan Murphy, head of marketing, Timberland Americas",
+    "currency_note": "Re-verified in Aug 2026 NASCAR release; still current",
+    "script": {
+     "page": true,
+     "proof": true,
+     "name": true,
+     "email": null,
+     "flags": []
+    }
+   }
+  ],
+  "sponsorship_request_path": {
+   "url": null,
+   "type": "none",
+   "proof_snippet": ""
+  },
+  "skipped": [],
+  "status": "ok",
+  "notes": "timberland.com blocked (403). NASCAR deal mentions workforce development, good hook. Craig Stimmel (NASCAR CCO) is counterparty, not brand."
+ },
+ {
+  "brand": "Northern Tool + Equipment",
+  "contacts": [
+   {
+    "name": "Frank Crowson",
+    "title": "Senior Vice President and Chief Marketing Officer",
+    "team": "Marketing",
+    "why_appropriate": "Owns marketing and local store events/partnerships (Monster Jam, Tools for the Trades)",
+    "channel": "named_person",
+    "source_url": "https://digital-release.wowktv.com/business/press-releases/cision/20260331CG22483/northern-tool-equipment-welcomes-monster-jam-truck-to-columbia-store-for-one-day-event",
+    "date_of_source": "2026-03-31",
+    "proof_snippet": "said Frank Crowson, senior vice president and chief marketing officer of Northern Tool + Equipment",
+    "currency_note": "Still CMO in Mar 2026 release",
+    "script": {
+     "page": true,
+     "proof": true,
+     "name": true,
+     "email": null,
+     "flags": []
+    }
+   }
+  ],
+  "sponsorship_request_path": {
+   "url": null,
+   "type": "none",
+   "proof_snippet": ""
+  },
+  "skipped": [
+   {
+    "role_or_name": "Suresh Krishna (CEO)",
+    "why": "CEO; CMO owns marketing"
+   }
+  ],
+  "status": "ok",
+  "notes": "northerntool.com returns 403 to sandbox; no formal sponsorship intake found by search. Local stores run events."
+ },
+ {
+  "brand": "Nissan (Nissan North America)",
+  "contacts": [
+   {
+    "name": "Allyson Witherspoon",
+    "title": "Chief Marketing Officer, Nissan U.S.",
+    "team": "Marketing",
+    "why_appropriate": "Brand marketing leader; Heisman House/sports sponsorship",
+    "channel": "named_person",
+    "source_url": "https://www.mediapost.com/publications/article/408564/nissan-takes-heisman-house-on-road-trip.html",
+    "date_of_source": "2025-08-29",
+    "proof_snippet": "says Allyson Witherspoon, chief marketing officer, Nissan U.S.",
+    "currency_note": "Per Aug 2025 article; not re-confirmed more recently, may have changed",
+    "script": {
+     "page": true,
+     "proof": true,
+     "name": true,
+     "email": null,
+     "flags": []
+    }
+   }
+  ],
+  "sponsorship_request_path": {
+   "url": null,
+   "type": "none",
+   "proof_snippet": ""
+  },
+  "skipped": [
+   {
+    "role_or_name": "Christian Meunier (Chairman, Nissan Americas)",
+    "why": "Executive, not marketing owner"
+   },
+   {
+    "role_or_name": "David Johnson (Regional SVP Manufacturing)",
+    "why": "Not marketing"
+   },
+   {
+    "role_or_name": "Ashley Barton (5WPR)",
+    "why": "Agency"
+   }
+  ],
+  "status": "ok",
+  "notes": "No official sponsorship intake found; Nissan Foundation handles grants separately (unverified). nissanusa.com about page 404."
+ },
+ {
+  "brand": "Keystone Cooperative",
+  "contacts": [
+   {
+    "name": "Mike Hayden",
+    "title": "Assistant Vice President of Propane",
+    "team": "Propane / safety",
+    "why_appropriate": "Quoted on Indiana State Fair safety partnership; closest to fair and safety marketing, no marketing title printed",
+    "channel": "named_person",
+    "source_url": "https://keystonecoop.com/news/keystone-news/keystone\u2019s-unwavering-commitment-to-your-safety-at",
+    "date_of_source": "2026",
+    "proof_snippet": "as the assistant vice president of propane at Keystone Cooperative, Mike Hayden, says",
+    "currency_note": "Date unconfirmed; title from KB round N02",
+    "script": {
+     "page": true,
+     "proof": true,
+     "name": true,
+     "email": null,
+     "flags": []
+    }
+   },
+   {
+    "name": null,
+    "title": "Main office phone",
+    "team": "General",
+    "why_appropriate": "Published HQ line; no sponsorship inbox found",
+    "channel": "phone",
+    "source_url": "https://www.keystonecoop.com/contact",
+    "date_of_source": "2026",
+    "proof_snippet": "770 North High School Road Indianapolis, IN 46214",
+    "currency_note": "Page copyright 2026",
+    "phone": "800 525-0272",
+    "script": {
+     "page": true,
+     "proof": true,
+     "name": null,
+     "email": null,
+     "flags": []
+    }
+   }
+  ],
+  "sponsorship_request_path": {
+   "url": null,
+   "type": "none",
+   "proof_snippet": ""
+  },
+  "skipped": [],
+  "status": "ok",
+  "notes": "Phone 800 525-0272 printed on contact page (added to second contact entry). Senior management page not fetched successfully."
+ }
+]
