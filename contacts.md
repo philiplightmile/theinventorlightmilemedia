@@ -25,3 +25,9 @@ Method: public pages only (company bios, press releases, trade press), each name
 
 ## Getting emails (needs your approval)
 Lusha is on a free plan with 3 of 50 credits. Looking up the 12 recommended people by name and company and revealing one email each is about 24 credits (1 lookup plus 1 email reveal each). That is 21 more credits than are available. I have not run it. If you top up or approve the 3 remaining credits for the three strongest fits (Northern Tool, Timberland PRO, Wrangler), say so.
+
+## Carhartt (added 2026-10-26, the benchmark brand)
+- **Primary: Norma Delaney, VP of Marketing and Creative** (script-verified; Modern Retail 2026 and Retail Dive Sept 2024). She owns brand marketing, creative, media planning, PR, digital and analytics and fronts the Made Possible tradespeople campaign.
+- Escalation only: Susan Hennike, Chief Brand Officer (Delaney's boss as of Sept 2024; no 2025-26 page confirms she still holds the role). Possible hand-off: Katelyn Donah, Director Brand Marketing (Sept 2024 credit).
+- No page names an experiential, field, community, sponsorship or trades-partnership owner. No email is printed. Do not use pattern-guess sites. Lusha would cost about 2 credits for Delaney (1 lookup + 1 email reveal; 3 remain).
+- Pitch only the verified Made Possible / Highmark Stadium campaign; the Detroit Lions community deal is unverified (carhartt.com blocked).
