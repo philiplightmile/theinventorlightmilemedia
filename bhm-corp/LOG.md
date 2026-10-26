@@ -28,3 +28,4 @@
 2026-10-14 | NFL deep intel: 31 teams, one agent each (8+ pages opened), tiers and workshop-fit hypotheses in bhm-corp/nfl_deep_intel.md; nothing drafted or sent | 31 agents
 2026-10-14 | exported comprehensive findings file bhm-corp/FULL_FINDINGS_EXPORT.md for audio brief | none sent
 2026-10-21 | sports: Rock Entertainment Group (Cavs/Charge/Monsters/Rocket Arena) broad intro drafted to Nicole Del Villano + Lydia Holman (backups named in Raven Payne's auto-reply; Raven out until mid-Jan); label ToSend; none sent
+2026-10-26 | second channel step 1: contacted_orgs.csv built (378 rows, 314 orgs, 49 on hold) from Gmail sent since 9/1; step 2 parsed in second_channel_plan.md; no searches run, nothing sent or drafted | awaiting approval
