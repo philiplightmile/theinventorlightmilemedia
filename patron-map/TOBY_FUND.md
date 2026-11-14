@@ -25,3 +25,9 @@ Status: NOT ACTIVE as a filer after tax year 2015. Primary 990-PF documents coul
 ## Open questions for Philip
 1. Do you have a current contact or recent evidence she is giving? If the Toby Fund dissolved, she may give personally or through another vehicle.
 2. Approve checking Peter B. Lewis related and other family vehicles through 990s only.
+
+## Update (Step 2): Toby Devan Lewis appears to be deceased
+- moCa Cleveland's patron page (opened, page copyright 2025) lists her at $50,000+ with the mark the page uses for deceased donors. Source: https://mocacleveland.org/patrons
+- CIA blog titled "Toby Devan Lewis leaves a lasting impact", dated May 2022 in its URL (title seen in search, page not opened, redirect blocked fetch): https://www.cia.edu/blog/2022/05/toby-devan-lewis-leaves-a-lasting-impact
+- One obituary snippet for a relative lists her as predeceased (unverified, family details not recorded).
+- Conclusion: she is a model for the patron type, not a prospect. Her fellowships and Toby's Prize may continue through the institutions (CIA, moCa); confirm before citing.
